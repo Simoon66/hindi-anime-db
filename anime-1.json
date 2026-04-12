@@ -1,13 +1,32 @@
 {
-  "id": 1,
-  "title": "Naruto",
   "poster": "https://image.tmdb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
   "cover": "https://image.tmdb.org/t/p/original/2IjeHal5hXgUq65aln1jTmHwgZV.jpg",
-  "description": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
+
+  "servers": {
+    "sub": [
+      { "name": "S1", "url": "https://example.com/sub1" },
+      { "name": "S2", "url": "https://example.com/sub2" }
+    ],
+    "dub": [
+      { "name": "D1", "url": "https://example.com/dub1" }
+    ]
+  },
+
   "episodes": [
     {
       "ep": 1,
-      "embed": "https://as-cdn21.top/video/36660e59856b4de58a219bcf4e27eba3"
+      "servers": {
+        "sub": [
+          { "name": "S1", "url": "https://example.com/ep1-sub1" }
+        ],
+        "dub": [
+          { "name": "D1", "url": "https://example.com/ep1-dub1" }
+        ]
+      }
     }
+  ],
+
+  "related": [
+    { "id": 2, "type": "Sequel" }
   ]
 }
