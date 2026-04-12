@@ -4,11 +4,11 @@
 
   "servers": {
     "sub": [
-      { "name": "S1", "url": "https://example.com/sub1" },
-      { "name": "S2", "url": "https://example.com/sub2" }
+      { "name": "S1", "url": "https://as-cdn21.top/video/36660e59856b4de58a219bcf4e27eba3" },
+      { "name": "S2", "url": "https://as-cdn21.top/video/36660e59856b4de58a219bcf4e27eba3" }
     ],
     "dub": [
-      { "name": "D1", "url": "https://example.com/dub1" }
+      { "name": "D1", "url": "https://as-cdn21.top/video/36660e59856b4de58a219bcf4e27eba3" }
     ]
   },
 
@@ -17,10 +17,10 @@
       "ep": 1,
       "servers": {
         "sub": [
-          { "name": "S1", "url": "https://example.com/ep1-sub1" }
+          { "name": "S1", "url": "https://as-cdn21.top/video/36660e59856b4de58a219bcf4e27eba3" }
         ],
         "dub": [
-          { "name": "D1", "url": "https://example.com/ep1-dub1" }
+          { "name": "D1", "url": "https://as-cdn21.top/video/36660e59856b4de58a219bcf4e27eba3" }
         ]
       }
     }
