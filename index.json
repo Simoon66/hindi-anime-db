@@ -1,6 +1,17 @@
 [
   {
     "id": 1,
+    "mal_id": 20,
     "file": "anime-1.json"
+  },
+  {
+    "id": 2,
+    "mal_id": 1735,
+    "file": "anime-2.json"
+  },
+  {
+    "id": 3,
+    "mal_id": 5114,
+    "file": "anime-3.json"
   }
 ]
