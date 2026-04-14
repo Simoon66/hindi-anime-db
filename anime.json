@@ -1,0 +1,197 @@
+{
+  "title": "FLCL",
+  "synopsis": "Naota is a detached sixth grader afflicted by the pangs of puberty. He's fooling around with his brother's ex-girlfriend when a crazed girl on a motor scooter runs him over, brains him with a bass guitar, and moves into his house. This pink-haired girl, Haruko - who claims she's an alien - hurls Naota into the middle of a mega-corporation's secret agenda. Oh, and now giant battling robots shoot from his skull. Mix in mind-bending animation and tunes that echo through your cerebellum to top off the trip that will have you falling hard for FLCL.\n\n\n\n(Source: Funimation)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx227-qOB9ZhVvNnqO.jpg",
+  "synonym": "Fooly Cooly",
+  "native": "フリクリ",
+  "aired": "Apr 26, 2000 to Mar 16, 2001",
+  "premiered": "SPRING 2000",
+  "duration": "25m",
+  "episodesCount": "6",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "rating": "7.9",
+  "type": "OVA",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": [
+    "Gainax",
+    "Production I.G"
+  ],
+  "producers": [
+    "Starchild Records",
+    "Funimation",
+    "GANSIS"
+  ],
+  "seasons": [],
+  "episodes": [
+    {
+      "title": "Fooly Cooly",
+      "episode": "1",
+      "files": [
+        {
+          "name": "VidSrc",
+          "url": "https://megaplay.buzz/stream/s-3/9981/sub",
+          "type": "sub"
+        },
+        {
+          "name": "MegaCloud",
+          "url": "https://megaplay.buzz/stream/s-2/9981/sub",
+          "type": "sub"
+        },
+        {
+          "name": "VidSrc",
+          "url": "https://megaplay.buzz/stream/s-3/9981/dub",
+          "type": "dub"
+        },
+        {
+          "name": "MegaCloud",
+          "url": "https://megaplay.buzz/stream/s-2/9981/dub",
+          "type": "dub"
+        }
+      ],
+      "hianimeCode": "9981"
+    },
+    {
+      "title": "Fire Starter",
+      "episode": "2",
+      "files": [
+        {
+          "name": "VidSrc",
+          "url": "https://megaplay.buzz/stream/s-3/9982/sub",
+          "type": "sub"
+        },
+        {
+          "name": "MegaCloud",
+          "url": "https://megaplay.buzz/stream/s-2/9982/sub",
+          "type": "sub"
+        },
+        {
+          "name": "VidSrc",
+          "url": "https://megaplay.buzz/stream/s-3/9982/dub",
+          "type": "dub"
+        },
+        {
+          "name": "MegaCloud",
+          "url": "https://megaplay.buzz/stream/s-2/9982/dub",
+          "type": "dub"
+        }
+      ],
+      "hianimeCode": "9982"
+    },
+    {
+      "title": "Marquis de Carabas",
+      "episode": "3",
+      "files": [
+        {
+          "name": "VidSrc",
+          "url": "https://megaplay.buzz/stream/s-3/9983/sub",
+          "type": "sub"
+        },
+        {
+          "name": "MegaCloud",
+          "url": "https://megaplay.buzz/stream/s-2/9983/sub",
+          "type": "sub"
+        },
+        {
+          "name": "VidSrc",
+          "url": "https://megaplay.buzz/stream/s-3/9983/dub",
+          "type": "dub"
+        },
+        {
+          "name": "MegaCloud",
+          "url": "https://megaplay.buzz/stream/s-2/9983/dub",
+          "type": "dub"
+        }
+      ],
+      "hianimeCode": "9983"
+    },
+    {
+      "title": "Full Swing",
+      "episode": "4",
+      "files": [
+        {
+          "name": "VidSrc",
+          "url": "https://megaplay.buzz/stream/s-3/9984/sub",
+          "type": "sub"
+        },
+        {
+          "name": "MegaCloud",
+          "url": "https://megaplay.buzz/stream/s-2/9984/sub",
+          "type": "sub"
+        },
+        {
+          "name": "VidSrc",
+          "url": "https://megaplay.buzz/stream/s-3/9984/dub",
+          "type": "dub"
+        },
+        {
+          "name": "MegaCloud",
+          "url": "https://megaplay.buzz/stream/s-2/9984/dub",
+          "type": "dub"
+        }
+      ],
+      "hianimeCode": "9984"
+    },
+    {
+      "title": "Brittle Bullet",
+      "episode": "5",
+      "files": [
+        {
+          "name": "VidSrc",
+          "url": "https://megaplay.buzz/stream/s-3/9985/sub",
+          "type": "sub"
+        },
+        {
+          "name": "MegaCloud",
+          "url": "https://megaplay.buzz/stream/s-2/9985/sub",
+          "type": "sub"
+        },
+        {
+          "name": "VidSrc",
+          "url": "https://megaplay.buzz/stream/s-3/9985/dub",
+          "type": "dub"
+        },
+        {
+          "name": "MegaCloud",
+          "url": "https://megaplay.buzz/stream/s-2/9985/dub",
+          "type": "dub"
+        }
+      ],
+      "hianimeCode": "9985"
+    },
+    {
+      "title": "FLCLimax",
+      "episode": "6",
+      "files": [
+        {
+          "name": "VidSrc",
+          "url": "https://megaplay.buzz/stream/s-3/9986/sub",
+          "type": "sub"
+        },
+        {
+          "name": "MegaCloud",
+          "url": "https://megaplay.buzz/stream/s-2/9986/sub",
+          "type": "sub"
+        },
+        {
+          "name": "VidSrc",
+          "url": "https://megaplay.buzz/stream/s-3/9986/dub",
+          "type": "dub"
+        },
+        {
+          "name": "MegaCloud",
+          "url": "https://megaplay.buzz/stream/s-2/9986/dub",
+          "type": "dub"
+        }
+      ],
+      "hianimeCode": "9986"
+    }
+  ],
+  "streamingId": "FLCL",
+  "hostUrl": ""
+}
