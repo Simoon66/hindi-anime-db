@@ -23,7 +23,33 @@
   "producers": [
     "TOHO NEXT"
   ],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "JUJUTSU KAISEN 0 Movie",
+      "link": "/2021/12/131573.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131573-rpl82vDEDRm6.jpg"
+    },
+    {
+      "title": "Season 1",
+      "link": "/2020/10/113415.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg"
+    },
+    {
+      "title": "Season 2",
+      "link": "/2023/07/145064.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-hSNRJM03pvv1.jpg"
+    },
+    {
+      "title": "Movie",
+      "link": "/2025/05/192809.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192809-wRlqABGsx2Qs.jpg"
+    },
+    {
+      "title": "Season 3 (Part 1)",
+      "link": "/2026/01/172463.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172463-LnXqHzt74SJL.jpg"
+    }
+  ],
   "episodes": [
     {
       "title": "Full",
