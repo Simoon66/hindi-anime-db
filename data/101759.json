@@ -29,7 +29,7 @@
   "episodes": [
     {
       "episode": "1",
-      "title": "Episode 1",
+      "title": "121045",
       "files": [
         {
           "name": "HD-1",
@@ -40,12 +40,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101759/1/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37779/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37779/1/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "2",
-      "title": "Episode 2",
+      "title": "131045",
       "files": [
         {
           "name": "HD-1",
@@ -56,12 +66,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101759/2/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37779/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37779/2/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "3",
-      "title": "Episode 3",
+      "title": "181045",
       "files": [
         {
           "name": "HD-1",
@@ -72,12 +92,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101759/3/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37779/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37779/3/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "4",
-      "title": "Episode 4",
+      "title": "291045",
       "files": [
         {
           "name": "HD-1",
@@ -88,12 +118,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101759/4/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37779/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37779/4/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "5",
-      "title": "Episode 5",
+      "title": "301045",
       "files": [
         {
           "name": "HD-1",
@@ -104,12 +144,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101759/5/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37779/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37779/5/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "6",
-      "title": "Episode 6",
+      "title": "311045",
       "files": [
         {
           "name": "HD-1",
@@ -120,12 +170,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101759/6/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37779/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37779/6/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "7",
-      "title": "Episode 7",
+      "title": "011145",
       "files": [
         {
           "name": "HD-1",
@@ -136,12 +196,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101759/7/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37779/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37779/7/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "8",
-      "title": "Episode 8",
+      "title": "021145",
       "files": [
         {
           "name": "HD-1",
@@ -152,12 +222,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101759/8/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37779/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37779/8/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "9",
-      "title": "Episode 9",
+      "title": "031145",
       "files": [
         {
           "name": "HD-1",
@@ -168,12 +248,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101759/9/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37779/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37779/9/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "10",
-      "title": "Episode 10",
+      "title": "130146",
       "files": [
         {
           "name": "HD-1",
@@ -184,12 +274,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101759/10/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37779/10/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37779/10/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "11",
-      "title": "Episode 11",
+      "title": "140146",
       "files": [
         {
           "name": "HD-1",
@@ -200,12 +300,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101759/11/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37779/11/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37779/11/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "12",
-      "title": "Episode 12",
+      "title": "150146",
       "files": [
         {
           "name": "HD-1",
@@ -215,6 +325,16 @@
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101759/12/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37779/12/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37779/12/dub",
           "type": "dub"
         }
       ]
