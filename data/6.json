@@ -1,0 +1,706 @@
+{
+  "title": "Trigun",
+  "synopsis": "Vash the Stampede is a wanted man with a habit of turning entire towns into rubble. The price on his head is a fortune, and his path of destruction reaches across the arid wastelands of a desert planet. Unfortunately, most encounters with the spiky-haired gunslinger don't end well for the bounty hunters who catch up with him; someone almost always gets hurt - and it's never Vash.\n\nOddly enough, for such an infamous fugitive, there's no proof that he's ever taken a life. In fact, he's a pacifist with a doughnut obsession who's more doofus than desperado. There's a whole lot more to him than his reputation lets on - Vash the Stampede definitely ain't your typical outlaw.\n\n(Source: Funimation)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6-wd4saT1JzStH.jpg",
+  "synonym": "TRIGUN",
+  "native": "TRIGUN",
+  "aired": "4/1/1998",
+  "premiered": "SPRING 1998",
+  "duration": "24m",
+  "episodesCount": "26",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "rating": "8.0",
+  "type": "TV",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "MADHOUSE",
+  "producers": [],
+  "seasons": [],
+  "malId": "6",
+  "streamingId": "6",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "The $$60,000,000,000.00 Man",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/1/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "2",
+      "title": "Truth of Mistake",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/2/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/2/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "3",
+      "title": "Peace Maker",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/3/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/3/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "4",
+      "title": "Love & Peace",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/4/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/4/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "5",
+      "title": "Hard Puncher",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/5/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/5/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "6",
+      "title": "Lost July",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/6/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/6/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "7",
+      "title": "B.D.N.",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/7/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/7/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "8",
+      "title": "And Between the Wasteland and Sky",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/8/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/8/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "9",
+      "title": "Murder Machine",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/9/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/9/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "10",
+      "title": "Quick Draw",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/10/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/10/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/10/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/10/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "11",
+      "title": "Escape From Pain",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/11/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/11/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/11/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/11/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "12",
+      "title": "Diablo",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/12/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/12/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/12/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/12/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "13",
+      "title": "Vash the Stampede",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/13/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/13/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/13/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/13/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "14",
+      "title": "Little Arcadia",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/14/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/14/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/14/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/14/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "15",
+      "title": "Demon's Eye",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/15/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/15/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/15/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/15/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "16",
+      "title": "Fifth Moon",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/16/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/16/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/16/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/16/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "17",
+      "title": "Rem Saverem",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/17/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/17/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/17/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/17/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "18",
+      "title": "Goodbye for Now",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/18/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/18/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/18/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/18/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "19",
+      "title": "Hang Fire",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/19/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/19/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/19/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/19/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "20",
+      "title": "Flying Ship",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/20/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/20/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/20/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/20/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "21",
+      "title": "Out of Time",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/21/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/21/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/21/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/21/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "22",
+      "title": "Alternative",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/22/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/22/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/22/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/22/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "23",
+      "title": "Paradise",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/23/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/23/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/23/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/23/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "24",
+      "title": "Sin",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/24/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/24/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/24/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/24/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "25",
+      "title": "Live Through",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/25/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/25/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/25/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/25/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "26",
+      "title": "Under the Sky so Blue",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/26/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6/26/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/26/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6/26/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
