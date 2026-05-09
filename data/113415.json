@@ -1,25 +1,23 @@
 {
-  "title": "JUJUTSU KAISEN Season 2",
-  "synopsis": "The second season of Jujutsu Kaisen.\n\n\n\nThe past comes to light when second-year students Satoru Gojou and Suguru Getou are tasked with escorting young Riko Amanai to Master Tengen. But when a non-sorcerer user tries to kill them, their mission to protect the Star Plasma Vessel threatens to turn them into bitter enemies and cement their destinies—one as the world’s strongest sorcerer, and the other its most twisted curse user!\n\n\n\n(Source: Crunchyroll)",
-  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145064-hSNRJM03pvv1.jpg",
-  "synonym": "呪術廻戦 懐玉・玉折／渋谷事変 ",
-  "native": "呪術廻戦 第2期",
-  "aired": "Jul 6, 2023 to Dec 28, 2023",
-  "premiered": "SUMMER 2023",
+  "title": "JUJUTSU KAISEN",
+  "synopsis": "A boy fights... for \"the right death.\"\n\nHardship, regret, shame: the negative feelings that humans feel become Curses that lurk in our everyday lives. The Curses run rampant throughout the world, capable of leading people to terrible misfortune and even death. What's more, the Curses can only be exorcised by another Curse.\n\nItadori Yuji is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a friend who has been attacked by Curses, he eats the finger of the Double-Faced Specter, taking the Curse into his own soul. From then on, he shares one body with the Double-Faced Specter. Guided by the most powerful of sorcerers, Gojou Satoru, Itadori is admitted to the Tokyo Metropolitan Technical High School of Sorcery, an organization that fights the Curses... and thus begins the heroic tale of a boy who became a Curse to exorcise a Curse, a life from which he could never turn back.\n\n(Source: Crunchyroll)\n\nNote: The first episode received an early web premiere on September 19th, 2020. The regular TV broadcast started on October 3rd, 2020.",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
+  "synonym": "Jujutsu Kaisen",
+  "native": "呪術廻戦",
+  "aired": "10/3/2020",
+  "premiered": "FALL 2020",
   "duration": "24m",
-  "episodesCount": "23",
+  "episodesCount": "24",
   "genres": [
     "Action",
     "Drama",
     "Supernatural"
   ],
-  "rating": "8.6",
-  "type": "Series",
-  "status": "Completed",
+  "rating": "8.4",
+  "type": "TV",
+  "status": "FINISHED",
   "country": "JP",
-  "studios": [
-    "MAPPA"
-  ],
+  "studios": "MAPPA",
   "producers": [
     "Toho",
     "Shueisha",
@@ -53,10 +51,13 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172463-LnXqHzt74SJL.jpg"
     }
   ],
+  "malId": "40748",
+  "streamingId": "113415",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
-      "title": "Hidden Inventory",
       "episode": "1",
+      "title": "Hidden Inventory",
       "files": [
         {
           "name": "VidSrc",
@@ -87,14 +88,34 @@
           "name": "Abyss",
           "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC93OVhMY1R3dXIifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvVDZUOEwxQjFUIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9QcFdBdUFVNkwifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9RN2NmQl9uS3IifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwveFdkbDhXOWc4In1d",
           "type": "multi"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/1/dub",
+          "type": "dub"
         }
       ],
-      "hianimeCode": "102662",
-      "externalId": "102662"
+      "externalId": "102662",
+      "hianimeCode": "102662"
     },
     {
-      "title": "Hidden Inventory 2",
       "episode": "2",
+      "title": "Hidden Inventory 2",
       "files": [
         {
           "name": "VidSrc",
@@ -125,14 +146,34 @@
           "name": "Abyss",
           "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9YcVVkMmJhTVYifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvU3RoYkZucGNKIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC93SGg0dEJXdXIifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC92Z1BSS2NnVU9rIn0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL3c2djBCNkp6QSJ9XQ%3D%3D",
           "type": "multi"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/2/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/2/dub",
+          "type": "dub"
         }
       ],
-      "hianimeCode": "103235",
-      "externalId": "103235"
+      "externalId": "103235",
+      "hianimeCode": "103235"
     },
     {
-      "title": "Hidden Inventory 3",
       "episode": "3",
+      "title": "Hidden Inventory 3",
       "files": [
         {
           "name": "VidSrc",
@@ -163,14 +204,34 @@
           "name": "Abyss",
           "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9nV0gxT05mQVMifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvMUlNa3NLWWtMIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9ST2hNU2d6NGwifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9TQmdzRVpRWkQifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvWWZuS2xUbmxGIn1d",
           "type": "multi"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/3/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/3/dub",
+          "type": "dub"
         }
       ],
-      "hianimeCode": "103634",
-      "externalId": "103634"
+      "externalId": "103634",
+      "hianimeCode": "103634"
     },
     {
-      "title": "Hidden Inventory 4",
       "episode": "4",
+      "title": "Hidden Inventory 4",
       "files": [
         {
           "name": "VidSrc",
@@ -201,14 +262,34 @@
           "name": "Abyss",
           "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9hS2pZZWxMOFAifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvRDU2VFhlU1ZGIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9rRFdVNklDaU4ifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9GYlkxcDl3X1cifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvRGJGcXFtOFZLIn1d",
           "type": "multi"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/4/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/4/dub",
+          "type": "dub"
         }
       ],
-      "hianimeCode": "104247",
-      "externalId": "104247"
+      "externalId": "104247",
+      "hianimeCode": "104247"
     },
     {
-      "title": "Premature Death",
       "episode": "5",
+      "title": "Premature Death",
       "files": [
         {
           "name": "VidSrc",
@@ -239,14 +320,34 @@
           "name": "Abyss",
           "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC8wNFM3UnN4NmIifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvV0VPTVVlYUFZIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9rUW1zdGl2NXIifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC80NGNzTWN6Q0gifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvd3ZvVG4tb0ZtIn1d",
           "type": "multi"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/5/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/5/dub",
+          "type": "dub"
         }
       ],
-      "hianimeCode": "104623",
-      "externalId": "104623"
+      "externalId": "104623",
+      "hianimeCode": "104623"
     },
     {
-      "title": "It's Like That",
       "episode": "6",
+      "title": "It's Like That",
       "files": [
         {
           "name": "VidSrc",
@@ -277,14 +378,34 @@
           "name": "Abyss",
           "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC82dlpvemk3SDEifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvZXM5RU5sanBEIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC83U2hpaFVUbzQifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC91aFd4aHRPQ3cifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvZVlYUV93R2FBIn1d",
           "type": "multi"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/6/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/6/dub",
+          "type": "dub"
         }
       ],
-      "hianimeCode": "106521",
-      "externalId": "106521"
+      "externalId": "106521",
+      "hianimeCode": "106521"
     },
     {
-      "title": "Evening Festival",
       "episode": "7",
+      "title": "Evening Festival",
       "files": [
         {
           "name": "VidSrc",
@@ -315,14 +436,34 @@
           "name": "Abyss",
           "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9NTkg5QlZtemkifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvWTJiZ0lOUzBhIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9zWmJHYy02QmQifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9Fak9yUGZ2ZGIifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvaUk0UDJuR3BfIn1d",
           "type": "multi"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/7/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/7/dub",
+          "type": "dub"
         }
       ],
-      "hianimeCode": "106611",
-      "externalId": "106611"
+      "externalId": "106611",
+      "hianimeCode": "106611"
     },
     {
-      "title": "Shibuya Incident",
       "episode": "8",
+      "title": "Shibuya Incident",
       "files": [
         {
           "name": "VidSrc",
@@ -353,14 +494,34 @@
           "name": "Abyss",
           "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9pMUgyNGd2c2kifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvS1Q3dWZILUt6In0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9yTHpWQTI4TGwifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9rQWZOS2lKdWp0In0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcLzlVS1FlZEp6YTkifV0%3D",
           "type": "multi"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/8/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/8/dub",
+          "type": "dub"
         }
       ],
-      "hianimeCode": "106983",
-      "externalId": "106983"
+      "externalId": "106983",
+      "hianimeCode": "106983"
     },
     {
-      "title": "Shibuya Incident - Gate, Open",
       "episode": "9",
+      "title": "Shibuya Incident - Gate, Open",
       "files": [
         {
           "name": "VidSrc",
@@ -391,14 +552,34 @@
           "name": "Abyss",
           "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9xZEdLSGJveU4ifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvaldCbTVPeW03eSJ9LHsibGFuZ3VhZ2UiOiJUZWx1Z3UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvT0p6c1h6UVJWIn0seyJsYW5ndWFnZSI6IkVuZ2xpc2giLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvZnRua0pNR2N1In0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcLzAyRHhMNmVJUSJ9XQ%3D%3D",
           "type": "multi"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/9/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/9/dub",
+          "type": "dub"
         }
       ],
-      "hianimeCode": "107179",
-      "externalId": "107179"
+      "externalId": "107179",
+      "hianimeCode": "107179"
     },
     {
-      "title": "Pandemonium",
       "episode": "10",
+      "title": "Pandemonium",
       "files": [
         {
           "name": "VidSrc",
@@ -429,14 +610,34 @@
           "name": "Abyss",
           "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC81b25sM1BYemQifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvS1p0X2JNb05XIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9sa25LMWU5ZFEifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9oS0J0aGJsVUUifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvMUs3dExMRWx1In1d",
           "type": "multi"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/10/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/10/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/10/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/10/dub",
+          "type": "dub"
         }
       ],
-      "hianimeCode": "107246",
-      "externalId": "107246"
+      "externalId": "107246",
+      "hianimeCode": "107246"
     },
     {
-      "title": "Seance",
       "episode": "11",
+      "title": "Seance",
       "files": [
         {
           "name": "VidSrc",
@@ -467,14 +668,34 @@
           "name": "Abyss",
           "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9CZ2FDOVVmUjFjIn0seyJsYW5ndWFnZSI6IlRhbWlsIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL053UldMX0d6OCJ9LHsibGFuZ3VhZ2UiOiJUZWx1Z3UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwva3hLZnBKbjlCIn0seyJsYW5ndWFnZSI6IkVuZ2xpc2giLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvUk1rMkVPUlpaIn0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL3JqU3luLXZ5VSJ9XQ%3D%3D",
           "type": "multi"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/11/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/11/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/11/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/11/dub",
+          "type": "dub"
         }
       ],
-      "hianimeCode": "107868",
-      "externalId": "107868"
+      "externalId": "107868",
+      "hianimeCode": "107868"
     },
     {
-      "title": "Dull Knife",
       "episode": "12",
+      "title": "Dull Knife",
       "files": [
         {
           "name": "VidSrc",
@@ -505,14 +726,34 @@
           "name": "Abyss",
           "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9pQVFrYXZ0VHYifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvOXJYV2o1UFByIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC93MDVNV1oxeE8ifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9DTE5obkVXWUEifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvSDRPUE9OYVpJIn1d",
           "type": "multi"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/12/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/12/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/12/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/12/dub",
+          "type": "dub"
         }
       ],
-      "hianimeCode": "108051",
-      "externalId": "108051"
+      "externalId": "108051",
+      "hianimeCode": "108051"
     },
     {
-      "title": "Red Scale",
       "episode": "13",
+      "title": "Red Scale",
       "files": [
         {
           "name": "VidSrc",
@@ -543,14 +784,34 @@
           "name": "Abyss",
           "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9WSVU2UW1UWWkifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvemNFbFVlcW1IIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9yb2ZxdlRJclVTIn0seyJsYW5ndWFnZSI6IkVuZ2xpc2giLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvWnZPU3ZicFdkIn0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL0gydG9kanVCNyJ9XQ%3D%3D",
           "type": "multi"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/13/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/13/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/13/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/13/dub",
+          "type": "dub"
         }
       ],
-      "hianimeCode": "108860",
-      "externalId": "108860"
+      "externalId": "108860",
+      "hianimeCode": "108860"
     },
     {
-      "title": "Fluctuations",
       "episode": "14",
+      "title": "Fluctuations",
       "files": [
         {
           "name": "VidSrc",
@@ -581,14 +842,34 @@
           "name": "Abyss",
           "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9BdGQ0RzAxd3MifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvUV9EeEREUWNpIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9yUHFtU0lVSzkifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9vYllqY1RIMVQifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvc0l6c2xYdUthIn1d",
           "type": "multi"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/14/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/14/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/14/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/14/dub",
+          "type": "dub"
         }
       ],
-      "hianimeCode": "109002",
-      "externalId": "109002"
+      "externalId": "109002",
+      "hianimeCode": "109002"
     },
     {
-      "title": "Fluctuations, Part 2",
       "episode": "15",
+      "title": "Fluctuations, Part 2",
       "files": [
         {
           "name": "VidSrc",
@@ -619,14 +900,34 @@
           "name": "Abyss",
           "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9taEN2SksyWDkifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvRGp2OVotODVwIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9NQXpVNEZsT0MifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9scldsQmtHMHIifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvNF9ZNGRYdVkwIn1d",
           "type": "multi"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/15/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/15/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/15/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/15/dub",
+          "type": "dub"
         }
       ],
-      "hianimeCode": "109143",
-      "externalId": "109143"
+      "externalId": "109143",
+      "hianimeCode": "109143"
     },
     {
-      "title": "Thunderclap",
       "episode": "16",
+      "title": "Thunderclap",
       "files": [
         {
           "name": "VidSrc",
@@ -657,14 +958,34 @@
           "name": "Abyss",
           "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9OYS1CZlN6dkkifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvMW5hSVo1Q1J1In0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9jaXhNZXNFLWgifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC91V0ViczhCVTEifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwveUFPYXpuajBXIn1d",
           "type": "multi"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/16/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/16/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/16/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/16/dub",
+          "type": "dub"
         }
       ],
-      "hianimeCode": "109315",
-      "externalId": "109315"
+      "externalId": "109315",
+      "hianimeCode": "109315"
     },
     {
-      "title": "Thunderclap, Part 2",
       "episode": "17",
+      "title": "Thunderclap, Part 2",
       "files": [
         {
           "name": "VidSrc",
@@ -695,14 +1016,34 @@
           "name": "Abyss",
           "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9ZbUJrc1JKbzkifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvMWNYVUR2ZHBUIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC84TW1ZbExVOGsifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9nRjRQVnhsZF8ifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwveDQyQ0xOT1QzIn1d",
           "type": "multi"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/17/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/17/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/17/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/17/dub",
+          "type": "dub"
         }
       ],
-      "hianimeCode": "109512",
-      "externalId": "109512"
+      "externalId": "109512",
+      "hianimeCode": "109512"
     },
     {
-      "title": "Right and Wrong",
       "episode": "18",
+      "title": "Right and Wrong",
       "files": [
         {
           "name": "VidSrc",
@@ -733,14 +1074,34 @@
           "name": "Abyss",
           "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9vZFdsQjdFcEUifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvQWhaMHNrSjBmIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC81R1p0LXg2aXYifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9jbzhhMFhGM1cifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvVGd1WGZvWVBGIn1d",
           "type": "multi"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/18/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/18/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/18/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/18/dub",
+          "type": "dub"
         }
       ],
-      "hianimeCode": "109763",
-      "externalId": "109763"
+      "externalId": "109763",
+      "hianimeCode": "109763"
     },
     {
-      "title": "Right and Wrong, Part 2",
       "episode": "19",
+      "title": "Right and Wrong, Part 2",
       "files": [
         {
           "name": "VidSrc",
@@ -771,14 +1132,34 @@
           "name": "Abyss",
           "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9DWTUwU04tbVkifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvLWFUQXlJbW9XIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9nYXBjTWU5Q3cifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC84dnpScUw3WUkifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvd2lJczNsZ1hSIn1d",
           "type": "multi"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/19/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/19/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/19/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/19/dub",
+          "type": "dub"
         }
       ],
-      "hianimeCode": "111766",
-      "externalId": "111766"
+      "externalId": "111766",
+      "hianimeCode": "111766"
     },
     {
-      "title": "Right and Wrong, Part 3",
       "episode": "20",
+      "title": "Right and Wrong, Part 3",
       "files": [
         {
           "name": "VidSrc",
@@ -809,14 +1190,34 @@
           "name": "Abyss",
           "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9xOTIwR0xUeFoifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwveW9nSzJJNUpaIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC93YUZka3dhTmYifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9pOGdpSG16aVgifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvNnh3NGluYUxaIn1d",
           "type": "multi"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/20/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/20/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/20/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/20/dub",
+          "type": "dub"
         }
       ],
-      "hianimeCode": "112282",
-      "externalId": "112282"
+      "externalId": "112282",
+      "hianimeCode": "112282"
     },
     {
-      "title": "Metamorphosis",
       "episode": "21",
+      "title": "Metamorphosis",
       "files": [
         {
           "name": "VidSrc",
@@ -847,14 +1248,34 @@
           "name": "Abyss",
           "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9ZYUF2Sk14R1AifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvNGJ0QmVOZDFIeCJ9LHsibGFuZ3VhZ2UiOiJUZWx1Z3UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvZjFUWEpsNWpLIn0seyJsYW5ndWFnZSI6IkVuZ2xpc2giLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvT08zZ2VyWTJSIn0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL0prM2tKclN1YSJ9XQ%3D%3D",
           "type": "multi"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/21/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/21/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/21/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/21/dub",
+          "type": "dub"
         }
       ],
-      "hianimeCode": "113113",
-      "externalId": "113113"
+      "externalId": "113113",
+      "hianimeCode": "113113"
     },
     {
-      "title": "Metamorphosis, Part 2",
       "episode": "22",
+      "title": "Metamorphosis, Part 2",
       "files": [
         {
           "name": "VidSrc",
@@ -885,14 +1306,34 @@
           "name": "Abyss",
           "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC8tWW5kbUszNm4ifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvTzIxUGNMWE1DWSJ9LHsibGFuZ3VhZ2UiOiJUZWx1Z3UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvbFE1UzktdEZyIn0seyJsYW5ndWFnZSI6IkVuZ2xpc2giLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvZHd1eU5JLXJXIn0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL0pfT2JJYVdycyJ9XQ%3D%3D",
           "type": "multi"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/22/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/22/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/22/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/22/dub",
+          "type": "dub"
         }
       ],
-      "hianimeCode": "113581",
-      "externalId": "113581"
+      "externalId": "113581",
+      "hianimeCode": "113581"
     },
     {
-      "title": "The Shibuya Incident - Gate, Close",
       "episode": "23",
+      "title": "The Shibuya Incident - Gate, Close",
       "files": [
         {
           "name": "VidSrc",
@@ -923,12 +1364,56 @@
           "name": "Abyss",
           "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9Ed3gtLU56S1AifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvbDMydzg3SXktZCJ9LHsibGFuZ3VhZ2UiOiJUZWx1Z3UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvbVUtTU5nMkhoIn0seyJsYW5ndWFnZSI6IkVuZ2xpc2giLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvY1UyYW1nVGE2In0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL21QWVJ0OURLSiJ9XQ%3D%3D",
           "type": "multi"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/23/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/23/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/23/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/23/dub",
+          "type": "dub"
         }
       ],
-      "hianimeCode": "113965",
-      "externalId": "113965"
+      "externalId": "113965",
+      "hianimeCode": "113965"
+    },
+    {
+      "episode": "24",
+      "title": "Accomplices",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/24/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113415/24/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/24/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40748/24/dub",
+          "type": "dub"
+        }
+      ]
     }
-  ],
-  "streamingId": "145064",
-  "hostUrl": ""
+  ]
 }
