@@ -1,0 +1,47 @@
+{
+  "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+  "synopsis": "This Demon Slayer movie sees Tanjiro Kamado and friends from the Demon Slayer corps board the Infinity Train on a new mission to investigate a mysterious series of disappearances, perpetrated by a demon who has been tormenting people and killing the demon slayers who oppose it.",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112151-1qlQwPB1RrJe.png",
+  "synonym": "Kimetsu no Yaiba: Mugen Ressha-hen",
+  "native": "鬼滅の刃 無限列車編",
+  "aired": "10/16/2020",
+  "premiered": "FALL 2020",
+  "duration": "117m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Mystery",
+    "Supernatural"
+  ],
+  "rating": "8.4",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "ufotable",
+  "producers": [],
+  "seasons": [],
+  "malId": "40456",
+  "streamingId": "112151",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/112151/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/112151/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
