@@ -1,0 +1,44 @@
+{
+  "title": "A Silent Voice",
+  "synopsis": "After transferring into a new school, a deaf girl, Shouko Nishimiya, is bullied by the popular Shouya Ishida. As Shouya continues to bully Shouko, the class turns its back on him. Shouko transfers and Shouya grows up as an outcast. Alone and depressed, the regretful Shouya finds Shouko to make amends.\n\n(Source: Eleven Arts)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-sYRfE5jQRtSB.jpg",
+  "synonym": "Koe no Katachi",
+  "native": "聲の形",
+  "aired": "9/17/2016",
+  "premiered": "SUMMER 2016",
+  "duration": "130m",
+  "episodesCount": "1",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Slice of Life"
+  ],
+  "rating": "8.8",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Kyoto Animation",
+  "producers": [],
+  "seasons": [],
+  "malId": "28851",
+  "streamingId": "20954",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20954/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20954/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
