@@ -1,0 +1,53 @@
+{
+  "title": "My Hero Academia: Heroes Rising",
+  "synopsis": "The second installment in the Boku no Hero Academia movie franchise.\n\nThe aspiring heroes of UA Class 1-A have been given a new training opportunity during their winter break: To establish and maintain their own professional Hero Agency on the idyllic island of Nabu far off the coast of Japan. There, they'll experience the everyday travails of being heroes, for the first time without the support of their instructors or chaperons. It's a challenging assignment, but one the plucky students of UA are more than equipped to face – that is, until the arrival of a team of villains lead by the ruthless Nine and his eerily familiar quirk. Cut off from any backup and facing their greatest threat yet, it's up to Deku, Bakugo, and their classmates to face unspeakable danger to protect not only the people of the island, but the future of all Hero society.\n\n(Source: Anime News Network)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108553-yOLfFogpWnTF.jpg",
+  "synonym": "Boku no Hero Academia THE MOVIE: Heroes:Rising",
+  "native": "僕のヒーローアカデミア THE MOVIE ヒーローズ:ライジング",
+  "aired": "12/20/2019",
+  "premiered": "FALL 2019",
+  "duration": "104m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "rating": "7.9",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "bones",
+  "producers": [],
+  "seasons": [],
+  "malId": "39565",
+  "streamingId": "108553",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/108553/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/108553/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/39565/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/39565/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
