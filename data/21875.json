@@ -1,0 +1,56 @@
+{
+  "title": "No Game, No Life Zero",
+  "synopsis": "A movie adaptation of the sixth volume of the light novel series announced at the MF Bunko J Summer School Festival 2016 event.\n\nSix thousand years before Sora and Shiro were even a blink in the history of Disboard, war consumed the land, tearing apart the heavens, destroying stars, and even threatening to wipe out the human race. Amid the chaos and destruction, a young man named Riku leads humanity toward the tomorrow his heart believes in. One day, in the ruins of an Elf city, he meets Schwi, a female exiled \"Ex Machina\" android who asks him to teach her what it means to have a human heart.\n(Source: Sentai Filmworks)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21875-ybSgx75MgRMM.png",
+  "synonym": "No Game No Life Zero",
+  "native": "ノーゲーム・ノーライフ ゼロ",
+  "aired": "7/15/2017",
+  "premiered": "SUMMER 2017",
+  "duration": "110m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "rating": "8.0",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "MADHOUSE",
+  "producers": [],
+  "seasons": [],
+  "malId": "33674",
+  "streamingId": "21875",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21875/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21875/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33674/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33674/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
