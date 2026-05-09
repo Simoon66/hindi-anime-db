@@ -1,0 +1,56 @@
+{
+  "title": "Evangelion: 1.0 You Are (Not) Alone",
+  "synopsis": "After the second impact, all that remains of Japan is Tokyo-3, a city that's being attacked by giant creatures that seek to eradicate the human kind, called Angels. After not seeing his father for more than eight years, Shinji Ikari receives a phone call in which he is told to urgently come to the NERV Headquarters, an organization that deals with the destruction of the Angels through the use of giant mechs called Evas. Shinji's objective is to pilot the Eva Unit 01 while teaming up with the Eva Unit 00 pilot, Ayanami Rei.\nNote: Exists in several versions, as denoted by the version number:\n• 1.0: Sep 1, 2007 - Original theatrical release\n• 1.01: Apr 25, 2008 - DVD release containing minor adjustments and fine tunings in picture, editing, and sound quality.\n&#8195;• Explanation of Evangelion 1.01 - Included with the special edition DVD release of 1.01, overlays large captions to provide the \"official designations\" of people, locations, weapons, technology, and so forth.\n• 1.11: May 27, 2009 - Blu-ray/DVD re-release with 3 minutes of new animation added to the first 15 minutes and fixing video issues present in the previous release.",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2759-S0ATamQtDwlW.jpg",
+  "synonym": "Evangelion Shin Movie: Jo",
+  "native": "ヱヴァンゲリヲン新劇場版:序",
+  "aired": "9/1/2007",
+  "premiered": "SUMMER 2007",
+  "duration": "100m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Drama",
+    "Mecha",
+    "Psychological",
+    "Sci-Fi"
+  ],
+  "rating": "7.8",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Studio Khara",
+  "producers": [],
+  "seasons": [],
+  "malId": "2759",
+  "streamingId": "2759",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/2759/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/2759/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/2759/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/2759/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
