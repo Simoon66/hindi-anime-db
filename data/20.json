@@ -29,7 +29,7 @@
   "episodes": [
     {
       "episode": "1",
-      "title": "Episode 1",
+      "title": "Enter: Naruto Uzumaki!",
       "files": [
         {
           "name": "HD-1",
@@ -40,12 +40,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/1/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/1/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "2",
-      "title": "Episode 2",
+      "title": "My Name is Konohamaru!",
       "files": [
         {
           "name": "HD-1",
@@ -56,12 +66,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/2/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/2/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "3",
-      "title": "Episode 3",
+      "title": "Sasuke and Sakura: Friends or Foes?",
       "files": [
         {
           "name": "HD-1",
@@ -72,12 +92,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/3/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/3/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "4",
-      "title": "Episode 4",
+      "title": "Pass or Fail: Survival Test",
       "files": [
         {
           "name": "HD-1",
@@ -88,12 +118,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/4/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/4/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "5",
-      "title": "Episode 5",
+      "title": "You Failed! Kakashi's Final Decision",
       "files": [
         {
           "name": "HD-1",
@@ -104,12 +144,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/5/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/5/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "6",
-      "title": "Episode 6",
+      "title": "A Dangerous Mission! Journey to the Land of Waves!",
       "files": [
         {
           "name": "HD-1",
@@ -120,12 +170,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/6/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/6/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "7",
-      "title": "Episode 7",
+      "title": "The Assassin of the Mist!",
       "files": [
         {
           "name": "HD-1",
@@ -136,12 +196,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/7/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/7/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "8",
-      "title": "Episode 8",
+      "title": "The Oath of Pain",
       "files": [
         {
           "name": "HD-1",
@@ -152,12 +222,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/8/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/8/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "9",
-      "title": "Episode 9",
+      "title": "Kakashi: Sharingan Warrior!",
       "files": [
         {
           "name": "HD-1",
@@ -168,12 +248,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/9/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/9/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "10",
-      "title": "Episode 10",
+      "title": "The Forest of Chakra",
       "files": [
         {
           "name": "HD-1",
@@ -184,12 +274,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/10/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/10/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/10/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "11",
-      "title": "Episode 11",
+      "title": "The Land Where a Hero Once Lived",
       "files": [
         {
           "name": "HD-1",
@@ -200,12 +300,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/11/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/11/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/11/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "12",
-      "title": "Episode 12",
+      "title": "Battle on the Bridge! Zabuza Returns!",
       "files": [
         {
           "name": "HD-1",
@@ -216,12 +326,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/12/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/12/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/12/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "13",
-      "title": "Episode 13",
+      "title": "Haku's Secret Jutsu: Crystal Ice Mirrors",
       "files": [
         {
           "name": "HD-1",
@@ -232,12 +352,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/13/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/13/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/13/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "14",
-      "title": "Episode 14",
+      "title": "The Number One Hyperactive, Knucklehead Ninja Joins the Fight!",
       "files": [
         {
           "name": "HD-1",
@@ -248,12 +378,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/14/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/14/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/14/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "15",
-      "title": "Episode 15",
+      "title": "Zero Visibility: The Sharingan Shatters",
       "files": [
         {
           "name": "HD-1",
@@ -264,12 +404,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/15/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/15/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/15/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "16",
-      "title": "Episode 16",
+      "title": "The Broken Seal",
       "files": [
         {
           "name": "HD-1",
@@ -280,12 +430,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/16/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/16/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/16/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "17",
-      "title": "Episode 17",
+      "title": "White Past: Hidden Ambition",
       "files": [
         {
           "name": "HD-1",
@@ -296,12 +456,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/17/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/17/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/17/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "18",
-      "title": "Episode 18",
+      "title": "The Weapons Known as Shinobi",
       "files": [
         {
           "name": "HD-1",
@@ -312,12 +482,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/18/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/18/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/18/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "19",
-      "title": "Episode 19",
+      "title": "The Demon in the Snow",
       "files": [
         {
           "name": "HD-1",
@@ -328,12 +508,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/19/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/19/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/19/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "20",
-      "title": "Episode 20",
+      "title": "A New Chapter Begins: The Chunin Exam!",
       "files": [
         {
           "name": "HD-1",
@@ -344,12 +534,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/20/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/20/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/20/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "21",
-      "title": "Episode 21",
+      "title": "Identify Yourself: Powerful New Rivals",
       "files": [
         {
           "name": "HD-1",
@@ -360,12 +560,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/21/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/21/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/21/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "22",
-      "title": "Episode 22",
+      "title": "Chunin Challenge: Rock Lee vs. Sasuke!",
       "files": [
         {
           "name": "HD-1",
@@ -376,12 +586,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/22/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/22/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/22/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "23",
-      "title": "Episode 23",
+      "title": "Genin Takedown! All Nine Rookies Face Off!",
       "files": [
         {
           "name": "HD-1",
@@ -392,12 +612,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/23/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/23/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/23/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "24",
-      "title": "Episode 24",
+      "title": "Start Your Engines: The Chunin Exam Begins!",
       "files": [
         {
           "name": "HD-1",
@@ -408,12 +638,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/24/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/24/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/24/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "25",
-      "title": "Episode 25",
+      "title": "The Tenth Question: All or Nothing!",
       "files": [
         {
           "name": "HD-1",
@@ -424,12 +664,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/25/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/25/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/25/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "26",
-      "title": "Episode 26",
+      "title": "Special Report: Live from the Forest of Death!",
       "files": [
         {
           "name": "HD-1",
@@ -440,12 +690,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/26/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/26/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/26/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "27",
-      "title": "Episode 27",
+      "title": "The Chunin Exam Stage 2: The Forest of Death",
       "files": [
         {
           "name": "HD-1",
@@ -456,12 +716,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/27/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/27/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/27/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "28",
-      "title": "Episode 28",
+      "title": "Eat or be Eaten: Panic in the Forest",
       "files": [
         {
           "name": "HD-1",
@@ -472,12 +742,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/28/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/28/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/28/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "29",
-      "title": "Episode 29",
+      "title": "Naruto's Counterattack: Never Give In!",
       "files": [
         {
           "name": "HD-1",
@@ -488,12 +768,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/29/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/29/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/29/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "30",
-      "title": "Episode 30",
+      "title": "The Sharingan Revived: Dragon-Flame Jutsu!",
       "files": [
         {
           "name": "HD-1",
@@ -504,12 +794,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/30/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/30/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/30/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "31",
-      "title": "Episode 31",
+      "title": "Bushy Brow's Pledge: Undying Love and Protection!",
       "files": [
         {
           "name": "HD-1",
@@ -520,12 +820,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/31/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/31/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/31/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "32",
-      "title": "Episode 32",
+      "title": "Sakura Blossoms!",
       "files": [
         {
           "name": "HD-1",
@@ -536,12 +846,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/32/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/32/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/32/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "33",
-      "title": "Episode 33",
+      "title": "Battle Formation: Ino-Shika-Cho!",
       "files": [
         {
           "name": "HD-1",
@@ -552,12 +872,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/33/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/33/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/33/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "34",
-      "title": "Episode 34",
+      "title": "Akamaru Trembles: Gaara's Cruel Strength!",
       "files": [
         {
           "name": "HD-1",
@@ -568,12 +898,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/34/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/34/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/34/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "35",
-      "title": "Episode 35",
+      "title": "The Scroll's Secret: No Peeking Allowed",
       "files": [
         {
           "name": "HD-1",
@@ -584,12 +924,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/35/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/35/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/35/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "36",
-      "title": "Episode 36",
+      "title": "Clone vs. Clone: Mine are Better than Yours!",
       "files": [
         {
           "name": "HD-1",
@@ -600,12 +950,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/36/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/36/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/36/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "37",
-      "title": "Episode 37",
+      "title": "Surviving the Cut! The Rookie Nine Together Again!",
       "files": [
         {
           "name": "HD-1",
@@ -616,12 +976,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/37/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/37/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/37/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "38",
-      "title": "Episode 38",
+      "title": "Narrowing the Field: Sudden Death Elimination!",
       "files": [
         {
           "name": "HD-1",
@@ -632,12 +1002,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/38/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/38/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/38/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "39",
-      "title": "Episode 39",
+      "title": "Bushy Brow's Jealousy: Lions Barrage Unleashed!",
       "files": [
         {
           "name": "HD-1",
@@ -648,12 +1028,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/39/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/39/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/39/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "40",
-      "title": "Episode 40",
+      "title": "Kakashi and Orochimaru: Face-to-Face!",
       "files": [
         {
           "name": "HD-1",
@@ -664,12 +1054,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/40/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/40/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/40/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "41",
-      "title": "Episode 41",
+      "title": "Kunoichi Rumble: The Rivals Get Serious!",
       "files": [
         {
           "name": "HD-1",
@@ -680,12 +1080,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/41/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/41/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/41/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "42",
-      "title": "Episode 42",
+      "title": "The Ultimate Battle: Cha!",
       "files": [
         {
           "name": "HD-1",
@@ -696,12 +1106,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/42/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/42/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/42/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "43",
-      "title": "Episode 43",
+      "title": "Killer Kunoichi and a Shaky Shikamaru",
       "files": [
         {
           "name": "HD-1",
@@ -712,12 +1132,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/43/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/43/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/43/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "44",
-      "title": "Episode 44",
+      "title": "Akamaru Unleashed! Who's Top Dog Now?",
       "files": [
         {
           "name": "HD-1",
@@ -728,12 +1158,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/44/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/44/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/44/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "45",
-      "title": "Episode 45",
+      "title": "Surprise Attack! Naruto's Secret Weapon!",
       "files": [
         {
           "name": "HD-1",
@@ -744,12 +1184,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/45/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/45/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/45/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "46",
-      "title": "Episode 46",
+      "title": "Byakugan Battle: Hinata Grows Bold!",
       "files": [
         {
           "name": "HD-1",
@@ -760,12 +1210,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/46/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/46/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/46/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "47",
-      "title": "Episode 47",
+      "title": "A Failure Stands Tall!",
       "files": [
         {
           "name": "HD-1",
@@ -776,12 +1236,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/47/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/47/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/47/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "48",
-      "title": "Episode 48",
+      "title": "Gaara vs. Rock Lee: The Power of Youth Explodes!",
       "files": [
         {
           "name": "HD-1",
@@ -792,12 +1262,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/48/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/48/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/48/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "49",
-      "title": "Episode 49",
+      "title": "Lee's Hidden Strength: Forbidden Secret Jutsu!",
       "files": [
         {
           "name": "HD-1",
@@ -808,12 +1288,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/49/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/49/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/49/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "50",
-      "title": "Episode 50",
+      "title": "The Fifth Gate: A Splendid Ninja is Born",
       "files": [
         {
           "name": "HD-1",
@@ -824,12 +1314,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/50/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/50/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/50/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "51",
-      "title": "Episode 51",
+      "title": "A Shadow in Darkness: Danger Approaches Sasuke",
       "files": [
         {
           "name": "HD-1",
@@ -840,12 +1340,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/51/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/51/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/51/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "52",
-      "title": "Episode 52",
+      "title": "Ebisu Returns: Naruto's Toughest Training Yet!",
       "files": [
         {
           "name": "HD-1",
@@ -856,12 +1366,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/52/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/52/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/52/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "53",
-      "title": "Episode 53",
+      "title": "Long Time No See: Jiraiya Returns!",
       "files": [
         {
           "name": "HD-1",
@@ -872,12 +1392,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/53/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/53/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/53/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "54",
-      "title": "Episode 54",
+      "title": "The Summoning Jutsu: Wisdom of the Toad Sage!",
       "files": [
         {
           "name": "HD-1",
@@ -888,12 +1418,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/54/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/54/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/54/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "55",
-      "title": "Episode 55",
+      "title": "A Feeling of Yearning, A Flower Full of Hope",
       "files": [
         {
           "name": "HD-1",
@@ -904,12 +1444,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/55/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/55/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/55/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "56",
-      "title": "Episode 56",
+      "title": "Live or Die: Risk it All to Win it All!",
       "files": [
         {
           "name": "HD-1",
@@ -920,12 +1470,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/56/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/56/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/56/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "57",
-      "title": "Episode 57",
+      "title": "He Flies! He Jumps! He Lurks! Chief Toad Appears!",
       "files": [
         {
           "name": "HD-1",
@@ -936,12 +1496,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/57/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/57/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/57/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "58",
-      "title": "Episode 58",
+      "title": "Hospital Besieged: The Evil Hand Revealed!",
       "files": [
         {
           "name": "HD-1",
@@ -952,12 +1522,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/58/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/58/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/58/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "59",
-      "title": "Episode 59",
+      "title": "The Final Rounds: Rush to the Battle Arena!",
       "files": [
         {
           "name": "HD-1",
@@ -968,12 +1548,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/59/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/59/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/59/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "60",
-      "title": "Episode 60",
+      "title": "Byakugan vs. Shadow Clone",
       "files": [
         {
           "name": "HD-1",
@@ -984,12 +1574,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/60/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/60/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/60/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "61",
-      "title": "Episode 61",
+      "title": "Ultimate Defense: Zero Blind Spot!",
       "files": [
         {
           "name": "HD-1",
@@ -1000,12 +1600,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/61/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/61/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/61/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "62",
-      "title": "Episode 62",
+      "title": "A Failure's True Power",
       "files": [
         {
           "name": "HD-1",
@@ -1016,12 +1626,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/62/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/62/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/62/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "63",
-      "title": "Episode 63",
+      "title": "Hit it or Quit it: The Final Rounds Get Complicated!",
       "files": [
         {
           "name": "HD-1",
@@ -1032,12 +1652,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/63/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/63/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/63/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "64",
-      "title": "Episode 64",
+      "title": "Zero Motivation: The Guy with Cloud Envy!",
       "files": [
         {
           "name": "HD-1",
@@ -1048,12 +1678,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/64/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/64/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/64/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "65",
-      "title": "Episode 65",
+      "title": "Dancing Leaf, Squirming Sand",
       "files": [
         {
           "name": "HD-1",
@@ -1064,12 +1704,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/65/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/65/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/65/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "66",
-      "title": "Episode 66",
+      "title": "Bushy Brow's Jutsu: Sasuke Style!",
       "files": [
         {
           "name": "HD-1",
@@ -1080,12 +1730,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/66/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/66/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/66/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "67",
-      "title": "Episode 67",
+      "title": "Late for the Show, But Ready to Go! The Ultimate Secret Technique is Born!",
       "files": [
         {
           "name": "HD-1",
@@ -1096,12 +1756,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/67/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/67/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/67/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "68",
-      "title": "Episode 68",
+      "title": "Zero Hour! The Destruction of the Hidden Leaf Village Begins!",
       "files": [
         {
           "name": "HD-1",
@@ -1112,12 +1782,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/68/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/68/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/68/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "69",
-      "title": "Episode 69",
+      "title": "Village in Distress: A New A-Ranked Mission!",
       "files": [
         {
           "name": "HD-1",
@@ -1128,12 +1808,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/69/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/69/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/69/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "70",
-      "title": "Episode 70",
+      "title": "A Shirker's Call to Action: A Layabout No More!",
       "files": [
         {
           "name": "HD-1",
@@ -1144,12 +1834,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/70/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/70/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/70/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "71",
-      "title": "Episode 71",
+      "title": "An Unrivaled Match: Hokage Battle Royale!",
       "files": [
         {
           "name": "HD-1",
@@ -1160,12 +1860,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/71/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/71/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/71/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "72",
-      "title": "Episode 72",
+      "title": "A Mistake from the Past: A Face Revealed!",
       "files": [
         {
           "name": "HD-1",
@@ -1176,12 +1886,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/72/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/72/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/72/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "73",
-      "title": "Episode 73",
+      "title": "Forbidden Secret Technique: Reaper Death Seal!",
       "files": [
         {
           "name": "HD-1",
@@ -1192,12 +1912,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/73/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/73/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/73/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "74",
-      "title": "Episode 74",
+      "title": "Astonishing Truth! Gaara's Identity Emerges!",
       "files": [
         {
           "name": "HD-1",
@@ -1208,12 +1938,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/74/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/74/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/74/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "75",
-      "title": "Episode 75",
+      "title": "Sasuke's Decision: Pushed to the Edge!",
       "files": [
         {
           "name": "HD-1",
@@ -1224,12 +1964,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/75/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/75/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/75/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "76",
-      "title": "Episode 76",
+      "title": "Assassin of the Moonlit Night",
       "files": [
         {
           "name": "HD-1",
@@ -1240,12 +1990,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/76/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/76/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/76/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "77",
-      "title": "Episode 77",
+      "title": "Light vs. Dark: The Two Faces of Gaara",
       "files": [
         {
           "name": "HD-1",
@@ -1256,12 +2016,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/77/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/77/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/77/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "78",
-      "title": "Episode 78",
+      "title": "Naruto's Ninja Handbook",
       "files": [
         {
           "name": "HD-1",
@@ -1272,12 +2042,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/78/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/78/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/78/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "79",
-      "title": "Episode 79",
+      "title": "Beyond the Limit of Darkness and Light",
       "files": [
         {
           "name": "HD-1",
@@ -1288,12 +2068,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/79/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/79/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/79/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "80",
-      "title": "Episode 80",
+      "title": "The Third Hokage, Forever...",
       "files": [
         {
           "name": "HD-1",
@@ -1304,12 +2094,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/80/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/80/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/80/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "81",
-      "title": "Episode 81",
+      "title": "Return of the Morning Mist",
       "files": [
         {
           "name": "HD-1",
@@ -1320,12 +2120,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/81/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/81/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/81/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "82",
-      "title": "Episode 82",
+      "title": "Eye to Eye: Sharingan vs. Sharingan!",
       "files": [
         {
           "name": "HD-1",
@@ -1336,12 +2146,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/82/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/82/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/82/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "83",
-      "title": "Episode 83",
+      "title": "Jiraiya: Naruto's Potential Disaster!",
       "files": [
         {
           "name": "HD-1",
@@ -1352,12 +2172,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/83/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/83/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/83/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "84",
-      "title": "Episode 84",
+      "title": "Roar, Chidori! Brother vs. Brother!",
       "files": [
         {
           "name": "HD-1",
@@ -1368,12 +2198,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/84/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/84/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/84/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "85",
-      "title": "Episode 85",
+      "title": "Hate Among the Uchihas: The Last of the Clan!",
       "files": [
         {
           "name": "HD-1",
@@ -1384,12 +2224,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/85/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/85/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/85/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "86",
-      "title": "Episode 86",
+      "title": "A New Training Begins: I Will Be Strong!",
       "files": [
         {
           "name": "HD-1",
@@ -1400,12 +2250,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/86/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/86/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/86/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "87",
-      "title": "Episode 87",
+      "title": "Keep on Training: Pop Goes the Water Balloon!",
       "files": [
         {
           "name": "HD-1",
@@ -1416,12 +2276,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/87/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/87/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/87/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "88",
-      "title": "Episode 88",
+      "title": "Focal Point: The Mark of the Leaf",
       "files": [
         {
           "name": "HD-1",
@@ -1432,12 +2302,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/88/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/88/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/88/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "89",
-      "title": "Episode 89",
+      "title": "An Impossible Choice: The Pain Within Tsunade's Heart",
       "files": [
         {
           "name": "HD-1",
@@ -1448,12 +2328,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/89/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/89/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/89/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "90",
-      "title": "Episode 90",
+      "title": "Unforgivable! A Total Lack of Respect!",
       "files": [
         {
           "name": "HD-1",
@@ -1464,12 +2354,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/90/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/90/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/90/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "91",
-      "title": "Episode 91",
+      "title": "Inheritence! The Necklace of Death!",
       "files": [
         {
           "name": "HD-1",
@@ -1480,12 +2380,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/91/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/91/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/91/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "92",
-      "title": "Episode 92",
+      "title": "A Dubious Offer! Tsunade's Choice!",
       "files": [
         {
           "name": "HD-1",
@@ -1496,12 +2406,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/92/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/92/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/92/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "93",
-      "title": "Episode 93",
+      "title": "Breakdown! The Deal is Off!",
       "files": [
         {
           "name": "HD-1",
@@ -1512,12 +2432,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/93/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/93/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/93/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "94",
-      "title": "Episode 94",
+      "title": "Attack! Fury of the Rasengan!",
       "files": [
         {
           "name": "HD-1",
@@ -1528,12 +2458,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/94/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/94/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/94/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "95",
-      "title": "Episode 95",
+      "title": "The Fifth Hokage! A Life on the Line!",
       "files": [
         {
           "name": "HD-1",
@@ -1544,12 +2484,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/95/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/95/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/95/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "96",
-      "title": "Episode 96",
+      "title": "Deadlock! Sannin Showdown!",
       "files": [
         {
           "name": "HD-1",
@@ -1560,12 +2510,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/96/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/96/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/96/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "97",
-      "title": "Episode 97",
+      "title": "Kidnapped! Naruto's Hot Spring Adventure!",
       "files": [
         {
           "name": "HD-1",
@@ -1576,12 +2536,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/97/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/97/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/97/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "98",
-      "title": "Episode 98",
+      "title": "Tsunade's Warning: Ninja No More!",
       "files": [
         {
           "name": "HD-1",
@@ -1592,12 +2562,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/98/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/98/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/98/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "99",
-      "title": "Episode 99",
+      "title": "The Will of Fire Still Burns!",
       "files": [
         {
           "name": "HD-1",
@@ -1608,12 +2588,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/99/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/99/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/99/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "100",
-      "title": "Episode 100",
+      "title": "Sensei and Student: The Bond of the Shinobi",
       "files": [
         {
           "name": "HD-1",
@@ -1624,12 +2614,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/100/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/100/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/100/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "101",
-      "title": "Episode 101",
+      "title": "Gotta See! Gotta Know! Kakashi-Sensei's True Face!",
       "files": [
         {
           "name": "HD-1",
@@ -1640,12 +2640,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/101/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/101/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/101/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "102",
-      "title": "Episode 102",
+      "title": "Mission: Help an Old Friend in the Land of Tea",
       "files": [
         {
           "name": "HD-1",
@@ -1656,12 +2666,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/102/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/102/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/102/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "103",
-      "title": "Episode 103",
+      "title": "The Race is on! Trouble on the High Seas!",
       "files": [
         {
           "name": "HD-1",
@@ -1672,12 +2692,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/103/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/103/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/103/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "104",
-      "title": "Episode 104",
+      "title": "Run Idate Run! Nagi Island Awaits!",
       "files": [
         {
           "name": "HD-1",
@@ -1688,12 +2718,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/104/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/104/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/104/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "105",
-      "title": "Episode 105",
+      "title": "A Fierce Battle of Rolling Thunder!",
       "files": [
         {
           "name": "HD-1",
@@ -1704,12 +2744,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/105/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/105/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/105/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "106",
-      "title": "Episode 106",
+      "title": "The Last Leg: A Final Act of Desperation",
       "files": [
         {
           "name": "HD-1",
@@ -1720,12 +2770,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/106/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/106/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/106/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "107",
-      "title": "Episode 107",
+      "title": "The Battle Begins: Naruto vs. Sasuke",
       "files": [
         {
           "name": "HD-1",
@@ -1736,12 +2796,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/107/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/107/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/107/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "108",
-      "title": "Episode 108",
+      "title": "Bitter Rivals and Broken Bonds",
       "files": [
         {
           "name": "HD-1",
@@ -1752,12 +2822,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/108/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/108/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/108/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "109",
-      "title": "Episode 109",
+      "title": "An Invitation from the Sound",
       "files": [
         {
           "name": "HD-1",
@@ -1768,12 +2848,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/109/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/109/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/109/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "110",
-      "title": "Episode 110",
+      "title": "Formation! The Sasuke Retrieval Squad",
       "files": [
         {
           "name": "HD-1",
@@ -1784,12 +2874,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/110/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/110/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/110/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "111",
-      "title": "Episode 111",
+      "title": "Sound vs. Leaf",
       "files": [
         {
           "name": "HD-1",
@@ -1800,12 +2900,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/111/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/111/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/111/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "112",
-      "title": "Episode 112",
+      "title": "Squad Mutiny: Everything Falls Apart!",
       "files": [
         {
           "name": "HD-1",
@@ -1816,12 +2926,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/112/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/112/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/112/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "113",
-      "title": "Episode 113",
+      "title": "Full Throttle Power! Choji, Ablaze!",
       "files": [
         {
           "name": "HD-1",
@@ -1832,12 +2952,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/113/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/113/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/113/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "114",
-      "title": "Episode 114",
+      "title": "Good-bye Old Friend...! I'll Always Believe in You!",
       "files": [
         {
           "name": "HD-1",
@@ -1848,12 +2978,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/114/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/114/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/114/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "115",
-      "title": "Episode 115",
+      "title": "Your Opponent Is Me!",
       "files": [
         {
           "name": "HD-1",
@@ -1864,12 +3004,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/115/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/115/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/115/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "116",
-      "title": "Episode 116",
+      "title": "360 Degrees of Vision: The Byakugan's Blind Spot",
       "files": [
         {
           "name": "HD-1",
@@ -1880,12 +3030,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/116/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/116/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/116/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "117",
-      "title": "Episode 117",
+      "title": "Losing is Not an Option!",
       "files": [
         {
           "name": "HD-1",
@@ -1896,12 +3056,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/117/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/117/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/117/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "118",
-      "title": "Episode 118",
+      "title": "The Vessel Arrives Too Late",
       "files": [
         {
           "name": "HD-1",
@@ -1912,12 +3082,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/118/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/118/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/118/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "119",
-      "title": "Episode 119",
+      "title": "Miscalculation: A New Enemy Appears!",
       "files": [
         {
           "name": "HD-1",
@@ -1928,12 +3108,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/119/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/119/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/119/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "120",
-      "title": "Episode 120",
+      "title": "Roar and Howl! The Ultimate Tag Team",
       "files": [
         {
           "name": "HD-1",
@@ -1944,12 +3134,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/120/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/120/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/120/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "121",
-      "title": "Episode 121",
+      "title": "To Each His Own Battle",
       "files": [
         {
           "name": "HD-1",
@@ -1960,12 +3160,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/121/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/121/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/121/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "122",
-      "title": "Episode 122",
+      "title": "Fakeout: Shikamaru's Comeback!",
       "files": [
         {
           "name": "HD-1",
@@ -1976,12 +3186,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/122/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/122/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/122/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "123",
-      "title": "Episode 123",
+      "title": "The Leaf's Handsome Devil!",
       "files": [
         {
           "name": "HD-1",
@@ -1992,12 +3212,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/123/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/123/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/123/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "124",
-      "title": "Episode 124",
+      "title": "The Beast Within",
       "files": [
         {
           "name": "HD-1",
@@ -2008,12 +3238,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/124/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/124/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/124/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "125",
-      "title": "Episode 125",
+      "title": "The Sand Shinobi: Allies of the Leaf",
       "files": [
         {
           "name": "HD-1",
@@ -2024,12 +3264,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/125/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/125/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/125/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "126",
-      "title": "Episode 126",
+      "title": "Showdown: Gaara vs. Kimimaro!",
       "files": [
         {
           "name": "HD-1",
@@ -2040,12 +3290,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/126/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/126/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/126/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "127",
-      "title": "Episode 127",
+      "title": "Vengeful Strike! The Bracken Dance",
       "files": [
         {
           "name": "HD-1",
@@ -2056,12 +3316,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/127/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/127/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/127/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "128",
-      "title": "Episode 128",
+      "title": "A Cry on Deaf Ears",
       "files": [
         {
           "name": "HD-1",
@@ -2072,12 +3342,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/128/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/128/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/128/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "129",
-      "title": "Episode 129",
+      "title": "Brothers: Distance Among the Uchiha",
       "files": [
         {
           "name": "HD-1",
@@ -2088,12 +3368,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/129/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/129/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/129/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "130",
-      "title": "Episode 130",
+      "title": "Father and Son, the Broken Crest",
       "files": [
         {
           "name": "HD-1",
@@ -2104,12 +3394,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/130/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/130/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/130/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "131",
-      "title": "Episode 131",
+      "title": "The Secrets of the Mangekyo Sharingan!",
       "files": [
         {
           "name": "HD-1",
@@ -2120,12 +3420,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/131/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/131/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/131/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "132",
-      "title": "Episode 132",
+      "title": "For a Friend",
       "files": [
         {
           "name": "HD-1",
@@ -2136,12 +3446,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/132/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/132/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/132/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "133",
-      "title": "Episode 133",
+      "title": "A Plea From a Friend",
       "files": [
         {
           "name": "HD-1",
@@ -2152,12 +3472,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/133/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/133/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/133/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "134",
-      "title": "Episode 134",
+      "title": "The End of Tears",
       "files": [
         {
           "name": "HD-1",
@@ -2168,12 +3498,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/134/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/134/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/134/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "135",
-      "title": "Episode 135",
+      "title": "The Promise That Could Not Be Kept",
       "files": [
         {
           "name": "HD-1",
@@ -2184,12 +3524,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/135/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/135/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/135/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "136",
-      "title": "Episode 136",
+      "title": "Deep Cover!? A Super S-Ranked Mission!",
       "files": [
         {
           "name": "HD-1",
@@ -2200,12 +3550,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/136/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/136/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/136/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "137",
-      "title": "Episode 137",
+      "title": "A Town of Outlaws, the Shadow of the Fuma Clan",
       "files": [
         {
           "name": "HD-1",
@@ -2216,12 +3576,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/137/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/137/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/137/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "138",
-      "title": "Episode 138",
+      "title": "Pure Betrayal, and a Fleeting Plea!",
       "files": [
         {
           "name": "HD-1",
@@ -2232,12 +3602,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/138/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/138/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/138/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "139",
-      "title": "Episode 139",
+      "title": "Pure Terror! The House of Orochimaru",
       "files": [
         {
           "name": "HD-1",
@@ -2248,12 +3628,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/139/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/139/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/139/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "140",
-      "title": "Episode 140",
+      "title": "Two Heartbeats: Kabuto's Trap",
       "files": [
         {
           "name": "HD-1",
@@ -2264,12 +3654,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/140/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/140/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/140/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "141",
-      "title": "Episode 141",
+      "title": "Sakura's Determination",
       "files": [
         {
           "name": "HD-1",
@@ -2280,12 +3680,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/141/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/141/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/141/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "142",
-      "title": "Episode 142",
+      "title": "The Three Villains from the Maximum Security Prison",
       "files": [
         {
           "name": "HD-1",
@@ -2296,12 +3706,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/142/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/142/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/142/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "143",
-      "title": "Episode 143",
+      "title": "Tonton! I'm Counting on You!",
       "files": [
         {
           "name": "HD-1",
@@ -2312,12 +3732,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/143/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/143/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/143/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "144",
-      "title": "Episode 144",
+      "title": "A New Squad! Two People and a Dog?!",
       "files": [
         {
           "name": "HD-1",
@@ -2328,12 +3758,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/144/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/144/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/144/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "145",
-      "title": "Episode 145",
+      "title": "A New Formation: Ino-Shika-Cho!",
       "files": [
         {
           "name": "HD-1",
@@ -2344,12 +3784,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/145/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/145/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/145/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "146",
-      "title": "Episode 146",
+      "title": "Orochimaru's Shadow",
       "files": [
         {
           "name": "HD-1",
@@ -2360,12 +3810,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/146/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/146/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/146/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "147",
-      "title": "Episode 147",
+      "title": "A Clash of Fate: You Can't Bring Me Down",
       "files": [
         {
           "name": "HD-1",
@@ -2376,12 +3836,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/147/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/147/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/147/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "148",
-      "title": "Episode 148",
+      "title": "Search for the Rare Bikochu Beetle",
       "files": [
         {
           "name": "HD-1",
@@ -2392,12 +3862,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/148/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/148/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/148/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "149",
-      "title": "Episode 149",
+      "title": "What's the Difference? Don't All Insects Look Alike?",
       "files": [
         {
           "name": "HD-1",
@@ -2408,12 +3888,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/149/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/149/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/149/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "150",
-      "title": "Episode 150",
+      "title": "A Battle of Bugs: The Deceivers and the Deceived",
       "files": [
         {
           "name": "HD-1",
@@ -2424,12 +3914,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/150/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/150/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/150/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "151",
-      "title": "Episode 151",
+      "title": "Blaze Away Byakugan: This Is My Ninja Way",
       "files": [
         {
           "name": "HD-1",
@@ -2440,12 +3940,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/151/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/151/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/151/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "152",
-      "title": "Episode 152",
+      "title": "Funeral March for the Living",
       "files": [
         {
           "name": "HD-1",
@@ -2456,12 +3966,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/152/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/152/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/152/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "153",
-      "title": "Episode 153",
+      "title": "A Lesson Learned: The Iron Fist of Love",
       "files": [
         {
           "name": "HD-1",
@@ -2472,12 +3992,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/153/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/153/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/153/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "154",
-      "title": "Episode 154",
+      "title": "The Enemy of the Byakugan",
       "files": [
         {
           "name": "HD-1",
@@ -2488,12 +4018,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/154/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/154/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/154/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "155",
-      "title": "Episode 155",
+      "title": "The Dark Creeping Clouds",
       "files": [
         {
           "name": "HD-1",
@@ -2504,12 +4044,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/155/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/155/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/155/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "156",
-      "title": "Episode 156",
+      "title": "Raiga's Counterattack",
       "files": [
         {
           "name": "HD-1",
@@ -2520,12 +4070,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/156/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/156/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/156/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "157",
-      "title": "Episode 157",
+      "title": "Run! The Curry of Life",
       "files": [
         {
           "name": "HD-1",
@@ -2536,12 +4096,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/157/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/157/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/157/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "158",
-      "title": "Episode 158",
+      "title": "Follow My Lead! The Great Survival Challenge",
       "files": [
         {
           "name": "HD-1",
@@ -2552,12 +4122,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/158/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/158/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/158/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "159",
-      "title": "Episode 159",
+      "title": "Bounty Hunter from the Wilderness",
       "files": [
         {
           "name": "HD-1",
@@ -2568,12 +4148,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/159/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/159/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/159/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "160",
-      "title": "Episode 160",
+      "title": "Hunt or Be Hunted?! Showdown at the O.K. Temple!",
       "files": [
         {
           "name": "HD-1",
@@ -2584,12 +4174,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/160/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/160/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/160/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "161",
-      "title": "Episode 161",
+      "title": "The Appearance of Strange Visitors",
       "files": [
         {
           "name": "HD-1",
@@ -2600,12 +4200,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/161/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/161/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/161/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "162",
-      "title": "Episode 162",
+      "title": "The Cursed Warrior",
       "files": [
         {
           "name": "HD-1",
@@ -2616,12 +4226,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/162/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/162/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/162/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "163",
-      "title": "Episode 163",
+      "title": "The Tactician's Intent",
       "files": [
         {
           "name": "HD-1",
@@ -2632,12 +4252,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/163/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/163/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/163/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "164",
-      "title": "Episode 164",
+      "title": "Too Late for Help",
       "files": [
         {
           "name": "HD-1",
@@ -2648,12 +4278,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/164/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/164/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/164/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "165",
-      "title": "Episode 165",
+      "title": "The Death of Naruto",
       "files": [
         {
           "name": "HD-1",
@@ -2664,12 +4304,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/165/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/165/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/165/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "166",
-      "title": "Episode 166",
+      "title": "When Time Stands Still",
       "files": [
         {
           "name": "HD-1",
@@ -2680,12 +4330,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/166/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/166/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/166/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "167",
-      "title": "Episode 167",
+      "title": "When Egrets Flap Their Wings",
       "files": [
         {
           "name": "HD-1",
@@ -2696,12 +4356,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/167/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/167/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/167/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "168",
-      "title": "Episode 168",
+      "title": "Mix It, Stretch It, Boil It Up! Burn, Copper Pot, Burn!",
       "files": [
         {
           "name": "HD-1",
@@ -2712,12 +4382,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/168/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/168/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/168/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "169",
-      "title": "Episode 169",
+      "title": "Remembrance: The Lost Page",
       "files": [
         {
           "name": "HD-1",
@@ -2728,12 +4408,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/169/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/169/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/169/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "170",
-      "title": "Episode 170",
+      "title": "The Closed Door",
       "files": [
         {
           "name": "HD-1",
@@ -2744,12 +4434,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/170/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/170/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/170/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "171",
-      "title": "Episode 171",
+      "title": "Infiltration: The Set-Up!",
       "files": [
         {
           "name": "HD-1",
@@ -2760,12 +4460,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/171/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/171/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/171/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "172",
-      "title": "Episode 172",
+      "title": "Despair: A Fractured Heart",
       "files": [
         {
           "name": "HD-1",
@@ -2776,12 +4486,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/172/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/172/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/172/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "173",
-      "title": "Episode 173",
+      "title": "The Battle at Sea: The Power Unleashed!",
       "files": [
         {
           "name": "HD-1",
@@ -2792,12 +4512,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/173/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/173/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/173/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "174",
-      "title": "Episode 174",
+      "title": "Impossible! Celebrity Ninja Art - Money Style Jutsu!",
       "files": [
         {
           "name": "HD-1",
@@ -2808,12 +4538,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/174/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/174/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/174/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "175",
-      "title": "Episode 175",
+      "title": "The Treasure Hunt is On!",
       "files": [
         {
           "name": "HD-1",
@@ -2824,12 +4564,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/175/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/175/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/175/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "176",
-      "title": "Episode 176",
+      "title": "Run, Dodge, Zigzag! Chase or Be Chased!",
       "files": [
         {
           "name": "HD-1",
@@ -2840,12 +4590,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/176/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/176/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/176/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "177",
-      "title": "Episode 177",
+      "title": "Please, Mr. Postman!",
       "files": [
         {
           "name": "HD-1",
@@ -2856,12 +4616,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/177/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/177/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/177/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "178",
-      "title": "Episode 178",
+      "title": "Encounter! The Boy with a Star's Name",
       "files": [
         {
           "name": "HD-1",
@@ -2872,12 +4642,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/178/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/178/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/178/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "179",
-      "title": "Episode 179",
+      "title": "The Remembered Lullaby",
       "files": [
         {
           "name": "HD-1",
@@ -2888,12 +4668,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/179/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/179/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/179/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "180",
-      "title": "Episode 180",
+      "title": "Hidden Jutsu: The Price of The Ninja Art: Kujaku",
       "files": [
         {
           "name": "HD-1",
@@ -2904,12 +4694,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/180/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/180/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/180/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "181",
-      "title": "Episode 181",
+      "title": "Hoshikage, The Buried Truth",
       "files": [
         {
           "name": "HD-1",
@@ -2920,12 +4720,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/181/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/181/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/181/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "182",
-      "title": "Episode 182",
+      "title": "Reunion, The Remaining time",
       "files": [
         {
           "name": "HD-1",
@@ -2936,12 +4746,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/182/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/182/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/182/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "183",
-      "title": "Episode 183",
+      "title": "The Star's Radiance",
       "files": [
         {
           "name": "HD-1",
@@ -2952,12 +4772,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/183/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/183/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/183/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "184",
-      "title": "Episode 184",
+      "title": "Kiba's Long Day!",
       "files": [
         {
           "name": "HD-1",
@@ -2968,12 +4798,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/184/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/184/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/184/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "185",
-      "title": "Episode 185",
+      "title": "A Legend from the Hidden Leaf: The Onbaa!",
       "files": [
         {
           "name": "HD-1",
@@ -2984,12 +4824,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/185/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/185/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/185/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "186",
-      "title": "Episode 186",
+      "title": "Laughing Shino",
       "files": [
         {
           "name": "HD-1",
@@ -3000,12 +4850,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/186/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/186/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/186/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "187",
-      "title": "Episode 187",
+      "title": "Open for Business! The Leaf Moving Service",
       "files": [
         {
           "name": "HD-1",
@@ -3016,12 +4876,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/187/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/187/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/187/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "188",
-      "title": "Episode 188",
+      "title": "Mystery of the Targeted Merchants",
       "files": [
         {
           "name": "HD-1",
@@ -3032,12 +4902,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/188/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/188/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/188/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "189",
-      "title": "Episode 189",
+      "title": "A Limitless Supply of Ninja Tools",
       "files": [
         {
           "name": "HD-1",
@@ -3048,12 +4928,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/189/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/189/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/189/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "190",
-      "title": "Episode 190",
+      "title": "The Byakugan Sees the Blind Spot",
       "files": [
         {
           "name": "HD-1",
@@ -3064,12 +4954,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/190/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/190/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/190/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "191",
-      "title": "Episode 191",
+      "title": "Forecast: Death! Cloudy with Chance of Sun",
       "files": [
         {
           "name": "HD-1",
@@ -3080,12 +4980,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/191/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/191/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/191/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "192",
-      "title": "Episode 192",
+      "title": "Ino Screams! Chubby Paradise!",
       "files": [
         {
           "name": "HD-1",
@@ -3096,12 +5006,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/192/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/192/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/192/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "193",
-      "title": "Episode 193",
+      "title": "Viva Dojo Challenge! Youth Is All About Passion!",
       "files": [
         {
           "name": "HD-1",
@@ -3112,12 +5032,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/193/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/193/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/193/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "194",
-      "title": "Episode 194",
+      "title": "The Mysterious Curse of the Haunted Castle",
       "files": [
         {
           "name": "HD-1",
@@ -3128,12 +5058,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/194/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/194/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/194/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "195",
-      "title": "Episode 195",
+      "title": "The Third Super-Beast!",
       "files": [
         {
           "name": "HD-1",
@@ -3144,12 +5084,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/195/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/195/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/195/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "196",
-      "title": "Episode 196",
+      "title": "Hot-Blooded Confrontation: Student vs. Sensei",
       "files": [
         {
           "name": "HD-1",
@@ -3160,12 +5110,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/196/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/196/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/196/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "197",
-      "title": "Episode 197",
+      "title": "Crisis! The Hidden Leaf 11 Gather!",
       "files": [
         {
           "name": "HD-1",
@@ -3176,12 +5136,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/197/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/197/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/197/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "198",
-      "title": "Episode 198",
+      "title": "The ANBU Gives Up? Naruto's Recollection",
       "files": [
         {
           "name": "HD-1",
@@ -3192,12 +5162,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/198/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/198/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/198/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "199",
-      "title": "Episode 199",
+      "title": "The Missed Target",
       "files": [
         {
           "name": "HD-1",
@@ -3208,12 +5188,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/199/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/199/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/199/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "200",
-      "title": "Episode 200",
+      "title": "The Powerful Helper",
       "files": [
         {
           "name": "HD-1",
@@ -3224,12 +5214,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/200/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/200/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/200/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "201",
-      "title": "Episode 201",
+      "title": "Multiple Traps! Countdown to Destruction",
       "files": [
         {
           "name": "HD-1",
@@ -3240,12 +5240,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/201/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/201/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/201/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "202",
-      "title": "Episode 202",
+      "title": "The Top 5 Ninja Battles",
       "files": [
         {
           "name": "HD-1",
@@ -3256,12 +5266,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/202/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/202/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/202/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "203",
-      "title": "Episode 203",
+      "title": "Kurenai's Decision, Squad 8 Left Behind",
       "files": [
         {
           "name": "HD-1",
@@ -3272,12 +5292,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/203/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/203/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/203/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "204",
-      "title": "Episode 204",
+      "title": "Yakumo's Sealed Ability",
       "files": [
         {
           "name": "HD-1",
@@ -3288,12 +5318,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/204/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/204/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/204/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "205",
-      "title": "Episode 205",
+      "title": "Kurenai's Top-Secret Mission: The Promise With the Third Hokage",
       "files": [
         {
           "name": "HD-1",
@@ -3304,12 +5344,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/205/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/205/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/205/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "206",
-      "title": "Episode 206",
+      "title": "Genjutsu or Reality?",
       "files": [
         {
           "name": "HD-1",
@@ -3320,12 +5370,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/206/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/206/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/206/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "207",
-      "title": "Episode 207",
+      "title": "The Supposed Sealed Ability",
       "files": [
         {
           "name": "HD-1",
@@ -3336,12 +5396,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/207/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/207/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/207/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "208",
-      "title": "Episode 208",
+      "title": "The Weight of the Prized Artifact!",
       "files": [
         {
           "name": "HD-1",
@@ -3352,12 +5422,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/208/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/208/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/208/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "209",
-      "title": "Episode 209",
+      "title": "The Enemy: Ninja Dropouts",
       "files": [
         {
           "name": "HD-1",
@@ -3368,12 +5448,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/209/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/209/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/209/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "210",
-      "title": "Episode 210",
+      "title": "The Bewildering Forest",
       "files": [
         {
           "name": "HD-1",
@@ -3384,12 +5474,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/210/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/210/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/210/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "211",
-      "title": "Episode 211",
+      "title": "Memory of Flames",
       "files": [
         {
           "name": "HD-1",
@@ -3400,12 +5500,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/211/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/211/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/211/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "212",
-      "title": "Episode 212",
+      "title": "To Each His Own Path",
       "files": [
         {
           "name": "HD-1",
@@ -3416,12 +5526,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/212/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/212/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/212/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "213",
-      "title": "Episode 213",
+      "title": "Vanished Memories",
       "files": [
         {
           "name": "HD-1",
@@ -3432,12 +5552,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/213/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/213/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/213/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "214",
-      "title": "Episode 214",
+      "title": "Bringing Back Reality",
       "files": [
         {
           "name": "HD-1",
@@ -3448,12 +5578,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/214/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/214/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/214/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "215",
-      "title": "Episode 215",
+      "title": "A Past to Be Erased",
       "files": [
         {
           "name": "HD-1",
@@ -3464,12 +5604,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/215/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/215/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/215/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "216",
-      "title": "Episode 216",
+      "title": "The Targeted Shukaku",
       "files": [
         {
           "name": "HD-1",
@@ -3480,12 +5630,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/216/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/216/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/216/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "217",
-      "title": "Episode 217",
+      "title": "Sand Alliance With The Leaf Shinobi",
       "files": [
         {
           "name": "HD-1",
@@ -3496,12 +5656,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/217/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/217/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/217/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "218",
-      "title": "Episode 218",
+      "title": "The Counterattack!",
       "files": [
         {
           "name": "HD-1",
@@ -3512,12 +5682,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/218/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/218/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/218/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "219",
-      "title": "Episode 219",
+      "title": "The Ultimate Weapon Reborn",
       "files": [
         {
           "name": "HD-1",
@@ -3528,12 +5708,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/219/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/219/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/219/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "220",
-      "title": "Episode 220",
+      "title": "Departure",
       "files": [
         {
           "name": "HD-1",
@@ -3543,6 +5733,16 @@
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20/220/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/220/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/20/220/dub",
           "type": "dub"
         }
       ]
