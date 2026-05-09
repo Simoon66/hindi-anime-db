@@ -28,7 +28,7 @@
   "episodes": [
     {
       "episode": "1",
-      "title": "Episode 1",
+      "title": "I'm Luffy! The Man Who's Gonna Be King of the Pirates!",
       "files": [
         {
           "name": "HD-1",
@@ -38,6 +38,16 @@
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1/dub",
           "type": "dub"
         }
       ]
