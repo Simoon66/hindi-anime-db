@@ -1,0 +1,55 @@
+{
+  "title": "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond",
+  "synopsis": "A long-running conspiracy is swirling over a mysterious power known as “Queen” in Raja, a small country west of Tempest. When a slime who evolved into a Demon Lord named Rimuru Tempest crosses paths with Hiiro, a survivor of the Ogre race, an incredible adventure packed with new characters begins. The power of bonds will be put to the test!\n\n\n(Source: Crunchyroll)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139498-DdVASeAj7ag4.jpg",
+  "synonym": "Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen",
+  "native": "劇場版 転生したらスライムだった件 紅蓮の絆編",
+  "aired": "11/25/2022",
+  "premiered": "FALL 2022",
+  "duration": "108m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "rating": "7.7",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "8-bit",
+  "producers": [],
+  "seasons": [],
+  "malId": "49877",
+  "streamingId": "139498",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/139498/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/139498/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/49877/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/49877/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
