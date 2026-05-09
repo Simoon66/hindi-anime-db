@@ -1,0 +1,55 @@
+{
+  "title": "Steins;Gate The Movie – Load Region of Déjà Vu",
+  "synopsis": "After a year in America, Kurisu Makise returns to Akihabara and reunites with Rintarou Okabe. However, their reunion is cut short when Okabe begins to experience recurring flashes of other timelines as the consequences of his time traveling start to manifest. These side effects eventually culminate in Okabe suddenly vanishing from the world, and only the startled Kurisu has any memory of his existence.\n\nIn the midst of despair, Kurisu is faced with a truly arduous choice that will test both her duty as a scientist and her loyalty as a friend: follow Okabe's advice and stay away from traveling through time to avoid the potential consequences it may have on the world lines, or ignore it to rescue the person that she cherishes most. Regardless of her decision, the path she chooses is one that will affect the past, the present, and the future.\n",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11577-rhqsxLOAge4f.png",
+  "synonym": "Steins;Gate: Fuka Ryouiki no Déjà vu",
+  "native": "劇場版 シュタインズゲート 負荷領域のデジャヴ",
+  "aired": "4/20/2013",
+  "premiered": "SPRING 2013",
+  "duration": "90m",
+  "episodesCount": "1",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "rating": "8.2",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "WHITE FOX",
+  "producers": [],
+  "seasons": [],
+  "malId": "11577",
+  "streamingId": "11577",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11577/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11577/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/11577/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/11577/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
