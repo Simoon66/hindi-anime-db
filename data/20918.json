@@ -1,0 +1,133 @@
+{
+  "title": "Tsukimonogatari",
+  "synopsis": "Third season of the Monogatari Series, part 1/5. Contains the arc Yotsugi Doll from the Tsukimonogatari light novel.\n\nOne day in February, Koyomi Araragi was taking a bath with his younger sister Tsukihi amidst finishing his studies for the college entrance exam. This was also following the incident involving Nadeko Sengoku, which was successfully amended behind the scenes by Deishu Kaiki. Koyomi noticed a change on his body “that could not be overlooked” and sought advice from Shinobu Oshino leading him to contact Yozuru Kagenui and Yotsugi Ononoki. Was this change signifying retribution for everything that Koyomi has done?!\n\n(Source: Aniplex)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20918-8Gp6nJpbjFgr.jpg",
+  "synonym": "Tsukimonogatari",
+  "native": "憑物語",
+  "aired": "12/31/2014",
+  "premiered": "FALL 2014",
+  "duration": "23m",
+  "episodesCount": "4",
+  "genres": [
+    "Comedy",
+    "Ecchi",
+    "Mystery",
+    "Supernatural"
+  ],
+  "rating": "7.9",
+  "type": "TV",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Shaft",
+  "producers": [],
+  "seasons": [],
+  "malId": "28025",
+  "streamingId": "20918",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Yotsugi Doll, Part One",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20918/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20918/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/28025/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/28025/1/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "2",
+      "title": "Yotsugi Doll, Part Two",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20918/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20918/2/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/28025/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/28025/2/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "3",
+      "title": "Yotsugi Doll, Part Three",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20918/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20918/3/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/28025/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/28025/3/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "4",
+      "title": "Yotsugi Doll, Part Four",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20918/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20918/4/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/28025/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/28025/4/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
