@@ -1,0 +1,52 @@
+{
+  "title": "Grave of the Fireflies",
+  "synopsis": "In the aftermath of a World War II bombing, two orphaned children struggle to survive in the Japanese countryside. To Seita and his four-year-old sister, the helplessness and indifference of their countrymen is even more painful than the enemy raids. Through desperation, hunger and grief, these children's lives are as heartbreakingly fragile as their spirit and love is inspiring.\n(Source: Sentai Filmworks)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx578-vU6XcOlb1XFU.jpg",
+  "synonym": "Hotaru no Haka",
+  "native": "火垂るの墓",
+  "aired": "4/15/1988",
+  "premiered": "SPRING 1988",
+  "duration": "88m",
+  "episodesCount": "1",
+  "genres": [
+    "Drama"
+  ],
+  "rating": "8.3",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Studio Ghibli",
+  "producers": [],
+  "seasons": [],
+  "malId": "578",
+  "streamingId": "578",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/578/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/578/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/578/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/578/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
