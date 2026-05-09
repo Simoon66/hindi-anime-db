@@ -1,0 +1,56 @@
+{
+  "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+  "synopsis": "In the aftermath of the Fourth Impact, stranded without their Evangelions, Shinji, Asuka, and Rei find refuge in one of the rare pockets of humanity that still exist on the ruined planet Earth. There, each of them live a life far different from their days as an Evangelion pilot. However, the danger to the world is far from over. A new impact is looming on the horizon—one that will prove to be the true end of Evangelion. Finally, the Human Instrumentality Project is set in motion, and WILLE makes one last grueling stand to prevent the Final Impact.\n\nNote: Exists in several versions, as denoted by the version number:\n• 3.0+1.0: March 8, 2021 - Original theatrical release\n•  3.0+1.01: June 12, 2021 - A second theatrical release which features updated cuts of various scenes while not changing the overall story of the film.\n•  3.0+1.11: March 8, 2023 - A home media release scheduled for the film's two-year anniversary.",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3786-Tpt9iM72dxTv.jpg",
+  "synonym": "Shin Evangelion Movie:||",
+  "native": "シン・エヴァンゲリオン劇場版:||",
+  "aired": "3/8/2021",
+  "premiered": "WINTER 2021",
+  "duration": "155m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Drama",
+    "Mecha",
+    "Psychological",
+    "Sci-Fi"
+  ],
+  "rating": "8.5",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Studio Khara",
+  "producers": [],
+  "seasons": [],
+  "malId": "3786",
+  "streamingId": "3786",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/3786/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/3786/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/3786/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/3786/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
