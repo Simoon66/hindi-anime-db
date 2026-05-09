@@ -1,0 +1,57 @@
+{
+  "title": "Kizumonogatari Part 3: Reiketsu",
+  "synopsis": "First season of the Monogatari Series, part 4/6. Contains the arc Koyomi Vamp from the Kizumonogatari light novel.\n\nWith help from Meme Oshino, the apparition specialist, Koyomi defeats the three powerful vampire hunters: Dramaturgy, Episode and Guillotinecutter. Koyomi takes back all the limbs of Kiss-Shot Acerola-Orion Heart-Under-Blade in order to become a human again. But, when he returns to Kiss-Shot, she reveals to him the cold truth of what it means to be a vampire—a creature of the night. Unable to take back what he has done, Koyomi feels nothing but regret and can only deny his dreadful fate. While Koyomi is struggling to face reality, his “friend” Tsubasa Hanekawa comes to him with a certain plan…\n\n(Source: Aniplex)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21400-38ykNo3j4xXo.png",
+  "synonym": "Kizumonogatari III: Reiketsu-hen",
+  "native": "傷物語〈Ⅲ冷血篇〉",
+  "aired": "1/6/2017",
+  "premiered": "WINTER 2017",
+  "duration": "82m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Drama",
+    "Ecchi",
+    "Mystery",
+    "Psychological",
+    "Supernatural"
+  ],
+  "rating": "8.7",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Shaft",
+  "producers": [],
+  "seasons": [],
+  "malId": "31758",
+  "streamingId": "21400",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21400/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21400/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31758/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31758/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
