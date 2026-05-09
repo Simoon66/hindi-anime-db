@@ -1,0 +1,55 @@
+{
+  "title": "Code Geass: Lelouch of the Re;surrection",
+  "synopsis": "The story takes place several years after Lelouch's \"Zero Requiem\" plan. \nHe gave up his life to save the world and protect the ones he loved. The day Lelouch vi Brittannia fell was the day this war-torn world found peace. Now, as his friends work to keep the peace, a terrorist attack could risk everything. Can the brilliant tactician outwit death and save them all? Or will Lelouch’s legacy fall here? \n(Source: Funimation Films)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97880-sZWHViJfrvXm.jpg",
+  "synonym": "Code Geass: Fukkatsu no Lelouch",
+  "native": "コードギアス 復活のルルーシュ",
+  "aired": "2/9/2019",
+  "premiered": "WINTER 2019",
+  "duration": "115m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Drama",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "rating": "7.7",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Sunrise",
+  "producers": [],
+  "seasons": [],
+  "malId": "34437",
+  "streamingId": "97880",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/97880/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/97880/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34437/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34437/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
