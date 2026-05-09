@@ -1,0 +1,55 @@
+{
+  "title": "The Quintessential Quintuplets Movie",
+  "synopsis": "A sequel film to Go-toubun no Hanayome ∬. \nWhen five lovely young girls who hate studying hire part-time tutor Futaro, he guides not only their education but also their hearts. Time spent has brought them all closer, with feelings growing within the girls and Futaro. As they finish their third year of high school and their last school festival approaches, they set their sights on what’s next. Is there a future with one of them and Futaro?   \n(Source: Crunchyroll) ",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131520-89Qfo8JnGHI3.png",
+  "synonym": "Go-toubun no Hanayome Movie",
+  "native": "映画 五等分の花嫁",
+  "aired": "5/20/2022",
+  "premiered": "SPRING 2022",
+  "duration": "136m",
+  "episodesCount": "1",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Slice of Life"
+  ],
+  "rating": "7.8",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Bibury Animation Studios",
+  "producers": [],
+  "seasons": [],
+  "malId": "48548",
+  "streamingId": "131520",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/131520/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/131520/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/48548/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/48548/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
