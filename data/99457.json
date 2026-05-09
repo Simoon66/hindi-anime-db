@@ -1,0 +1,54 @@
+{
+  "title": "Maquia: When the Promised Flower Blooms",
+  "synopsis": "The people of Iorph live far away from the lands of men, weaving the happenings of each day into a fabric called Hibiol. They live for centuries while maintaining their youthful appearance. Maquia, an orphaned Iorph girl, lives her life in an oasis surrounded by friends, yet somehow feels “alone”. But the tranquil lives of the Iorph are shattered in an instant when the Mezarte army invades their territory on a dragon fleet, seeking the blood that grants the Iorph long life. Maquia manages to escape, but loses her friends and her home in the chaos. She then encounters an orphaned baby who is “alone”. Maquia raises this boy \"Ariel\", with the help of some new friends. But as the era changes, the bond between Maquia and Ariel changes too, amidst a backdrop of racial tensions between the Iorph and the Mezarte. This is a story of irreplaceable time, woven by two lonely people who can only find solace in each other.\n\n(Source: Eleven Arts)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99457-OD0xtM8NlHNQ.png",
+  "synonym": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
+  "native": "さよならの朝に約束の花をかざろう",
+  "aired": "2/24/2018",
+  "premiered": "WINTER 2018",
+  "duration": "115m",
+  "episodesCount": "1",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Psychological"
+  ],
+  "rating": "8.2",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "P.A.WORKS",
+  "producers": [],
+  "seasons": [],
+  "malId": "35851",
+  "streamingId": "99457",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/99457/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/99457/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/35851/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/35851/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
