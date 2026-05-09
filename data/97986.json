@@ -29,7 +29,7 @@
   "episodes": [
     {
       "episode": "1",
-      "title": "Episode 1",
+      "title": "The City of the Great Pit",
       "files": [
         {
           "name": "HD-1",
@@ -40,12 +40,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/97986/1/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/1/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "2",
-      "title": "Episode 2",
+      "title": "Resurrection Festival",
       "files": [
         {
           "name": "HD-1",
@@ -56,12 +66,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/97986/2/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/2/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "3",
-      "title": "Episode 3",
+      "title": "Departure",
       "files": [
         {
           "name": "HD-1",
@@ -72,12 +92,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/97986/3/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/3/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "4",
-      "title": "Episode 4",
+      "title": "The Edge of the Abyss",
       "files": [
         {
           "name": "HD-1",
@@ -88,12 +118,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/97986/4/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/4/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "5",
-      "title": "Episode 5",
+      "title": "Incinerator",
       "files": [
         {
           "name": "HD-1",
@@ -104,12 +144,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/97986/5/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/5/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "6",
-      "title": "Episode 6",
+      "title": "Seeker Camp",
       "files": [
         {
           "name": "HD-1",
@@ -120,12 +170,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/97986/6/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/6/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "7",
-      "title": "Episode 7",
+      "title": "The Unmovable Sovereign",
       "files": [
         {
           "name": "HD-1",
@@ -136,12 +196,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/97986/7/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/7/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "8",
-      "title": "Episode 8",
+      "title": "Survival Training",
       "files": [
         {
           "name": "HD-1",
@@ -152,12 +222,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/97986/8/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/8/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "9",
-      "title": "Episode 9",
+      "title": "The Great Fault",
       "files": [
         {
           "name": "HD-1",
@@ -168,12 +248,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/97986/9/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/9/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "10",
-      "title": "Episode 10",
+      "title": "Poison and the Curse",
       "files": [
         {
           "name": "HD-1",
@@ -184,12 +274,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/97986/10/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/10/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/10/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "11",
-      "title": "Episode 11",
+      "title": "Nanachi",
       "files": [
         {
           "name": "HD-1",
@@ -200,12 +300,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/97986/11/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/11/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/11/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "12",
-      "title": "Episode 12",
+      "title": "The True Nature of the Curse",
       "files": [
         {
           "name": "HD-1",
@@ -216,12 +326,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/97986/12/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/12/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/12/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "13",
-      "title": "Episode 13",
+      "title": "The Challengers",
       "files": [
         {
           "name": "HD-1",
@@ -231,6 +351,16 @@
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/97986/13/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/13/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34599/13/dub",
           "type": "dub"
         }
       ]
