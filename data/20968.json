@@ -1,0 +1,56 @@
+{
+  "title": "The Anthem of the Heart",
+  "synopsis": "Jun is a girl whose words have been sealed away. She was once a very happy girl, but because of a certain thing she said when she was very young, her family was torn apart. One day, the egg fairy appeared in front of her and sealed away her ability to talk in order to stop her from hurting anybody else. Since this traumatic experience, Jun lives in the shadows away from the limelight. But, one day, she is nominated to become an executive member of the \"community outreach council.\" On top of that, Jun is also appointed to play the main lead in their musical...\n\n(Source: Official website)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20968-0zFVsoFUYjeh.jpg",
+  "synonym": "Kokoro ga Sakebitagatterun da.",
+  "native": "心が叫びたがってるんだ。",
+  "aired": "9/19/2015",
+  "premiered": "SUMMER 2015",
+  "duration": "119m",
+  "episodesCount": "1",
+  "genres": [
+    "Drama",
+    "Music",
+    "Psychological",
+    "Romance",
+    "Slice of Life"
+  ],
+  "rating": "7.6",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "A-1 Pictures",
+  "producers": [],
+  "seasons": [],
+  "malId": "28725",
+  "streamingId": "20968",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20968/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20968/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/28725/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/28725/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
