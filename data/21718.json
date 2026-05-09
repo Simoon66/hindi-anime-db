@@ -1,0 +1,57 @@
+{
+  "title": "Fate/stay night [Heaven's Feel] II. lost butterfly",
+  "synopsis": "The second film in a trilogy adaptation of the 3rd route of the popular visual novel: Fate/stay night.\n\nShirou Emiya made his choice: to keep fighting, and to protect Sakura Matou. Due to the participation of Zouken Matou in the Holy Grail War, and his summoning of the Servant True Assassin, things begin to distort, steadily worsening day by day. Resolved to protect Sakura and not betray her, Shirou refuses to leave the battle. While Sakura worries about Shirou, she also finds herself entangled in her own fate as a mage. However, their fervent wishes are about be crushed by the mysterious black shadow that covers the city, killing Masters and Servants one by one…\n\n(Source: Aniplex of America)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21718-Hjj26Sapx1bd.jpg",
+  "synonym": "Fate/stay night [Heaven's Feel] II. lost butterfly",
+  "native": "Fate/stay night[Heaven's Feel] ⅠⅠ.lost butterfly",
+  "aired": "1/12/2019",
+  "premiered": "WINTER 2019",
+  "duration": "117m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Psychological",
+    "Romance",
+    "Supernatural",
+    "Thriller"
+  ],
+  "rating": "8.4",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "ufotable",
+  "producers": [],
+  "seasons": [],
+  "malId": "33049",
+  "streamingId": "21718",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21718/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21718/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33049/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33049/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
