@@ -1,0 +1,54 @@
+{
+  "title": "The Tunnel to Summer, the Exit of Goodbyes",
+  "synopsis": "Urashima Tunnel - Once you enter that tunnel, you can get whatever you want, but at a price. Kaoru Tohno, who seems to have an elusive personality and traumatic past, and Anzu Hanashiro, who is struggling to reconcile her ideal image and true-to-heart attitude, team up to investigate the Urashima Tunnel and get what they want. This is an unforgettable summer story of nostalgia and sprinting in a remote countryside.(Source: HIDIVE)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142769-kNyyqpwC9gGV.jpg",
+  "synonym": "Natsu e no Tunnel, Sayonara no Deguchi",
+  "native": "夏へのトンネル、さよならの出口",
+  "aired": "9/9/2022",
+  "premiered": "SUMMER 2022",
+  "duration": "83m",
+  "episodesCount": "1",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Supernatural"
+  ],
+  "rating": "7.9",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "CLAP",
+  "producers": [],
+  "seasons": [],
+  "malId": "50593",
+  "streamingId": "142769",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/142769/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/142769/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50593/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50593/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
