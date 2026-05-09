@@ -1,0 +1,54 @@
+{
+  "title": "Castle in the Sky",
+  "synopsis": "This high-flying adventure begins when Pazu, an engineer's apprentice, finds a young girl, Sheeta, floating down from the sky wearing a glowing pendant. Together they discover both are searching for a legendary floating castle, Laputa, and vow to unravel the mystery of the luminous crystal around Sheeta's neck. Their quest won't be easy, however. There are greedy air pirates, secret government agents and astounding obstacles to keep them from the truth, and from each other.\n(Source: Disney)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx513-yM7Dlt65N4Rl.jpg",
+  "synonym": "Tenkuu no Shiro Laputa",
+  "native": "天空の城ラピュタ",
+  "aired": "8/2/1986",
+  "premiered": "SUMMER 1986",
+  "duration": "125m",
+  "episodesCount": "1",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "rating": "8.0",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Studio Ghibli",
+  "producers": [],
+  "seasons": [],
+  "malId": "513",
+  "streamingId": "513",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/513/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/513/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/513/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/513/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
