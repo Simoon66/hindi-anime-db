@@ -1,0 +1,54 @@
+{
+  "title": "The Girl Who Leapt Through Time",
+  "synopsis": "The power to travel through time... It can be used for the good of humanity, or just selfishly abused. While many may fantasize about obtaining such a power, it has become nothing less than reality for otherwise-normal schoolgirl Konno Makoto.\nAfter a fated event, her life takes a turn for the extraordinary. Though she initially uses her power to literally \"leap\" into the past and change little things in order to make her life easier, she soon has to face the fact that changing the past can have drastic consequences.\n",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2236-tH5fWFkHyVGg.png",
+  "synonym": "Toki wo Kakeru Shoujo",
+  "native": "時をかける少女",
+  "aired": "7/15/2006",
+  "premiered": "SUMMER 2006",
+  "duration": "97m",
+  "episodesCount": "1",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "rating": "7.8",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "MADHOUSE",
+  "producers": [],
+  "seasons": [],
+  "malId": "2236",
+  "streamingId": "2236",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/2236/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/2236/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/2236/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/2236/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
