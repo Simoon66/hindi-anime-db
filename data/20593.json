@@ -1,0 +1,159 @@
+{
+  "title": "Hanamonogatari",
+  "synopsis": "Second season of the Monogatari Series, part 2/2. Contains the arc Suruga Devil from the Hanamonogatari light novel.\n\nNow that Koyomi Araragi and Hitagi Senjougahara have graduated, few familiar faces remain at Naoetsu Private High School. One of them is Suruga Kanbaru, holder of the Monkey's Paw. When she begins to hear talk of a mysterious being known as the \"Devil,\" who will magically solve any problem, she immediately thinks these rumors are about her and decides to investigate.\n\nKanbaru discovers the Devil is actually Rouka Numachi, a former rival who provides free advice to those who seek her out now that she can no longer play basketball due to a leg injury. As a collector of misfortune, Numachi enjoys relieving her clients' stress by giving them false hope. Though Kanbaru sees no real harm being done, she reprimands Rouka for lying and heads home, relieved she is not the cause of the rumors. But the next morning, when she finds that her left hand has reverted back to its original form, she may have a reason to worry after all.\n",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20593-ri6S0Qt3mFkv.jpg",
+  "synonym": "Hanamonogatari",
+  "native": "花物語",
+  "aired": "8/16/2014",
+  "premiered": "SUMMER 2014",
+  "duration": "24m",
+  "episodesCount": "5",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Psychological",
+    "Supernatural"
+  ],
+  "rating": "7.8",
+  "type": "TV",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Shaft",
+  "producers": [],
+  "seasons": [],
+  "malId": "21855",
+  "streamingId": "20593",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Suruga Devil, Part One",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20593/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20593/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21855/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21855/1/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "2",
+      "title": "Suruga Devil, Part Two",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20593/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20593/2/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21855/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21855/2/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "3",
+      "title": "Suruga Devil, Part Three",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20593/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20593/3/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21855/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21855/3/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "4",
+      "title": "Suruga Devil, Part Four",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20593/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20593/4/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21855/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21855/4/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "5",
+      "title": "Suruga Devil, Part Five",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20593/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20593/5/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21855/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21855/5/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
