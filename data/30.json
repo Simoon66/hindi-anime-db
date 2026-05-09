@@ -1,0 +1,447 @@
+{
+  "title": "Neon Genesis Evangelion",
+  "synopsis": "In the year 2015, the Angels, huge, tremendously powerful, alien war machines, appear in Tokyo for the second time. The only hope for Mankind's survival lies in the Evangelion, a humanoid fighting machine developed by NERV, a special United Nations agency. Capable of withstanding anything the Angels can dish out, the Evangelion's one drawback lies in the limited number of people able to pilot them. Only a handful of teenagers, all born fourteen years ago, nine months after the Angels first appeared, are able to interface with the Evangelion. One such teenager is Shinji Ikari, whose father heads the NERV team that developed and maintains the Evangelion. Thrust into a maelstrom of battle and events that he does not understand, Shinji is forced to plumb the depths of his own inner resources for the courage and strength to not only fight, but to survive, or risk losing everything. \n(Source: AniDB)\n\n Note: Later releases include edited versions of Episodes 21-24 called the \"Director's Cut\" with some visual editing and adding extra scenes that appeared in the theatrical recap 'Death'.",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx30-AI1zr74Dh4ye.jpg",
+  "synonym": "Shin Seiki Evangelion",
+  "native": "新世紀エヴァンゲリオン",
+  "aired": "10/3/1995",
+  "premiered": "FALL 1995",
+  "duration": "24m",
+  "episodesCount": "26",
+  "genres": [
+    "Action",
+    "Drama",
+    "Mecha",
+    "Mystery",
+    "Psychological",
+    "Sci-Fi"
+  ],
+  "rating": "8.3",
+  "type": "TV",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Gainax",
+  "producers": [],
+  "seasons": [],
+  "malId": "30",
+  "streamingId": "30",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/1/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "2",
+      "title": "Episode 2",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/2/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "3",
+      "title": "Episode 3",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/3/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "4",
+      "title": "Episode 4",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/4/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "5",
+      "title": "Episode 5",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/5/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "6",
+      "title": "Episode 6",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/6/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "7",
+      "title": "Episode 7",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/7/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "8",
+      "title": "Episode 8",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/8/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "9",
+      "title": "Episode 9",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/9/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "10",
+      "title": "Episode 10",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/10/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/10/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "11",
+      "title": "Episode 11",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/11/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/11/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "12",
+      "title": "Episode 12",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/12/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/12/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "13",
+      "title": "Episode 13",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/13/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/13/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "14",
+      "title": "Episode 14",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/14/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/14/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "15",
+      "title": "Episode 15",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/15/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/15/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "16",
+      "title": "Episode 16",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/16/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/16/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "17",
+      "title": "Episode 17",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/17/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/17/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "18",
+      "title": "Episode 18",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/18/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/18/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "19",
+      "title": "Episode 19",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/19/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/19/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "20",
+      "title": "Episode 20",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/20/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/20/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "21",
+      "title": "Episode 21",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/21/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/21/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "22",
+      "title": "Episode 22",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/22/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/22/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "23",
+      "title": "Episode 23",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/23/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/23/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "24",
+      "title": "Episode 24",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/24/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/24/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "25",
+      "title": "Episode 25",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/25/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/25/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "26",
+      "title": "Episode 26",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/26/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/30/26/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
