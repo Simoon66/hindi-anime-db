@@ -1,0 +1,57 @@
+{
+  "title": "Kizumonogatari Part 2: Nekketsu",
+  "synopsis": "First season of the Monogatari Series, part 3/6. Contains the arc Koyomi Vamp from the Kizumonogatari light novel.\n\nIn the spring of his second year of high school, Koyomi Araragi met the beautiful vampire Kiss-Shot Acerola-Orion Heart-Under-Blade. Koyomi saved Kiss-shot, who was on the verge of death with all four of her limbs cut off, but only at the expense of becoming her minion and a vampire. “In order to go back to being a human again, you must take back all of Kiss-shot’s limbs.” After receiving advice from Meme Oshino, an expert in the supernatural, Koyomi prepares to go into battle.\n\nAwaiting him are three powerful vampire hunters—Dramaturgy, a giant vampire hunter who is a vampire himself. Episode, a half-vampire who wields an enormous cross, and Guillotinecutter, a quiet man who specializes in killing vampires. Will Koyomi be able to take back Kiss-Shot’s limbs from the vampire hunters? Amidst the soft spring rain, the curtain rises on this fateful blood bath…\n\n(Source: Aniplex)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21399-VTAdAqc8u5AE.png",
+  "synonym": "Kizumonogatari II: Nekketsu-hen",
+  "native": "傷物語〈Ⅱ熱血篇〉",
+  "aired": "8/19/2016",
+  "premiered": "SUMMER 2016",
+  "duration": "68m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Drama",
+    "Ecchi",
+    "Mystery",
+    "Psychological",
+    "Supernatural"
+  ],
+  "rating": "8.5",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Shaft",
+  "producers": [],
+  "seasons": [],
+  "malId": "31757",
+  "streamingId": "21399",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21399/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21399/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31757/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31757/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
