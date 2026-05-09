@@ -1,0 +1,55 @@
+{
+  "title": "Suzume",
+  "synopsis": "The story follows Suzume, a 17-year-old girl from a quiet Kyushu town who meets a young man looking for a door. They find a door within ruins in the mountain, and Suzume opens it. Soon, more doors begin to open around Japan, bringing disasters from the other side. The film depicts Suzume's liberation and growth, as she closes the doors that are causing disaster.\n\n(Source: Anime News Network)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142770-dDaDIRnsv5jN.jpg",
+  "synonym": "Suzume no Tojimari",
+  "native": "すずめの戸締まり",
+  "aired": "11/11/2022",
+  "premiered": "FALL 2022",
+  "duration": "121m",
+  "episodesCount": "1",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Mystery",
+    "Supernatural"
+  ],
+  "rating": "8.1",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "CoMix Wave",
+  "producers": [],
+  "seasons": [],
+  "malId": "50594",
+  "streamingId": "142770",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/142770/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/142770/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50594/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50594/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
