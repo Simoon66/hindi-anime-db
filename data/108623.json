@@ -1,0 +1,54 @@
+{
+  "title": "GOBLIN SLAYER -GOBLIN’S CROWN-",
+  "synopsis": "“Please find any information on the Noble Fencer that disappeared after leaving to slay some goblins.”\n\nGoblin Slayer and his party head up to the snowy mountains in the north after receiving that request from the Sword Maiden. A small village gets attacked, they encounter a mysterious chapel, and something about how these goblins are acting bothers the Goblin slayer.\n\n“I’m going to take back everything that I’ve lost!”\n\nIn order to save the captured Noble Fencer, the Goblin Slayer and his party head to an ancient fortress covered in snow to face off with a powerful foe and a horde of goblins!\n\n(Source: Crunchyroll)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108623-pREPeutedpc2.jpg",
+  "synonym": "Goblin Slayer: GOBLIN'S CROWN",
+  "native": "ゴブリンスレイヤー -GOBLIN'S CROWN-",
+  "aired": "2/1/2020",
+  "premiered": "WINTER 2020",
+  "duration": "60m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "rating": "7.1",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "WHITE FOX",
+  "producers": [],
+  "seasons": [],
+  "malId": "39576",
+  "streamingId": "108623",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/108623/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/108623/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/39576/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/39576/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
