@@ -1,0 +1,55 @@
+{
+  "title": "The Disappearance of Haruhi Suzumiya",
+  "synopsis": "It is mid-December, and SOS Brigade chief Haruhi Suzumiya announces that the Brigade is going to hold a Christmas party in their clubroom, with Japanese hotpot for dinner. The brigade members Kyon, Yuki Nagato, Mikuru Asahina and Itsuki Koizumi start preparing everything for the party, such as costumes and decorations. But a couple of days later, Kyon arrives at school only to find that Haruhi is missing. Not only that, but Mikuru claims she has never known Kyon before, Koizumi is also missing, and Yuki has become the sole member of the literature club. The SOS Brigade seems to have never existed, nor has Haruhi Suzumiya. No one in the school has ever heard about her... except for Kyon.\n(Source: Anime News Network)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7311-9Mfc1YRHwCCW.jpg",
+  "synonym": "Suzumiya Haruhi no Shoushitsu",
+  "native": "涼宮ハルヒの消失",
+  "aired": "2/6/2010",
+  "premiered": "WINTER 2010",
+  "duration": "162m",
+  "episodesCount": "1",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi",
+    "Supernatural"
+  ],
+  "rating": "8.6",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Kyoto Animation",
+  "producers": [],
+  "seasons": [],
+  "malId": "7311",
+  "streamingId": "7311",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/7311/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/7311/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/7311/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/7311/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
