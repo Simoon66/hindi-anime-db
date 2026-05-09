@@ -28,7 +28,7 @@
   "episodes": [
     {
       "episode": "1",
-      "title": "Episode 1",
+      "title": "Cruelty",
       "files": [
         {
           "name": "HD-1",
@@ -39,12 +39,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/1/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/1/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "2",
-      "title": "Episode 2",
+      "title": "Trainer Sakonji Urokodaki",
       "files": [
         {
           "name": "HD-1",
@@ -55,12 +65,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/2/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/2/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "3",
-      "title": "Episode 3",
+      "title": "Sabito and Makomo",
       "files": [
         {
           "name": "HD-1",
@@ -71,12 +91,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/3/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/3/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "4",
-      "title": "Episode 4",
+      "title": "Final Selection",
       "files": [
         {
           "name": "HD-1",
@@ -87,12 +117,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/4/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/4/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "5",
-      "title": "Episode 5",
+      "title": "My Own Steel",
       "files": [
         {
           "name": "HD-1",
@@ -103,12 +143,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/5/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/5/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "6",
-      "title": "Episode 6",
+      "title": "Swordsman Accompanying a Demon",
       "files": [
         {
           "name": "HD-1",
@@ -119,12 +169,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/6/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/6/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "7",
-      "title": "Episode 7",
+      "title": "Muzan Kibutsuji",
       "files": [
         {
           "name": "HD-1",
@@ -135,12 +195,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/7/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/7/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "8",
-      "title": "Episode 8",
+      "title": "The Smell of Enchanting Blood",
       "files": [
         {
           "name": "HD-1",
@@ -151,12 +221,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/8/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/8/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "9",
-      "title": "Episode 9",
+      "title": "Temari Demon and Arrow Demon",
       "files": [
         {
           "name": "HD-1",
@@ -167,12 +247,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/9/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/9/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "10",
-      "title": "Episode 10",
+      "title": "Together Forever",
       "files": [
         {
           "name": "HD-1",
@@ -183,12 +273,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/10/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/10/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/10/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "11",
-      "title": "Episode 11",
+      "title": "Tsuzumi Mansion",
       "files": [
         {
           "name": "HD-1",
@@ -199,12 +299,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/11/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/11/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/11/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "12",
-      "title": "Episode 12",
+      "title": "The Boar Bares Its Fangs, Zenitsu Sleeps",
       "files": [
         {
           "name": "HD-1",
@@ -215,12 +325,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/12/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/12/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/12/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "13",
-      "title": "Episode 13",
+      "title": "Something More Important Than Life",
       "files": [
         {
           "name": "HD-1",
@@ -231,12 +351,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/13/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/13/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/13/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "14",
-      "title": "Episode 14",
+      "title": "The House with the Wisteria Family Crest",
       "files": [
         {
           "name": "HD-1",
@@ -247,12 +377,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/14/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/14/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/14/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "15",
-      "title": "Episode 15",
+      "title": "Mount Natagumo",
       "files": [
         {
           "name": "HD-1",
@@ -263,12 +403,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/15/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/15/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/15/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "16",
-      "title": "Episode 16",
+      "title": "Letting Someone Else Go First",
       "files": [
         {
           "name": "HD-1",
@@ -279,12 +429,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/16/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/16/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/16/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "17",
-      "title": "Episode 17",
+      "title": "You Must Master a Single Thing",
       "files": [
         {
           "name": "HD-1",
@@ -295,12 +455,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/17/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/17/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/17/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "18",
-      "title": "Episode 18",
+      "title": "A Forged Bond",
       "files": [
         {
           "name": "HD-1",
@@ -311,12 +481,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/18/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/18/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/18/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "19",
-      "title": "Episode 19",
+      "title": "Hinokami",
       "files": [
         {
           "name": "HD-1",
@@ -327,12 +507,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/19/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/19/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/19/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "20",
-      "title": "Episode 20",
+      "title": "Pretend Family",
       "files": [
         {
           "name": "HD-1",
@@ -343,12 +533,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/20/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/20/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/20/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "21",
-      "title": "Episode 21",
+      "title": "Against Corps Rules",
       "files": [
         {
           "name": "HD-1",
@@ -359,12 +559,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/21/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/21/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/21/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "22",
-      "title": "Episode 22",
+      "title": "Master of the Mansion",
       "files": [
         {
           "name": "HD-1",
@@ -375,12 +585,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/22/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/22/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/22/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "23",
-      "title": "Episode 23",
+      "title": "Hashira Meeting",
       "files": [
         {
           "name": "HD-1",
@@ -391,12 +611,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/23/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/23/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/23/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "24",
-      "title": "Episode 24",
+      "title": "Rehabilitation Training",
       "files": [
         {
           "name": "HD-1",
@@ -407,12 +637,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/24/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/24/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/24/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "25",
-      "title": "Episode 25",
+      "title": "Tsuguko, Kanao Tsuyuri",
       "files": [
         {
           "name": "HD-1",
@@ -423,12 +663,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/25/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/25/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/25/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "26",
-      "title": "Episode 26",
+      "title": "New Mission",
       "files": [
         {
           "name": "HD-1",
@@ -438,6 +688,16 @@
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101922/26/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/26/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38000/26/dub",
           "type": "dub"
         }
       ]
