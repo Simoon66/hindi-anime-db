@@ -27,7 +27,7 @@
   "episodes": [
     {
       "episode": "1",
-      "title": "Episode 1",
+      "title": "Operation Strix",
       "files": [
         {
           "name": "HD-1",
@@ -38,12 +38,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/140960/1/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50265/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50265/1/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "2",
-      "title": "Episode 2",
+      "title": "Secure a Wife",
       "files": [
         {
           "name": "HD-1",
@@ -54,12 +64,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/140960/2/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50265/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50265/2/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "3",
-      "title": "Episode 3",
+      "title": "Prepare for the Interview",
       "files": [
         {
           "name": "HD-1",
@@ -70,12 +90,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/140960/3/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50265/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50265/3/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "4",
-      "title": "Episode 4",
+      "title": "The Prestigious School's Interview",
       "files": [
         {
           "name": "HD-1",
@@ -86,12 +116,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/140960/4/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50265/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50265/4/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "5",
-      "title": "Episode 5",
+      "title": "Will They Pass or Fail",
       "files": [
         {
           "name": "HD-1",
@@ -102,12 +142,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/140960/5/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50265/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50265/5/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "6",
-      "title": "Episode 6",
+      "title": "The Friendship Scheme",
       "files": [
         {
           "name": "HD-1",
@@ -118,12 +168,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/140960/6/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50265/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50265/6/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "7",
-      "title": "Episode 7",
+      "title": "The Target's Second Son",
       "files": [
         {
           "name": "HD-1",
@@ -134,12 +194,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/140960/7/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50265/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50265/7/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "8",
-      "title": "Episode 8",
+      "title": "The Counter-Secret Police Cover Operation",
       "files": [
         {
           "name": "HD-1",
@@ -150,12 +220,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/140960/8/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50265/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50265/8/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "9",
-      "title": "Episode 9",
+      "title": "Show Off How in Love You Are",
       "files": [
         {
           "name": "HD-1",
@@ -166,12 +246,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/140960/9/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50265/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50265/9/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "10",
-      "title": "Episode 10",
+      "title": "The Great Dodgeball Plan",
       "files": [
         {
           "name": "HD-1",
@@ -182,12 +272,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/140960/10/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50265/10/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50265/10/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "11",
-      "title": "Episode 11",
+      "title": "STELLA",
       "files": [
         {
           "name": "HD-1",
@@ -198,12 +298,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/140960/11/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50265/11/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50265/11/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "12",
-      "title": "Episode 12",
+      "title": "Penguin Park",
       "files": [
         {
           "name": "HD-1",
@@ -213,6 +323,16 @@
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/140960/12/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50265/12/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/50265/12/dub",
           "type": "dub"
         }
       ]
