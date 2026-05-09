@@ -1,0 +1,56 @@
+{
+  "title": "Evangelion: 2.0 You Can (Not) Advance",
+  "synopsis": "In the earliest battles against the monstrous Angels, young Eva pilots Shinji and Rei were forced to carry humanity's hopes on their shoulders. Now, with the deadly onslaught of the Angels escalating and the apocalyptic Third Impact looming, Shinji and Rei find their burden shared by two new Eva pilots, the fiery Asuka and the mysterious Mari. Maneuvering their enormous Eva machines into combat, the four young souls fight desperately to save mankind from the heavens—but will they be able to save themselves?\n(Source: FUNimation)\nNote: Exists in several versions, as denoted by the version number:\n• 2.0: Jun 27, 2009 - Original theatrical release\n• 2.22: May 26, 2010 - Blu-ray/DVD release with new scenes and 'readjustments'.",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3784-TGCsqLryKJ2R.jpg",
+  "synonym": "Evangelion Shin Movie: Ha",
+  "native": "ヱヴァンゲリヲン新劇場版:破",
+  "aired": "6/27/2009",
+  "premiered": "SUMMER 2009",
+  "duration": "112m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Drama",
+    "Mecha",
+    "Psychological",
+    "Sci-Fi"
+  ],
+  "rating": "8.1",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Studio Khara",
+  "producers": [],
+  "seasons": [],
+  "malId": "3784",
+  "streamingId": "3784",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/3784/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/3784/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/3784/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/3784/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
