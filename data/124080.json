@@ -26,7 +26,7 @@
   "episodes": [
     {
       "episode": "1",
-      "title": "Episode 1",
+      "title": "A Tiny Happenstance",
       "files": [
         {
           "name": "HD-1",
@@ -37,12 +37,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/124080/1/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/1/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "2",
-      "title": "Episode 2",
+      "title": "You Wear More Than One Face",
       "files": [
         {
           "name": "HD-1",
@@ -53,12 +63,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/124080/2/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/2/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "3",
-      "title": "Episode 3",
+      "title": "That's Why It's Okay",
       "files": [
         {
           "name": "HD-1",
@@ -69,12 +89,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/124080/3/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/3/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "4",
-      "title": "Episode 4",
+      "title": "Everybody Loves Somebody",
       "files": [
         {
           "name": "HD-1",
@@ -85,12 +115,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/124080/4/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/4/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "5",
-      "title": "Episode 5",
+      "title": "I Can't Say It Out Loud",
       "files": [
         {
           "name": "HD-1",
@@ -101,12 +141,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/124080/5/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/5/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "6",
-      "title": "Episode 6",
+      "title": "This Summer's Going to Be a Hot One",
       "files": [
         {
           "name": "HD-1",
@@ -117,12 +167,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/124080/6/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/6/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "7",
-      "title": "Episode 7",
+      "title": "You're Here, I'm Here",
       "files": [
         {
           "name": "HD-1",
@@ -133,12 +193,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/124080/7/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/7/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "8",
-      "title": "Episode 8",
+      "title": "The Truth Deception Reveals",
       "files": [
         {
           "name": "HD-1",
@@ -149,12 +219,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/124080/8/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/8/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "9",
-      "title": "Episode 9",
+      "title": "It's Hard, but Not Impossible",
       "files": [
         {
           "name": "HD-1",
@@ -165,12 +245,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/124080/9/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/9/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "10",
-      "title": "Episode 10",
+      "title": "Until the Snow Melts",
       "files": [
         {
           "name": "HD-1",
@@ -181,12 +271,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/124080/10/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/10/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/10/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "11",
-      "title": "Episode 11",
+      "title": "It May Seem Like Hate",
       "files": [
         {
           "name": "HD-1",
@@ -197,12 +297,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/124080/11/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/11/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/11/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "12",
-      "title": "Episode 12",
+      "title": "Hitherto, and Forevermore",
       "files": [
         {
           "name": "HD-1",
@@ -213,12 +323,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/124080/12/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/12/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/12/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "13",
-      "title": "Episode 13",
+      "title": "I Would Gift You the Sky",
       "files": [
         {
           "name": "HD-1",
@@ -228,6 +348,16 @@
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/124080/13/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/13/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42897/13/dub",
           "type": "dub"
         }
       ]
