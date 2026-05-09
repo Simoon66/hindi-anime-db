@@ -1,0 +1,54 @@
+{
+  "title": "Ghost in the Shell",
+  "synopsis": "2029: A female cybernetic government agent, Major Motoko Kusanagi, and the Internal Bureau of Investigations are hot on the trail of “The Puppet Master,” a mysterious and threatening computer virus capable of infiltrating human hosts. Together with her fellow agents from Section 9, Kusanagi embarks on a high-tech race against time to capture the omnipresent entity.\n\n(Source: Lionsgate Films)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx43-Y6EjeEMM14dj.png",
+  "synonym": "GHOST IN THE SHELL: Koukaku Kidoutai",
+  "native": "GHOST IN THE SHELL / 攻殻機動隊",
+  "aired": "11/18/1995",
+  "premiered": "FALL 1995",
+  "duration": "83m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Psychological",
+    "Sci-Fi"
+  ],
+  "rating": "8.0",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Production I.G",
+  "producers": [],
+  "seasons": [],
+  "malId": "43",
+  "streamingId": "43",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/43/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/43/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/43/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/43/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
