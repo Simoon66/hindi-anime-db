@@ -1,0 +1,55 @@
+{
+  "title": "Sword Art Online the Movie -Progressive- Aria of a Starless Night",
+  "synopsis": "Return to the death game where it all began—Sword Art Online. In this new Aincrad Arc by original creator Reki Kawahara, the story is seen through Asuna’s eyes. What at first seems like a dream come true quickly becomes a nightmare when newbie gamer Asuna Yuuki learns the only way to escape the virtual world of Aincrad is to beat all 100 levels—but “Game Over” means you die in the real world. \n(Source: Crunchyroll)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124140-HNL0CpH6ig6y.png",
+  "synonym": "Sword Art Online: Progressive - Hoshinaki Yoru no Aria",
+  "native": "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア",
+  "aired": "10/30/2021",
+  "premiered": "FALL 2021",
+  "duration": "97m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Romance"
+  ],
+  "rating": "7.8",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "A-1 Pictures",
+  "producers": [],
+  "seasons": [],
+  "malId": "42916",
+  "streamingId": "124140",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/124140/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/124140/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42916/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/42916/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
