@@ -1,0 +1,59 @@
+{
+  "title": "Made in Abyss: Dawn of the Deep Soul",
+  "synopsis": "Dawn of the Deep Soul continues the epic adventure of plucky Riko and Reg who are joined by their new friend Nanachi. Together they descend into the Abyss’ treacherous fifth layer, the Sea of Corpses, and encounter the mysterious Bondrewd, a legendary White Whistle whose shadow looms over Nanachi’s troubled past. Bondrewd is ingratiatingly hospitable, but the brave adventurers know things are not always as they seem in the enigmatic Abyss...\n\n(Source: Sentai Filmworks)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100643-fPH9OgEKKvcI.jpg",
+  "synonym": "Made in Abyss: Fukaki Tamashii no Reimei",
+  "native": "メイドインアビス 深き魂の黎明",
+  "aired": "1/17/2020",
+  "premiered": "WINTER 2020",
+  "duration": "105m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Psychological",
+    "Sci-Fi"
+  ],
+  "rating": "8.5",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Kinema Citrus",
+  "producers": [],
+  "seasons": [],
+  "malId": "36862",
+  "streamingId": "100643",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/100643/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/100643/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/36862/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/36862/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
