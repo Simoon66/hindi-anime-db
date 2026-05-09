@@ -27,7 +27,7 @@
   "episodes": [
     {
       "episode": "1",
-      "title": "Episode 1",
+      "title": "Summer Festival Time",
       "files": [
         {
           "name": "HD-1",
@@ -38,12 +38,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/1/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/1/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "2",
-      "title": "Episode 2",
+      "title": "Kaede Time",
       "files": [
         {
           "name": "HD-1",
@@ -54,12 +64,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/2/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/2/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "3",
-      "title": "Episode 3",
+      "title": "Itona Horibe Time",
       "files": [
         {
           "name": "HD-1",
@@ -70,12 +90,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/3/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/3/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "4",
-      "title": "Episode 4",
+      "title": "Spinning Time",
       "files": [
         {
           "name": "HD-1",
@@ -86,12 +116,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/4/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/4/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "5",
-      "title": "Episode 5",
+      "title": "Leader Time",
       "files": [
         {
           "name": "HD-1",
@@ -102,12 +142,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/5/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/5/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "6",
-      "title": "Episode 6",
+      "title": "Before & After Time",
       "files": [
         {
           "name": "HD-1",
@@ -118,12 +168,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/6/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/6/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "7",
-      "title": "Episode 7",
+      "title": "Reaper Time, Part 1",
       "files": [
         {
           "name": "HD-1",
@@ -134,12 +194,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/7/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/7/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "8",
-      "title": "Episode 8",
+      "title": "Reaper Time, Part 2",
       "files": [
         {
           "name": "HD-1",
@@ -150,12 +220,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/8/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/8/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "9",
-      "title": "Episode 9",
+      "title": "Round Two Time",
       "files": [
         {
           "name": "HD-1",
@@ -166,12 +246,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/9/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/9/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "10",
-      "title": "Episode 10",
+      "title": "School Festival Time",
       "files": [
         {
           "name": "HD-1",
@@ -182,12 +272,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/10/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/10/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/10/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "11",
-      "title": "Episode 11",
+      "title": "End-of-Term Time: 2nd Period",
       "files": [
         {
           "name": "HD-1",
@@ -198,12 +298,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/11/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/11/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/11/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "12",
-      "title": "Episode 12",
+      "title": "Think Outside the Box Time",
       "files": [
         {
           "name": "HD-1",
@@ -214,12 +324,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/12/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/12/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/12/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "13",
-      "title": "Episode 13",
+      "title": "Let Live Time",
       "files": [
         {
           "name": "HD-1",
@@ -230,12 +350,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/13/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/13/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/13/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "14",
-      "title": "Episode 14",
+      "title": "Secret Identity Time",
       "files": [
         {
           "name": "HD-1",
@@ -246,12 +376,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/14/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/14/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/14/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "15",
-      "title": "Episode 15",
+      "title": "Confession Time",
       "files": [
         {
           "name": "HD-1",
@@ -262,12 +402,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/15/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/15/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/15/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "16",
-      "title": "Episode 16",
+      "title": "Past Time",
       "files": [
         {
           "name": "HD-1",
@@ -278,12 +428,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/16/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/16/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/16/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "17",
-      "title": "Episode 17",
+      "title": "Discord Time",
       "files": [
         {
           "name": "HD-1",
@@ -294,12 +454,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/17/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/17/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/17/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "18",
-      "title": "Episode 18",
+      "title": "Outcome Time",
       "files": [
         {
           "name": "HD-1",
@@ -310,12 +480,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/18/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/18/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/18/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "19",
-      "title": "Episode 19",
+      "title": "Outer Space Time",
       "files": [
         {
           "name": "HD-1",
@@ -326,12 +506,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/19/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/19/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/19/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "20",
-      "title": "Episode 20",
+      "title": "Valentine's Day Time",
       "files": [
         {
           "name": "HD-1",
@@ -342,12 +532,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/20/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/20/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/20/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "21",
-      "title": "Episode 21",
+      "title": "Trust Time",
       "files": [
         {
           "name": "HD-1",
@@ -358,12 +558,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/21/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/21/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/21/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "22",
-      "title": "Episode 22",
+      "title": "Happy Birthday Time",
       "files": [
         {
           "name": "HD-1",
@@ -374,12 +584,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/22/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/22/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/22/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "23",
-      "title": "Episode 23",
+      "title": "Final Boss Time",
       "files": [
         {
           "name": "HD-1",
@@ -390,12 +610,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/23/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/23/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/23/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "24",
-      "title": "Episode 24",
+      "title": "Graduation Time",
       "files": [
         {
           "name": "HD-1",
@@ -406,12 +636,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/24/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/24/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/24/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "25",
-      "title": "Episode 25",
+      "title": "Future Time",
       "files": [
         {
           "name": "HD-1",
@@ -421,6 +661,16 @@
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21170/25/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/25/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/30654/25/dub",
           "type": "dub"
         }
       ]
