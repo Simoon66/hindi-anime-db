@@ -1,0 +1,55 @@
+{
+  "title": "Wolf Children",
+  "synopsis": "The theme of the film is the love between parents and children. The story covers 13 years and begins with a 19-year-old college student named Hana who encounters and falls in \"fairy tale-like\" love with a \"wolf man.\" After marrying the wolf man, Hana gives birth and raises two wolf children&mdash;an older sister named Yuki who was born on a snowy day, and a younger brother named Ame who was born on a rainy day. The four quietly lived in a corner of a city to conceal the existence of the \"wolf children,\" but when the wolf man suddenly dies, Hana decides to move to a rural town far removed from the city.\n\n(Source: Anime News Network)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12355-wNsvhEsXEgrH.png",
+  "synonym": "Ookami Kodomo no Ame to Yuki",
+  "native": "おおかみこどもの雨と雪",
+  "aired": "6/25/2012",
+  "premiered": "SPRING 2012",
+  "duration": "117m",
+  "episodesCount": "1",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance",
+    "Slice of Life"
+  ],
+  "rating": "8.3",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "MADHOUSE",
+  "producers": [],
+  "seasons": [],
+  "malId": "12355",
+  "streamingId": "12355",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/12355/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/12355/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/12355/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/12355/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
