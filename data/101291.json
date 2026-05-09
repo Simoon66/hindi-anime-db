@@ -29,7 +29,7 @@
   "episodes": [
     {
       "episode": "1",
-      "title": "Episode 1",
+      "title": "My Senpai is a Bunny Girl",
       "files": [
         {
           "name": "HD-1",
@@ -40,12 +40,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101291/1/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/1/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "2",
-      "title": "Episode 2",
+      "title": "On First Dates, Trouble Is Essential",
       "files": [
         {
           "name": "HD-1",
@@ -56,12 +66,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101291/2/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/2/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "3",
-      "title": "Episode 3",
+      "title": "The World Without You",
       "files": [
         {
           "name": "HD-1",
@@ -72,12 +92,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101291/3/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/3/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "4",
-      "title": "Episode 4",
+      "title": "There Is No Tomorrow For A Rascal",
       "files": [
         {
           "name": "HD-1",
@@ -88,12 +118,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101291/4/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/4/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "5",
-      "title": "Episode 5",
+      "title": "All the Lies I Have for You",
       "files": [
         {
           "name": "HD-1",
@@ -104,12 +144,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101291/5/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/5/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "6",
-      "title": "Episode 6",
+      "title": "This World You Choose",
       "files": [
         {
           "name": "HD-1",
@@ -120,12 +170,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101291/6/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/6/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "7",
-      "title": "Episode 7",
+      "title": "Adolescence Paradox",
       "files": [
         {
           "name": "HD-1",
@@ -136,12 +196,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101291/7/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/7/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "8",
-      "title": "Episode 8",
+      "title": "Wash It All Away on a Stormy Night",
       "files": [
         {
           "name": "HD-1",
@@ -152,12 +222,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101291/8/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/8/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "9",
-      "title": "Episode 9",
+      "title": "Sister Panic",
       "files": [
         {
           "name": "HD-1",
@@ -168,12 +248,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101291/9/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/9/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "10",
-      "title": "Episode 10",
+      "title": "Complex Congratulations",
       "files": [
         {
           "name": "HD-1",
@@ -184,12 +274,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101291/10/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/10/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/10/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "11",
-      "title": "Episode 11",
+      "title": "The Kaede Quest",
       "files": [
         {
           "name": "HD-1",
@@ -200,12 +300,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101291/11/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/11/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/11/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "12",
-      "title": "Episode 12",
+      "title": "Life is a Never-Ending Dream",
       "files": [
         {
           "name": "HD-1",
@@ -216,12 +326,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101291/12/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/12/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/12/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "13",
-      "title": "Episode 13",
+      "title": "The Dawn After an Endless Night",
       "files": [
         {
           "name": "HD-1",
@@ -231,6 +351,16 @@
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101291/13/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/13/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37450/13/dub",
           "type": "dub"
         }
       ]
