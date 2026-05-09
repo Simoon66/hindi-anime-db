@@ -1,0 +1,53 @@
+{
+  "title": "LOOK BACK",
+  "synopsis": "Ayumu Fujino is a fourth grader who draws a manga strip for the school newspaper. Her art makes her the star of the class, but one day she's told that Kyomoto, a student who refuses to come to school, would also like to submit a manga for the paper...\n\n(Source: MANGA Plus, edited)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174788-9LsUnn0oEppv.jpg",
+  "synonym": "Look Back",
+  "native": "ルックバック",
+  "aired": "6/28/2024",
+  "premiered": "SPRING 2024",
+  "duration": "58m",
+  "episodesCount": "1",
+  "genres": [
+    "Drama",
+    "Slice of Life"
+  ],
+  "rating": "8.6",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Studio Durian",
+  "producers": [],
+  "seasons": [],
+  "malId": "58125",
+  "streamingId": "174788",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/174788/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/174788/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/58125/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/58125/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
