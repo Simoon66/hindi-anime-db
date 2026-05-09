@@ -1,0 +1,54 @@
+{
+  "title": "Boruto: Naruto the Movie",
+  "synopsis": "Boruto is the son of Naruto who completely rejects his father. Behind this, he has feelings of wanting to surpass Naruto, who is respected as a hero. He ends up meeting his father's friend Sasuke, and requests to become... his apprentice!? The curtain rises on the story of the new generation written by Masashi Kishimoto!\n\n(Source: Anime News Network)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21220-3cWAUtR1Ih5h.jpg",
+  "synonym": "BORUTO: NARUTO THE MOVIE",
+  "native": "BORUTO -NARUTO THE MOVIE-",
+  "aired": "8/7/2015",
+  "premiered": "SUMMER 2015",
+  "duration": "95m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "rating": "7.1",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Studio Pierrot",
+  "producers": [],
+  "seasons": [],
+  "malId": "28755",
+  "streamingId": "21220",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21220/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21220/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/28755/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/28755/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
