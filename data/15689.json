@@ -1,0 +1,134 @@
+{
+  "title": "Nekomonogatari Black",
+  "synopsis": "First season of the Monogatari Series, part 6/6. Contains the arc Tsubasa Family from the Nekomonogatari Black light novel.\n\nOn his way to the bookstore, Koyomi Araragi encounters Tsubasa Hanekawa whose face is covered with a bandage. The incident allows Koyomi to learn what has been happening in the Hanekawa household, but Tsubasa begs him not to tell anyone about it, saying she’ll do anything to keep him quiet. Without revealing her family’s circumstances, Koyomi tells of the day’s incident - he and Tsubasa buried a “cat” that had been hit by a car- to Meme Oshino. Meme tells Koyomi that he must immediately go to confirm Hanekawa’s safety. He heads to her house, only to find...\n\nSo begins the nightmarish nine days of Golden Week.\n\n(Source: Aniplex)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15689-UtRUbaZhV7f9.jpg",
+  "synonym": "Nekomonogatari (Kuro)",
+  "native": "猫物語（黒）",
+  "aired": "12/31/2012",
+  "premiered": "FALL 2012",
+  "duration": "27m",
+  "episodesCount": "4",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Psychological",
+    "Romance",
+    "Supernatural"
+  ],
+  "rating": "7.7",
+  "type": "TV",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Shaft",
+  "producers": [],
+  "seasons": [],
+  "malId": "15689",
+  "streamingId": "15689",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Tsubasa Family, Part One",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/15689/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/15689/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/15689/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/15689/1/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "2",
+      "title": "Tsubasa Family, Part Two",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/15689/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/15689/2/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/15689/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/15689/2/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "3",
+      "title": "Tsubasa Family, Part Three",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/15689/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/15689/3/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/15689/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/15689/3/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "4",
+      "title": "Tsubasa Family, Part Four",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/15689/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/15689/4/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/15689/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/15689/4/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
