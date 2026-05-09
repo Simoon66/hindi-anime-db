@@ -1,0 +1,54 @@
+{
+  "title": "Violet Evergarden: the Movie",
+  "synopsis": "While writing other people’s emotions, she may have neglected her own. Violet Evergarden, the child soldier turned Auto Memory Doll, writes letters that evoke the words her clients can’t. But when a terminally ill boy requests her services for his family, her own feelings about love and loss resurface. Now she must confront her past and the death of the Major.\n\n(Source: Funimation)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103047-odblDHHEdehK.jpg",
+  "synonym": "Violet Evergarden Movie",
+  "native": "劇場版 ヴァイオレット・エヴァーガーデン",
+  "aired": "9/18/2020",
+  "premiered": "SUMMER 2020",
+  "duration": "140m",
+  "episodesCount": "1",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Slice of Life"
+  ],
+  "rating": "8.7",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Kyoto Animation",
+  "producers": [],
+  "seasons": [],
+  "malId": "37987",
+  "streamingId": "103047",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/103047/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/103047/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37987/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37987/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
