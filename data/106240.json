@@ -1,0 +1,55 @@
+{
+  "title": "HELLO WORLD",
+  "synopsis": "In Kyoto in the year 2027, Naomi Katagaki, a male high school student encounters a person who is claiming to be Naomi from 10 years in the future. Together, they must change the future and save a classmate, Ruri, whom the younger Naomi starts to date in three months.",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106240-XeWQ4YhKzv7h.png",
+  "synonym": "HELLO WORLD",
+  "native": "HELLO WORLD",
+  "aired": "9/20/2019",
+  "premiered": "SUMMER 2019",
+  "duration": "98m",
+  "episodesCount": "1",
+  "genres": [
+    "Drama",
+    "Psychological",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "rating": "7.3",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Graphinica",
+  "producers": [],
+  "seasons": [],
+  "malId": "38816",
+  "streamingId": "106240",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/106240/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/106240/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38816/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38816/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
