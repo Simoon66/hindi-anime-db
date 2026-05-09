@@ -1,0 +1,54 @@
+{
+  "title": "Ride Your Wave",
+  "synopsis": "Upon entering university, Hinako moves to a coastal town. She loves surfing, and when she's on the waves she's fearless, but still feels uncertain about her future. When a fire wreaks havoc in the town, Hinako encounters young firefighter Minato. As they surf and spend more time together, Hinako feels drawn to someone like Minato who devotes himself to helping other people. Hinako also holds a special place in Minato's heart.(Source: Toho)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105018-XM7rFyryltjb.jpg",
+  "synonym": "Kimi to, Nami ni Noretara",
+  "native": "きみと、波にのれたら",
+  "aired": "6/21/2019",
+  "premiered": "SPRING 2019",
+  "duration": "94m",
+  "episodesCount": "1",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "rating": "7.6",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Science SARU",
+  "producers": [],
+  "seasons": [],
+  "malId": "38594",
+  "streamingId": "105018",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/105018/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/105018/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38594/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38594/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
