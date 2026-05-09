@@ -1,0 +1,53 @@
+{
+  "title": "The Wind Rises",
+  "synopsis": "Although Jirou Horikoshi's nearsightedness prevents him from ever becoming a pilot, he leaves his hometown to study aeronautical engineering at Tokyo Imperial University for one simple purpose: to design and build planes just like his hero, Italian aircraft pioneer Giovanni Battista Caproni. His arrival in the capital coincides with the Great Kanto Earthquake of 1923, during which he saves a maid serving the family of a young girl named Naoko Satomi; this disastrous event marks the beginning of over two decades of social unrest and malaise leading up to Japan's eventual surrender in World War II.\n",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16662-HUI8irtoTdOJ.jpg",
+  "synonym": "Kaze Tachinu",
+  "native": "風立ちぬ",
+  "aired": "7/20/2013",
+  "premiered": "SUMMER 2013",
+  "duration": "126m",
+  "episodesCount": "1",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "rating": "8.0",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Studio Ghibli",
+  "producers": [],
+  "seasons": [],
+  "malId": "16662",
+  "streamingId": "16662",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/16662/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/16662/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/16662/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/16662/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
