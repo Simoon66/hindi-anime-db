@@ -1,10 +1,10 @@
 {
   "title": "ERASED",
   "synopsis": "Satoru Fujinuma is a 29 year old manga artist struggling to make a name for himself following his debut. But, that was not the only thing in his life that Satoru was feeling frustrated about… He has a unique supernatural ability of being forced to prevent deaths and catastrophes by being sent back in time before the incident occurred, repeating time until the accident is prevented. One day, he gets involved in an accident that has him framed as a murderer. Desperate to save the victim, he sends himself back in time only to find himself as a grade-schooler one month before fellow classmate Kayo Hinazuki went missing. Satoru now embarks on a new quest: to save Kayo and solve the mystery behind her disappearance.\n",
-  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21234-XmqW39aQ9o7O.jpg",
-  "synonym": "Bokumachi",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21234-XmqW39aQ9o7O.jpg",
+  "synonym": "Boku dake ga Inai Machi",
   "native": "僕だけがいない街",
-  "aired": "Jan 8, 2016 to Mar 25, 2016",
+  "aired": "1/8/2016",
   "premiered": "WINTER 2016",
   "duration": "23m",
   "episodesCount": "12",
@@ -17,11 +17,9 @@
   ],
   "rating": "8.1",
   "type": "TV",
-  "status": "Completed",
+  "status": "FINISHED",
   "country": "JP",
-  "studios": [
-    "A-1 Pictures"
-  ],
+  "studios": "A-1 Pictures",
   "producers": [
     "Kansai TV",
     "Aniplex of America",
@@ -33,10 +31,13 @@
     "Fuji TV"
   ],
   "seasons": [],
+  "malId": "31043",
+  "streamingId": "21234",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
-      "title": "Flashing Before My Eyes",
       "episode": "1",
+      "title": "Flashing Before My Eyes",
       "files": [
         {
           "name": "VidSrc",
@@ -57,13 +58,33 @@
           "name": "MegaCloud",
           "url": "https://megaplay.buzz/stream/s-2/4033/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21234/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21234/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31043/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31043/1/dub",
+          "type": "dub"
         }
       ],
       "hianimeCode": "4033"
     },
     {
-      "title": "Palm of the Hand",
       "episode": "2",
+      "title": "Palm of the Hand",
       "files": [
         {
           "name": "VidSrc",
@@ -84,13 +105,33 @@
           "name": "MegaCloud",
           "url": "https://megaplay.buzz/stream/s-2/4034/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21234/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21234/2/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31043/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31043/2/dub",
+          "type": "dub"
         }
       ],
       "hianimeCode": "4034"
     },
     {
-      "title": "Birthmark",
       "episode": "3",
+      "title": "Birthmark",
       "files": [
         {
           "name": "VidSrc",
@@ -111,13 +152,33 @@
           "name": "MegaCloud",
           "url": "https://megaplay.buzz/stream/s-2/4035/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21234/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21234/3/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31043/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31043/3/dub",
+          "type": "dub"
         }
       ],
       "hianimeCode": "4035"
     },
     {
-      "title": "Accomplishment",
       "episode": "4",
+      "title": "Accomplishment",
       "files": [
         {
           "name": "VidSrc",
@@ -138,13 +199,33 @@
           "name": "MegaCloud",
           "url": "https://megaplay.buzz/stream/s-2/4036/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21234/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21234/4/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31043/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31043/4/dub",
+          "type": "dub"
         }
       ],
       "hianimeCode": "4036"
     },
     {
-      "title": "Getaway",
       "episode": "5",
+      "title": "Getaway",
       "files": [
         {
           "name": "VidSrc",
@@ -165,13 +246,33 @@
           "name": "MegaCloud",
           "url": "https://megaplay.buzz/stream/s-2/4037/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21234/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21234/5/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31043/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31043/5/dub",
+          "type": "dub"
         }
       ],
       "hianimeCode": "4037"
     },
     {
-      "title": "Grim Reaper",
       "episode": "6",
+      "title": "Grim Reaper",
       "files": [
         {
           "name": "VidSrc",
@@ -192,13 +293,33 @@
           "name": "MegaCloud",
           "url": "https://megaplay.buzz/stream/s-2/4038/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21234/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21234/6/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31043/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31043/6/dub",
+          "type": "dub"
         }
       ],
       "hianimeCode": "4038"
     },
     {
-      "title": "Out of Control",
       "episode": "7",
+      "title": "Out of Control",
       "files": [
         {
           "name": "VidSrc",
@@ -219,13 +340,33 @@
           "name": "MegaCloud",
           "url": "https://megaplay.buzz/stream/s-2/4039/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21234/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21234/7/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31043/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31043/7/dub",
+          "type": "dub"
         }
       ],
       "hianimeCode": "4039"
     },
     {
-      "title": "Spiral",
       "episode": "8",
+      "title": "Spiral",
       "files": [
         {
           "name": "VidSrc",
@@ -246,13 +387,33 @@
           "name": "MegaCloud",
           "url": "https://megaplay.buzz/stream/s-2/4040/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21234/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21234/8/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31043/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31043/8/dub",
+          "type": "dub"
         }
       ],
       "hianimeCode": "4040"
     },
     {
-      "title": "Closure",
       "episode": "9",
+      "title": "Closure",
       "files": [
         {
           "name": "VidSrc",
@@ -273,13 +434,33 @@
           "name": "MegaCloud",
           "url": "https://megaplay.buzz/stream/s-2/4041/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21234/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21234/9/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31043/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31043/9/dub",
+          "type": "dub"
         }
       ],
       "hianimeCode": "4041"
     },
     {
-      "title": "Joy",
       "episode": "10",
+      "title": "Joy",
       "files": [
         {
           "name": "VidSrc",
@@ -300,13 +481,33 @@
           "name": "MegaCloud",
           "url": "https://megaplay.buzz/stream/s-2/4042/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21234/10/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21234/10/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31043/10/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31043/10/dub",
+          "type": "dub"
         }
       ],
       "hianimeCode": "4042"
     },
     {
-      "title": "Future",
       "episode": "11",
+      "title": "Future",
       "files": [
         {
           "name": "VidSrc",
@@ -327,13 +528,33 @@
           "name": "MegaCloud",
           "url": "https://megaplay.buzz/stream/s-2/4043/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21234/11/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21234/11/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31043/11/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31043/11/dub",
+          "type": "dub"
         }
       ],
       "hianimeCode": "4043"
     },
     {
-      "title": "Treasure",
       "episode": "12",
+      "title": "Treasure",
       "files": [
         {
           "name": "VidSrc",
@@ -354,11 +575,29 @@
           "name": "MegaCloud",
           "url": "https://megaplay.buzz/stream/s-2/4044/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21234/12/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21234/12/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31043/12/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31043/12/dub",
+          "type": "dub"
         }
       ],
       "hianimeCode": "4044"
     }
-  ],
-  "streamingId": "21234",
-  "hostUrl": ""
+  ]
 }
