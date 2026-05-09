@@ -1,0 +1,55 @@
+{
+  "title": "Kiki's Delivery Service",
+  "synopsis": "Kiki is an enterprising young girl who must follow tradition to become a full-fledged witch. Venturing out with only her chatty black cat, Jiji, Kiki flies off for the adventure of a lifetime. Landing in a far-off city, she sets up a high-flying delivery service and begins a wonderful experience of independence and responsibility as she finds her place in the world.\n(Source: Disney)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx512-UwP8X4BR8YoM.png",
+  "synonym": "Majo no Takkyuubin",
+  "native": "魔女の宅急便",
+  "aired": "7/29/1989",
+  "premiered": "SUMMER 1989",
+  "duration": "105m",
+  "episodesCount": "1",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Slice of Life"
+  ],
+  "rating": "8.1",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Studio Ghibli",
+  "producers": [],
+  "seasons": [],
+  "malId": "512",
+  "streamingId": "512",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/512/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/512/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/512/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/512/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
