@@ -1,0 +1,54 @@
+{
+  "title": "Josee, the Tiger and the Fish",
+  "synopsis": "The story centers on the relationship between Tsuneo and Josee. Tsuneo is a university student, and Josee is a young girl who has rarely gone out of the house by herself due to her being unable to walk. The two meet when Tsuneo finds Josee's grandmother taking her out for a morning walk.\n\n(Source: Anime News Network)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113596-LKA0bYJGjLnB.jpg",
+  "synonym": "Josee to Tora to Sakanatachi",
+  "native": "ジョゼと虎と魚たち",
+  "aired": "12/25/2020",
+  "premiered": "FALL 2020",
+  "duration": "98m",
+  "episodesCount": "1",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Slice of Life"
+  ],
+  "rating": "8.2",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "bones",
+  "producers": [],
+  "seasons": [],
+  "malId": "40787",
+  "streamingId": "113596",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113596/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113596/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40787/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40787/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
