@@ -29,7 +29,7 @@
   "episodes": [
     {
       "episode": "1",
-      "title": "Episode 1",
+      "title": "The Seven Deadly Sins",
       "files": [
         {
           "name": "HD-1",
@@ -40,12 +40,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20789/1/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/1/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "2",
-      "title": "Episode 2",
+      "title": "Sword of The Holy Knight",
       "files": [
         {
           "name": "HD-1",
@@ -56,12 +66,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20789/2/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/2/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "3",
-      "title": "Episode 3",
+      "title": "The Sin of the Sleeping Forest",
       "files": [
         {
           "name": "HD-1",
@@ -72,12 +92,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20789/3/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/3/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "4",
-      "title": "Episode 4",
+      "title": "A Young Girl's Dream",
       "files": [
         {
           "name": "HD-1",
@@ -88,12 +118,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20789/4/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/4/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "5",
-      "title": "Episode 5",
+      "title": "Even If You Were To Die",
       "files": [
         {
           "name": "HD-1",
@@ -104,12 +144,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20789/5/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/5/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "6",
-      "title": "Episode 6",
+      "title": "Ballad of the Beginning",
       "files": [
         {
           "name": "HD-1",
@@ -120,12 +170,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20789/6/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/6/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "7",
-      "title": "Episode 7",
+      "title": "Touching Reunion",
       "files": [
         {
           "name": "HD-1",
@@ -136,12 +196,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20789/7/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/7/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "8",
-      "title": "Episode 8",
+      "title": "Dreadful Pursuer",
       "files": [
         {
           "name": "HD-1",
@@ -152,12 +222,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20789/8/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/8/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "9",
-      "title": "Episode 9",
+      "title": "Dark Pulse",
       "files": [
         {
           "name": "HD-1",
@@ -168,12 +248,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20789/9/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/9/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "10",
-      "title": "Episode 10",
+      "title": "Byzel Fight Festival",
       "files": [
         {
           "name": "HD-1",
@@ -184,12 +274,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20789/10/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/10/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/10/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "11",
-      "title": "Episode 11",
+      "title": "Sentiment of Many Years",
       "files": [
         {
           "name": "HD-1",
@@ -200,12 +300,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20789/11/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/11/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/11/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "12",
-      "title": "Episode 12",
+      "title": "Terrifying Cannon",
       "files": [
         {
           "name": "HD-1",
@@ -216,12 +326,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20789/12/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/12/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/12/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "13",
-      "title": "Episode 13",
+      "title": "Disciple of Destruction",
       "files": [
         {
           "name": "HD-1",
@@ -232,12 +352,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20789/13/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/13/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/13/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "14",
-      "title": "Episode 14",
+      "title": "A Person Who Reads",
       "files": [
         {
           "name": "HD-1",
@@ -248,12 +378,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20789/14/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/14/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/14/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "15",
-      "title": "Episode 15",
+      "title": "Unholy Knight",
       "files": [
         {
           "name": "HD-1",
@@ -264,12 +404,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20789/15/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/15/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/15/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "16",
-      "title": "Episode 16",
+      "title": "Incited Legends",
       "files": [
         {
           "name": "HD-1",
@@ -280,12 +430,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20789/16/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/16/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/16/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "17",
-      "title": "Episode 17",
+      "title": "First Casualty",
       "files": [
         {
           "name": "HD-1",
@@ -296,12 +456,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20789/17/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/17/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/17/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "18",
-      "title": "Episode 18",
+      "title": "Even If I Have To Give Up My Life For It",
       "files": [
         {
           "name": "HD-1",
@@ -312,12 +482,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20789/18/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/18/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/18/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "19",
-      "title": "Episode 19",
+      "title": "The Fairy King Who Waited In Vain",
       "files": [
         {
           "name": "HD-1",
@@ -328,12 +508,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20789/19/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/19/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/19/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "20",
-      "title": "Episode 20",
+      "title": "Courage Charm",
       "files": [
         {
           "name": "HD-1",
@@ -344,12 +534,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20789/20/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/20/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/20/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "21",
-      "title": "Episode 21",
+      "title": "Imminent Threat",
       "files": [
         {
           "name": "HD-1",
@@ -360,12 +560,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20789/21/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/21/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/21/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "22",
-      "title": "Episode 22",
+      "title": "What I Can Do For You",
       "files": [
         {
           "name": "HD-1",
@@ -376,12 +586,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20789/22/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/22/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/22/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "23",
-      "title": "Episode 23",
+      "title": "Descent Into Despair",
       "files": [
         {
           "name": "HD-1",
@@ -392,12 +612,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20789/23/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/23/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/23/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "24",
-      "title": "Episode 24",
+      "title": "Heroes",
       "files": [
         {
           "name": "HD-1",
@@ -407,6 +637,16 @@
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/20789/24/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/24/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/23755/24/dub",
           "type": "dub"
         }
       ]
