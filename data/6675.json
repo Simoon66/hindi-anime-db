@@ -1,0 +1,55 @@
+{
+  "title": "Redline",
+  "synopsis": "Redline is about the biggest and most deadly racing tournament in the universe. Only held once every five years, everyone wants to stake their claim to fame, including JP, a reckless dare-devil driver oblivious to speed limits with his ultra-customized car - all the while, organized crime and militaristic governments want to leverage the race to their own ends. Amongst the other elite rival drivers in the tournament, JP falls for the alluring Sonoshee - but will she prove his undoing, or can a high speed romance survive a mass destruction race?\r\n(Source: Anchor Bay Films)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6675-NF4tFzAxSjkj.png",
+  "synonym": "REDLINE",
+  "native": "REDLINE",
+  "aired": "8/14/2009",
+  "premiered": "SUMMER 2009",
+  "duration": "103m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Romance",
+    "Sci-Fi",
+    "Sports"
+  ],
+  "rating": "8.1",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "MADHOUSE",
+  "producers": [],
+  "seasons": [],
+  "malId": "6675",
+  "streamingId": "6675",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6675/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/6675/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6675/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/6675/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
