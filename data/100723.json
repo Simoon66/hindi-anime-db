@@ -1,0 +1,55 @@
+{
+  "title": "My Hero Academia: Two Heroes",
+  "synopsis": "The first installment in the Boku no Hero Academia movie franchise.\n\nThe climactic finals are over, and U.A. is getting ready for the summer training camp. Deku and All Might receive an invitation from a certain person to go overseas to a giant artificial moving city called I-Island. This island, a kind of “science Hollywood” that gathers the knowledge of scientists from around the world, is holding an exhibition called I-Expo showcasing the results of Quirk and hero item research. In the midst of all this, Deku meets a Quirkless girl named Melissa and remembers his own Quirkless past. Out of the blue, the impregnable security system the island boasts is hacked by villains, and all the people on the island are taken as hostages! Now, a plan that could shake hero society has been put into motion! The man who holds the key to it all is the number one hero and Symbol of Peace, All Might.\n\n(Source: Funimation)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100723-7f5e1BCTCDoB.jpg",
+  "synonym": "Boku no Hero Academia THE MOVIE: Futari no Hero",
+  "native": "僕のヒーローアカデミア THE MOVIE 〜2人の英雄〜",
+  "aired": "8/3/2018",
+  "premiered": "SUMMER 2018",
+  "duration": "96m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "rating": "7.4",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "bones",
+  "producers": [],
+  "seasons": [],
+  "malId": "36896",
+  "streamingId": "100723",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/100723/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/100723/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/36896/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/36896/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
