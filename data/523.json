@@ -1,0 +1,55 @@
+{
+  "title": "My Neighbor Totoro",
+  "synopsis": "Follow the adventures of Satsuki and her four-year-old sister Mei when they move into a new home in the countryside. To their delight they discover that their new neighbor is a mysterious forest spirit called Totoro who can be seen only through the eyes of a child. Totoro introduces them to extraordinary characters, including a cat that doubles as a bus, takes them on a journey through the wonders of nature. \n(Source: Disney) ",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx523-fErBvxOHP7IX.jpg",
+  "synonym": "Tonari no Totoro",
+  "native": "となりのトトロ",
+  "aired": "4/16/1988",
+  "premiered": "SPRING 1988",
+  "duration": "86m",
+  "episodesCount": "1",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Slice of Life",
+    "Supernatural"
+  ],
+  "rating": "8.1",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Studio Ghibli",
+  "producers": [],
+  "seasons": [],
+  "malId": "523",
+  "streamingId": "523",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/523/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/523/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/523/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/523/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
