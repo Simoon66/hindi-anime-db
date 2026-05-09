@@ -1,0 +1,56 @@
+{
+  "title": "Evangelion: 3.0 You Can (Not) Redo",
+  "synopsis": "14 years after third impact, Ikari Shinji awakens to a world he does not remember. He hasn't aged. Much of Earth is laid in ruins, Nerv has been dismantled, and people who he once protected have turned against him. Befriending the enigmatic Nagisa Kaworu, Shinji continues the fight against the angels and realizes the fighting is far from over, even when it could be against his former allies. The characters' struggles continue amidst the battles against the angels and each other, spiraling down to what could inevitably be the end of the world.\n(Source: Anime News Network)\nNote: Exists in several versions, as denoted by the version number:\n• 3.0: Nov 17, 2012 - Original theatrical release\n• 3.33: Apr 24, 2013 - Blu-ray/DVD release with minor visual changes.\n• 3.333: Jan 8, 2021 - Theatrical IMAX screenings mastered in 2K with numerous small adjustments to lighting and color, as well as a new preview at the end of the film.\n&#8195;•  Aug 25, 2021 - 4K Blu-ray release of 3.333",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3785-a28lDzqtlfjB.png",
+  "synonym": "Evangelion Shin Movie: Kyuu",
+  "native": "ヱヴァンゲリヲン新劇場版:Q",
+  "aired": "11/17/2012",
+  "premiered": "FALL 2012",
+  "duration": "96m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Drama",
+    "Mecha",
+    "Psychological",
+    "Sci-Fi"
+  ],
+  "rating": "7.6",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Studio Khara",
+  "producers": [],
+  "seasons": [],
+  "malId": "3785",
+  "streamingId": "3785",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/3785/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/3785/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/3785/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/3785/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
