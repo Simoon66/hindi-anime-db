@@ -1,0 +1,55 @@
+{
+  "title": "Fate/stay night [Heaven's Feel] I. presage flower",
+  "synopsis": "The first film in a trilogy adaptation of the third route of the popular visual novel: Fate/stay night.\n\n10 years after the Holy Grail War—a battle waged by Masters and Servants over the wish-granting container, the Holy Grail—another war breaks out in Fuyuki City. Shirou Emiya—the adopted son of Kiritsugu Emiya, a participant of the previous Holy Grail War—is leading a peaceful life with people dear to him. Especially close to him is his underclassman Sakura Matou, who brings kindness into his otherwise lonely life. But once the Holy Grail War starts, Shirou’s peaceful life is sundered.\n\n(Source: Aniplex of America)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20791-yPCX5GJuMH2k.png",
+  "synonym": "Fate/stay night [Heaven's Feel] I. presage flower",
+  "native": "Fate/stay night[Heaven's Feel] Ⅰ.presage flower",
+  "aired": "10/14/2017",
+  "premiered": "FALL 2017",
+  "duration": "120m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Psychological",
+    "Supernatural"
+  ],
+  "rating": "8.0",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "ufotable",
+  "producers": [],
+  "seasons": [],
+  "malId": "25537",
+  "streamingId": "20791",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20791/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20791/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/25537/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/25537/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
