@@ -1,0 +1,54 @@
+{
+  "title": "Promare",
+  "synopsis": "Thirty years have passed since the appearance of the Burnish, a race of flame-wielding mutant beings who destroyed half of the world with fire. When a new group of aggressive mutants calling themselves Mad Burnish appears, the epic battle between their leader, Lio Fotia, and Galo Thymos, a new member of the anti-Burnish rescue team Burning Rescue, begins.\n\n(Source: GKIDS)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99425-CQ500X23zp4i.png",
+  "synonym": "Promare",
+  "native": "プロメア",
+  "aired": "5/24/2019",
+  "premiered": "SPRING 2019",
+  "duration": "115m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "rating": "7.7",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "TRIGGER",
+  "producers": [],
+  "seasons": [],
+  "malId": "35848",
+  "streamingId": "99425",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/99425/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/99425/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/35848/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/35848/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
