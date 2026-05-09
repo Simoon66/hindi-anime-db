@@ -1,0 +1,54 @@
+{
+  "title": "Given The Movie",
+  "synopsis": "The film centers on the love relationship among the band's bassist Haruki Nakayama, drummer Akihiko Kaji, and Akihiko's roommate and ex-boyfriend Ugetsu Murata.\n\n(Source: Crunchyroll)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111734-82sWJBotlzE8.png",
+  "synonym": "Given Movie",
+  "native": "映画 ギヴン",
+  "aired": "8/22/2020",
+  "premiered": "SUMMER 2020",
+  "duration": "60m",
+  "episodesCount": "1",
+  "genres": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "rating": "8.1",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Lerche",
+  "producers": [],
+  "seasons": [],
+  "malId": "40421",
+  "streamingId": "111734",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/111734/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/111734/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40421/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40421/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
