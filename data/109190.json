@@ -1,0 +1,54 @@
+{
+  "title": "Violet Evergarden: Eternity and the Auto Memory Doll",
+  "synopsis": "Violet Evergarden comes to a private women's academy to tutor Isabella in the ways of being a lady. Heir to the York family, Isabella feels trapped in this new and uncomfortable world. She still grieves for the only person to ever bring her happiness – now lost to her. Violet's lessons do give her a brief respite from the melancholy but with the absence of joy, how long does it take to truly heal?\n\n(Source: Funimation)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109190-e8mv1qdmpjLW.jpg",
+  "synonym": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+  "native": "ヴァイオレット・エヴァーガーデン 外伝~永遠と自動手記人形~",
+  "aired": "9/6/2019",
+  "premiered": "SUMMER 2019",
+  "duration": "91m",
+  "episodesCount": "1",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Slice of Life"
+  ],
+  "rating": "8.3",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Kyoto Animation",
+  "producers": [],
+  "seasons": [],
+  "malId": "39741",
+  "streamingId": "109190",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/109190/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/109190/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/39741/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/39741/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
