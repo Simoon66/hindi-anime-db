@@ -26,7 +26,7 @@
   "episodes": [
     {
       "episode": "1",
-      "title": "Episode 1",
+      "title": "That's the Idea, Ochako",
       "files": [
         {
           "name": "HD-1",
@@ -37,12 +37,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/1/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/1/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "2",
-      "title": "Episode 2",
+      "title": "Roaring Sports Festival",
       "files": [
         {
           "name": "HD-1",
@@ -53,12 +63,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/2/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/2/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "3",
-      "title": "Episode 3",
+      "title": "In Their Own Quirky Ways",
       "files": [
         {
           "name": "HD-1",
@@ -69,12 +89,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/3/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/3/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "4",
-      "title": "Episode 4",
+      "title": "Strategy, Strategy, Strategy",
       "files": [
         {
           "name": "HD-1",
@@ -85,12 +115,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/4/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/4/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "5",
-      "title": "Episode 5",
+      "title": "Cavalry Battle Finale",
       "files": [
         {
           "name": "HD-1",
@@ -101,12 +141,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/5/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/5/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "6",
-      "title": "Episode 6",
+      "title": "The Boy Born with Everything",
       "files": [
         {
           "name": "HD-1",
@@ -117,12 +167,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/6/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/6/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "7",
-      "title": "Episode 7",
+      "title": "Victory or Defeat",
       "files": [
         {
           "name": "HD-1",
@@ -133,12 +193,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/7/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/7/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "8",
-      "title": "Episode 8",
+      "title": "Battle on, Challengers!",
       "files": [
         {
           "name": "HD-1",
@@ -149,12 +219,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/8/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/8/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "9",
-      "title": "Episode 9",
+      "title": "Bakugo VS Uraraka",
       "files": [
         {
           "name": "HD-1",
@@ -165,12 +245,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/9/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/9/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "10",
-      "title": "Episode 10",
+      "title": "Shouto Todoroki: Origin",
       "files": [
         {
           "name": "HD-1",
@@ -181,12 +271,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/10/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/10/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/10/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "11",
-      "title": "Episode 11",
+      "title": "Fight on, Iida",
       "files": [
         {
           "name": "HD-1",
@@ -197,12 +297,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/11/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/11/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/11/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "12",
-      "title": "Episode 12",
+      "title": "Todoroki VS Bakugou",
       "files": [
         {
           "name": "HD-1",
@@ -213,12 +323,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/12/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/12/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/12/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "13",
-      "title": "Episode 13",
+      "title": "Time to Pick Some Names",
       "files": [
         {
           "name": "HD-1",
@@ -229,12 +349,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/13/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/13/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/13/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "14",
-      "title": "Episode 14",
+      "title": "Bizarre! Gran Torino Appears",
       "files": [
         {
           "name": "HD-1",
@@ -245,12 +375,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/14/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/14/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/14/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "15",
-      "title": "Episode 15",
+      "title": "Midoriya and Shigaraki",
       "files": [
         {
           "name": "HD-1",
@@ -261,12 +401,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/15/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/15/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/15/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "16",
-      "title": "Episode 16",
+      "title": "Hero Killer: Stain vs U.A. Students",
       "files": [
         {
           "name": "HD-1",
@@ -277,12 +427,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/16/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/16/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/16/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "17",
-      "title": "Episode 17",
+      "title": "Climax",
       "files": [
         {
           "name": "HD-1",
@@ -293,12 +453,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/17/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/17/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/17/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "18",
-      "title": "Episode 18",
+      "title": "The Aftermath of Hero Killer Stain",
       "files": [
         {
           "name": "HD-1",
@@ -309,12 +479,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/18/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/18/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/18/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "19",
-      "title": "Episode 19",
+      "title": "Everyone's Internships",
       "files": [
         {
           "name": "HD-1",
@@ -325,12 +505,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/19/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/19/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/19/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "20",
-      "title": "Episode 20",
+      "title": "Listen Up!! A Tale from the Past",
       "files": [
         {
           "name": "HD-1",
@@ -341,12 +531,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/20/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/20/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/20/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "21",
-      "title": "Episode 21",
+      "title": "Gear up for Final Exams",
       "files": [
         {
           "name": "HD-1",
@@ -357,12 +557,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/21/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/21/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/21/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "22",
-      "title": "Episode 22",
+      "title": "Yaoyorozu: Rising",
       "files": [
         {
           "name": "HD-1",
@@ -373,12 +583,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/22/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/22/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/22/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "23",
-      "title": "Episode 23",
+      "title": "Stripping the Varnish",
       "files": [
         {
           "name": "HD-1",
@@ -389,12 +609,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/23/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/23/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/23/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "24",
-      "title": "Episode 24",
+      "title": "Katsuki Bakugou: Origin",
       "files": [
         {
           "name": "HD-1",
@@ -405,12 +635,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/24/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/24/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/24/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "25",
-      "title": "Episode 25",
+      "title": "Encounter",
       "files": [
         {
           "name": "HD-1",
@@ -420,6 +660,16 @@
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21856/25/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/25/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/33486/25/dub",
           "type": "dub"
         }
       ]
