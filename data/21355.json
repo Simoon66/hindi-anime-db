@@ -30,7 +30,7 @@
   "episodes": [
     {
       "episode": "1",
-      "title": "Episode 1",
+      "title": "The End of the Beginning and the Beginning of the End",
       "files": [
         {
           "name": "HD-1",
@@ -41,12 +41,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/1/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/1/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "2",
-      "title": "Episode 2",
+      "title": "Reunion with the Witch",
       "files": [
         {
           "name": "HD-1",
@@ -57,12 +67,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/2/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/2/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "3",
-      "title": "Episode 3",
+      "title": "Starting Life from Zero in Another World",
       "files": [
         {
           "name": "HD-1",
@@ -73,12 +93,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/3/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/3/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "4",
-      "title": "Episode 4",
+      "title": "The Happy Roswaal Mansion Family",
       "files": [
         {
           "name": "HD-1",
@@ -89,12 +119,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/4/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/4/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "5",
-      "title": "Episode 5",
+      "title": "The Morning of Our Promise Is Still Distant",
       "files": [
         {
           "name": "HD-1",
@@ -105,12 +145,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/5/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/5/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "6",
-      "title": "Episode 6",
+      "title": "The Sound of Chains",
       "files": [
         {
           "name": "HD-1",
@@ -121,12 +171,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/6/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/6/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "7",
-      "title": "Episode 7",
+      "title": "Natsuki Subaru's Restart",
       "files": [
         {
           "name": "HD-1",
@@ -137,12 +197,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/7/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/7/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "8",
-      "title": "Episode 8",
+      "title": "I Cried, Cried My Lungs Out, and Stopped Crying",
       "files": [
         {
           "name": "HD-1",
@@ -153,12 +223,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/8/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/8/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "9",
-      "title": "Episode 9",
+      "title": "The Meaning of Courage",
       "files": [
         {
           "name": "HD-1",
@@ -169,12 +249,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/9/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/9/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "10",
-      "title": "Episode 10",
+      "title": "Fanatical Methods Like a Demon",
       "files": [
         {
           "name": "HD-1",
@@ -185,12 +275,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/10/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/10/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/10/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "11",
-      "title": "Episode 11",
+      "title": "Rem",
       "files": [
         {
           "name": "HD-1",
@@ -201,12 +301,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/11/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/11/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/11/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "12",
-      "title": "Episode 12",
+      "title": "Return to the Capital",
       "files": [
         {
           "name": "HD-1",
@@ -217,12 +327,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/12/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/12/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/12/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "13",
-      "title": "Episode 13",
+      "title": "Self-Proclaimed Knight Natsuki Subaru",
       "files": [
         {
           "name": "HD-1",
@@ -233,12 +353,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/13/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/13/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/13/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "14",
-      "title": "Episode 14",
+      "title": "The Sickness Called Despair",
       "files": [
         {
           "name": "HD-1",
@@ -249,12 +379,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/14/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/14/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/14/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "15",
-      "title": "Episode 15",
+      "title": "The Outside of Madness",
       "files": [
         {
           "name": "HD-1",
@@ -265,12 +405,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/15/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/15/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/15/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "16",
-      "title": "Episode 16",
+      "title": "The Greed of a Pig",
       "files": [
         {
           "name": "HD-1",
@@ -281,12 +431,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/16/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/16/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/16/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "17",
-      "title": "Episode 17",
+      "title": "Disgrace in the Extreme",
       "files": [
         {
           "name": "HD-1",
@@ -297,12 +457,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/17/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/17/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/17/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "18",
-      "title": "Episode 18",
+      "title": "From Zero",
       "files": [
         {
           "name": "HD-1",
@@ -313,12 +483,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/18/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/18/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/18/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "19",
-      "title": "Episode 19",
+      "title": "Battle Against the White Whale",
       "files": [
         {
           "name": "HD-1",
@@ -329,12 +509,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/19/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/19/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/19/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "20",
-      "title": "Episode 20",
+      "title": "Wilhelm van Astrea",
       "files": [
         {
           "name": "HD-1",
@@ -345,12 +535,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/20/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/20/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/20/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "21",
-      "title": "Episode 21",
+      "title": "A Wager That Defies Despair",
       "files": [
         {
           "name": "HD-1",
@@ -361,12 +561,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/21/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/21/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/21/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "22",
-      "title": "Episode 22",
+      "title": "A Flash of Sloth",
       "files": [
         {
           "name": "HD-1",
@@ -377,12 +587,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/22/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/22/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/22/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "23",
-      "title": "Episode 23",
+      "title": "Nefarious Sloth",
       "files": [
         {
           "name": "HD-1",
@@ -393,12 +613,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/23/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/23/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/23/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "24",
-      "title": "Episode 24",
+      "title": "The Self-Proclaimed Knight and the Greatest Knight",
       "files": [
         {
           "name": "HD-1",
@@ -409,12 +639,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/24/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/24/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/24/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "25",
-      "title": "Episode 25",
+      "title": "That's All This Story Is About",
       "files": [
         {
           "name": "HD-1",
@@ -424,6 +664,16 @@
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/21355/25/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/25/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31240/25/dub",
           "type": "dub"
         }
       ]
