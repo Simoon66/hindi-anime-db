@@ -1,0 +1,57 @@
+{
+  "title": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+  "synopsis": "A video game-loving shut-in, Satou Kazuma's life should've ended when he was hit by a truck, but through a twist of fate, he ends up reincarnating in another world--and dragging the troublemaking goddess, Aqua, the wildly dorky mage, Megumin, and the unrelentingly delusional lady knight, Darkness, with him.\n\nNow, the Crimson Demon village that Megumin and Yunyun are from is facing a threat that could mean its ending. Kazuma and his gang follow Yunyun, who returns to the Crimson Demon village intent on saving it... when they are faced with their greatest threat yet! What will become of the unremarkable adventurer Kazuma's life in another world?!\n\n(Source: Crunchyroll)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102976-2Yi5icRbjukO.png",
+  "synonym": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+  "native": "この素晴らしい世界に祝福を！紅伝説",
+  "aired": "8/30/2019",
+  "premiered": "SUMMER 2019",
+  "duration": "90m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Ecchi",
+    "Fantasy",
+    "Supernatural"
+  ],
+  "rating": "8.2",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "J.C.STAFF",
+  "producers": [],
+  "seasons": [],
+  "malId": "38040",
+  "streamingId": "102976",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/102976/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/102976/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38040/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38040/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
