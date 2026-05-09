@@ -1,0 +1,56 @@
+{
+  "title": "Sword Art Online the Movie: Ordinal Scale",
+  "synopsis": "In 2022, the world of virtual reality was upended by the arrival of a new invention from a genius programmer, Akihiko Kayaba. Called NerveGear, it was the first full-dive system and with it, came endless possibilities to VRMMORPGs.\n\nIn 2026, a new machine called the Augma is developed to compete against the NerveGear and its successor, the Amusphere. A next-gen wearable device, the Augma doesn't have a full-dive function like its predecessors. Instead, it uses Augmented Reality to get players into the game. It is safe, user-friendly and lets users play while they are conscious, making it an instant hit on the market. The most popular game on the system is “Ordinal Scale” (aka: OS), an ARMMORPG developed exclusively for the Augma.\n\nAsuna and the gang have already been playing OS for a while, by the time Kirito decides to join them. They’re about to find out that Ordinal Scale isn’t all fun and games…\n\n(Source: Official website)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21403-k8DZhZ3x1BCO.png",
+  "synonym": "Sword Art Online: Ordinal Scale",
+  "native": "ソードアート・オンライン -オーディナル・スケール-",
+  "aired": "2/18/2017",
+  "premiered": "WINTER 2017",
+  "duration": "119m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "rating": "7.4",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "A-1 Pictures",
+  "producers": [],
+  "seasons": [],
+  "malId": "31765",
+  "streamingId": "21403",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21403/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21403/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31765/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/31765/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
