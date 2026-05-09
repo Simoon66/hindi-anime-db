@@ -1,0 +1,57 @@
+{
+  "title": "Puella Magi Madoka Magica the Movie -Rebellion-",
+  "synopsis": "Were all the magical girls truly saved from despair? Now, the great \"Law of Cycles\" leads the magical girls to their new fate. Madoka Kaname, a girl who once led an ordinary life, sacrificed her very existence to set every magical girl free from their cruel destiny. Homura Akemi, another magical girl who was unable to keep her promise with Madoka, continues to fight in the world in which Madoka left her behind.\n\n\"I dream of the day when I can finally see your dear smile again.\"\n\nMadoka Kaname has changed the world. In this new world, is what the magical girls see a world of hope... or despair?\n\n(Source: Madman)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b11981-koz1IoISs3eU.jpg",
+  "synonym": "Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari",
+  "native": "劇場版 魔法少女まどか☆マギカ 叛逆の物語",
+  "aired": "10/26/2013",
+  "premiered": "FALL 2013",
+  "duration": "118m",
+  "episodesCount": "1",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Mahou Shoujo",
+    "Mystery",
+    "Psychological",
+    "Thriller"
+  ],
+  "rating": "8.4",
+  "type": "MOVIE",
+  "status": "FINISHED",
+  "country": "JP",
+  "studios": "Shaft",
+  "producers": [],
+  "seasons": [],
+  "malId": "11981",
+  "streamingId": "11981",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11981/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11981/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/11981/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/11981/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
