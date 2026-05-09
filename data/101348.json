@@ -26,7 +26,7 @@
   "episodes": [
     {
       "episode": "1",
-      "title": "Episode 1",
+      "title": "Somewhere Not Here",
       "files": [
         {
           "name": "HD-1",
@@ -37,12 +37,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101348/1/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/1/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "2",
-      "title": "Episode 2",
+      "title": "Sword",
       "files": [
         {
           "name": "HD-1",
@@ -53,12 +63,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101348/2/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/2/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "3",
-      "title": "Episode 3",
+      "title": "Troll",
       "files": [
         {
           "name": "HD-1",
@@ -69,12 +89,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101348/3/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/3/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "4",
-      "title": "Episode 4",
+      "title": "A True Warrior",
       "files": [
         {
           "name": "HD-1",
@@ -85,12 +115,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101348/4/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/4/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "5",
-      "title": "Episode 5",
+      "title": "The Troll's Son",
       "files": [
         {
           "name": "HD-1",
@@ -101,12 +141,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101348/5/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/5/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "6",
-      "title": "Episode 6",
+      "title": "The Journey Begins",
       "files": [
         {
           "name": "HD-1",
@@ -117,12 +167,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101348/6/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/6/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "7",
-      "title": "Episode 7",
+      "title": "Normanni",
       "files": [
         {
           "name": "HD-1",
@@ -133,12 +193,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101348/7/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/7/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "8",
-      "title": "Episode 8",
+      "title": "Beyond the Edge of the Sea",
       "files": [
         {
           "name": "HD-1",
@@ -149,12 +219,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101348/8/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/8/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "9",
-      "title": "Episode 9",
+      "title": "The Battle of London Bridge",
       "files": [
         {
           "name": "HD-1",
@@ -165,12 +245,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101348/9/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/9/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "10",
-      "title": "Episode 10",
+      "title": "Ragnarok",
       "files": [
         {
           "name": "HD-1",
@@ -181,12 +271,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101348/10/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/10/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/10/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "11",
-      "title": "Episode 11",
+      "title": "A Gamble",
       "files": [
         {
           "name": "HD-1",
@@ -197,12 +297,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101348/11/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/11/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/11/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "12",
-      "title": "Episode 12",
+      "title": "The Land on the Far Bank",
       "files": [
         {
           "name": "HD-1",
@@ -213,12 +323,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101348/12/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/12/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/12/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "13",
-      "title": "Episode 13",
+      "title": "Child of a Hero",
       "files": [
         {
           "name": "HD-1",
@@ -229,12 +349,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101348/13/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/13/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/13/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "14",
-      "title": "Episode 14",
+      "title": "The Light of Dawn",
       "files": [
         {
           "name": "HD-1",
@@ -245,12 +375,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101348/14/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/14/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/14/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "15",
-      "title": "Episode 15",
+      "title": "After Yule",
       "files": [
         {
           "name": "HD-1",
@@ -261,12 +401,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101348/15/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/15/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/15/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "16",
-      "title": "Episode 16",
+      "title": "History of Beasts",
       "files": [
         {
           "name": "HD-1",
@@ -277,12 +427,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101348/16/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/16/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/16/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "17",
-      "title": "Episode 17",
+      "title": "Servant",
       "files": [
         {
           "name": "HD-1",
@@ -293,12 +453,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101348/17/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/17/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/17/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "18",
-      "title": "Episode 18",
+      "title": "Out of the Cradle",
       "files": [
         {
           "name": "HD-1",
@@ -309,12 +479,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101348/18/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/18/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/18/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "19",
-      "title": "Episode 19",
+      "title": "United Front",
       "files": [
         {
           "name": "HD-1",
@@ -325,12 +505,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101348/19/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/19/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/19/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "20",
-      "title": "Episode 20",
+      "title": "Crown",
       "files": [
         {
           "name": "HD-1",
@@ -341,12 +531,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101348/20/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/20/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/20/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "21",
-      "title": "Episode 21",
+      "title": "Reunion",
       "files": [
         {
           "name": "HD-1",
@@ -357,12 +557,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101348/21/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/21/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/21/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "22",
-      "title": "Episode 22",
+      "title": "Lone Wolf",
       "files": [
         {
           "name": "HD-1",
@@ -373,12 +583,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101348/22/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/22/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/22/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "23",
-      "title": "Episode 23",
+      "title": "Miscalculation",
       "files": [
         {
           "name": "HD-1",
@@ -389,12 +609,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101348/23/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/23/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/23/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "episode": "24",
-      "title": "Episode 24",
+      "title": "End of the Prologue",
       "files": [
         {
           "name": "HD-1",
@@ -404,6 +634,16 @@
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101348/24/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/24/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37521/24/dub",
           "type": "dub"
         }
       ]
