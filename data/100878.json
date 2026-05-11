@@ -16,7 +16,7 @@
   ],
   "rating": "8.1",
   "type": "Movie",
-  "status": "Finished Airing",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "NUT"
@@ -44,5 +44,5 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T22:50:51.697Z"
+  "_forceSyncTime": 1778540603663
 }
