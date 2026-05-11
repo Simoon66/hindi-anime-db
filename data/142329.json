@@ -17,9 +17,11 @@
   ],
   "rating": "8.6",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "ufotable",
+  "studios": [
+    "ufotable"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "47778",
@@ -312,5 +314,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:18:50.196Z"
 }
