@@ -9,6 +9,7 @@
   "premiered": "FALL 2011",
   "duration": "24m",
   "episodesCount": "13",
+  "totalEpisodes": 13,
   "genres": [
     "Action",
     "Drama",
@@ -17,7 +18,7 @@
   ],
   "rating": "8.1",
   "type": "TV",
-  "status": "Completed",
+  "status": "Finished Airing",
   "country": "JP",
   "studios": [
     "ufotable"
@@ -367,5 +368,5 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T22:17:33.293Z"
+  "_lastSync": "2026-05-11T22:48:12.440Z"
 }
