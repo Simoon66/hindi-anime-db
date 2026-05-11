@@ -5,6 +5,7 @@
   "synonym": "FAIRY TAIL",
   "native": "FAIRY TAIL",
   "aired": "10/12/2009",
+  "releaseDate": "Oct 12, 2009",
   "premiered": "FALL 2009",
   "duration": "24m",
   "episodesCount": "175",
@@ -16,9 +17,12 @@
   ],
   "rating": "7.2",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Satelight",
+  "studios": [
+    "Satelight",
+    "A-1 Pictures"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "6702",
@@ -4575,5 +4579,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:23:02.192Z"
 }
