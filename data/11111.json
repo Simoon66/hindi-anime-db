@@ -5,6 +5,7 @@
   "synonym": "Another",
   "native": "アナザー",
   "aired": "1/10/2012",
+  "releaseDate": "Jan 10, 2012",
   "premiered": "WINTER 2012",
   "duration": "24m",
   "episodesCount": "12",
@@ -17,9 +18,11 @@
   ],
   "rating": "7.1",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "P.A.WORKS",
+  "studios": [
+    "P.A.WORKS"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "11111",
@@ -338,5 +341,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:22:52.190Z"
 }
