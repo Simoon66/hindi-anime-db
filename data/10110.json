@@ -17,7 +17,7 @@
   ],
   "rating": "6.9",
   "type": "TV",
-  "status": "Finished Airing",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "feel."
@@ -367,5 +367,5 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T22:51:26.575Z"
+  "_forceSyncTime": 1778540637924
 }
