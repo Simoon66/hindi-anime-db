@@ -20,7 +20,9 @@
   "type": "TV",
   "status": "RELEASING",
   "country": "JP",
-  "studios": "Toei Animation",
+  "studios": [
+    "Toei Animation"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "21",
