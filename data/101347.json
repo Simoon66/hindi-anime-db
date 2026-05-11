@@ -1,10 +1,10 @@
 {
   "title": "Dororo",
   "synopsis": "Dororo, a young orphan thief, meets Hyakkimaru, a powerful ronin. Hyakkimaru's father, a greedy feudal lord, had made a pact with 12 demons, offering his yet-unborn son's body parts in exchange for great power. Thus, Hyakkimaru - who was born without arms, legs, eyes, ears, a nose or a mouth - was abandoned in a river as a baby. Rescued and raised by Dr. Honma, who equips him with artificial limbs and teaches him sword-fighting techniques, Hyakkimaru discovers that each time he slays a demon, a piece of his body is restored. Now, he roams the war-torn countryside in search of demons.",
-  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101347-TGaDwEYqLfm1.jpg",
-  "synonym": "Dororo",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101347-TGaDwEYqLfm1.jpg",
+  "synonym": "Дороро",
   "native": "どろろ",
-  "aired": "1/7/2019",
+  "aired": "Jan 7, 2019 to Jun 24, 2019",
   "premiered": "WINTER 2019",
   "duration": "24m",
   "episodesCount": "24",
@@ -16,18 +16,27 @@
   ],
   "rating": "8.1",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "MAPPA",
-  "producers": [],
-  "seasons": [],
-  "malId": "37520",
-  "streamingId": "101347",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "studios": [
+    "MAPPA",
+    "Tezuka Productions"
+  ],
+  "producers": [
+    "Twin Engine",
+    "Sentai Filmworks"
+  ],
+  "seasons": [
+    {
+      "title": "Dororo",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101347-TGaDwEYqLfm1.jpg",
+      "link": "/2019/01/101347.html"
+    }
+  ],
   "episodes": [
     {
-      "episode": "1",
       "title": "The Story of Daigo",
+      "episode": "1",
       "files": [
         {
           "name": "HD-1",
@@ -52,8 +61,8 @@
       ]
     },
     {
-      "episode": "2",
       "title": "The Story of Bandai",
+      "episode": "2",
       "files": [
         {
           "name": "HD-1",
@@ -78,8 +87,8 @@
       ]
     },
     {
-      "episode": "3",
       "title": "The Story of Jukai",
+      "episode": "3",
       "files": [
         {
           "name": "HD-1",
@@ -104,8 +113,8 @@
       ]
     },
     {
-      "episode": "4",
       "title": "The Story of the Cursed Sword",
+      "episode": "4",
       "files": [
         {
           "name": "HD-1",
@@ -130,8 +139,8 @@
       ]
     },
     {
-      "episode": "5",
       "title": "The Story of the Moriko Song, Part 1",
+      "episode": "5",
       "files": [
         {
           "name": "HD-1",
@@ -156,8 +165,8 @@
       ]
     },
     {
-      "episode": "6",
       "title": "The Story of the Moriko Song, Part 2",
+      "episode": "6",
       "files": [
         {
           "name": "HD-1",
@@ -182,8 +191,8 @@
       ]
     },
     {
-      "episode": "7",
       "title": "The Story of the Jorogumo Silk Spider",
+      "episode": "7",
       "files": [
         {
           "name": "HD-1",
@@ -208,8 +217,8 @@
       ]
     },
     {
-      "episode": "8",
       "title": "The Story of Saru",
+      "episode": "8",
       "files": [
         {
           "name": "HD-1",
@@ -234,8 +243,8 @@
       ]
     },
     {
-      "episode": "9",
       "title": "The Story of the Mercilessness",
+      "episode": "9",
       "files": [
         {
           "name": "HD-1",
@@ -260,8 +269,8 @@
       ]
     },
     {
-      "episode": "10",
       "title": "The Story of Tahoumaru",
+      "episode": "10",
       "files": [
         {
           "name": "HD-1",
@@ -286,8 +295,8 @@
       ]
     },
     {
-      "episode": "11",
       "title": "The Story of Banmon, Part 1",
+      "episode": "11",
       "files": [
         {
           "name": "HD-1",
@@ -312,8 +321,8 @@
       ]
     },
     {
-      "episode": "12",
       "title": "The Story of Banmon, Part 2",
+      "episode": "12",
       "files": [
         {
           "name": "HD-1",
@@ -338,8 +347,8 @@
       ]
     },
     {
-      "episode": "13",
       "title": "The Story of Blank-faced Buddah",
+      "episode": "13",
       "files": [
         {
           "name": "HD-1",
@@ -364,8 +373,8 @@
       ]
     },
     {
-      "episode": "14",
       "title": "The Story of Sabame",
+      "episode": "14",
       "files": [
         {
           "name": "HD-1",
@@ -390,8 +399,8 @@
       ]
     },
     {
-      "episode": "15",
       "title": "The Story of the Scene from Hell",
+      "episode": "15",
       "files": [
         {
           "name": "HD-1",
@@ -416,8 +425,8 @@
       ]
     },
     {
-      "episode": "16",
       "title": "The Story of Shiranui\" Transcription",
+      "episode": "16",
       "files": [
         {
           "name": "HD-1",
@@ -442,8 +451,8 @@
       ]
     },
     {
-      "episode": "17",
       "title": "The Story of Questions and Answers",
+      "episode": "17",
       "files": [
         {
           "name": "HD-1",
@@ -468,8 +477,8 @@
       ]
     },
     {
-      "episode": "18",
       "title": "The Story of the Cape of No Mercy",
+      "episode": "18",
       "files": [
         {
           "name": "HD-1",
@@ -494,8 +503,8 @@
       ]
     },
     {
-      "episode": "19",
       "title": "The Story of the Amanojaku",
+      "episode": "19",
       "files": [
         {
           "name": "HD-1",
@@ -520,8 +529,8 @@
       ]
     },
     {
-      "episode": "20",
       "title": "The Story of the Nue",
+      "episode": "20",
       "files": [
         {
           "name": "HD-1",
@@ -546,8 +555,8 @@
       ]
     },
     {
-      "episode": "21",
       "title": "The Story of Breaking the Cycle of Suffering",
+      "episode": "21",
       "files": [
         {
           "name": "HD-1",
@@ -572,8 +581,8 @@
       ]
     },
     {
-      "episode": "22",
       "title": "The Story of Nui",
+      "episode": "22",
       "files": [
         {
           "name": "HD-1",
@@ -598,8 +607,8 @@
       ]
     },
     {
-      "episode": "23",
       "title": "The Story of the Demons",
+      "episode": "23",
       "files": [
         {
           "name": "HD-1",
@@ -624,8 +633,8 @@
       ]
     },
     {
-      "episode": "24",
       "title": "Dororo and Hyakkimaru",
+      "episode": "24",
       "files": [
         {
           "name": "HD-1",
@@ -649,5 +658,9 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "101347",
+  "hostUrl": "",
+  "releaseDate": "Jan 7, 2019",
+  "malId": "37520"
 }
