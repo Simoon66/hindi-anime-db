@@ -5,9 +5,11 @@
   "synonym": "Date A Live III",
   "native": "デート・ア・ライブⅢ",
   "aired": "1/11/2019",
+  "releaseDate": "Jan 11, 2019",
   "premiered": "WINTER 2019",
   "duration": "24m",
   "episodesCount": "12",
+  "totalEpisodes": 12,
   "genres": [
     "Action",
     "Comedy",
@@ -19,9 +21,11 @@
   ],
   "rating": "7.0",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Finished Airing",
   "country": "JP",
-  "studios": "J.C.STAFF",
+  "studios": [
+    "J.C.STAFF"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "36633",
@@ -340,5 +344,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T22:50:20.690Z"
 }
