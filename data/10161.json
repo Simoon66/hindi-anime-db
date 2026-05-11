@@ -5,9 +5,11 @@
   "synonym": "NO.6",
   "native": "NO.6",
   "aired": "7/8/2011",
+  "releaseDate": "Jul 8, 2011",
   "premiered": "SUMMER 2011",
   "duration": "23m",
   "episodesCount": "11",
+  "totalEpisodes": 11,
   "genres": [
     "Action",
     "Drama",
@@ -16,9 +18,11 @@
   ],
   "rating": "7.3",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Finished Airing",
   "country": "JP",
-  "studios": "bones",
+  "studios": [
+    "bones"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "10161",
@@ -311,5 +315,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T22:51:33.333Z"
 }
