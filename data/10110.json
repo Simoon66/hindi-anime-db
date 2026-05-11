@@ -5,9 +5,11 @@
   "synonym": "Mayo Chiki!",
   "native": "まよチキ!",
   "aired": "7/8/2011",
+  "releaseDate": "Jul 8, 2011",
   "premiered": "SUMMER 2011",
   "duration": "24m",
   "episodesCount": "13",
+  "totalEpisodes": 13,
   "genres": [
     "Comedy",
     "Ecchi",
@@ -15,9 +17,11 @@
   ],
   "rating": "6.9",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Finished Airing",
   "country": "JP",
-  "studios": "feel.",
+  "studios": [
+    "feel."
+  ],
   "producers": [],
   "seasons": [],
   "malId": "10110",
@@ -362,5 +366,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T22:51:26.575Z"
 }
