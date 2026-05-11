@@ -21,7 +21,7 @@
   ],
   "rating": "7.0",
   "type": "TV",
-  "status": "Finished Airing",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "J.C.STAFF"
@@ -345,5 +345,5 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T22:50:20.690Z"
+  "_forceSyncTime": 1778540571355
 }
