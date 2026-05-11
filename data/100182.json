@@ -17,7 +17,7 @@
   ],
   "rating": "7.5",
   "type": "TV",
-  "status": "Finished Airing",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "A-1 Pictures"
@@ -653,5 +653,5 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T22:48:55.490Z"
+  "_forceSyncTime": 1778540496498
 }
