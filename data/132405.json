@@ -5,6 +5,7 @@
   "synonym": "Sono Bisque Doll wa Koi wo Suru",
   "native": "その着せ替え人形は恋をする",
   "aired": "1/9/2022",
+  "releaseDate": "Jan 9, 2022",
   "premiered": "WINTER 2022",
   "duration": "24m",
   "episodesCount": "12",
@@ -16,9 +17,11 @@
   ],
   "rating": "8.0",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "CloverWorks",
+  "studios": [
+    "CloverWorks"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "48736",
@@ -337,5 +340,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:21:44.191Z"
 }
