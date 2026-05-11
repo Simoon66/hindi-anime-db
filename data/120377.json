@@ -5,6 +5,7 @@
   "synonym": "Cyberpunk: Edgerunners",
   "native": "サイバーパンク エッジランナーズ",
   "aired": "9/13/2022",
+  "releaseDate": "Sep 13, 2022",
   "premiered": "SUMMER 2022",
   "duration": "24m",
   "episodesCount": "10",
@@ -16,9 +17,11 @@
   ],
   "rating": "8.5",
   "type": "ONA",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "TRIGGER",
+  "studios": [
+    "TRIGGER"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "42310",
@@ -285,5 +288,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:24:34.133Z"
 }
