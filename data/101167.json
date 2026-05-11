@@ -5,9 +5,11 @@
   "synonym": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
   "native": "ダンジョンに出会いを求めるのは間違っているだろうかⅡ",
   "aired": "7/13/2019",
+  "releaseDate": "Jul 13, 2019",
   "premiered": "SUMMER 2019",
   "duration": "24m",
   "episodesCount": "12",
+  "totalEpisodes": 12,
   "genres": [
     "Action",
     "Adventure",
@@ -17,9 +19,11 @@
   ],
   "rating": "7.1",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "J.C.STAFF",
+  "studios": [
+    "J.C.STAFF"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "37347",
@@ -338,5 +342,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_forceSyncTime": 1778540683358
 }
