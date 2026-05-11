@@ -9,6 +9,7 @@
   "premiered": "FALL 2006",
   "duration": "23m",
   "episodesCount": "37",
+  "totalEpisodes": 37,
   "genres": [
     "Mystery",
     "Psychological",
@@ -990,5 +991,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T22:54:48.957Z"
 }
