@@ -5,6 +5,7 @@
   "synonym": "Hinamatsuri",
   "native": "ヒナまつり",
   "aired": "4/6/2018",
+  "releaseDate": "Apr 6, 2018",
   "premiered": "SPRING 2018",
   "duration": "24m",
   "episodesCount": "12",
@@ -16,9 +17,11 @@
   ],
   "rating": "8.0",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "feel.",
+  "studios": [
+    "feel."
+  ],
   "producers": [],
   "seasons": [],
   "malId": "36296",
@@ -337,5 +340,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:42:32.572Z"
 }
