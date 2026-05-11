@@ -5,6 +5,7 @@
   "synonym": "Made in Abyss",
   "native": "メイドインアビス",
   "aired": "7/7/2017",
+  "releaseDate": "Jul 7, 2017",
   "premiered": "SUMMER 2017",
   "duration": "25m",
   "episodesCount": "13",
@@ -18,9 +19,11 @@
   ],
   "rating": "8.5",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Kinema Citrus",
+  "studios": [
+    "Kinema Citrus"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "34599",
@@ -365,5 +368,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:21:59.193Z"
 }
