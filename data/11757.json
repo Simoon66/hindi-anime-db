@@ -9,6 +9,7 @@
   "premiered": "SUMMER 2012",
   "duration": "23m",
   "episodesCount": "25",
+  "totalEpisodes": 25,
   "genres": [
     "Action",
     "Adventure",
@@ -679,5 +680,5 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:14:03.190Z"
+  "_lastSync": "2026-05-11T22:56:26.603Z"
 }
