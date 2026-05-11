@@ -5,6 +5,7 @@
   "synonym": "Tokyo Revengers",
   "native": "東京リベンジャーズ",
   "aired": "4/11/2021",
+  "releaseDate": "Apr 11, 2021",
   "premiered": "SPRING 2021",
   "duration": "24m",
   "episodesCount": "24",
@@ -16,9 +17,11 @@
   ],
   "rating": "7.7",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "LIDENFILMS",
+  "studios": [
+    "LIDENFILMS"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "42249",
@@ -649,5 +652,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:20:17.203Z"
 }
