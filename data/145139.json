@@ -5,6 +5,7 @@
   "synonym": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
   "native": "鬼滅の刃 刀鍛冶の里編",
   "aired": "4/9/2023",
+  "releaseDate": "Apr 9, 2023",
   "premiered": "SPRING 2023",
   "duration": "24m",
   "episodesCount": "11",
@@ -17,9 +18,11 @@
   ],
   "rating": "8.1",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "ufotable",
+  "studios": [
+    "ufotable"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "51019",
@@ -312,5 +315,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:24:28.230Z"
 }
