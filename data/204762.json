@@ -1,0 +1,107 @@
+{
+  "title": "Enter the Garden",
+  "synopsis": "Three-part anthology series created by Azuki and Dentsu with creative producer, Gorou Taniguchi.",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204762-5TGKxC1rY63P.jpg",
+  "synonym": "Enter the Garden",
+  "native": "Enter the Garden",
+  "aired": "4/30/2024",
+  "releaseDate": "Apr 30, 2024",
+  "premiered": "SPRING 2024",
+  "duration": "",
+  "episodesCount": "3",
+  "genres": [],
+  "rating": "5.1",
+  "type": "ONA",
+  "status": "Ongoing",
+  "country": "JP",
+  "studios": [
+    "Qzil.la",
+    "Imagica Infos",
+    "Dentsu"
+  ],
+  "producers": [],
+  "seasons": [],
+  "malId": "58780",
+  "streamingId": "204762",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "The Waiting Man",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/204762/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/204762/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/58780/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/58780/1/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "2",
+      "title": "Fractured Reflections",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/204762/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/204762/2/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/58780/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/58780/2/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "3",
+      "title": "Episode 3",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/204762/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/204762/3/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/58780/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/58780/3/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
