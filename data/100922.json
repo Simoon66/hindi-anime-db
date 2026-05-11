@@ -17,7 +17,7 @@
   ],
   "rating": "8.2",
   "type": "TV",
-  "status": "Finished Airing",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "Zero-G"
@@ -153,6 +153,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/37105/8/sub",
           "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/100922/8/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37105/8/dub",
+          "type": "dub"
         }
       ]
     },
@@ -261,5 +271,5 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T22:51:03.850Z"
+  "_forceSyncTime": 1778540615274
 }
