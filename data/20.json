@@ -9,6 +9,7 @@
   "premiered": "FALL 2002",
   "duration": "23m",
   "episodesCount": "220",
+  "totalEpisodes": 220,
   "genres": [
     "Action",
     "Adventure",
@@ -5764,5 +5765,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T22:56:17.264Z"
 }
