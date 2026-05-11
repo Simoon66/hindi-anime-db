@@ -1,0 +1,57 @@
+{
+  "title": "BEYBLADE X",
+  "synopsis": "Bird Kazami, aiming to become a pro Blader, meets former champion Ekusu Kurosu, also known as 'Kamen X', and forms a team so that they can aim for the \"top\" of the X Tower. But what awaits them is a spectacular battle that no one has ever seen before. The yet unseen 'X'. The super accelerated (Xtreme) Beyblade runs through a new era!\n\n(Source: Official website)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165159-aCFC9Sng7t4M.png",
+  "synonym": "BEYBLADE X",
+  "native": "BEYBLADE X",
+  "aired": "10/6/2023",
+  "releaseDate": "Oct 6, 2023",
+  "premiered": "FALL 2023",
+  "duration": "22m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sports"
+  ],
+  "rating": "6.4",
+  "type": "TV",
+  "status": "Ongoing",
+  "country": "JP",
+  "studios": [
+    "OLM"
+  ],
+  "producers": [],
+  "seasons": [],
+  "malId": "56566",
+  "streamingId": "165159",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "X",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/165159/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/165159/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/56566/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/56566/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
