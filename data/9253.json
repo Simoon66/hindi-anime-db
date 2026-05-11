@@ -17,9 +17,11 @@
   ],
   "rating": "8.9",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "WHITE FOX",
+  "studios": [
+    "WHITE FOX"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "9253",
@@ -650,5 +652,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:15:53.190Z"
 }
