@@ -9,6 +9,7 @@
   "premiered": "SPRING 2013",
   "duration": "24m",
   "episodesCount": "25",
+  "totalEpisodes": 25,
   "genres": [
     "Action",
     "Drama",
@@ -678,5 +679,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T22:54:10.674Z"
 }
