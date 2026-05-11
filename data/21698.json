@@ -5,6 +5,7 @@
   "synonym": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
   "native": "ハイキュー!! 烏野高校 VS 白鳥沢学園高校",
   "aired": "10/8/2016",
+  "releaseDate": "Oct 8, 2016",
   "premiered": "FALL 2016",
   "duration": "25m",
   "episodesCount": "10",
@@ -15,9 +16,11 @@
   ],
   "rating": "8.7",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Production I.G",
+  "studios": [
+    "Production I.G"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "32935",
@@ -284,5 +287,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:23:59.189Z"
 }
