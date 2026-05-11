@@ -16,7 +16,7 @@
   ],
   "rating": "7.7",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "bones"
@@ -366,5 +366,5 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:01:58.190Z"
+  "_lastSync": "2026-05-11T21:12:42.190Z"
 }
