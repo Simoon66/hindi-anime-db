@@ -18,7 +18,7 @@
   ],
   "rating": "8.7",
   "type": "TV",
-  "status": "RELEASING",
+  "status": "Ongoing",
   "country": "JP",
   "studios": [
     "Toei Animation"
@@ -55,5 +55,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:13:32.203Z"
 }
