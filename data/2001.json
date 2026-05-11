@@ -5,6 +5,7 @@
   "synonym": "Tengen Toppa Gurren Lagann",
   "native": "天元突破グレンラガン",
   "aired": "4/1/2007",
+  "releaseDate": "Apr 1, 2007",
   "premiered": "SPRING 2007",
   "duration": "24m",
   "episodesCount": "27",
@@ -18,9 +19,11 @@
   ],
   "rating": "8.5",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Gainax",
+  "studios": [
+    "Gainax"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "2001",
@@ -729,5 +732,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:23:24.191Z"
 }
