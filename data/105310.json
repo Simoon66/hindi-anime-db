@@ -17,9 +17,11 @@
   ],
   "rating": "7.6",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "david production",
+  "studios": [
+    "david production"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "38671",
@@ -650,5 +652,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:18:37.191Z"
 }
