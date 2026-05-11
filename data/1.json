@@ -17,9 +17,11 @@
   ],
   "rating": "8.6",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Sunrise",
+  "studios": [
+    "Sunrise"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "1",
@@ -702,5 +704,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:19:16.206Z"
 }
