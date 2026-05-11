@@ -5,6 +5,7 @@
   "synonym": "Overlord",
   "native": "オーバーロード",
   "aired": "7/7/2015",
+  "releaseDate": "Jul 7, 2015",
   "premiered": "SUMMER 2015",
   "duration": "24m",
   "episodesCount": "13",
@@ -15,9 +16,11 @@
   ],
   "rating": "7.7",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "MADHOUSE",
+  "studios": [
+    "MADHOUSE"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "29803",
@@ -362,5 +365,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:22:15.199Z"
 }
