@@ -16,9 +16,11 @@
   ],
   "rating": "7.9",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Studio Pierrot",
+  "studios": [
+    "Studio Pierrot"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "269",
@@ -9541,5 +9543,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:18:04.248Z"
 }
