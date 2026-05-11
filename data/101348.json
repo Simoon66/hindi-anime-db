@@ -16,9 +16,11 @@
   ],
   "rating": "8.7",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "WIT STUDIO",
+  "studios": [
+    "WIT STUDIO"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "37521",
@@ -649,5 +651,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:17:20.200Z"
 }
