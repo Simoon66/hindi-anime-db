@@ -5,6 +5,7 @@
   "synonym": "Angel Beats!",
   "native": "Angel Beats!",
   "aired": "4/3/2010",
+  "releaseDate": "Apr 3, 2010",
   "premiered": "SPRING 2010",
   "duration": "24m",
   "episodesCount": "13",
@@ -16,9 +17,11 @@
   ],
   "rating": "7.7",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "P.A.WORKS",
+  "studios": [
+    "P.A.WORKS"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "6547",
@@ -363,5 +366,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:20:02.672Z"
 }
