@@ -5,6 +5,7 @@
   "synonym": "Dandadan",
   "native": "ダンダダン",
   "aired": "10/4/2024",
+  "releaseDate": "Oct 4, 2024",
   "premiered": "FALL 2024",
   "duration": "24m",
   "episodesCount": "12",
@@ -18,9 +19,11 @@
   ],
   "rating": "8.3",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Science SARU",
+  "studios": [
+    "Science SARU"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "57334",
@@ -339,5 +342,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:24:06.204Z"
 }
