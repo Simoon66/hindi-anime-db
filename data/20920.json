@@ -5,6 +5,7 @@
   "synonym": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
   "native": "ダンジョンに出会いを求めるのは間違っているだろうか",
   "aired": "4/4/2015",
+  "releaseDate": "Apr 4, 2015",
   "premiered": "SPRING 2015",
   "duration": "24m",
   "episodesCount": "13",
@@ -17,9 +18,11 @@
   ],
   "rating": "7.3",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "J.C.STAFF",
+  "studios": [
+    "J.C.STAFF"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "28121",
@@ -364,5 +367,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:22:36.194Z"
 }
