@@ -17,7 +17,7 @@
   ],
   "rating": "8.5",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "WIT STUDIO"
@@ -340,5 +340,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:13:38.204Z"
 }
