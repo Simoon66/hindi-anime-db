@@ -33,16 +33,6 @@
       "title": "Game Start",
       "files": [
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/100166/1/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/100166/1/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/36456/1/sub",
           "type": "sub"
@@ -58,16 +48,6 @@
       "episode": "2",
       "title": "Wild, Wild Pussycats",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/100166/2/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/100166/2/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/36456/2/sub",
@@ -679,5 +659,5 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:15:47.190Z"
+  "_lastSync": "2026-05-11T21:43:16.050Z"
 }
