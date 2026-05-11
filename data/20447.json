@@ -17,9 +17,11 @@
   ],
   "rating": "7.8",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "bones",
+  "studios": [
+    "bones"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "20507",
@@ -338,5 +340,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:16:53.191Z"
 }
