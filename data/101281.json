@@ -5,9 +5,11 @@
   "synonym": "Carole & Tuesday",
   "native": "キャロル＆チューズデイ",
   "aired": "4/10/2019",
+  "releaseDate": "Apr 10, 2019",
   "premiered": "SPRING 2019",
   "duration": "24m",
   "episodesCount": "24",
+  "totalEpisodes": 24,
   "genres": [
     "Drama",
     "Music",
@@ -15,9 +17,11 @@
   ],
   "rating": "7.6",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "bones",
+  "studios": [
+    "bones"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "37435",
@@ -34,19 +38,9 @@
           "type": "sub"
         },
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101281/1/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/37435/1/sub",
           "type": "sub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/37435/1/dub",
-          "type": "dub"
         }
       ]
     },
@@ -648,5 +642,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_forceSyncTime": 1778540714012
 }
