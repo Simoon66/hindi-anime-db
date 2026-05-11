@@ -9,6 +9,7 @@
   "premiered": "SPRING 2016",
   "duration": "24m",
   "episodesCount": "13",
+  "totalEpisodes": 13,
   "genres": [
     "Action",
     "Adventure",
@@ -365,5 +366,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T22:54:55.358Z"
 }
