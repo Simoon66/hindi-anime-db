@@ -5,6 +5,7 @@
   "synonym": "Tensei Shitara Slime Datta Ken",
   "native": "転生したらスライムだった件",
   "aired": "10/2/2018",
+  "releaseDate": "Oct 2, 2018",
   "premiered": "FALL 2018",
   "duration": "24m",
   "episodesCount": "24",
@@ -16,9 +17,11 @@
   ],
   "rating": "8.0",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "8-bit",
+  "studios": [
+    "8-bit"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "37430",
@@ -649,5 +652,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:19:57.190Z"
 }
