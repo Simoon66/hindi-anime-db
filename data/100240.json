@@ -19,7 +19,7 @@
   ],
   "rating": "6.2",
   "type": "TV",
-  "status": "Finished Airing",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "Studio Pierrot"
@@ -343,5 +343,5 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T22:49:14.408Z"
+  "_forceSyncTime": 1778540515358
 }
