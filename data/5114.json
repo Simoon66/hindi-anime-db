@@ -19,7 +19,9 @@
   "type": "TV",
   "status": "FINISHED",
   "country": "JP",
-  "studios": "bones",
+  "studios": [
+    "bones"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "5114",
