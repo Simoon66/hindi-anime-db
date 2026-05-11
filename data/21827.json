@@ -16,9 +16,11 @@
   ],
   "rating": "8.5",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Kyoto Animation",
+  "studios": [
+    "Kyoto Animation"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "33352",
@@ -363,5 +365,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:16:41.199Z"
 }
