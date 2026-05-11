@@ -5,9 +5,11 @@
   "synonym": "Arifureta Shokugyou de Sekai Saikyou",
   "native": "ありふれた職業で世界最強",
   "aired": "7/8/2019",
+  "releaseDate": "Jul 8, 2019",
   "premiered": "SUMMER 2019",
   "duration": "24m",
   "episodesCount": "13",
+  "totalEpisodes": 13,
   "genres": [
     "Action",
     "Adventure",
@@ -16,9 +18,12 @@
   ],
   "rating": "6.5",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Finished Airing",
   "country": "JP",
-  "studios": "WHITE FOX",
+  "studios": [
+    "WHITE FOX",
+    "Asread"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "36882",
@@ -363,5 +368,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T22:50:12.429Z"
 }
