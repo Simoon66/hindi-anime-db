@@ -18,9 +18,11 @@
   ],
   "rating": "8.1",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "MADHOUSE",
+  "studios": [
+    "MADHOUSE"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "22535",
@@ -651,5 +653,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:17:51.203Z"
 }
