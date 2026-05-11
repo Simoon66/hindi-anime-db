@@ -9,6 +9,7 @@
   "premiered": "SUMMER 2014",
   "duration": "24m",
   "episodesCount": "12",
+  "totalEpisodes": 12,
   "genres": [
     "Action",
     "Drama",
@@ -342,5 +343,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T22:55:27.471Z"
 }
