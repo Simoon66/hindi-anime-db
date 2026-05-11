@@ -15,8 +15,8 @@
     "Supernatural"
   ],
   "rating": "8.6",
-  "type": "MOVIE",
-  "status": "FINISHED",
+  "type": "Movie",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "CoMix Wave"
@@ -53,5 +53,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:14:09.189Z"
 }
