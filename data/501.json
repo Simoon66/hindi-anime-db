@@ -21,16 +21,10 @@
     "Tokyo Movie Shinsha"
   ],
   "producers": [],
-  "seasons": [
-    {
-      "title": "Doraemon",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/501.jpg",
-      "link": "/1973/04/501.html"
-    }
-  ],
+  "seasons": [],
   "episodes": [
     {
-      "title": "Episode 1",
+      "title": "Doraemon Is Here! / The Apology Cricket Riot",
       "episode": "1",
       "files": [
         {
@@ -42,21 +36,11 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/501/1/dub",
           "type": "dub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/501/1/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/501/1/dub",
-          "type": "dub"
         }
       ]
     },
     {
-      "title": "Episode 2",
+      "title": "The Great Girl on the Roof / Nobita's Ancestor",
       "episode": "2",
       "files": [
         {
@@ -68,21 +52,11 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/501/2/dub",
           "type": "dub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/501/2/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/501/2/dub",
-          "type": "dub"
         }
       ]
     },
     {
-      "title": "Episode 3",
+      "title": "Hold On to Your Weakness / The Cupid Lovey-dovey Strategy",
       "episode": "3",
       "files": [
         {
@@ -94,21 +68,11 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/501/3/dub",
           "type": "dub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/501/3/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/501/3/dub",
-          "type": "dub"
         }
       ]
     },
     {
-      "title": "Episode 4",
+      "title": "There is a Cat Weak on Rats / Defeat the Bully",
       "episode": "4",
       "files": [
         {
@@ -120,21 +84,11 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/501/4/dub",
           "type": "dub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/501/4/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/501/4/dub",
-          "type": "dub"
         }
       ]
     },
     {
-      "title": "Episode 5",
+      "title": "The Flattery Mirror / Papa and Mama's Wedding Anniversary",
       "episode": "5",
       "files": [
         {
@@ -146,21 +100,11 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/501/5/dub",
           "type": "dub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/501/5/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/501/5/dub",
-          "type": "dub"
         }
       ]
     },
     {
-      "title": "Episode 6",
+      "title": "Cursed Camera / Lottery Jackpot Strategy",
       "episode": "6",
       "files": [
         {
@@ -172,47 +116,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/501/6/dub",
           "type": "dub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/501/6/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/501/6/dub",
-          "type": "dub"
         }
       ]
     },
     {
-      "title": "Episode 7",
+      "title": "Noby vs Big G / Who am I",
       "episode": "7",
       "files": [
         {
           "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/501/7/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/501/7/dub",
-          "type": "dub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/501/7/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/501/7/dub",
           "type": "dub"
         }
       ]
     },
     {
-      "title": "Episode 8",
+      "title": "Abekonbe Riot / Mystery of the Ghost House",
       "episode": "8",
       "files": [
         {
@@ -238,7 +157,7 @@
       ]
     },
     {
-      "title": "Episode 9",
+      "title": "The Quick-Slow Great Strategy / Noby, the Rain Man",
       "episode": "9",
       "files": [
         {
@@ -264,7 +183,7 @@
       ]
     },
     {
-      "title": "Episode 10",
+      "title": "Ultra Mixer / Wishing Star, Shooting Star",
       "episode": "10",
       "files": [
         {
@@ -290,7 +209,7 @@
       ]
     },
     {
-      "title": "Episode 11",
+      "title": "Mysterious Cloth / Noby's Grandma",
       "episode": "11",
       "files": [
         {
@@ -316,7 +235,7 @@
       ]
     },
     {
-      "title": "Episode 12",
+      "title": "Red Bat of Major League / To Compete with Man's Power",
       "episode": "12",
       "files": [
         {
@@ -342,7 +261,7 @@
       ]
     },
     {
-      "title": "Episode 13",
+      "title": "Gashako's Appearance / The Talking Lipstick",
       "episode": "13",
       "files": [
         {
@@ -368,7 +287,7 @@
       ]
     },
     {
-      "title": "Episode 14",
+      "title": "I Love this Camera / Date in the Milky Way",
       "episode": "14",
       "files": [
         {
@@ -394,7 +313,7 @@
       ]
     },
     {
-      "title": "Episode 15",
+      "title": "Weird Robot Car / Smiling Soap",
       "episode": "15",
       "files": [
         {
@@ -420,7 +339,7 @@
       ]
     },
     {
-      "title": "Episode 16",
+      "title": "My Chief of the Inner Palace / Now is Summer! Let's Try to Ski",
       "episode": "16",
       "files": [
         {
@@ -446,7 +365,7 @@
       ]
     },
     {
-      "title": "Episode 17",
+      "title": "I Hate Report Card / Catching My Shadow",
       "episode": "17",
       "files": [
         {
@@ -472,7 +391,7 @@
       ]
     },
     {
-      "title": "Episode 18",
+      "title": "Going to Sea in a Submarine / Crazy Stomach Clock",
       "episode": "18",
       "files": [
         {
@@ -498,7 +417,7 @@
       ]
     },
     {
-      "title": "Episode 19",
+      "title": "Camp Riot / Who is Going to Forget",
       "episode": "19",
       "files": [
         {
@@ -524,7 +443,7 @@
       ]
     },
     {
-      "title": "Episode 20",
+      "title": "Cooler Parasol / Always Diary",
       "episode": "20",
       "files": [
         {
@@ -550,7 +469,7 @@
       ]
     },
     {
-      "title": "Episode 21",
+      "title": "The Homework Ghost Came Out / Weather Box",
       "episode": "21",
       "files": [
         {
@@ -576,7 +495,7 @@
       ]
     },
     {
-      "title": "Episode 22",
+      "title": "I Have One Vote of Betrayal / Manga Artist Training",
       "episode": "22",
       "files": [
         {
@@ -602,7 +521,7 @@
       ]
     },
     {
-      "title": "Episode 23",
+      "title": "Nice Girlfriend / Flowery Riot",
       "episode": "23",
       "files": [
         {
@@ -628,7 +547,7 @@
       ]
     },
     {
-      "title": "Episode 24",
+      "title": "Entirely Crayon / Shizuka's Birthday",
       "episode": "24",
       "files": [
         {
@@ -654,7 +573,7 @@
       ]
     },
     {
-      "title": "Episode 25",
+      "title": "Becoming a Space Astronaut / Lost and Confused Riot",
       "episode": "25",
       "files": [
         {
@@ -680,7 +599,7 @@
       ]
     },
     {
-      "title": "Episode 26",
+      "title": "The Big Clay Lump Riot / Goodbye, Doraemon",
       "episode": "26",
       "files": [
         {
