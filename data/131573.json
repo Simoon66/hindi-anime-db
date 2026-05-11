@@ -5,6 +5,7 @@
   "synonym": "Jujutsu Kaisen 0",
   "native": "呪術廻戦 0",
   "aired": "12/24/2021",
+  "releaseDate": "Dec 24, 2021",
   "premiered": "FALL 2021",
   "duration": "105m",
   "episodesCount": "1",
@@ -13,10 +14,12 @@
     "Supernatural"
   ],
   "rating": "8.3",
-  "type": "MOVIE",
-  "status": "FINISHED",
+  "type": "Movie",
+  "status": "Completed",
   "country": "JP",
-  "studios": "MAPPA",
+  "studios": [
+    "MAPPA"
+  ],
   "producers": [
     "Shueisha",
     "Toho",
@@ -116,5 +119,6 @@
       ],
       "hianimeCode": "90016"
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:21:02.189Z"
 }
