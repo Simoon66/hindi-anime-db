@@ -17,7 +17,7 @@
   ],
   "rating": "8.4",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "MADHOUSE"
@@ -991,5 +991,5 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:01:52.198Z"
+  "_lastSync": "2026-05-11T21:12:35.205Z"
 }
