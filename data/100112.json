@@ -9,6 +9,7 @@
   "premiered": "SPRING 2019",
   "duration": "24m",
   "episodesCount": "12",
+  "totalEpisodes": 12,
   "genres": [
     "Action",
     "Comedy",
@@ -17,7 +18,7 @@
   ],
   "rating": "6.4",
   "type": "TV",
-  "status": "Completed",
+  "status": "Finished Airing",
   "country": "JP",
   "studios": [
     "SILVER LINK."
@@ -341,5 +342,5 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T22:17:54.655Z"
+  "_lastSync": "2026-05-11T22:48:33.366Z"
 }
