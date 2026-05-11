@@ -15,8 +15,8 @@
     "Slice of Life"
   ],
   "rating": "8.8",
-  "type": "MOVIE",
-  "status": "FINISHED",
+  "type": "Movie",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "Kyoto Animation"
@@ -53,5 +53,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:14:15.202Z"
 }
