@@ -18,10 +18,12 @@
     "Supernatural"
   ],
   "rating": "8.4",
-  "type": "MOVIE",
-  "status": "FINISHED",
+  "type": "Movie",
+  "status": "Completed",
   "country": "JP",
-  "studios": "ufotable",
+  "studios": [
+    "ufotable"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "40456",
@@ -54,5 +56,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:17:45.189Z"
 }
