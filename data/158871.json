@@ -1,0 +1,47 @@
+{
+  "title": "Pokémon Horizons: The Series",
+  "synopsis": "A new dream and adventure set throughout the entire Pokémon world unfolds in a brand new Pokémon-series following a girl named Liko and a boy named Roy.",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-GBM9AMDfDRSu.jpg",
+  "synonym": "Pocket Monsters (2023)",
+  "native": "ポケットモンスター (2023)",
+  "aired": "4/14/2023",
+  "releaseDate": "Apr 14, 2023",
+  "premiered": "SPRING 2023",
+  "duration": "24m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "rating": "7.3",
+  "type": "TV",
+  "status": "Ongoing",
+  "country": "JP",
+  "studios": [
+    "OLM"
+  ],
+  "producers": [],
+  "seasons": [],
+  "malId": "53876",
+  "streamingId": "158871",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "The Pendant That Starts It All: Part One",
+      "files": [
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/53876/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/53876/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
