@@ -5,6 +5,7 @@
   "synonym": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
   "native": "ようこそ実力至上主義の教室へ",
   "aired": "7/12/2017",
+  "releaseDate": "Jul 12, 2017",
   "premiered": "SUMMER 2017",
   "duration": "24m",
   "episodesCount": "12",
@@ -14,9 +15,11 @@
   ],
   "rating": "7.6",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Lerche",
+  "studios": [
+    "Lerche"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "35507",
@@ -335,5 +338,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:20:29.195Z"
 }
