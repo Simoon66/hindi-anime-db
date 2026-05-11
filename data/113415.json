@@ -16,7 +16,7 @@
   ],
   "rating": "8.4",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "MAPPA"
@@ -1419,5 +1419,5 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:01:45.194Z"
+  "_lastSync": "2026-05-11T21:12:29.189Z"
 }
