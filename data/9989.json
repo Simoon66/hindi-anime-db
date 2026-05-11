@@ -5,6 +5,7 @@
   "synonym": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
   "native": "あの日見た花の名前を僕達はまだ知らない。",
   "aired": "4/15/2011",
+  "releaseDate": "Apr 15, 2011",
   "premiered": "SPRING 2011",
   "duration": "22m",
   "episodesCount": "11",
@@ -16,9 +17,11 @@
   ],
   "rating": "8.0",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "A-1 Pictures",
+  "studios": [
+    "A-1 Pictures"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "9989",
@@ -311,5 +314,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:22:21.201Z"
 }
