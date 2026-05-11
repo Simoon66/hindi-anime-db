@@ -9,6 +9,7 @@
   "premiered": "WINTER 2015",
   "duration": "23m",
   "episodesCount": "22",
+  "totalEpisodes": 22,
   "genres": [
     "Action",
     "Comedy",
@@ -601,5 +602,5 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:14:47.209Z"
+  "_lastSync": "2026-05-11T22:57:31.668Z"
 }
