@@ -5,6 +5,7 @@
   "synonym": "Kimi no Suizou wo Tabetai",
   "native": "君の膵臓をたべたい",
   "aired": "9/1/2018",
+  "releaseDate": "Sep 1, 2018",
   "premiered": "SUMMER 2018",
   "duration": "108m",
   "episodesCount": "1",
@@ -14,10 +15,12 @@
     "Slice of Life"
   ],
   "rating": "8.4",
-  "type": "MOVIE",
-  "status": "FINISHED",
+  "type": "Movie",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Studio VOLN",
+  "studios": [
+    "Studio VOLN"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "36098",
@@ -50,5 +53,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:23:53.190Z"
 }
