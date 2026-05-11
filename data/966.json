@@ -1,0 +1,47 @@
+{
+  "title": "Shin Chan",
+  "synopsis": "Crayon Shin-chan follows the wacky antics and adventures of five-year-old Shinnosuke \"Shin\" Nohara and his parents, neighbors, and friends and is set in Kasukabe, Saitama Prefecture, Japan.\nMany of the jokes in the series stem from Shin-chan's occasionally weird, unnatural and inappropriate use of language, as well as from his inappropriate behavior. A typical gag involves Shin-chan confounding his parents by using the wrong phrase for the occasion; for example, saying \"Welcome back!\" instead of \"I am back!\" when he comes home.\nDuring the beginning of the series, the TV show was mostly based on the storyline in the original manga. As the show progressed, more and more episodes became anime-original.",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
+  "synonym": "Crayon Shin-chan",
+  "native": "クレヨンしんちゃん",
+  "aired": "4/13/1992",
+  "releaseDate": "Apr 13, 1992",
+  "premiered": "SPRING 1992",
+  "duration": "21m",
+  "episodesCount": "1",
+  "genres": [
+    "Comedy",
+    "Ecchi",
+    "Slice of Life"
+  ],
+  "rating": "7.7",
+  "type": "TV",
+  "status": "Ongoing",
+  "country": "JP",
+  "studios": [
+    "Shin-Ei Animation"
+  ],
+  "producers": [],
+  "seasons": [],
+  "malId": "966",
+  "streamingId": "966",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Running an Errand / Mom's Mornings are Busy / Drawing",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/966/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/966/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
