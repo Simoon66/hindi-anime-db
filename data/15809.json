@@ -5,6 +5,7 @@
   "synonym": "Hataraku Maou-sama!",
   "native": "はたらく魔王さま!",
   "aired": "4/4/2013",
+  "releaseDate": "Apr 4, 2013",
   "premiered": "SPRING 2013",
   "duration": "24m",
   "episodesCount": "13",
@@ -16,9 +17,11 @@
   ],
   "rating": "7.5",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "WHITE FOX",
+  "studios": [
+    "WHITE FOX"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "15809",
@@ -363,5 +366,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:22:28.192Z"
 }
