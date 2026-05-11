@@ -5,9 +5,11 @@
   "synonym": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
   "native": "異世界魔王と召喚少女の奴隷魔術",
   "aired": "7/5/2018",
+  "releaseDate": "Jul 5, 2018",
   "premiered": "SUMMER 2018",
   "duration": "24m",
   "episodesCount": "12",
+  "totalEpisodes": 12,
   "genres": [
     "Comedy",
     "Ecchi",
@@ -15,9 +17,11 @@
   ],
   "rating": "6.6",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Finished Airing",
   "country": "JP",
-  "studios": "Ajiado",
+  "studios": [
+    "Ajiado"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "37210",
@@ -336,5 +340,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T22:51:51.741Z"
 }
