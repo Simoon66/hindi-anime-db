@@ -5,9 +5,11 @@
   "synonym": "3D Kanojo: Real Girl",
   "native": "3D彼女 リアルガール",
   "aired": "4/4/2018",
+  "releaseDate": "Apr 4, 2018",
   "premiered": "SPRING 2018",
   "duration": "23m",
   "episodesCount": "12",
+  "totalEpisodes": 12,
   "genres": [
     "Comedy",
     "Drama",
@@ -16,9 +18,11 @@
   ],
   "rating": "6.5",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Finished Airing",
   "country": "JP",
-  "studios": "Hoods Entertainment",
+  "studios": [
+    "Hoods Entertainment"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "36793",
@@ -337,5 +341,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T22:49:51.800Z"
 }
