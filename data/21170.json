@@ -5,6 +5,7 @@
   "synonym": "Ansatsu Kyoushitsu 2nd Season",
   "native": "暗殺教室 第２期",
   "aired": "1/8/2016",
+  "releaseDate": "Jan 8, 2016",
   "premiered": "WINTER 2016",
   "duration": "23m",
   "episodesCount": "25",
@@ -16,9 +17,11 @@
   ],
   "rating": "8.3",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Lerche",
+  "studios": [
+    "Lerche"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "30654",
@@ -675,5 +678,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:23:37.201Z"
 }
