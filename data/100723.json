@@ -5,9 +5,11 @@
   "synonym": "Boku no Hero Academia THE MOVIE: Futari no Hero",
   "native": "僕のヒーローアカデミア THE MOVIE 〜2人の英雄〜",
   "aired": "8/3/2018",
+  "releaseDate": "Aug 3, 2018",
   "premiered": "SUMMER 2018",
   "duration": "96m",
   "episodesCount": "1",
+  "totalEpisodes": 1,
   "genres": [
     "Action",
     "Comedy",
@@ -15,10 +17,12 @@
     "Sci-Fi"
   ],
   "rating": "7.4",
-  "type": "MOVIE",
-  "status": "FINISHED",
+  "type": "Movie",
+  "status": "Finished Airing",
   "country": "JP",
-  "studios": "bones",
+  "studios": [
+    "bones"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "36896",
@@ -51,5 +55,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T22:50:27.785Z"
 }
