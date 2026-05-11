@@ -13,7 +13,7 @@ const oauth2Client = new google.auth.OAuth2(CLIENT_ID, CLIENT_SECRET);
 oauth2Client.setCredentials({ refresh_token: REFRESH_TOKEN });
 const blogger = google.blogger({ version: 'v3', auth: oauth2Client });
 
-function generateCode(data, osLabel = 'Series') {
+function generateCode(data, animeId, osLabel = 'Series') {
   const seasonsHtml = (data.seasons || []).map(s => `
   <a href="${s.link || '#'}" class="os-item" title="${s.title}">
     <div class="title">${s.title}</div>
@@ -35,6 +35,7 @@ function generateCode(data, osLabel = 'Series') {
   }).join(',\n');
 
   return `<!--[ Synopsis ]-->
+<span style="display:none;" class="blogger-sync-id">id_${animeId}</span>
 <div id="synopsis">
 <p>${(data.synopsis || '').replace(/\n/g, '<br>')}</p>
 </div>
@@ -75,7 +76,7 @@ async function sync() {
     console.log(`Processing ${file}`);
     const data = JSON.parse(fs.readFileSync(file, 'utf8'));
     const animeId = path.basename(file, '.json');
-    const htmlContent = generateCode(data);
+    const htmlContent = generateCode(data, animeId);
     
     // Convert Aired Date to ISO (for 'published' parameter)
     let publishedDateStr = undefined;
@@ -97,10 +98,11 @@ async function sync() {
     try {
       const res = await blogger.posts.search({
         blogId: BLOGGER_BLOG_ID,
-        q: labelToFind
+        q: labelToFind,
+        fetchBodies: true
       });
       if (res.data.items && res.data.items.length > 0) {
-        existingPost = res.data.items.find(p => (p.labels || []).includes(labelToFind));
+        existingPost = res.data.items.find(p => (p.labels || []).includes(labelToFind) || (p.content && p.content.includes(labelToFind)));
       }
     } catch(e) {
       console.log('Search error', e.message);
