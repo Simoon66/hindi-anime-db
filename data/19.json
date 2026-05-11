@@ -1,10 +1,10 @@
 {
   "title": "Monster",
-  "synopsis": "Dr. Kenzo Tenma is a renowned Japanese brain surgeon working at a leading hospital in Germany. One night, Dr. Tenma risks his reputation and career to save the life of a critically wounded young boy over that of the town mayor who had been planning to support the hospital financially. A string of mysterious murders begin to occur soon after the operation, and Dr. Tenma emerges as the primary suspect despite no incriminating evidence. \n\nA doctor is taught to believe that all life is equal; however, when another series of murders occur in the surgeon's vicinity, Dr. Tenma's beliefs are shaken as his actions that night are shown to have much broader consequences than he could have imagined. Leaving behind his life as a surgeon he embarks on a journey across the country to unravel the mystery of the boy he saved.",
-  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19-gtMC64182sm4.jpg",
-  "synonym": "MONSTER",
+  "synopsis": "Dr. Kenzo Tenma is a renowned Japanese brain surgeon working at a leading hospital in Germany. One night, Dr. Tenma risks his reputation and career to save the life of a critically wounded young boy over that of the town mayor who had been planning to support the hospital financially. A string of mysterious murders begin to occur soon after the operation, and Dr. Tenma emerges as the primary suspect despite no incriminating evidence. \n\n\n\nA doctor is taught to believe that all life is equal; however, when another series of murders occur in the surgeon's vicinity, Dr. Tenma's beliefs are shaken as his actions that night are shown to have much broader consequences than he could have imagined. Leaving behind his life as a surgeon he embarks on a journey across the country to unravel the mystery of the boy he saved.",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19-gtMC64182sm4.jpg",
+  "synonym": "モンスター",
   "native": "MONSTER",
-  "aired": "4/7/2004",
+  "aired": "Apr 7, 2004 to Sep 28, 2005",
   "premiered": "SPRING 2004",
   "duration": "24m",
   "episodesCount": "74",
@@ -17,18 +17,27 @@
   ],
   "rating": "8.8",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "MADHOUSE",
-  "producers": [],
-  "seasons": [],
-  "malId": "19",
-  "streamingId": "19",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "studios": [
+    "MADHOUSE"
+  ],
+  "producers": [
+    "VAP",
+    "Viz Media",
+    "Nippon Television Network"
+  ],
+  "seasons": [
+    {
+      "title": "Monster",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19-gtMC64182sm4.jpg",
+      "link": "/2004/04/19.html"
+    }
+  ],
   "episodes": [
     {
-      "episode": "1",
       "title": "Herr Dr. Tenma",
+      "episode": "1",
       "files": [
         {
           "name": "HD-1",
@@ -53,8 +62,8 @@
       ]
     },
     {
-      "episode": "2",
       "title": "Downfall",
+      "episode": "2",
       "files": [
         {
           "name": "HD-1",
@@ -79,8 +88,8 @@
       ]
     },
     {
-      "episode": "3",
       "title": "A Murder",
+      "episode": "3",
       "files": [
         {
           "name": "HD-1",
@@ -105,8 +114,8 @@
       ]
     },
     {
-      "episode": "4",
       "title": "Night of the Execution",
+      "episode": "4",
       "files": [
         {
           "name": "HD-1",
@@ -131,8 +140,8 @@
       ]
     },
     {
-      "episode": "5",
       "title": "The Girl of Heidelberg",
+      "episode": "5",
       "files": [
         {
           "name": "HD-1",
@@ -157,8 +166,8 @@
       ]
     },
     {
-      "episode": "6",
       "title": "Disappearance Report",
+      "episode": "6",
       "files": [
         {
           "name": "HD-1",
@@ -183,8 +192,8 @@
       ]
     },
     {
-      "episode": "7",
       "title": "Mansion of Tragedy",
+      "episode": "7",
       "files": [
         {
           "name": "HD-1",
@@ -209,8 +218,8 @@
       ]
     },
     {
-      "episode": "8",
       "title": "The Fugitive",
+      "episode": "8",
       "files": [
         {
           "name": "HD-1",
@@ -235,8 +244,8 @@
       ]
     },
     {
-      "episode": "9",
       "title": "The Girl and the Seasoned Soldier",
+      "episode": "9",
       "files": [
         {
           "name": "HD-1",
@@ -261,8 +270,8 @@
       ]
     },
     {
-      "episode": "10",
       "title": "A Past Erased",
+      "episode": "10",
       "files": [
         {
           "name": "HD-1",
@@ -287,8 +296,8 @@
       ]
     },
     {
-      "episode": "11",
       "title": "511 Kinderheim",
+      "episode": "11",
       "files": [
         {
           "name": "HD-1",
@@ -313,8 +322,8 @@
       ]
     },
     {
-      "episode": "12",
       "title": "A Little Experiment",
+      "episode": "12",
       "files": [
         {
           "name": "HD-1",
@@ -339,8 +348,8 @@
       ]
     },
     {
-      "episode": "13",
       "title": "Petra and Schumann",
+      "episode": "13",
       "files": [
         {
           "name": "HD-1",
@@ -365,8 +374,8 @@
       ]
     },
     {
-      "episode": "14",
       "title": "Left Behind",
+      "episode": "14",
       "files": [
         {
           "name": "HD-1",
@@ -391,8 +400,8 @@
       ]
     },
     {
-      "episode": "15",
       "title": "Be My Baby",
+      "episode": "15",
       "files": [
         {
           "name": "HD-1",
@@ -417,8 +426,8 @@
       ]
     },
     {
-      "episode": "16",
       "title": "Wolf's Confession",
+      "episode": "16",
       "files": [
         {
           "name": "HD-1",
@@ -443,8 +452,8 @@
       ]
     },
     {
-      "episode": "17",
       "title": "Reunion",
+      "episode": "17",
       "files": [
         {
           "name": "HD-1",
@@ -469,8 +478,8 @@
       ]
     },
     {
-      "episode": "18",
       "title": "The Fifth Spoonful of Sugar",
+      "episode": "18",
       "files": [
         {
           "name": "HD-1",
@@ -495,8 +504,8 @@
       ]
     },
     {
-      "episode": "19",
       "title": "The Monster's Abyss",
+      "episode": "19",
       "files": [
         {
           "name": "HD-1",
@@ -521,8 +530,8 @@
       ]
     },
     {
-      "episode": "20",
       "title": "Journey to Freiham",
+      "episode": "20",
       "files": [
         {
           "name": "HD-1",
@@ -547,8 +556,8 @@
       ]
     },
     {
-      "episode": "21",
       "title": "A Wonderful Holiday",
+      "episode": "21",
       "files": [
         {
           "name": "HD-1",
@@ -573,8 +582,8 @@
       ]
     },
     {
-      "episode": "22",
       "title": "Lunge's Trap",
+      "episode": "22",
       "files": [
         {
           "name": "HD-1",
@@ -599,8 +608,8 @@
       ]
     },
     {
-      "episode": "23",
       "title": "Eva's Confession",
+      "episode": "23",
       "files": [
         {
           "name": "HD-1",
@@ -625,8 +634,8 @@
       ]
     },
     {
-      "episode": "24",
       "title": "The Men's Dining Table",
+      "episode": "24",
       "files": [
         {
           "name": "HD-1",
@@ -651,8 +660,8 @@
       ]
     },
     {
-      "episode": "25",
       "title": "The Thursday Boy",
+      "episode": "25",
       "files": [
         {
           "name": "HD-1",
@@ -677,8 +686,8 @@
       ]
     },
     {
-      "episode": "26",
       "title": "The Secret Woods",
+      "episode": "26",
       "files": [
         {
           "name": "HD-1",
@@ -703,8 +712,8 @@
       ]
     },
     {
-      "episode": "27",
       "title": "Pieces of Evidence",
+      "episode": "27",
       "files": [
         {
           "name": "HD-1",
@@ -729,8 +738,8 @@
       ]
     },
     {
-      "episode": "28",
       "title": "Just One Case",
+      "episode": "28",
       "files": [
         {
           "name": "HD-1",
@@ -755,8 +764,8 @@
       ]
     },
     {
-      "episode": "29",
       "title": "Execution",
+      "episode": "29",
       "files": [
         {
           "name": "HD-1",
@@ -781,8 +790,8 @@
       ]
     },
     {
-      "episode": "30",
       "title": "A Certain Decision",
+      "episode": "30",
       "files": [
         {
           "name": "HD-1",
@@ -807,8 +816,8 @@
       ]
     },
     {
-      "episode": "31",
       "title": "Under Broad Daylight",
+      "episode": "31",
       "files": [
         {
           "name": "HD-1",
@@ -833,8 +842,8 @@
       ]
     },
     {
-      "episode": "32",
       "title": "Sanctuary",
+      "episode": "32",
       "files": [
         {
           "name": "HD-1",
@@ -859,8 +868,8 @@
       ]
     },
     {
-      "episode": "33",
       "title": "Scene of a Child",
+      "episode": "33",
       "files": [
         {
           "name": "HD-1",
@@ -885,8 +894,8 @@
       ]
     },
     {
-      "episode": "34",
       "title": "At the End of the Darkness",
+      "episode": "34",
       "files": [
         {
           "name": "HD-1",
@@ -911,8 +920,8 @@
       ]
     },
     {
-      "episode": "35",
       "title": "A Hero With No Name",
+      "episode": "35",
       "files": [
         {
           "name": "HD-1",
@@ -937,8 +946,8 @@
       ]
     },
     {
-      "episode": "36",
       "title": "A Monster of Chaos",
+      "episode": "36",
       "files": [
         {
           "name": "HD-1",
@@ -963,8 +972,8 @@
       ]
     },
     {
-      "episode": "37",
       "title": "A Monster Without a Name",
+      "episode": "37",
       "files": [
         {
           "name": "HD-1",
@@ -989,8 +998,8 @@
       ]
     },
     {
-      "episode": "38",
       "title": "The Demon in Our Eyes",
+      "episode": "38",
       "files": [
         {
           "name": "HD-1",
@@ -1015,8 +1024,8 @@
       ]
     },
     {
-      "episode": "39",
       "title": "The Hell in His Eyes",
+      "episode": "39",
       "files": [
         {
           "name": "HD-1",
@@ -1041,8 +1050,8 @@
       ]
     },
     {
-      "episode": "40",
       "title": "Grimmer",
+      "episode": "40",
       "files": [
         {
           "name": "HD-1",
@@ -1067,8 +1076,8 @@
       ]
     },
     {
-      "episode": "41",
       "title": "The Ghost of 511",
+      "episode": "41",
       "files": [
         {
           "name": "HD-1",
@@ -1093,8 +1102,8 @@
       ]
     },
     {
-      "episode": "42",
       "title": "The Adventures of the Magnificent Steiner",
+      "episode": "42",
       "files": [
         {
           "name": "HD-1",
@@ -1119,8 +1128,8 @@
       ]
     },
     {
-      "episode": "43",
       "title": "Detective Suk",
+      "episode": "43",
       "files": [
         {
           "name": "HD-1",
@@ -1145,8 +1154,8 @@
       ]
     },
     {
-      "episode": "44",
       "title": "The Two Darkness",
+      "episode": "44",
       "files": [
         {
           "name": "HD-1",
@@ -1171,8 +1180,8 @@
       ]
     },
     {
-      "episode": "45",
       "title": "The Afterimage of a Monster",
+      "episode": "45",
       "files": [
         {
           "name": "HD-1",
@@ -1197,8 +1206,8 @@
       ]
     },
     {
-      "episode": "46",
       "title": "The Point of Contact",
+      "episode": "46",
       "files": [
         {
           "name": "HD-1",
@@ -1223,8 +1232,8 @@
       ]
     },
     {
-      "episode": "47",
       "title": "The Door to a Nightmare",
+      "episode": "47",
       "files": [
         {
           "name": "HD-1",
@@ -1249,8 +1258,8 @@
       ]
     },
     {
-      "episode": "48",
       "title": "The Most Frightening Thing",
+      "episode": "48",
       "files": [
         {
           "name": "HD-1",
@@ -1275,8 +1284,8 @@
       ]
     },
     {
-      "episode": "49",
       "title": "The Cruelest Thing",
+      "episode": "49",
       "files": [
         {
           "name": "HD-1",
@@ -1301,8 +1310,8 @@
       ]
     },
     {
-      "episode": "50",
       "title": "The Rose Mansion",
+      "episode": "50",
       "files": [
         {
           "name": "HD-1",
@@ -1327,8 +1336,8 @@
       ]
     },
     {
-      "episode": "51",
       "title": "A Monster's Love Letter",
+      "episode": "51",
       "files": [
         {
           "name": "HD-1",
@@ -1353,8 +1362,8 @@
       ]
     },
     {
-      "episode": "52",
       "title": "Lawyer",
+      "episode": "52",
       "files": [
         {
           "name": "HD-1",
@@ -1379,8 +1388,8 @@
       ]
     },
     {
-      "episode": "53",
       "title": "Determination",
+      "episode": "53",
       "files": [
         {
           "name": "HD-1",
@@ -1405,8 +1414,8 @@
       ]
     },
     {
-      "episode": "54",
       "title": "Escape",
+      "episode": "54",
       "files": [
         {
           "name": "HD-1",
@@ -1431,8 +1440,8 @@
       ]
     },
     {
-      "episode": "55",
       "title": "Room Number 402",
+      "episode": "55",
       "files": [
         {
           "name": "HD-1",
@@ -1457,8 +1466,8 @@
       ]
     },
     {
-      "episode": "56",
       "title": "The Unending Journey",
+      "episode": "56",
       "files": [
         {
           "name": "HD-1",
@@ -1483,8 +1492,8 @@
       ]
     },
     {
-      "episode": "57",
       "title": "That Night",
+      "episode": "57",
       "files": [
         {
           "name": "HD-1",
@@ -1509,8 +1518,8 @@
       ]
     },
     {
-      "episode": "58",
       "title": "Unwanted Job",
+      "episode": "58",
       "files": [
         {
           "name": "HD-1",
@@ -1535,8 +1544,8 @@
       ]
     },
     {
-      "episode": "59",
       "title": "The Man Who Saw the Devil",
+      "episode": "59",
       "files": [
         {
           "name": "HD-1",
@@ -1561,8 +1570,8 @@
       ]
     },
     {
-      "episode": "60",
       "title": "The Man Who Knew Too Much",
+      "episode": "60",
       "files": [
         {
           "name": "HD-1",
@@ -1587,8 +1596,8 @@
       ]
     },
     {
-      "episode": "61",
       "title": "The Door of Memory",
+      "episode": "61",
       "files": [
         {
           "name": "HD-1",
@@ -1613,8 +1622,8 @@
       ]
     },
     {
-      "episode": "62",
       "title": "A Fun Dining Table",
+      "episode": "62",
       "files": [
         {
           "name": "HD-1",
@@ -1639,8 +1648,8 @@
       ]
     },
     {
-      "episode": "63",
       "title": "An Unrelated Murder",
+      "episode": "63",
       "files": [
         {
           "name": "HD-1",
@@ -1665,8 +1674,8 @@
       ]
     },
     {
-      "episode": "64",
       "title": "The Baby's Depression",
+      "episode": "64",
       "files": [
         {
           "name": "HD-1",
@@ -1691,8 +1700,8 @@
       ]
     },
     {
-      "episode": "65",
       "title": "Johan's Footprints",
+      "episode": "65",
       "files": [
         {
           "name": "HD-1",
@@ -1717,8 +1726,8 @@
       ]
     },
     {
-      "episode": "66",
       "title": "Welcome Back",
+      "episode": "66",
       "files": [
         {
           "name": "HD-1",
@@ -1743,8 +1752,8 @@
       ]
     },
     {
-      "episode": "67",
       "title": "I'm Home",
+      "episode": "67",
       "files": [
         {
           "name": "HD-1",
@@ -1769,8 +1778,8 @@
       ]
     },
     {
-      "episode": "68",
       "title": "Ruhenheim",
+      "episode": "68",
       "files": [
         {
           "name": "HD-1",
@@ -1795,8 +1804,8 @@
       ]
     },
     {
-      "episode": "69",
       "title": "A Peaceful Home",
+      "episode": "69",
       "files": [
         {
           "name": "HD-1",
@@ -1821,8 +1830,8 @@
       ]
     },
     {
-      "episode": "70",
       "title": "The Town of Slaughter",
+      "episode": "70",
       "files": [
         {
           "name": "HD-1",
@@ -1847,8 +1856,8 @@
       ]
     },
     {
-      "episode": "71",
       "title": "The Magnificent Steiner's Rage",
+      "episode": "71",
       "files": [
         {
           "name": "HD-1",
@@ -1873,8 +1882,8 @@
       ]
     },
     {
-      "episode": "72",
       "title": "Man Without A Name",
+      "episode": "72",
       "files": [
         {
           "name": "HD-1",
@@ -1899,8 +1908,8 @@
       ]
     },
     {
-      "episode": "73",
       "title": "The Landscape of the End",
+      "episode": "73",
       "files": [
         {
           "name": "HD-1",
@@ -1925,8 +1934,8 @@
       ]
     },
     {
-      "episode": "74",
       "title": "The Real Monster",
+      "episode": "74",
       "files": [
         {
           "name": "HD-1",
@@ -1950,5 +1959,9 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "19",
+  "hostUrl": "",
+  "releaseDate": "Apr 7, 2004",
+  "malId": "19"
 }
