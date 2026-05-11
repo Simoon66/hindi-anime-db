@@ -5,18 +5,22 @@
   "synonym": "Sword Art Online Alternative: Gun Gale Online",
   "native": "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
   "aired": "4/8/2018",
+  "releaseDate": "Apr 8, 2018",
   "premiered": "SPRING 2018",
   "duration": "24m",
   "episodesCount": "12",
+  "totalEpisodes": 12,
   "genres": [
     "Action",
     "Sci-Fi"
   ],
   "rating": "6.9",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Finished Airing",
   "country": "JP",
-  "studios": "Studio 3Hz",
+  "studios": [
+    "Studio 3Hz"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "36475",
@@ -335,5 +339,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T22:49:06.743Z"
 }
