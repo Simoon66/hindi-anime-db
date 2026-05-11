@@ -40,6 +40,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/1/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/1/dub",
+          "type": "dub"
         }
       ]
     },
@@ -55,6 +65,16 @@
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/2/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/2/dub",
           "type": "dub"
         }
       ]
@@ -72,6 +92,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/3/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/3/dub",
+          "type": "dub"
         }
       ]
     },
@@ -88,6 +118,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/4/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/4/dub",
+          "type": "dub"
         }
       ]
     },
@@ -103,6 +143,16 @@
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/5/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/5/dub",
           "type": "dub"
         }
       ]
@@ -502,16 +552,6 @@
       "title": "Some × Brother × Trouble",
       "files": [
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/21/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/21/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/21/sub",
           "type": "sub"
@@ -527,16 +567,6 @@
       "episode": "22",
       "title": "A × Dangerous × Watchdog",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/22/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/22/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/22/sub",
@@ -554,16 +584,6 @@
       "title": "The × Guard's × Duty",
       "files": [
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/23/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/23/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/23/sub",
           "type": "sub"
@@ -579,16 +599,6 @@
       "episode": "24",
       "title": "The × Zoldyck × Family",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/24/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/24/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/24/sub",
@@ -606,16 +616,6 @@
       "title": "Can't See × If × You're Blind",
       "files": [
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/25/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/25/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/25/sub",
           "type": "sub"
@@ -631,16 +631,6 @@
       "episode": "26",
       "title": "Then × and × After",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/26/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/26/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/26/sub",
@@ -3825,6 +3815,5 @@
         }
       ]
     }
-  ],
-  "_lastSync": "2026-05-11T22:00:20.079Z"
+  ]
 }
