@@ -1,0 +1,58 @@
+{
+  "title": "Detective Conan",
+  "synopsis": "Kudo Shinichi is a seventeen year-old high school detective whom people call the \"Modern Sherlock Holmes.\" However, one night after a date with his childhood sweetheart, Ran, Shinichi witnessed an illegal trade and, caught off his guard, was knocked unconscious and fed a drug that was supposed to kill him... but he woke up and found himself shrunken to a seven year-old. In order to track down the men who did this to him, Shinichi hid his identity and lived with Ran, whose father happened to be a hopeless detective, and with that came a series of murders and mysteries that he must solve. \n(Source: Anime News Network)\n\nNote:\n- Includes Keisatsu Gakkou-hen - Wild Police Story in episodes 1029, 1038, 1042, 1061\n- Episodes 11, 52, 76, 118, 162, 184, 208, 342, 356, 449, 452, 487, 488, 489, 490, 515, 516, 521, 522, 651, 734, 804, 805, 927, 928, 1187 aired with a runtime of ~50 minutes as opposed to the standard 25 minute long episode.\n- Episodes 96, 129, 174, 219, 263, 304, 383, 479 aired with a runtime of ~90 minutes as opposed to the standard 25 minute long episode.\n- Episode 345, 425 aired with a runtime of ~115 minutes as opposed to the standard 25 minute long episode.\n",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx235-MyYT7K3chBdO.jpg",
+  "synonym": "Meitantei Conan",
+  "native": "名探偵コナン",
+  "aired": "1/8/1996",
+  "releaseDate": "Jan 8, 1996",
+  "premiered": "WINTER 1996",
+  "duration": "25m",
+  "episodesCount": "1",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Mystery",
+    "Psychological"
+  ],
+  "rating": "8.1",
+  "type": "TV",
+  "status": "Ongoing",
+  "country": "JP",
+  "studios": [
+    "TMS Entertainment"
+  ],
+  "producers": [],
+  "seasons": [],
+  "malId": "235",
+  "streamingId": "235",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Roller Coaster Murder Case",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/235/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/235/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/235/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/235/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
