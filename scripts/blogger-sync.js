@@ -25,24 +25,19 @@ function generateCode(data, animeId, osLabel = 'Series') {
       "0": "${f.name}",
       "1": "${f.url}",
       "2": "${f.type || 'sub'}"
-    }`).join(',
-');
-    const escapedTitle = (ep.title || '').replace(/"/g, '\"');
+    }`).join(',\n');
+    const escapedTitle = (ep.title || '').replace(/"/g, '\\"');
     return `  {
     "title": "${escapedTitle}",
     "episode": "${ep.episode}",
-    "files": [
-${filesJs}
-    ]
+    "files": [\n${filesJs}\n    ]
   }`;
-  }).join(',
-');
+  }).join(',\n');
 
   return `<!--[ Synopsis ]-->
 <span style="display:none;" class="blogger-sync-id">id_${animeId}</span>
 <div id="synopsis">
-<p>${(data.synopsis || '').replace(/
-/g, '<br>')}</p>
+<p>${(data.synopsis || '').replace(/\n/g, '<br>')}</p>
 </div>
 
 <span><!--more--></span>
@@ -134,16 +129,20 @@ async function sync() {
 
     if (existingPost) {
       console.log(`Updating post ${existingPost.id} for ${animeId}`);
-      await blogger.posts.patch({
-        blogId: BLOGGER_BLOG_ID,
-        postId: existingPost.id,
-        requestBody: {
-          title: data.title,
-          content: htmlContent,
-          labels: uniqueLabels,
-          ...(publishedDateStr ? { published: publishedDateStr } : {})
-        }
-      });
+      try {
+        await blogger.posts.patch({
+          blogId: BLOGGER_BLOG_ID,
+          postId: existingPost.id,
+          requestBody: {
+            title: data.title,
+            content: htmlContent,
+            labels: uniqueLabels,
+            ...(publishedDateStr ? { published: publishedDateStr } : {})
+          }
+        });
+      } catch (err) {
+        console.log('Update Error', err.response ? err.response.data : err.message);
+      }
     } else {
       console.log(`Creating new post for ${animeId}`);
       try {
