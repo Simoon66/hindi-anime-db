@@ -19,9 +19,11 @@
   ],
   "rating": "8.1",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "CloverWorks",
+  "studios": [
+    "CloverWorks"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "37450",
@@ -366,5 +368,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:16:05.189Z"
 }
