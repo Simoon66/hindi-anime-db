@@ -5,6 +5,7 @@
   "synonym": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
   "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
   "aired": "4/11/2020",
+  "releaseDate": "Apr 11, 2020",
   "premiered": "SPRING 2020",
   "duration": "25m",
   "episodesCount": "12",
@@ -16,9 +17,11 @@
   ],
   "rating": "8.5",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "A-1 Pictures",
+  "studios": [
+    "A-1 Pictures"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "40591",
@@ -337,5 +340,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:20:36.200Z"
 }
