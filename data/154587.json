@@ -5,6 +5,7 @@
   "synonym": "Sousou no Frieren",
   "native": "葬送のフリーレン",
   "aired": "9/29/2023",
+  "releaseDate": "Sep 29, 2023",
   "premiered": "FALL 2023",
   "duration": "24m",
   "episodesCount": "28",
@@ -15,9 +16,11 @@
   ],
   "rating": "9.1",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "MADHOUSE",
+  "studios": [
+    "MADHOUSE"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "52991",
@@ -752,5 +755,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:20:10.199Z"
 }
