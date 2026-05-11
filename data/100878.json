@@ -5,18 +5,22 @@
   "synonym": "Youjo Senki Movie",
   "native": "劇場版 幼女戦記",
   "aired": "2/8/2019",
+  "releaseDate": "Feb 8, 2019",
   "premiered": "WINTER 2019",
   "duration": "98m",
   "episodesCount": "1",
+  "totalEpisodes": 1,
   "genres": [
     "Action",
     "Fantasy"
   ],
   "rating": "8.1",
-  "type": "MOVIE",
-  "status": "FINISHED",
+  "type": "Movie",
+  "status": "Finished Airing",
   "country": "JP",
-  "studios": "NUT",
+  "studios": [
+    "NUT"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "37055",
@@ -33,21 +37,12 @@
           "type": "sub"
         },
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/100878/1/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/37055/1/sub",
           "type": "sub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/37055/1/dub",
-          "type": "dub"
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T22:50:51.697Z"
 }
