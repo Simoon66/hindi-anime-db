@@ -17,7 +17,7 @@
   ],
   "rating": "7.4",
   "type": "TV",
-  "status": "Finished Airing",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "david production"
@@ -367,5 +367,5 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T22:51:11.395Z"
+  "_forceSyncTime": 1778540622558
 }
