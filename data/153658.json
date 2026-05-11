@@ -1,0 +1,47 @@
+{
+  "title": "HAIKYU!! The Dumpster Battle",
+  "synopsis": "Theatrical follow-up to Haikyuu!! TO THE TOP 2. The first film of Haikyuu!! FINAL.\n\nThe Spring Nationals tournament continues on, with Karasuno High matched against rivals Nekoma High, the fated battle between cats versus crows, also known as the highly anticipated “Dumpster Battle”. This match is the long awaited ultimate showdown between two opposing underdog teams.\n(Source: Crunchyroll, edited)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153658-KVnjW77cQw3y.jpg",
+  "synonym": "Haikyuu!!: Gomi Suteba no Kessen",
+  "native": "ハイキュー!! ゴミ捨て場の決戦",
+  "aired": "2/16/2024",
+  "releaseDate": "Feb 16, 2024",
+  "premiered": "WINTER 2024",
+  "duration": "85m",
+  "episodesCount": "1",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Sports"
+  ],
+  "rating": "8.6",
+  "type": "Movie",
+  "status": "Completed",
+  "country": "JP",
+  "studios": [
+    "Production I.G"
+  ],
+  "producers": [],
+  "seasons": [],
+  "malId": "52742",
+  "streamingId": "153658",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/52742/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/52742/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ]
+}
