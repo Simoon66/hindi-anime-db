@@ -9,6 +9,7 @@
   "premiered": "WINTER 2021",
   "duration": "24m",
   "episodesCount": "16",
+  "totalEpisodes": 16,
   "genres": [
     "Action",
     "Drama",
@@ -445,5 +446,5 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:14:33.197Z"
+  "_lastSync": "2026-05-11T22:57:13.538Z"
 }
