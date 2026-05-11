@@ -33,16 +33,6 @@
       "title": "Beast Titan",
       "files": [
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/20958/1/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/20958/1/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/25777/1/sub",
           "type": "sub"
@@ -59,16 +49,6 @@
       "title": "I'm Home",
       "files": [
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/20958/2/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/20958/2/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/25777/2/sub",
           "type": "sub"
@@ -84,16 +64,6 @@
       "episode": "3",
       "title": "Southwestward",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/20958/3/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/20958/3/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/25777/3/sub",
@@ -340,6 +310,5 @@
         }
       ]
     }
-  ],
-  "_lastSync": "2026-05-11T21:13:38.204Z"
+  ]
 }
