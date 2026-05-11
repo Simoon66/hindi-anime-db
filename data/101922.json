@@ -9,6 +9,7 @@
   "premiered": "SPRING 2019",
   "duration": "24m",
   "episodesCount": "26",
+  "totalEpisodes": 26,
   "genres": [
     "Action",
     "Adventure",
@@ -705,5 +706,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T22:54:17.927Z"
 }
