@@ -5,6 +5,7 @@
   "synonym": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
   "native": "Re:ゼロから始める異世界生活 2nd Season",
   "aired": "7/8/2020",
+  "releaseDate": "Jul 8, 2020",
   "premiered": "SUMMER 2020",
   "duration": "26m",
   "episodesCount": "13",
@@ -18,9 +19,11 @@
   ],
   "rating": "8.3",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "WHITE FOX",
+  "studios": [
+    "WHITE FOX"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "39587",
@@ -365,5 +368,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:23:46.232Z"
 }
