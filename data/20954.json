@@ -18,7 +18,9 @@
   "type": "MOVIE",
   "status": "FINISHED",
   "country": "JP",
-  "studios": "Kyoto Animation",
+  "studios": [
+    "Kyoto Animation"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "28851",
