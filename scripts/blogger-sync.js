@@ -115,6 +115,7 @@ async function sync() {
     let existingPost = null;
     
     try {
+      // 1. Search by label or ID string
       const res = await blogger.posts.search({
         blogId: BLOGGER_BLOG_ID,
         q: labelToFind,
@@ -122,6 +123,22 @@ async function sync() {
       });
       if (res.data.items && res.data.items.length > 0) {
         existingPost = res.data.items.find(p => (p.labels || []).includes(labelToFind) || (p.content && p.content.includes(labelToFind)));
+      }
+
+      // 2. Fallback search by title
+      if (!existingPost && data.title) {
+        const titleRes = await blogger.posts.search({
+          blogId: BLOGGER_BLOG_ID,
+          q: `"${data.title}"`,
+          fetchBodies: true
+        });
+        if (titleRes.data.items && titleRes.data.items.length > 0) {
+          existingPost = titleRes.data.items.find(p => 
+            p.title === data.title || 
+            p.title === animeId || 
+            (p.content && p.content.includes(`streamingId = '${animeId}'`))
+          );
+        }
       }
     } catch(e) {
       console.log('Search error', e.message);
