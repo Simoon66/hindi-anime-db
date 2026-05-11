@@ -16,9 +16,11 @@
   ],
   "rating": "8.6",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "MAPPA",
+  "studios": [
+    "MAPPA"
+  ],
   "producers": [
     "Toho",
     "Shueisha",
@@ -1367,5 +1369,6 @@
       ],
       "hianimeCode": "113965"
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:19:02.190Z"
 }
