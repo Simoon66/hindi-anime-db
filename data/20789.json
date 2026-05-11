@@ -19,9 +19,11 @@
   ],
   "rating": "7.3",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "A-1 Pictures",
+  "studios": [
+    "A-1 Pictures"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "23755",
@@ -652,5 +654,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:17:26.204Z"
 }
