@@ -5,9 +5,11 @@
   "synonym": "BANANA FISH",
   "native": "BANANA FISH",
   "aired": "7/6/2018",
+  "releaseDate": "Jul 6, 2018",
   "premiered": "SUMMER 2018",
   "duration": "23m",
   "episodesCount": "24",
+  "totalEpisodes": 24,
   "genres": [
     "Action",
     "Drama",
@@ -16,9 +18,11 @@
   ],
   "rating": "8.4",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Finished Airing",
   "country": "JP",
-  "studios": "MAPPA",
+  "studios": [
+    "MAPPA"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "36649",
@@ -649,5 +653,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T22:49:37.420Z"
 }
