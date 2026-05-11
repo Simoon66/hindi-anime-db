@@ -19,9 +19,12 @@
   ],
   "rating": "8.3",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Gainax",
+  "studios": [
+    "Gainax",
+    "Tatsunoko Production"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "30",
@@ -704,5 +707,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:18:24.190Z"
 }
