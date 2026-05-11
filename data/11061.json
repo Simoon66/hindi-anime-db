@@ -9,6 +9,7 @@
   "premiered": "FALL 2011",
   "duration": "24m",
   "episodesCount": "148",
+  "totalEpisodes": 148,
   "genres": [
     "Action",
     "Adventure",
@@ -143,16 +144,6 @@
       "episode": "8",
       "title": "Solution × Is × Majority Rules?",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/8/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/8/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/8/sub",
@@ -3792,8 +3783,19 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/148/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/148/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/148/dub",
+          "type": "dub"
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T22:55:11.034Z"
 }
