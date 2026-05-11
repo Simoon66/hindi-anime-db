@@ -25,19 +25,24 @@ function generateCode(data, animeId, osLabel = 'Series') {
       "0": "${f.name}",
       "1": "${f.url}",
       "2": "${f.type || 'sub'}"
-    }`).join(',\n');
-    const escapedTitle = (ep.title || '').replace(/"/g, '\\"');
+    }`).join(',
+');
+    const escapedTitle = (ep.title || '').replace(/"/g, '\"');
     return `  {
     "title": "${escapedTitle}",
     "episode": "${ep.episode}",
-    "files": [\n${filesJs}\n    ]
+    "files": [
+${filesJs}
+    ]
   }`;
-  }).join(',\n');
+  }).join(',
+');
 
   return `<!--[ Synopsis ]-->
 <span style="display:none;" class="blogger-sync-id">id_${animeId}</span>
 <div id="synopsis">
-<p>${(data.synopsis || '').replace(/\n/g, '<br>')}</p>
+<p>${(data.synopsis || '').replace(/
+/g, '<br>')}</p>
 </div>
 
 <span><!--more--></span>
@@ -80,19 +85,38 @@ async function sync() {
     
     // Convert Aired Date to ISO (for 'published' parameter)
     let publishedDateStr = undefined;
-    if (data.aired) {
+    if (data.releaseDate) {
+      const d = new Date(data.releaseDate);
+      if (!isNaN(d.getTime())) {
+        d.setUTCHours(12);
+        publishedDateStr = d.toISOString();
+      }
+    } else if (data.aired) {
       const parts = data.aired.split('/');
       if (parts.length === 3) { // MM/DD/YYYY
         // Important: set timezone or keep it simple
         const d = new Date(parts[2], parseInt(parts[0])-1, parts[1]);
         if (!isNaN(d.getTime())) {
+          d.setUTCHours(12);
           publishedDateStr = d.toISOString();
         }
       }
     }
 
-    // Search if post already exists by looking for label id_${animeId}
+    // Build labels
+    const labels = [...(data.genres || [])];
+    if (data.episodesCount) labels.push(`Ep ${data.episodesCount}`);
+    if (data.rating) labels.push(data.rating);
+    if (data.type) labels.push(data.type);
+    labels.push('Series');
+    if (data.status) labels.push(data.status);
+    if (data.country) labels.push(data.country);
+
+    // Filter duplicates
     const labelToFind = `id_${animeId}`;
+    const uniqueLabels = [...new Set(labels.concat([labelToFind]))];
+
+    // Search if post already exists by looking for label id_${animeId}
     let existingPost = null;
     
     try {
@@ -116,7 +140,8 @@ async function sync() {
         requestBody: {
           title: data.title,
           content: htmlContent,
-          labels: (data.genres || []).concat([labelToFind])
+          labels: uniqueLabels,
+          ...(publishedDateStr ? { published: publishedDateStr } : {})
         }
       });
     } else {
@@ -128,7 +153,7 @@ async function sync() {
           requestBody: {
             title: animeId,
             content: htmlContent,
-            labels: (data.genres || []).concat([labelToFind]),
+            labels: uniqueLabels,
             published: publishedDateStr
           }
         });
