@@ -19,7 +19,9 @@
   "type": "TV",
   "status": "FINISHED",
   "country": "JP",
-  "studios": "Lerche",
+  "studios": [
+    "Lerche"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "24833",
