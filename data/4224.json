@@ -17,9 +17,11 @@
   ],
   "rating": "7.8",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "J.C.STAFF",
+  "studios": [
+    "J.C.STAFF"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "4224",
@@ -676,5 +678,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:17:00.198Z"
 }
