@@ -19,9 +19,12 @@
   ],
   "rating": "6.9",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "TRIGGER",
+  "studios": [
+    "TRIGGER",
+    "CloverWorks"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "35849",
@@ -652,5 +655,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:18:12.189Z"
 }
