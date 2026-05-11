@@ -5,9 +5,11 @@
   "synonym": "Plunderer",
   "native": "プランダラ",
   "aired": "1/9/2020",
+  "releaseDate": "Jan 9, 2020",
   "premiered": "WINTER 2020",
   "duration": "23m",
   "episodesCount": "24",
+  "totalEpisodes": 24,
   "genres": [
     "Action",
     "Adventure",
@@ -19,9 +21,11 @@
   ],
   "rating": "6.3",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "GEEKTOYS",
+  "studios": [
+    "GEEKTOYS"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "37345",
@@ -652,5 +656,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_forceSyncTime": 1778540694799
 }
