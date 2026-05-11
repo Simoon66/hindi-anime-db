@@ -5,6 +5,7 @@
   "synonym": "Boku no Hero Academia 5",
   "native": "僕のヒーローアカデミア５",
   "aired": "3/27/2021",
+  "releaseDate": "Mar 27, 2021",
   "premiered": "SPRING 2021",
   "duration": "24m",
   "episodesCount": "25",
@@ -16,9 +17,11 @@
   ],
   "rating": "7.3",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "bones",
+  "studios": [
+    "bones"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "41587",
@@ -675,5 +678,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:21:31.198Z"
 }
