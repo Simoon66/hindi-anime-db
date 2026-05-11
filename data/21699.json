@@ -5,6 +5,7 @@
   "synonym": "Kono Subarashii Sekai ni Shukufuku wo! 2",
   "native": "この素晴らしい世界に祝福を！2",
   "aired": "1/12/2017",
+  "releaseDate": "Jan 12, 2017",
   "premiered": "WINTER 2017",
   "duration": "23m",
   "episodesCount": "10",
@@ -16,9 +17,11 @@
   ],
   "rating": "8.1",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Studio DEEN",
+  "studios": [
+    "Studio DEEN"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "32937",
@@ -285,5 +288,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:23:17.198Z"
 }
