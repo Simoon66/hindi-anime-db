@@ -5,6 +5,7 @@
   "synonym": "Fate/Zero",
   "native": "Fate/Zero",
   "aired": "10/2/2011",
+  "releaseDate": "Oct 2, 2011",
   "premiered": "FALL 2011",
   "duration": "24m",
   "episodesCount": "13",
@@ -16,9 +17,11 @@
   ],
   "rating": "8.1",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "ufotable",
+  "studios": [
+    "ufotable"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "10087",
@@ -363,5 +366,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:41:57.384Z"
 }
