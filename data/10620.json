@@ -5,6 +5,7 @@
   "synonym": "Mirai Nikki",
   "native": "未来日記",
   "aired": "10/9/2011",
+  "releaseDate": "Oct 9, 2011",
   "premiered": "FALL 2011",
   "duration": "23m",
   "episodesCount": "26",
@@ -18,9 +19,11 @@
   ],
   "rating": "6.9",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Asread",
+  "studios": [
+    "Asread"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "10620",
@@ -703,5 +706,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:20:43.195Z"
 }
