@@ -5,9 +5,11 @@
   "synonym": "Megalo Box",
   "native": "メガロボクス",
   "aired": "4/6/2018",
+  "releaseDate": "Apr 6, 2018",
   "premiered": "SPRING 2018",
   "duration": "25m",
   "episodesCount": "13",
+  "totalEpisodes": 13,
   "genres": [
     "Action",
     "Drama",
@@ -16,9 +18,11 @@
   ],
   "rating": "7.7",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Finished Airing",
   "country": "JP",
-  "studios": "TMS Entertainment",
+  "studios": [
+    "TMS Entertainment"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "36563",
@@ -363,5 +367,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T22:49:30.088Z"
 }
