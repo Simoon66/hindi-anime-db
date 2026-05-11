@@ -17,9 +17,11 @@
   ],
   "rating": "8.4",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "A-1 Pictures",
+  "studios": [
+    "A-1 Pictures"
+  ],
   "producers": [
     "Aniplex",
     "Dentsu",
@@ -1178,5 +1180,6 @@
       ],
       "hianimeCode": "947"
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:15:01.195Z"
 }
