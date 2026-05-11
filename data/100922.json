@@ -5,9 +5,11 @@
   "synonym": "Grand Blue",
   "native": "ぐらんぶる",
   "aired": "7/14/2018",
+  "releaseDate": "Jul 14, 2018",
   "premiered": "SUMMER 2018",
   "duration": "24m",
   "episodesCount": "12",
+  "totalEpisodes": 12,
   "genres": [
     "Comedy",
     "Slice of Life",
@@ -15,9 +17,11 @@
   ],
   "rating": "8.2",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Finished Airing",
   "country": "JP",
-  "studios": "Zero-G",
+  "studios": [
+    "Zero-G"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "37105",
@@ -34,19 +38,9 @@
           "type": "sub"
         },
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/100922/1/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/37105/1/sub",
           "type": "sub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/37105/1/dub",
-          "type": "dub"
         }
       ]
     },
@@ -60,19 +54,9 @@
           "type": "sub"
         },
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/100922/2/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/37105/2/sub",
           "type": "sub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/37105/2/dub",
-          "type": "dub"
         }
       ]
     },
@@ -86,19 +70,9 @@
           "type": "sub"
         },
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/100922/3/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/37105/3/sub",
           "type": "sub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/37105/3/dub",
-          "type": "dub"
         }
       ]
     },
@@ -112,19 +86,9 @@
           "type": "sub"
         },
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/100922/4/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/37105/4/sub",
           "type": "sub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/37105/4/dub",
-          "type": "dub"
         }
       ]
     },
@@ -138,19 +102,9 @@
           "type": "sub"
         },
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/100922/5/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/37105/5/sub",
           "type": "sub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/37105/5/dub",
-          "type": "dub"
         }
       ]
     },
@@ -164,19 +118,9 @@
           "type": "sub"
         },
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/100922/6/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/37105/6/sub",
           "type": "sub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/37105/6/dub",
-          "type": "dub"
         }
       ]
     },
@@ -190,19 +134,9 @@
           "type": "sub"
         },
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/100922/7/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/37105/7/sub",
           "type": "sub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/37105/7/dub",
-          "type": "dub"
         }
       ]
     },
@@ -216,19 +150,9 @@
           "type": "sub"
         },
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/100922/8/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/37105/8/sub",
           "type": "sub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/37105/8/dub",
-          "type": "dub"
         }
       ]
     },
@@ -336,5 +260,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T22:51:03.850Z"
 }
