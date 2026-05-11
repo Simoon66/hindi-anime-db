@@ -18,7 +18,9 @@
   "type": "TV",
   "status": "FINISHED",
   "country": "JP",
-  "studios": "MAPPA",
+  "studios": [
+    "MAPPA"
+  ],
   "producers": [
     "Toho",
     "Shueisha",
