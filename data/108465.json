@@ -5,6 +5,7 @@
   "synonym": "Mushoku Tensei: Isekai Ittara Honki Dasu",
   "native": "無職転生 ～異世界行ったら本気だす～",
   "aired": "1/11/2021",
+  "releaseDate": "Jan 11, 2021",
   "premiered": "WINTER 2021",
   "duration": "24m",
   "episodesCount": "11",
@@ -16,9 +17,11 @@
   ],
   "rating": "8.2",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Studio Bind",
+  "studios": [
+    "Studio Bind"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "39535",
@@ -311,5 +314,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:20:23.201Z"
 }
