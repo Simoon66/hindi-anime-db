@@ -18,7 +18,9 @@
   "type": "MOVIE",
   "status": "FINISHED",
   "country": "JP",
-  "studios": "CoMix Wave",
+  "studios": [
+    "CoMix Wave"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "32281",
