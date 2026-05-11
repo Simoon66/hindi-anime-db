@@ -16,7 +16,7 @@
   ],
   "rating": "6.9",
   "type": "TV",
-  "status": "Finished Airing",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "Studio 3Hz"
@@ -340,5 +340,5 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T22:49:06.743Z"
+  "_forceSyncTime": 1778540507697
 }
