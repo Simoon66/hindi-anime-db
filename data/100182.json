@@ -5,9 +5,11 @@
   "synonym": "Sword Art Online: Alicization",
   "native": "ソードアート・オンライン アリシゼーション",
   "aired": "10/7/2018",
+  "releaseDate": "Oct 7, 2018",
   "premiered": "FALL 2018",
   "duration": "24m",
   "episodesCount": "24",
+  "totalEpisodes": 24,
   "genres": [
     "Action",
     "Adventure",
@@ -15,9 +17,11 @@
   ],
   "rating": "7.5",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Finished Airing",
   "country": "JP",
-  "studios": "A-1 Pictures",
+  "studios": [
+    "A-1 Pictures"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "36474",
@@ -648,5 +652,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T22:48:55.490Z"
 }
