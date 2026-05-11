@@ -20,7 +20,9 @@
   "type": "TV",
   "status": "FINISHED",
   "country": "JP",
-  "studios": "ufotable",
+  "studios": [
+    "ufotable"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "38000",
