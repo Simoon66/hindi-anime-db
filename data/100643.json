@@ -22,7 +22,7 @@
   ],
   "rating": "8.5",
   "type": "Movie",
-  "status": "Finished Airing",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "Kinema Citrus"
@@ -60,5 +60,5 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T22:49:59.219Z"
+  "_forceSyncTime": 1778540553212
 }
