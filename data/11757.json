@@ -19,7 +19,9 @@
   "type": "TV",
   "status": "FINISHED",
   "country": "JP",
-  "studios": "A-1 Pictures",
+  "studios": [
+    "A-1 Pictures"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "11757",
