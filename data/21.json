@@ -9,6 +9,7 @@
   "premiered": "FALL 1999",
   "duration": "24m",
   "episodesCount": "1",
+  "totalEpisodes": 1,
   "genres": [
     "Action",
     "Adventure",
@@ -55,5 +56,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T22:55:44.846Z"
 }
