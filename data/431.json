@@ -5,6 +5,7 @@
   "synonym": "Howl no Ugoku Shiro",
   "native": "ハウルの動く城",
   "aired": "11/20/2004",
+  "releaseDate": "Nov 20, 2004",
   "premiered": "FALL 2004",
   "duration": "119m",
   "episodesCount": "1",
@@ -15,10 +16,12 @@
     "Romance"
   ],
   "rating": "8.5",
-  "type": "MOVIE",
-  "status": "FINISHED",
+  "type": "Movie",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Studio Ghibli",
+  "studios": [
+    "Studio Ghibli"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "431",
@@ -51,5 +54,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:24:14.203Z"
 }
