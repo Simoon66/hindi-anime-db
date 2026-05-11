@@ -17,9 +17,11 @@
   ],
   "rating": "8.1",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "TMS Entertainment",
+  "studios": [
+    "TMS Entertainment"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "38691",
@@ -650,5 +652,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:16:35.205Z"
 }
