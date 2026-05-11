@@ -18,7 +18,7 @@
   ],
   "rating": "8.6",
   "type": "TV",
-  "status": "Finished Airing",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "Sunrise"
@@ -706,5 +706,5 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T22:48:06.783Z"
+  "_forceSyncTime": 1778540451911
 }
