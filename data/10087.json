@@ -18,7 +18,7 @@
   ],
   "rating": "8.1",
   "type": "TV",
-  "status": "Finished Airing",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "ufotable"
@@ -368,5 +368,5 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T22:48:12.440Z"
+  "_forceSyncTime": 1778540458360
 }
