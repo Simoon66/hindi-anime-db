@@ -1,0 +1,42 @@
+{
+  "title": "Holo no Graffiti",
+  "synopsis": "From unraveling the secrets of opening and closing doors to defusing surprise packages more commonly known as bombs, there is never a dull day at the Hololive Production office! Holo no Graffiti follows an eccentric cast of Virtual YouTubers, also known as \"VTubers,\" going about their absurd yet hilarious daily lives, detailing all their cute moments and mishaps.\n\n(Source: MAL Rewrite)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118123-xqn5fYsjKXJU.png",
+  "synonym": "Holo no Graffiti",
+  "native": "ホロのぐらふぃてぃ",
+  "aired": "5/5/2019",
+  "releaseDate": "May 5, 2019",
+  "premiered": "SPRING 2019",
+  "duration": "2m",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "rating": "7.8",
+  "type": "ONA",
+  "status": "Ongoing",
+  "country": "JP",
+  "studios": [
+    "Cover Corp"
+  ],
+  "producers": [],
+  "seasons": [],
+  "malId": "44042",
+  "streamingId": "118123",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Apex",
+      "files": [
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/44042/1/sub",
+          "type": "sub"
+        }
+      ]
+    }
+  ]
+}
