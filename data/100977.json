@@ -5,9 +5,11 @@
   "synonym": "Hataraku Saibou",
   "native": "はたらく細胞",
   "aired": "7/8/2018",
+  "releaseDate": "Jul 8, 2018",
   "premiered": "SUMMER 2018",
   "duration": "24m",
   "episodesCount": "13",
+  "totalEpisodes": 13,
   "genres": [
     "Action",
     "Comedy",
@@ -15,9 +17,11 @@
   ],
   "rating": "7.4",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Finished Airing",
   "country": "JP",
-  "studios": "david production",
+  "studios": [
+    "david production"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "37141",
@@ -362,5 +366,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T22:51:11.395Z"
 }
