@@ -5,6 +5,7 @@
   "synonym": "Charlotte",
   "native": "Charlotte(シャーロット)",
   "aired": "7/5/2015",
+  "releaseDate": "Jul 5, 2015",
   "premiered": "SUMMER 2015",
   "duration": "24m",
   "episodesCount": "13",
@@ -17,9 +18,11 @@
   ],
   "rating": "7.5",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "P.A.WORKS",
+  "studios": [
+    "P.A.WORKS"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "28999",
@@ -364,5 +367,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:20:56.204Z"
 }
