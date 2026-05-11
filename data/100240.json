@@ -5,9 +5,11 @@
   "synonym": "Tokyo Ghoul:re",
   "native": "東京喰種-トーキョーグール-:re",
   "aired": "4/3/2018",
+  "releaseDate": "Apr 3, 2018",
   "premiered": "SPRING 2018",
   "duration": "24m",
   "episodesCount": "12",
+  "totalEpisodes": 12,
   "genres": [
     "Action",
     "Horror",
@@ -17,9 +19,11 @@
   ],
   "rating": "6.2",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Finished Airing",
   "country": "JP",
-  "studios": "Studio Pierrot",
+  "studios": [
+    "Studio Pierrot"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "36511",
@@ -338,5 +342,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T22:49:14.408Z"
 }
