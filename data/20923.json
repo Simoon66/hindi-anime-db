@@ -5,6 +5,7 @@
   "synonym": "Shokugeki no Souma",
   "native": "食戟のソーマ",
   "aired": "4/4/2015",
+  "releaseDate": "Apr 4, 2015",
   "premiered": "SPRING 2015",
   "duration": "25m",
   "episodesCount": "24",
@@ -14,9 +15,11 @@
   ],
   "rating": "7.8",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "J.C.STAFF",
+  "studios": [
+    "J.C.STAFF"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "28171",
@@ -647,5 +650,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:21:52.201Z"
 }
