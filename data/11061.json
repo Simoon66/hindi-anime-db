@@ -40,16 +40,6 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/1/dub",
           "type": "dub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/1/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/1/dub",
-          "type": "dub"
         }
       ]
     },
@@ -65,16 +55,6 @@
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/2/dub",
-          "type": "dub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/2/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/2/dub",
           "type": "dub"
         }
       ]
@@ -92,16 +72,6 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/3/dub",
           "type": "dub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/3/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/3/dub",
-          "type": "dub"
         }
       ]
     },
@@ -117,16 +87,6 @@
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/4/dub",
-          "type": "dub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/4/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/4/dub",
           "type": "dub"
         }
       ]
@@ -144,16 +104,6 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/5/dub",
           "type": "dub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/5/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/5/dub",
-          "type": "dub"
         }
       ]
     },
@@ -161,16 +111,6 @@
       "episode": "6",
       "title": "A × Surprising × Challenge",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/6/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/6/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/6/sub",
@@ -187,16 +127,6 @@
       "episode": "7",
       "title": "Showdown × On × The Airship",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/7/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/7/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/7/sub",
@@ -560,6 +490,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/21/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/21/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/21/dub",
+          "type": "dub"
         }
       ]
     },
@@ -575,6 +515,16 @@
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/22/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/22/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/22/dub",
           "type": "dub"
         }
       ]
@@ -592,6 +542,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/23/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/23/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/23/dub",
+          "type": "dub"
         }
       ]
     },
@@ -607,6 +567,16 @@
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/24/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/24/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/24/dub",
           "type": "dub"
         }
       ]
@@ -624,6 +594,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/25/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/25/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/25/dub",
+          "type": "dub"
         }
       ]
     },
@@ -639,6 +619,16 @@
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/26/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/26/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/26/dub",
           "type": "dub"
         }
       ]
@@ -3793,16 +3783,6 @@
       "episode": "148",
       "title": "Until Now × And × From Now",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/148/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/11061/148/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/148/sub",
