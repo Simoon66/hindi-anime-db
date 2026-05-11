@@ -17,9 +17,11 @@
   ],
   "rating": "7.9",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Studio DEEN",
+  "studios": [
+    "Studio DEEN"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "30831",
@@ -286,5 +288,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T21:17:39.189Z"
 }
