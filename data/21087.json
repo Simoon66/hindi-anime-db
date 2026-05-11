@@ -19,7 +19,9 @@
   "type": "TV",
   "status": "FINISHED",
   "country": "JP",
-  "studios": "MADHOUSE",
+  "studios": [
+    "MADHOUSE"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "30276",
