@@ -9,6 +9,7 @@
   "premiered": "FALL 2020",
   "duration": "24m",
   "episodesCount": "24",
+  "totalEpisodes": 24,
   "genres": [
     "Action",
     "Drama",
@@ -1418,5 +1419,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_lastSync": "2026-05-11T22:54:37.637Z"
 }
