@@ -19,7 +19,9 @@
   "type": "TV",
   "status": "FINISHED",
   "country": "JP",
-  "studios": "WIT STUDIO",
+  "studios": [
+    "WIT STUDIO"
+  ],
   "producers": [],
   "seasons": [],
   "malId": "16498",
