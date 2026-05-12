@@ -61,7 +61,7 @@
   "episodes": [
     {
       "episode": "1",
-      "title": "Hidden Inventory",
+      "title": "Ryomen Sukuna",
       "files": [
         {
           "name": "VidSrc",
@@ -119,7 +119,7 @@
     },
     {
       "episode": "2",
-      "title": "Hidden Inventory 2",
+      "title": "For Myself",
       "files": [
         {
           "name": "VidSrc",
@@ -177,7 +177,7 @@
     },
     {
       "episode": "3",
-      "title": "Hidden Inventory 3",
+      "title": "Girl of Steel",
       "files": [
         {
           "name": "VidSrc",
@@ -235,7 +235,7 @@
     },
     {
       "episode": "4",
-      "title": "Hidden Inventory 4",
+      "title": "Curse",
       "files": [
         {
           "name": "VidSrc",
@@ -293,7 +293,7 @@
     },
     {
       "episode": "5",
-      "title": "Premature Death",
+      "title": "Fearsome Womb",
       "files": [
         {
           "name": "VidSrc",
@@ -351,7 +351,7 @@
     },
     {
       "episode": "6",
-      "title": "It's Like That",
+      "title": "After the Rain",
       "files": [
         {
           "name": "VidSrc",
@@ -409,7 +409,7 @@
     },
     {
       "episode": "7",
-      "title": "Evening Festival",
+      "title": "Assail",
       "files": [
         {
           "name": "VidSrc",
@@ -467,7 +467,7 @@
     },
     {
       "episode": "8",
-      "title": "Shibuya Incident",
+      "title": "Boredom",
       "files": [
         {
           "name": "VidSrc",
@@ -525,7 +525,7 @@
     },
     {
       "episode": "9",
-      "title": "Shibuya Incident - Gate, Open",
+      "title": "Small Fry and Reverse Retribution",
       "files": [
         {
           "name": "VidSrc",
@@ -583,7 +583,7 @@
     },
     {
       "episode": "10",
-      "title": "Pandemonium",
+      "title": "Idle Transfiguration",
       "files": [
         {
           "name": "VidSrc",
@@ -641,7 +641,7 @@
     },
     {
       "episode": "11",
-      "title": "Seance",
+      "title": "Premature Death",
       "files": [
         {
           "name": "VidSrc",
@@ -699,7 +699,7 @@
     },
     {
       "episode": "12",
-      "title": "Dull Knife",
+      "title": "To You, Someday",
       "files": [
         {
           "name": "VidSrc",
@@ -757,7 +757,7 @@
     },
     {
       "episode": "13",
-      "title": "Red Scale",
+      "title": "Tomorrow",
       "files": [
         {
           "name": "VidSrc",
@@ -815,7 +815,7 @@
     },
     {
       "episode": "14",
-      "title": "Fluctuations",
+      "title": "Kyoto Goodwill Event",
       "files": [
         {
           "name": "VidSrc",
@@ -873,7 +873,7 @@
     },
     {
       "episode": "15",
-      "title": "Fluctuations, Part 2",
+      "title": "Kyoto Goodwill Event - Team Battle",
       "files": [
         {
           "name": "VidSrc",
@@ -931,7 +931,7 @@
     },
     {
       "episode": "16",
-      "title": "Thunderclap",
+      "title": "Kyoto Goodwill Event - Team Battle 2",
       "files": [
         {
           "name": "VidSrc",
@@ -989,7 +989,7 @@
     },
     {
       "episode": "17",
-      "title": "Thunderclap, Part 2",
+      "title": "Kyoto Goodwill Event - Team Battle 3",
       "files": [
         {
           "name": "VidSrc",
@@ -1047,7 +1047,7 @@
     },
     {
       "episode": "18",
-      "title": "Right and Wrong",
+      "title": "Kyoto Goodwill Event - Team Battle 4",
       "files": [
         {
           "name": "VidSrc",
@@ -1105,7 +1105,7 @@
     },
     {
       "episode": "19",
-      "title": "Right and Wrong, Part 2",
+      "title": "Black Flash",
       "files": [
         {
           "name": "VidSrc",
@@ -1163,7 +1163,7 @@
     },
     {
       "episode": "20",
-      "title": "Right and Wrong, Part 3",
+      "title": "Nonstandard",
       "files": [
         {
           "name": "VidSrc",
@@ -1221,7 +1221,7 @@
     },
     {
       "episode": "21",
-      "title": "Metamorphosis",
+      "title": "Jujutsu Koshien",
       "files": [
         {
           "name": "VidSrc",
@@ -1279,7 +1279,7 @@
     },
     {
       "episode": "22",
-      "title": "Metamorphosis, Part 2",
+      "title": "The Origin of Blind Obedience",
       "files": [
         {
           "name": "VidSrc",
@@ -1337,7 +1337,7 @@
     },
     {
       "episode": "23",
-      "title": "The Shibuya Incident - Gate, Close",
+      "title": "The Origin of Blind Obedience - 2",
       "files": [
         {
           "name": "VidSrc",
