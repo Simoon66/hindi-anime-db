@@ -1,0 +1,60 @@
+{
+  "title": "Bungo Stray Dogs: DEAD APPLE",
+  "synopsis": "The film's story involves a mystery case of power users around the world suddenly committing suicide one after another, in all cases after a strange fog appears at the scene. At a request from Ango Sakaguchi, the Armed Detective Agency head out to investigate Tatsuhiko Shibusawa, a power user who calls himself \"collector,\" and a man suspected of being tied to the incident.\n\n(Source: Anime News Network)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98384-nXEnNzwiJ9BV.jpg",
+  "synonym": "Bungou Stray Dogs: DEAD APPLE",
+  "native": "文豪ストレイドッグス DEAD APPLE",
+  "aired": "3/3/2018",
+  "releaseDate": "Mar 3, 2018",
+  "premiered": "WINTER 2018",
+  "duration": "90m",
+  "episodesCount": "1",
+  "totalEpisodes": 1,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Mystery",
+    "Supernatural"
+  ],
+  "rating": "7.8",
+  "type": "Movie",
+  "status": "Completed",
+  "country": "JP",
+  "studios": [
+    "bones"
+  ],
+  "producers": [],
+  "seasons": [],
+  "malId": "34944",
+  "streamingId": "98384",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/98384/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/98384/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34944/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/34944/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ],
+  "_forceSyncTime": 1778588226600
+}
