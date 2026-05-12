@@ -1,0 +1,112 @@
+{
+  "title": "Afro Samurai",
+  "synopsis": "After watching his father die in a duel against an unbeatable villian known only as 'Justice,' young Afro fixes his life on the study of swords and revenge. The tale of Afro Samurai is one of bloody hardship and pain. Along his solitary path of revenge for his murdered father, he sheds no tears &amp; knows no love. Forever chased by powerful enemies in a lawless technology-speckled dystopia, he evades bullets and blade to reach his final prey: a man who will not die. But Afro will reach his quarry - even if it means painting a road of blood and brains from here to the bitter inevitable end.",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1292-FcyYgq7Ly34H.png",
+  "synonym": "Afro Samurai",
+  "native": "アフロサムライ",
+  "aired": "1/4/2007",
+  "releaseDate": "Jan 4, 2007",
+  "premiered": "WINTER 2007",
+  "duration": "27m",
+  "episodesCount": "5",
+  "totalEpisodes": 5,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "rating": "7.1",
+  "type": "TV",
+  "status": "Completed",
+  "country": "JP",
+  "studios": [
+    "GONZO"
+  ],
+  "producers": [],
+  "seasons": [],
+  "malId": "1292",
+  "streamingId": "1292",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Revenge",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/1292/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/1292/1/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "2",
+      "title": "The Dream Reader",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/1292/2/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/1292/2/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "3",
+      "title": "The Empty Seven Clan",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/1292/3/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/1292/3/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "4",
+      "title": "Duel",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/1292/4/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/1292/4/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "episode": "5",
+      "title": "Justice",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/1292/5/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/1292/5/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ],
+  "_forceSyncTime": 1778588767413
+}
