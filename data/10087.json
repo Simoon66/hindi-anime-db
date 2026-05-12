@@ -27,7 +27,7 @@
   "seasons": [],
   "malId": "10087",
   "streamingId": "10087",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "episodes": [
     {
       "episode": "1",
@@ -368,5 +368,5 @@
       ]
     }
   ],
-  "_forceSyncTime": 1778577587553
+  "_forceSyncTime": 1778587525870
 }
