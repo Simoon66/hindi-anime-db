@@ -1,0 +1,59 @@
+{
+  "title": "K-ON!: The Movie",
+  "synopsis": "With graduation right around the corner, every member of the Light Music Club except for Azusa will be leaving for good. But the girls aren’t going to let something as silly as graduation tear them apart! For their final hurrah, the girls are going on the ultimate vacation tour— all the way to London! Their overseas journey will lead them on a trip of discovery and friendship as they take the stage one last time for their final encore together.\n(Source: Sentai Filmworks)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9617-Z2RA1TIkcNEg.png",
+  "synonym": "K-ON! Movie",
+  "native": "映画けいおん！",
+  "aired": "12/3/2011",
+  "releaseDate": "Dec 3, 2011",
+  "premiered": "FALL 2011",
+  "duration": "110m",
+  "episodesCount": "1",
+  "totalEpisodes": 1,
+  "genres": [
+    "Comedy",
+    "Music",
+    "Slice of Life"
+  ],
+  "rating": "8.3",
+  "type": "Movie",
+  "status": "Completed",
+  "country": "JP",
+  "studios": [
+    "Kyoto Animation"
+  ],
+  "producers": [],
+  "seasons": [],
+  "malId": "9617",
+  "streamingId": "9617",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/9617/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/9617/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/9617/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/9617/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ],
+  "_forceSyncTime": 1778588115678
+}
