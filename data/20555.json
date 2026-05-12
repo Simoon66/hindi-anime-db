@@ -1,0 +1,59 @@
+{
+  "title": "When Marnie Was There",
+  "synopsis": "Suffering from frequent asthma attacks, young Anna Sasaki is quiet, unsociable, and isolated from her peers, causing her foster parent endless worry. Upon recommendation by the doctor, Anna is sent to the countryside, in hope the cleaner air and more relaxing lifestyle will improve her health and help clear her mind. Engaging in her passion for sketching, Anna spends her summer days living with her aunt and uncle in a small town near the sea.\n\nOne day while wandering outside, Anna discovers an abandoned mansion known as the Marsh House. However, she soon finds that the residence isn't as vacant as it appears to be, running into a mysterious girl named Marnie. Marnie's bubbly demeanor slowly begins to draw Anna out of her shell as she returns night after night to meet with her new friend. But it seems there is more to the strange girl than meets the eye—as her time in the town nears its end, Anna begins to discover the truth behind the walls of the Marsh House.\n\nOmoide no Marnie tells the touching story of a young girl's journey through self-discovery and friendship, and the summer that she will remember for the rest of her life.\n\n(Source: MAL Rewrite)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20555-QGbWQC3Kfpok.jpg",
+  "synonym": "Omoide no Marnie",
+  "native": "思い出のマーニー",
+  "aired": "7/19/2014",
+  "releaseDate": "Jul 19, 2014",
+  "premiered": "SUMMER 2014",
+  "duration": "103m",
+  "episodesCount": "1",
+  "totalEpisodes": 1,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Psychological"
+  ],
+  "rating": "7.8",
+  "type": "Movie",
+  "status": "Completed",
+  "country": "JP",
+  "studios": [
+    "Studio Ghibli"
+  ],
+  "producers": [],
+  "seasons": [],
+  "malId": "21557",
+  "streamingId": "20555",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20555/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20555/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21557/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21557/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ],
+  "_forceSyncTime": 1778588444033
+}
