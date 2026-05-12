@@ -1,0 +1,59 @@
+{
+  "title": "Tokyo Godfathers",
+  "synopsis": "In modern-day Tokyo, three homeless people’s lives are changed forever when they discover a baby girl at a garbage dump on Christmas Eve. As the New Year fast approaches, these three forgotten members of society band together to solve the mystery of the abandoned child and the fate of her parents. Along the way, encounters with seemingly unrelated events and people force them to confront their own haunted pasts, as they learn to face their future, together.\n\n(Source: Shout! Factory)\n\nNote: The film received an early premiere at the Big Apple Anime Fest on August 30, 2003.",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx759-XSKBju6xutdR.jpg",
+  "synonym": "Tokyo Godfathers",
+  "native": "東京ゴッドファーザーズ",
+  "aired": "11/8/2003",
+  "releaseDate": "Nov 8, 2003",
+  "premiered": "FALL 2003",
+  "duration": "92m",
+  "episodesCount": "1",
+  "totalEpisodes": 1,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "rating": "8.1",
+  "type": "Movie",
+  "status": "Completed",
+  "country": "JP",
+  "studios": [
+    "MADHOUSE"
+  ],
+  "producers": [],
+  "seasons": [],
+  "malId": "759",
+  "streamingId": "759",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "episodes": [
+    {
+      "episode": "1",
+      "title": "Episode 1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/759/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/759/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/759/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/759/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ],
+  "_forceSyncTime": 1778588062253
+}
