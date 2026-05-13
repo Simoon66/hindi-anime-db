@@ -1,0 +1,33 @@
+name: Auto Anime Sync 
+
+on:
+  schedule:
+    # এটি প্রতিদিন রাত ১২টায় (UTC) নিজে নিজেই চলবে
+    - cron: '0 0 * * *' 
+  workflow_dispatch: # ম্যানুয়ালি রান করানোর সুবিধার জন্য
+
+jobs:
+  auto-sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # গিটহাবে JSON ফাইলগুলো সেভ করার অনুমতির জন্য
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Run Script to fetch from AniList
+        run: node auto-updater.js
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "Auto-Updater-Bot"
+          git config --global user.email "bot@hindianimedb.com"
+          git add data/
+          git commit -m "Auto Update: Synced Trending, Popular & Top 100" || exit 0
+          git push
