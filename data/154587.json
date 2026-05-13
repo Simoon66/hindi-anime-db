@@ -30,9 +30,14 @@
   ],
   "seasons": [
     {
-      "title": "Frieren: Beyond Journey’s End",
+      "title": "Season 1",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154587-qQTzQnEJJ3oB.jpg",
       "link": "/2023/09/154587.html"
+    },
+    {
+      "title": "Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182255-butzrqd4I0aC.jpg",
+      "link": "/2026/01/182255.html"
     }
   ],
   "episodes": [
