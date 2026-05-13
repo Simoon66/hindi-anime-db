@@ -1,7 +1,7 @@
 {
   "title": "Frieren: Beyond Journey’s End Season 2",
   "synopsis": "The second season of Sousou no Frieren.",
-  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182255-butzrqd4I0aC.jpg",
+  "thumbnail": "https://image.tmdb.org/t/p/original/cHhJzdUGcEBq6av4wr9jsIvUITH.jpg",
   "synonym": "Провожающая в последний путь Фрирен 2",
   "native": "葬送のフリーレン 第2期",
   "aired": "Jan 16, 2026 to Mar 27, 2026",
@@ -65,6 +65,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59978/1/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/5ca41065040d65b60926927b35d8bae8",
+          "type": "multi"
         }
       ]
     },
@@ -91,6 +96,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59978/2/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/94f311c1d065e993d81c1cdc9f658bb1",
+          "type": "multi"
         }
       ]
     },
@@ -117,6 +127,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59978/3/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/f3af38a9500cfc72614a7cb788e5a56b",
+          "type": "multi"
         }
       ]
     },
@@ -143,6 +158,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59978/4/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/3ac44bdb7fb0bbd5c8b3f4db0218d05e",
+          "type": "multi"
         }
       ]
     },
@@ -169,6 +189,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59978/5/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/c2fe9a007bc6d74f028178c5bb912476",
+          "type": "multi"
         }
       ]
     },
@@ -195,6 +220,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59978/6/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/f9d8a11e28de83af2f210a46dd624a64",
+          "type": "multi"
         }
       ]
     },
@@ -221,6 +251,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59978/7/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/1cf33fc29c5a7f169cb51d7afe381553",
+          "type": "multi"
         }
       ]
     },
@@ -247,6 +282,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59978/8/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/d264b72ca33f79489e025913eadcdc3a",
+          "type": "multi"
         }
       ]
     },
@@ -273,6 +313,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59978/9/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/ada216e157757c965a766aae6e21423a",
+          "type": "multi"
         }
       ]
     },
@@ -299,6 +344,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59978/10/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/860b432652504fa60f8da945398e20de",
+          "type": "multi"
         }
       ]
     }
