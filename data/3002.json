@@ -1,10 +1,10 @@
 {
   "title": "Kaiji - Ultimate Survivor",
-  "synopsis": "Itou Kaiji is a bum who steals car emblems and slashes tires on what seems to be a regular basis. This routine changes one day when he is paid a visit by a man in a trench-coat. Once the two get talking, it seems that the visitor (Calling himself Endou) is a debt collector. The reason for his visit is an unpaid loan which Kaiji had previously co-signed for a work-mate (Furuhata Takeshi). The original loan was 300,000 yen and once Takeshi had disappeared, the loan then fell on Kaiji.\nKaiji is then told of a way to clear the interest compounded debt (which stood at 3,850,000 yen), which involved getting on a boat with others in his position. Once on the boat the debtors would then have to gamble with loaned money, which would end with a few winning, and others getting into deeper debt and having to work to pay off their debts. After some coercion Kaiji accepts a position on the boat, in order to clear his debt and make a bit of money as well...",
-  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3002-BExanPfxp888.jpg",
-  "synonym": "Gyakkyou Burai Kaiji: Ultimate Survivor",
+  "synopsis": "Itou Kaiji is a bum who steals car emblems and slashes tires on what seems to be a regular basis. This routine changes one day when he is paid a visit by a man in a trench-coat. Once the two get talking, it seems that the visitor (Calling himself Endou) is a debt collector. The reason for his visit is an unpaid loan which Kaiji had previously co-signed for a work-mate (Furuhata Takeshi). The original loan was 300,000 yen and once Takeshi had disappeared, the loan then fell on Kaiji.\n\n\nKaiji is then told of a way to clear the interest compounded debt (which stood at 3,850,000 yen), which involved getting on a boat with others in his position. Once on the boat the debtors would then have to gamble with loaned money, which would end with a few winning, and others getting into deeper debt and having to work to pay off their debts. After some coercion Kaiji accepts a position on the boat, in order to clear his debt and make a bit of money as well...",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3002-BExanPfxp888.jpg",
+  "synonym": "The Suffering Pariah Kaiji: Ultimate Survivor",
   "native": "逆境無頼カイジ Ultimate Survivor",
-  "aired": "10/3/2007",
+  "aired": "Oct 3, 2007 to Apr 2, 2008",
   "premiered": "FALL 2007",
   "duration": "23m",
   "episodesCount": "26",
@@ -14,18 +14,20 @@
   ],
   "rating": "8.2",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "MADHOUSE",
-  "producers": [],
+  "studios": [
+    "MADHOUSE"
+  ],
+  "producers": [
+    "VAP",
+    "Sentai Filmworks"
+  ],
   "seasons": [],
-  "malId": "3002",
-  "streamingId": "3002",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
-      "episode": "1",
       "title": "Departure",
+      "episode": "1",
       "files": [
         {
           "name": "HD-1",
@@ -50,8 +52,8 @@
       ]
     },
     {
-      "episode": "2",
       "title": "Open Fire",
+      "episode": "2",
       "files": [
         {
           "name": "HD-1",
@@ -76,8 +78,8 @@
       ]
     },
     {
-      "episode": "3",
       "title": "Game",
+      "episode": "3",
       "files": [
         {
           "name": "HD-1",
@@ -102,8 +104,8 @@
       ]
     },
     {
-      "episode": "4",
       "title": "Break Down",
+      "episode": "4",
       "files": [
         {
           "name": "HD-1",
@@ -128,8 +130,8 @@
       ]
     },
     {
-      "episode": "5",
       "title": "Desperation",
+      "episode": "5",
       "files": [
         {
           "name": "HD-1",
@@ -154,8 +156,8 @@
       ]
     },
     {
-      "episode": "6",
       "title": "Rise and Fall",
+      "episode": "6",
       "files": [
         {
           "name": "HD-1",
@@ -180,8 +182,8 @@
       ]
     },
     {
-      "episode": "7",
       "title": "Profess",
+      "episode": "7",
       "files": [
         {
           "name": "HD-1",
@@ -206,8 +208,8 @@
       ]
     },
     {
-      "episode": "8",
       "title": "Hammer of Justice",
+      "episode": "8",
       "files": [
         {
           "name": "HD-1",
@@ -232,8 +234,8 @@
       ]
     },
     {
-      "episode": "9",
       "title": "Revival",
+      "episode": "9",
       "files": [
         {
           "name": "HD-1",
@@ -258,8 +260,8 @@
       ]
     },
     {
-      "episode": "10",
       "title": "Messenger",
+      "episode": "10",
       "files": [
         {
           "name": "HD-1",
@@ -284,8 +286,8 @@
       ]
     },
     {
-      "episode": "11",
       "title": "Revelry",
+      "episode": "11",
       "files": [
         {
           "name": "HD-1",
@@ -310,8 +312,8 @@
       ]
     },
     {
-      "episode": "12",
       "title": "Tumbling Down",
+      "episode": "12",
       "files": [
         {
           "name": "HD-1",
@@ -336,8 +338,8 @@
       ]
     },
     {
-      "episode": "13",
       "title": "Monster",
+      "episode": "13",
       "files": [
         {
           "name": "HD-1",
@@ -362,8 +364,8 @@
       ]
     },
     {
-      "episode": "14",
       "title": "Dying Spirit",
+      "episode": "14",
       "files": [
         {
           "name": "HD-1",
@@ -388,8 +390,8 @@
       ]
     },
     {
-      "episode": "15",
       "title": "Heavens",
+      "episode": "15",
       "files": [
         {
           "name": "HD-1",
@@ -414,8 +416,8 @@
       ]
     },
     {
-      "episode": "16",
       "title": "Fury",
+      "episode": "16",
       "files": [
         {
           "name": "HD-1",
@@ -440,8 +442,8 @@
       ]
     },
     {
-      "episode": "17",
       "title": "Conversation",
+      "episode": "17",
       "files": [
         {
           "name": "HD-1",
@@ -466,8 +468,8 @@
       ]
     },
     {
-      "episode": "18",
       "title": "Trifled",
+      "episode": "18",
       "files": [
         {
           "name": "HD-1",
@@ -492,8 +494,8 @@
       ]
     },
     {
-      "episode": "19",
       "title": "Limit",
+      "episode": "19",
       "files": [
         {
           "name": "HD-1",
@@ -518,8 +520,8 @@
       ]
     },
     {
-      "episode": "20",
       "title": "Fierce God",
+      "episode": "20",
       "files": [
         {
           "name": "HD-1",
@@ -544,8 +546,8 @@
       ]
     },
     {
-      "episode": "21",
       "title": "Heart's Blood",
+      "episode": "21",
       "files": [
         {
           "name": "HD-1",
@@ -570,8 +572,8 @@
       ]
     },
     {
-      "episode": "22",
       "title": "Enforcement",
+      "episode": "22",
       "files": [
         {
           "name": "HD-1",
@@ -596,8 +598,8 @@
       ]
     },
     {
-      "episode": "23",
       "title": "Heresy",
+      "episode": "23",
       "files": [
         {
           "name": "HD-1",
@@ -622,8 +624,8 @@
       ]
     },
     {
-      "episode": "24",
       "title": "Conditions",
+      "episode": "24",
       "files": [
         {
           "name": "HD-1",
@@ -648,8 +650,8 @@
       ]
     },
     {
-      "episode": "25",
       "title": "Investment",
+      "episode": "25",
       "files": [
         {
           "name": "HD-1",
@@ -674,8 +676,8 @@
       ]
     },
     {
-      "episode": "26",
       "title": "Afterglow",
+      "episode": "26",
       "files": [
         {
           "name": "HD-1",
@@ -699,5 +701,9 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "3002",
+  "hostUrl": "",
+  "releaseDate": "Oct 3, 2007",
+  "malId": "3002"
 }
