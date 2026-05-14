@@ -1,10 +1,10 @@
 {
   "title": "JoJo's Bizarre Adventure: Stardust Crusaders",
-  "synopsis": "In a Japanese jail sits 17-year-old Jotaro Kujo: punk, fighter, delinquent...and possessed by a force beyond his control! Around the world, evil spirits are awakening: \"Stands,\" monstrous invisible creatures which give their bearers incredible powers. To save his mother's life, Jotaro must tame his dark forces and travel around the world to Cairo, Egypt, where a hundred-year-old vampire thirsts for the blood of his family. But the road is long, and an army of evil Stand Users waits to kill JoJo and his friends...\n\n(Source: VIZ Media)",
+  "synopsis": "In a Japanese jail sits 17-year-old Jotaro Kujo: punk, fighter, delinquent...and possessed by a force beyond his control! Around the world, evil spirits are awakening: \"Stands,\" monstrous invisible creatures which give their bearers incredible powers. To save his mother's life, Jotaro must tame his dark forces and travel around the world to Cairo, Egypt, where a hundred-year-old vampire thirsts for the blood of his family. But the road is long, and an army of evil Stand Users waits to kill JoJo and his friends...\n\n\n\n(Source: VIZ Media)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20474-xuqem5GBlBtb.jpg",
   "synonym": "JoJo no Kimyou na Bouken: Stardust Crusaders",
   "native": "ジョジョの奇妙な冒険 スターダストクルセイダース",
-  "aired": "4/5/2014",
+  "aired": "04/05/2014",
   "premiered": "SPRING 2014",
   "duration": "24m",
   "episodesCount": "24",
@@ -15,14 +15,13 @@
   ],
   "rating": "7.9",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "david production",
+  "studios": [
+    "david production"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "20899",
-  "streamingId": "20474",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -648,5 +647,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "20474",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2014-04-05",
+  "malId": "20899",
+  "_forceSyncTime": 1778771343176
 }
