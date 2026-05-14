@@ -1,10 +1,10 @@
 {
   "title": "To Your Eternity",
-  "synopsis": "In the beginning, an \"orb\" is cast unto Earth. \"It\" can do two things: change into the form of the thing that stimulates \"it\"; and come back to life after death. \"It\" morphs from orb to rock, then to wolf, and finally to boy, but roams about like a newborn who knows nothing. As a boy, \"it\" becomes Fushi.\n\nThrough encounters with human kindness, Fushi not only gains survival skills but grows as a \"person\". But his journey is darkened by the inexplicable and destructive enemy Nokker and cruel partings with the people he loves.\n\n(Source: Crunchyroll)",
+  "synopsis": "In the beginning, an \"orb\" is cast unto Earth. \"It\" can do two things: change into the form of the thing that stimulates \"it\"; and come back to life after death. \"It\" morphs from orb to rock, then to wolf, and finally to boy, but roams about like a newborn who knows nothing. As a boy, \"it\" becomes Fushi.\n\n\n\nThrough encounters with human kindness, Fushi not only gains survival skills but grows as a \"person\". But his journey is darkened by the inexplicable and destructive enemy Nokker and cruel partings with the people he loves.\n\n\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114535-y3NnjexcqKG1.jpg",
   "synonym": "Fumetsu no Anata e",
   "native": "不滅のあなたへ",
-  "aired": "4/12/2021",
+  "aired": "04/12/2021",
   "premiered": "SPRING 2021",
   "duration": "25m",
   "episodesCount": "20",
@@ -17,14 +17,13 @@
   ],
   "rating": "8.1",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Brain's Base",
+  "studios": [
+    "Brain's Base"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "41025",
-  "streamingId": "114535",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -546,5 +545,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "114535",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2021-04-12",
+  "malId": "41025",
+  "_forceSyncTime": 1778771573967
 }
