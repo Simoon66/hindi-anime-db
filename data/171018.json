@@ -1,11 +1,10 @@
 {
   "title": "DAN DA DAN",
-  "synopsis": "This is a story about Momo, a high school girl who comes from a family of spirit mediums, and her classmate Okarun, an occult fanatic. After Momo rescues Okarun from being bullied, they begin talking. However, an argument ensues between them since Momo believes in ghosts but denies aliens exist, and Okarun believes in aliens but denies ghosts exist.\n\nTo prove to each other what they believe in is real, Momo goes to an abandoned hospital where a UFO has been spotted and Okarun goes to a tunnel rumored to be haunted. To their surprise, they each encounter overwhelming paranormal activities that transcend comprehension. Amid these predicaments, Momo awakens her hidden power and Okarun gains the power of a curse to overcome these new dangers! Their fateful love begins as well!?\n\nThe story of the occult battle and adolescence starts!\n(Source: Crunchyroll) \n\nNotes: \n- Worldwide premiere of Episode 1 before the Japanese television premiere occurred at Anime Expo July 6, 2024. \n- Episodes 1-3 titled as DAN DA DAN: FIRST ENCOUNTER was pre-screened in advance in theaters on August 31, 2024 in Asia, September 7, 2024 in Europe and September 13, 2024 in North America. The regular TV broadcast began October 4, 2024.",
-  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-  "synonym": "Dandadan",
+  "synopsis": "This is a story about Momo, a high school girl who comes from a family of spirit mediums, and her classmate Okarun, an occult fanatic. After Momo rescues Okarun from being bullied, they begin talking. However, an argument ensues between them since Momo believes in ghosts but denies aliens exist, and Okarun believes in aliens but denies ghosts exist.\n\n\n\nTo prove to each other what they believe in is real, Momo goes to an abandoned hospital where a UFO has been spotted and Okarun goes to a tunnel rumored to be haunted. To their surprise, they each encounter overwhelming paranormal activities that transcend comprehension. Amid these predicaments, Momo awakens her hidden power and Okarun gains the power of a curse to overcome these new dangers! Their fateful love begins as well!?\n\n\n\nThe story of the occult battle and adolescence starts!\n\n\n(Source: Crunchyroll) \n\n\n\nNotes: \n\n- Worldwide premiere of Episode 1 before the Japanese television premiere occurred at Anime Expo July 6, 2024. \n\n- Episodes 1-3 titled as DAN DA DAN: FIRST ENCOUNTER was pre-screened in advance in theaters on August 31, 2024 in Asia, September 7, 2024 in Europe and September 13, 2024 in North America. The regular TV broadcast began October 4, 2024.",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171018-60q1B6GK2Ghb.jpg",
+  "synonym": "ดันดาดัน",
   "native": "ダンダダン",
-  "aired": "10/4/2024",
-  "releaseDate": "Oct 4, 2024",
+  "aired": "Oct 4, 2024 to Dec 20, 2024",
   "premiered": "FALL 2024",
   "duration": "24m",
   "episodesCount": "12",
@@ -22,28 +21,33 @@
   "status": "Completed",
   "country": "JP",
   "studios": [
+    "Science SARU",
     "Science SARU"
   ],
-  "producers": [],
-  "seasons": [],
-  "malId": "57334",
-  "streamingId": "171018",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "producers": [
+    "Mainichi Broadcasting System",
+    "Shueisha",
+    "Dentsu",
+    "Aniplex",
+    "Shogakukan-Shueisha Productions"
+  ],
+  "seasons": [
+    {
+      "title": "Season 1",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171018-60q1B6GK2Ghb.jpg",
+      "link": "/2024/10/171018.html"
+    },
+    {
+      "title": "Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185660-uB8RUMBGovGr.jpg",
+      "link": "/2025/07/185660.html"
+    }
+  ],
   "episodes": [
     {
-      "episode": "1",
       "title": "That's How Love Starts, Ya Know!",
+      "episode": "1",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/171018/1/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/171018/1/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/57334/1/sub",
@@ -57,19 +61,9 @@
       ]
     },
     {
-      "episode": "2",
       "title": "That's a Space Alien, Ain't It?!",
+      "episode": "2",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/171018/2/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/171018/2/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/57334/2/sub",
@@ -83,19 +77,9 @@
       ]
     },
     {
-      "episode": "3",
       "title": "It's a Granny vs. Granny Clash!",
+      "episode": "3",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/171018/3/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/171018/3/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/57334/3/sub",
@@ -109,19 +93,9 @@
       ]
     },
     {
-      "episode": "4",
       "title": "Kicking Turbo Granny's Ass",
+      "episode": "4",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/171018/4/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/171018/4/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/57334/4/sub",
@@ -135,19 +109,9 @@
       ]
     },
     {
-      "episode": "5",
       "title": "Like, Where Are Your Balls?!",
+      "episode": "5",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/171018/5/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/171018/5/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/57334/5/sub",
@@ -161,19 +125,9 @@
       ]
     },
     {
-      "episode": "6",
       "title": "A Dangerous Woman Arrives",
+      "episode": "6",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/171018/6/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/171018/6/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/57334/6/sub",
@@ -187,19 +141,9 @@
       ]
     },
     {
-      "episode": "7",
       "title": "To a Kinder World",
+      "episode": "7",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/171018/7/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/171018/7/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/57334/7/sub",
@@ -213,19 +157,9 @@
       ]
     },
     {
-      "episode": "8",
       "title": "I've Got This Funny Feeling",
+      "episode": "8",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/171018/8/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/171018/8/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/57334/8/sub",
@@ -239,8 +173,8 @@
       ]
     },
     {
-      "episode": "9",
       "title": "Merge! Serpo Dover Demon Nessie!",
+      "episode": "9",
       "files": [
         {
           "name": "HD-1",
@@ -265,8 +199,8 @@
       ]
     },
     {
-      "episode": "10",
       "title": "Have You Ever Seen a Cattle Mutilation?",
+      "episode": "10",
       "files": [
         {
           "name": "HD-1",
@@ -291,8 +225,8 @@
       ]
     },
     {
-      "episode": "11",
       "title": "First Love",
+      "episode": "11",
       "files": [
         {
           "name": "HD-1",
@@ -317,8 +251,8 @@
       ]
     },
     {
-      "episode": "12",
       "title": "Let's Go to the Cursed House",
+      "episode": "12",
       "files": [
         {
           "name": "HD-1",
@@ -343,5 +277,8 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:24:06.204Z"
+  "streamingId": "171018",
+  "hostUrl": "",
+  "releaseDate": "Oct 4, 2024",
+  "malId": "57334"
 }
