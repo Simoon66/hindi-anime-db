@@ -1,10 +1,10 @@
 {
   "title": "Devilman Crybaby",
-  "synopsis": "New Devilman project marking Go Nagai's 50th anniversary as a creator.The protagonist Akira Fudou learns from his best friend, Ryou Asuka, that an ancient race of demons has returned to take back the world from humans. Ryou tells Akira that the only way to defeat the demons is to incorporate their supernatural powers, and suggests that he unite with a demon himself. Akira succeeds in transforming into Devilman, who possesses both the powers of a demon and the soul of a human. The battle of Devilman and Akira Fudou begins. (Source: Netflix)",
+  "synopsis": "New Devilman project marking Go Nagai's 50th anniversary as a creator.\n\nThe protagonist Akira Fudou learns from his best friend, Ryou Asuka, that an ancient race of demons has returned to take back the world from humans. Ryou tells Akira that the only way to defeat the demons is to incorporate their supernatural powers, and suggests that he unite with a demon himself. Akira succeeds in transforming into Devilman, who possesses both the powers of a demon and the soul of a human. The battle of Devilman and Akira Fudou begins. \n\n(Source: Netflix)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98460-bLtH2c3jd6sV.png",
   "synonym": "DEVILMAN crybaby",
   "native": "DEVILMAN crybaby",
-  "aired": "1/5/2018",
+  "aired": "01/05/2018",
   "premiered": "WINTER 2018",
   "duration": "25m",
   "episodesCount": "10",
@@ -17,14 +17,13 @@
   ],
   "rating": "7.6",
   "type": "ONA",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Science SARU",
+  "studios": [
+    "Science SARU"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "35120",
-  "streamingId": "98460",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -286,5 +285,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "98460",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2018-01-05",
+  "malId": "35120",
+  "_forceSyncTime": 1778771240992
 }
