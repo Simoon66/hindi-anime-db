@@ -5,7 +5,6 @@
   "synonym": "Shigatsu wa Kimi no Uso",
   "native": "四月は君の嘘",
   "aired": "10/10/2014",
-  "releaseDate": "Oct 10, 2014",
   "premiered": "FALL 2014",
   "duration": "23m",
   "episodesCount": "22",
@@ -32,9 +31,6 @@
     "KYORAKU"
   ],
   "seasons": [],
-  "malId": "23273",
-  "streamingId": "20665",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -1181,5 +1177,9 @@
       "hianimeCode": "947"
     }
   ],
-  "_lastSync": "2026-05-11T21:15:01.195Z"
+  "streamingId": "20665",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2014-10-10",
+  "malId": "23273",
+  "_forceSyncTime": 1778769508099
 }
