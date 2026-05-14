@@ -1,10 +1,10 @@
 {
   "title": "Durarara!!",
-  "synopsis": "In Tokyo's downtown district of Ikebukuro, amidst many strange rumors and warnings of anonymous gangs and dangerous occupants, one urban legend stands out above the rest—the existence of a headless \"Black Rider\" who is said to be seen driving a jet-black motorcycle through the city streets.\nRyuugamine Mikado has always longed for the excitement of the city life, and an invitation from a childhood friend convinces him to move to Tokyo. Witnessing the Black Rider on his first day in the city, his wishes already seem to have been granted. But as supernatural events begin to occur, ordinary citizens like himself, along with Ikebukuro's most colorful inhabitants, are mixed up in the commotion breaking out in their city.\n(Source: MAL Rewrite)",
+  "synopsis": "In Tokyo's downtown district of Ikebukuro, amidst many strange rumors and warnings of anonymous gangs and dangerous occupants, one urban legend stands out above the rest—the existence of a headless \"Black Rider\" who is said to be seen driving a jet-black motorcycle through the city streets.\n\n\nRyuugamine Mikado has always longed for the excitement of the city life, and an invitation from a childhood friend convinces him to move to Tokyo. Witnessing the Black Rider on his first day in the city, his wishes already seem to have been granted. But as supernatural events begin to occur, ordinary citizens like himself, along with Ikebukuro's most colorful inhabitants, are mixed up in the commotion breaking out in their city.\n\n\n(Source: MAL Rewrite)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6746-3LTwM95Uqeoa.png",
   "synonym": "Durarara!!",
   "native": "デュラララ!!",
-  "aired": "1/8/2010",
+  "aired": "01/08/2010",
   "premiered": "WINTER 2010",
   "duration": "24m",
   "episodesCount": "24",
@@ -15,14 +15,13 @@
   ],
   "rating": "7.9",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Brain's Base",
+  "studios": [
+    "Brain's Base"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "6746",
-  "streamingId": "6746",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -648,5 +647,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "6746",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2010-01-08",
+  "malId": "6746",
+  "_forceSyncTime": 1778771968092
 }
