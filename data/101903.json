@@ -4,7 +4,7 @@
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101903-ncgPJbbA5Nou.jpg",
   "synonym": "Kaze ga Tsuyoku Fuiteiru",
   "native": "風が強く吹いている",
-  "aired": "10/3/2018",
+  "aired": "10/03/2018",
   "premiered": "FALL 2018",
   "duration": "24m",
   "episodesCount": "23",
@@ -14,14 +14,13 @@
   ],
   "rating": "8.3",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Production I.G",
+  "studios": [
+    "Production I.G"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "37965",
-  "streamingId": "101903",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -621,5 +620,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "101903",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2018-10-03",
+  "malId": "37965",
+  "_forceSyncTime": 1778783185469
 }
