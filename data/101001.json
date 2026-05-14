@@ -35,6 +35,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/37171/1/sub",
           "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/101001/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37171/1/dub",
+          "type": "dub"
         }
       ]
     },
@@ -51,6 +61,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/37171/2/sub",
           "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/101001/2/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37171/2/dub",
+          "type": "dub"
         }
       ]
     },
@@ -67,6 +87,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/37171/3/sub",
           "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/101001/3/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37171/3/dub",
+          "type": "dub"
         }
       ]
     },
@@ -83,6 +113,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/37171/4/sub",
           "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/101001/4/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37171/4/dub",
+          "type": "dub"
         }
       ]
     },
@@ -99,6 +139,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/37171/5/sub",
           "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/101001/5/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37171/5/dub",
+          "type": "dub"
         }
       ]
     },
@@ -115,6 +165,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/37171/6/sub",
           "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/101001/6/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37171/6/dub",
+          "type": "dub"
         }
       ]
     },
@@ -131,6 +191,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/37171/7/sub",
           "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/101001/7/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37171/7/dub",
+          "type": "dub"
         }
       ]
     },
@@ -147,6 +217,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/37171/8/sub",
           "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/101001/8/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37171/8/dub",
+          "type": "dub"
         }
       ]
     },
@@ -259,5 +339,5 @@
   "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2018-07-08",
   "malId": "37171",
-  "_forceSyncTime": 1778769515849
+  "_forceSyncTime": 1778770148687
 }
