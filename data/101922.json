@@ -1,15 +1,13 @@
 {
   "title": "Demon Slayer: Kimetsu no Yaiba",
-  "synopsis": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.\n\n(Source: Crunchyroll)",
+  "synopsis": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.\n\n\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg",
   "synonym": "Kimetsu no Yaiba",
   "native": "鬼滅の刃",
-  "aired": "4/6/2019",
-  "releaseDate": "Apr 6, 2019",
+  "aired": "04/06/2019",
   "premiered": "SPRING 2019",
   "duration": "24m",
   "episodesCount": "26",
-  "totalEpisodes": 26,
   "genres": [
     "Action",
     "Adventure",
@@ -26,9 +24,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "38000",
-  "streamingId": "101922",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -48,11 +43,6 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38000/1/dub",
           "type": "dub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101922/1/sub",
-          "type": "sub"
         }
       ]
     },
@@ -69,11 +59,6 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38000/2/dub",
           "type": "dub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101922/2/sub",
-          "type": "sub"
         },
         {
           "name": "HD-1",
@@ -95,16 +80,6 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38000/3/dub",
           "type": "dub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101922/3/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101922/3/dub",
-          "type": "dub"
         }
       ]
     },
@@ -120,16 +95,6 @@
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38000/4/dub",
-          "type": "dub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101922/4/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101922/4/dub",
           "type": "dub"
         }
       ]
@@ -147,16 +112,6 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38000/5/dub",
           "type": "dub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101922/5/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101922/5/dub",
-          "type": "dub"
         }
       ]
     },
@@ -172,16 +127,6 @@
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38000/6/dub",
-          "type": "dub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101922/6/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101922/6/dub",
           "type": "dub"
         }
       ]
@@ -199,16 +144,6 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38000/7/dub",
           "type": "dub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101922/7/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101922/7/dub",
-          "type": "dub"
         }
       ]
     },
@@ -225,16 +160,6 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38000/8/dub",
           "type": "dub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101922/8/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101922/8/dub",
-          "type": "dub"
         }
       ]
     },
@@ -242,16 +167,6 @@
       "episode": "9",
       "title": "Temari Demon and Arrow Demon",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101922/9/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101922/9/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38000/9/sub",
@@ -269,16 +184,6 @@
       "title": "Together Forever",
       "files": [
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101922/10/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101922/10/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38000/10/sub",
           "type": "sub"
@@ -294,16 +199,6 @@
       "episode": "11",
       "title": "Tsuzumi Mansion",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101922/11/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101922/11/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38000/11/sub",
@@ -707,5 +602,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T22:54:17.927Z"
+  "streamingId": "101922",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2019-04-06",
+  "malId": "38000",
+  "_forceSyncTime": 1778768990833
 }
