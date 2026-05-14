@@ -1,10 +1,10 @@
 {
   "title": "Domestic Girlfriend",
-  "synopsis": "Natsuo Fuji has a serious crush on one of his teachers, Hina Tachibana, but since he knows he has zero chance of ever being in a relationship with her, he lets his friends talk him into going to a party where he meets Rui. One thing leads to another and then, well, neither of them is a virgin anymore. Unfortunately, it wasn't what they expected, but that's fine. They're just ships passing in the night and they'll never have to see each other again, right? Except when Natsuo's father announces that he's getting married again, Natsuo discovers that he's getting two new step-sisters as well. Now there's a problem, because one is his teacher, Hina, and the other is Rui.\n\n(Source: Sentai Filmworks)",
+  "synopsis": "Natsuo Fuji has a serious crush on one of his teachers, Hina Tachibana, but since he knows he has zero chance of ever being in a relationship with her, he lets his friends talk him into going to a party where he meets Rui. One thing leads to another and then, well, neither of them is a virgin anymore. Unfortunately, it wasn't what they expected, but that's fine. They're just ships passing in the night and they'll never have to see each other again, right? Except when Natsuo's father announces that he's getting married again, Natsuo discovers that he's getting two new step-sisters as well. Now there's a problem, because one is his teacher, Hina, and the other is Rui.\n\n\n\n(Source: Sentai Filmworks)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103139-2TfvRyGTE1qp.jpg",
   "synonym": "Domestic na Kanojo",
   "native": "ドメスティックな彼女",
-  "aired": "1/12/2019",
+  "aired": "01/12/2019",
   "premiered": "WINTER 2019",
   "duration": "25m",
   "episodesCount": "12",
@@ -15,14 +15,13 @@
   ],
   "rating": "6.4",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "diomedéa",
+  "studios": [
+    "diomedéa"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "37982",
-  "streamingId": "103139",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -336,5 +335,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "103139",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2019-01-12",
+  "malId": "37982",
+  "_forceSyncTime": 1778784297363
 }
