@@ -1,15 +1,13 @@
 {
   "title": "GOBLIN SLAYER",
-  "synopsis": "A young priestess has formed her first adventuring party, but almost immediately they find themselves in distress. It's the Goblin Slayer who comes to their rescue--a man who's dedicated his life to the extermination of all goblins, by any means necessary. And when rumors of his feats begin to circulate, there's no telling who might come calling next...\n\n(Source: Yen Press)",
+  "synopsis": "A young priestess has formed her first adventuring party, but almost immediately they find themselves in distress. It's the Goblin Slayer who comes to their rescue--a man who's dedicated his life to the extermination of all goblins, by any means necessary. And when rumors of his feats begin to circulate, there's no telling who might come calling next...\n\n\n\n(Source: Yen Press)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101165-v5NwPXWPFDuD.jpg",
   "synonym": "Goblin Slayer",
   "native": "ゴブリンスレイヤー",
-  "aired": "10/7/2018",
-  "releaseDate": "Oct 7, 2018",
+  "aired": "10/07/2018",
   "premiered": "FALL 2018",
   "duration": "24m",
   "episodesCount": "12",
-  "totalEpisodes": 12,
   "genres": [
     "Action",
     "Adventure",
@@ -24,9 +22,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "37349",
-  "streamingId": "101165",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -341,5 +336,9 @@
       ]
     }
   ],
-  "_forceSyncTime": 1778540675526
+  "streamingId": "101165",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2018-10-07",
+  "malId": "37349",
+  "_forceSyncTime": 1778769549097
 }
