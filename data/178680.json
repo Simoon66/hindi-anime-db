@@ -30,14 +30,14 @@
   ],
   "seasons": [
     {
-      "title": "[TV Series] WIND BREAKER Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178680-nIAhCizY46ZU.jpg",
-      "link": "/2025/04/178680.html"
-    },
-    {
-      "title": "[TV Series] WIND BREAKER",
+      "title": "Season 1",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163270-wboZJp0ybwVK.jpg",
       "link": "/2024/04/163270.html"
+    },
+    {
+      "title": "Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178680-nIAhCizY46ZU.jpg",
+      "link": "/2025/04/178680.html"
     }
   ],
   "episodes": [
@@ -64,6 +64,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59160/1/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/c64c1dc40ade60a3aba8332e10260c93",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9GNmlHa1NCYncifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvc1FXeTRnSFpZIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC80WjJyOFRHeG8ifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9UZ3NMV25FMEIifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvUUVXTlpsaVVLIn1d",
+          "type": "multi"
         }
       ]
     },
@@ -90,6 +100,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59160/2/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/7fe6f43b1fa74eaab7e0388b4c24c010",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9lcjgzaDZIWnkifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvbVAxN0N6bGZmIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9OTjcwUldEUVp6In0seyJsYW5ndWFnZSI6IkVuZ2xpc2giLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvY1FMU3JjWXFKIn0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL0xiRHBQR0FoWCJ9XQ%3D%3D",
+          "type": "multi"
         }
       ]
     },
@@ -116,6 +136,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59160/3/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/6d179945d495cfa31025c8a9299ec401",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9oaWVlQm5KS1YifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvSGowbm5oZVljIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC82NHRzekEzbF8ifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC96NTFVY3JnLUUifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvRGw1dTg3WVVxIn1d",
+          "type": "multi"
         }
       ]
     },
@@ -142,6 +172,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59160/4/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/bf9452f935bd53b41c9c7b441423d815",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9sUUQ0QVl6V1YifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvajAtcExscGhDIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9DZ3AwaFZacU0ifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9nemdVTUpacFcifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvMmo1RmdsN0g5TiJ9XQ%3D%3D",
+          "type": "multi"
         }
       ]
     },
@@ -168,6 +208,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59160/5/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/8241b23ef1376599b08f3a51c8a5a61e",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9xN3haTTFPRF8ifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvdEROYmlvNlBWIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC8wLWdZRFpOTVkifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9BZEM3R2FjdncifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvLVN5bnAxNG5NIn1d",
+          "type": "multi"
         }
       ]
     },
@@ -194,6 +244,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59160/6/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/0bd791e117caac17417e27915180616f",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9DSTk2MkJTV0oifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvSjBqZURUNXhDIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9mSVpKNkQtV1MifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC81QjNodFZLeEE2In0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL3REd1JiOThWdCJ9XQ%3D%3D",
+          "type": "multi"
         }
       ]
     },
@@ -220,6 +280,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59160/7/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/9e36d5294d8f32155b8178bb26fd024c",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9IOGxHSDNZaVMifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvTnpWLWx0cHBiIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9QNXh3Y1NRTFoifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9LSUxsSmVKSEEifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvZ0Y1dkhtUU9VIn1d",
+          "type": "multi"
         }
       ]
     },
@@ -246,6 +316,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59160/8/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/96b8ee525c85be84c2536bd86564a585",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9zMmdRQm1jV3cifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvSXJaZU5BdWhwIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9LT1BkMnl5RlgifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC90Y3pqcmt6OS0ifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvSHdmQ2R2eTFFIn1d",
+          "type": "multi"
         }
       ]
     },
@@ -272,6 +352,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59160/9/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/674b1117ecbd3cbd34c71f328b1c49a5",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9TWE5MUTAwY2wifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwveXJLaG8tV2tjIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC95TEEzSGZWRW8ifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9zbF9sZnl4MTgifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvNmFOUXFrX3lEIn1d",
+          "type": "multi"
         }
       ]
     },
@@ -298,6 +388,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59160/10/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/7f4b18de3cfeb9b4ac78c381ee2ad278",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9WYmdBVkw2dTYifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvbGplMEVKQTFhIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC83aVBCRWVZRzNtIn0seyJsYW5ndWFnZSI6IkVuZ2xpc2giLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvMU1Fa2ZNcE8yIn0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL29RMVJWOE5tWiJ9XQ%3D%3D",
+          "type": "multi"
         }
       ]
     },
@@ -324,6 +424,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59160/11/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/97d874c5aaa9be3fa256de891418b0d7",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC93cVlFdW1HMlgifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvR09JZk4wUDEyZCJ9LHsibGFuZ3VhZ2UiOiJUZWx1Z3UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvcEFWOTlXZTRCIn0seyJsYW5ndWFnZSI6IkVuZ2xpc2giLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvNGZYb0I1OG9sIn0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL0c2VGotenctNyJ9XQ%3D%3D",
+          "type": "multi"
         }
       ]
     },
@@ -350,6 +460,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59160/12/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/f27a4f23a9840cbee6ccaa3194e86ea0",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC8wQkVZbnlVS2QifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvN1c3QzNqSGVwIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC93Y3lPUFdzbUNuIn0seyJsYW5ndWFnZSI6IkVuZ2xpc2giLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwveGM5RW14bExoIn0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcLzVVV2NVc1V5RyJ9XQ%3D%3D",
+          "type": "multi"
         }
       ]
     }
