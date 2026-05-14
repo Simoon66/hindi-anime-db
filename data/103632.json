@@ -1,10 +1,10 @@
 {
   "title": "So I'm a Spider, So What?",
-  "synopsis": "I, the protagonist, was just an ordinary high school girl, but suddenly I was reincarnated as a spider monster in a fantasy world. Not only that, but I awakened in a dungeon filled with vicious monsters. Armed with only my human knowledge and my overwhelming positivity, I'm forced to use spiderwebs and traps to defeat far stronger monsters just to stay alive... So begins the labyrinth survival story of a girl with incredible mental strength living as one of the lowest-ranked beasts!\n\n(Source: Crunchyroll)",
+  "synopsis": "I, the protagonist, was just an ordinary high school girl, but suddenly I was reincarnated as a spider monster in a fantasy world. Not only that, but I awakened in a dungeon filled with vicious monsters. Armed with only my human knowledge and my overwhelming positivity, I'm forced to use spiderwebs and traps to defeat far stronger monsters just to stay alive... So begins the labyrinth survival story of a girl with incredible mental strength living as one of the lowest-ranked beasts!\n\n\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103632-2wsy9wFUdm1C.jpg",
   "synonym": "Kumo desu ga, Nani ka?",
   "native": "蜘蛛ですが、なにか？",
-  "aired": "1/8/2021",
+  "aired": "01/08/2021",
   "premiered": "WINTER 2021",
   "duration": "24m",
   "episodesCount": "24",
@@ -17,14 +17,14 @@
   ],
   "rating": "7.2",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Millepensee",
+  "studios": [
+    "Millepensee",
+    "exsa"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "37984",
-  "streamingId": "103632",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -39,11 +39,6 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/103632/1/dub",
           "type": "dub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/37984/1/sub",
-          "type": "sub"
         },
         {
           "name": "HD-2",
@@ -500,11 +495,6 @@
       "files": [
         {
           "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/103632/19/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/103632/19/dub",
           "type": "dub"
         },
@@ -552,11 +542,6 @@
       "files": [
         {
           "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/103632/21/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/103632/21/dub",
           "type": "dub"
         },
@@ -576,11 +561,6 @@
       "episode": "22",
       "title": "Be Forever, Me?",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/103632/22/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/103632/22/dub",
@@ -630,11 +610,6 @@
       "files": [
         {
           "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/103632/24/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/103632/24/dub",
           "type": "dub"
         },
@@ -650,5 +625,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "103632",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2021-01-08",
+  "malId": "37984",
+  "_forceSyncTime": 1778784949959
 }
