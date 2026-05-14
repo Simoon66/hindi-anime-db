@@ -1,10 +1,10 @@
 {
   "title": "The God of High School",
   "synopsis": "It all began as a fighting tournament to seek out for the best fighter among all high school students in Korea. Mori Jin, a Taekwondo specialist and a high school student, soon learns that there is something much greater beneath the stage of the tournament.\n\n(Source: WEBTOON)",
-  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116006-Wt8JSA1ZQxlM.png",
-  "synonym": "GoH",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116006-Wt8JSA1ZQxlM.png",
+  "synonym": "THE GOD OF HIGH SCHOOL",
   "native": "THE GOD OF HIGH SCHOOL ゴッド・オブ・ハイスクール",
-  "aired": "Jul 6, 2020 to Sep 28, 2020",
+  "aired": "07/06/2020",
   "premiered": "SUMMER 2020",
   "duration": "24m",
   "episodesCount": "13",
@@ -26,8 +26,8 @@
   "seasons": [],
   "episodes": [
     {
-      "title": "Set Up / Stand Up",
       "episode": "1",
+      "title": "Set Up / Stand Up",
       "files": [
         {
           "name": "HD-1",
@@ -52,8 +52,8 @@
       ]
     },
     {
-      "title": "Renewal / Soul",
       "episode": "2",
+      "title": "Renewal / Soul",
       "files": [
         {
           "name": "HD-1",
@@ -78,8 +78,8 @@
       ]
     },
     {
-      "title": "Wisdom / Kingdom",
       "episode": "3",
+      "title": "Wisdom / Kingdom",
       "files": [
         {
           "name": "HD-1",
@@ -104,8 +104,8 @@
       ]
     },
     {
-      "title": "Marriage / Bonds",
       "episode": "4",
+      "title": "Marriage / Bonds",
       "files": [
         {
           "name": "HD-1",
@@ -130,8 +130,8 @@
       ]
     },
     {
-      "title": "Ronde / Hound",
       "episode": "5",
+      "title": "Ronde / Hound",
       "files": [
         {
           "name": "HD-1",
@@ -156,8 +156,8 @@
       ]
     },
     {
-      "title": "Fear / Six",
       "episode": "6",
+      "title": "Fear / Six",
       "files": [
         {
           "name": "HD-1",
@@ -182,8 +182,8 @@
       ]
     },
     {
-      "title": "Anima / Force",
       "episode": "7",
+      "title": "Anima / Force",
       "files": [
         {
           "name": "HD-1",
@@ -208,8 +208,8 @@
       ]
     },
     {
-      "title": "Close / Friend",
       "episode": "8",
+      "title": "Close / Friend",
       "files": [
         {
           "name": "HD-1",
@@ -234,8 +234,8 @@
       ]
     },
     {
-      "title": "Curse / Cornered",
       "episode": "9",
+      "title": "Curse / Cornered",
       "files": [
         {
           "name": "HD-1",
@@ -260,8 +260,8 @@
       ]
     },
     {
-      "title": "Oath / Meaning",
       "episode": "10",
+      "title": "Oath / Meaning",
       "files": [
         {
           "name": "HD-1",
@@ -286,8 +286,8 @@
       ]
     },
     {
-      "title": "Lay / Key",
       "episode": "11",
+      "title": "Lay / Key",
       "files": [
         {
           "name": "HD-1",
@@ -312,8 +312,8 @@
       ]
     },
     {
-      "title": "FOX / GOD",
       "episode": "12",
+      "title": "FOX / GOD",
       "files": [
         {
           "name": "HD-1",
@@ -338,8 +338,8 @@
       ]
     },
     {
-      "title": "GOD / GOD",
       "episode": "13",
+      "title": "GOD / GOD",
       "files": [
         {
           "name": "HD-1",
@@ -365,7 +365,8 @@
     }
   ],
   "streamingId": "116006",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
-  "releaseDate": "Jul 6, 2020",
-  "malId": "41353"
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2020-07-06",
+  "malId": "41353",
+  "_forceSyncTime": 1778771846814
 }
