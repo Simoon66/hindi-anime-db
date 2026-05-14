@@ -1,10 +1,10 @@
 {
   "title": "Dr. STONE: STONE WARS",
-  "synopsis": "The second season of Dr. STONE\n\nArmed with the power of science and a genius intellect, Senkuu is determined to save humanity. However, Tsukasa’s empire goes on the offensive to halt the progress of science. Bolder choices are made as these two start a war that rocks the Stone World. \n(Source: Crunchyroll)",
+  "synopsis": "The second season of Dr. STONE\n\n\n\nArmed with the power of science and a genius intellect, Senkuu is determined to save humanity. However, Tsukasa’s empire goes on the offensive to halt the progress of science. Bolder choices are made as these two start a war that rocks the Stone World. \n\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113936-D4eYd4XwslVI.jpg",
   "synonym": "Dr. STONE: STONE WARS",
   "native": "Dr.STONE STONE WARS",
-  "aired": "1/14/2021",
+  "aired": "01/14/2021",
   "premiered": "WINTER 2021",
   "duration": "24m",
   "episodesCount": "11",
@@ -16,14 +16,13 @@
   ],
   "rating": "8.1",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "TMS Entertainment",
+  "studios": [
+    "TMS Entertainment"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "40852",
-  "streamingId": "113936",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -311,5 +310,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "113936",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2021-01-14",
+  "malId": "40852",
+  "_forceSyncTime": 1778771404813
 }
