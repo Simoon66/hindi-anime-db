@@ -1,10 +1,10 @@
 {
   "title": "My Dress-Up Darling",
   "synopsis": "High schooler Wakana Gojou cares about one thing: making Hina dolls. With nobody to share his obsession, he has trouble finding friends—or even holding conversation. But after the school’s most popular girl, Marin Kitagawa, reveals a secret of her own, he discovers a new purpose for his sewing skills. Together, they’ll make her cosplay dreams come true! \n\n\n\n(Source: Funimation)",
-  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132405-qP7FQYGmNI3d.jpg",
-  "synonym": "Sono Kisekae Ningyou wa Koi wo suru",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132405-qP7FQYGmNI3d.jpg",
+  "synonym": "Sono Bisque Doll wa Koi wo Suru",
   "native": "その着せ替え人形は恋をする",
-  "aired": "Jan 9, 2022 to Mar 27, 2022",
+  "aired": "01/09/2022",
   "premiered": "WINTER 2022",
   "duration": "24m",
   "episodesCount": "12",
@@ -43,8 +43,8 @@
   ],
   "episodes": [
     {
-      "title": "Someone Who Lives in the Exact Opposite World as Me",
       "episode": "1",
+      "title": "Someone Who Lives in the Exact Opposite World as Me",
       "files": [
         {
           "name": "HD-1",
@@ -79,8 +79,8 @@
       ]
     },
     {
-      "title": "Wanna Hurry Up, and Do It?",
       "episode": "2",
+      "title": "Wanna Hurry Up, and Do It?",
       "files": [
         {
           "name": "HD-1",
@@ -115,8 +115,8 @@
       ]
     },
     {
-      "title": "Then Why Don't We?",
       "episode": "3",
+      "title": "Then Why Don't We?",
       "files": [
         {
           "name": "HD-1",
@@ -151,8 +151,8 @@
       ]
     },
     {
-      "title": "Are These Your Girlfriend's?",
       "episode": "4",
+      "title": "Are These Your Girlfriend's?",
       "files": [
         {
           "name": "HD-1",
@@ -187,8 +187,8 @@
       ]
     },
     {
-      "title": "It's Probably Because This Is the Best Boob Bag Here",
       "episode": "5",
+      "title": "It's Probably Because This Is the Best Boob Bag Here",
       "files": [
         {
           "name": "HD-1",
@@ -223,8 +223,8 @@
       ]
     },
     {
-      "title": "For Real?!",
       "episode": "6",
+      "title": "For Real?!",
       "files": [
         {
           "name": "HD-1",
@@ -259,8 +259,8 @@
       ]
     },
     {
-      "title": "A Home Date with the Guy I Wuv Is the Best",
       "episode": "7",
+      "title": "A Home Date with the Guy I Wuv Is the Best",
       "files": [
         {
           "name": "HD-1",
@@ -295,8 +295,8 @@
       ]
     },
     {
-      "title": "Backlighting Is the Best",
       "episode": "8",
+      "title": "Backlighting Is the Best",
       "files": [
         {
           "name": "HD-1",
@@ -331,8 +331,8 @@
       ]
     },
     {
-      "title": "A Lot Happened After I Saw That Photo",
       "episode": "9",
+      "title": "A Lot Happened After I Saw That Photo",
       "files": [
         {
           "name": "HD-1",
@@ -367,8 +367,8 @@
       ]
     },
     {
-      "title": "We've All Got Struggles",
       "episode": "10",
+      "title": "We've All Got Struggles",
       "files": [
         {
           "name": "HD-1",
@@ -403,8 +403,8 @@
       ]
     },
     {
-      "title": "I Am Currently at a Love Hotel",
       "episode": "11",
+      "title": "I Am Currently at a Love Hotel",
       "files": [
         {
           "name": "HD-1",
@@ -439,8 +439,8 @@
       ]
     },
     {
-      "title": "My Dress-Up Darling",
       "episode": "12",
+      "title": "My Dress-Up Darling",
       "files": [
         {
           "name": "HD-1",
@@ -476,7 +476,8 @@
     }
   ],
   "streamingId": "132405",
-  "hostUrl": "",
-  "releaseDate": "Jan 9, 2022",
-  "malId": "48736"
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2022-01-09",
+  "malId": "48736",
+  "_forceSyncTime": 1778770713407
 }
