@@ -1,15 +1,13 @@
 {
   "title": "Carole & Tuesday",
-  "synopsis": "Fifty years have passed since mankind began migrating to the new frontier: Mars.\nIt's an age where most culture is produced by AI, and people are content to be passive consumers.\n\nThere's a girl.\nScrapping a living in the metropolis of Alba City, she's working part-time while trying to become a musician. She's always felt like something is missing.\nHer name is Carole.\n\nThere's a girl.\nBorn to a wealthy family in the provincial town of Herschel City, she dreams of becoming a musician, but nobody around her understands. She feels like the loneliest person in the world.\nHer name is Tuesday.\n\nA chance meeting brings them together.\nThey want to sing.\nThey want to make music.\nTogether, they feel like they just might have a chance.\n\nThe two of them may only create a tiny wave.\nBut that wave will eventually grow into something larger...\n\n(Source: Official Website)",
+  "synopsis": "Fifty years have passed since mankind began migrating to the new frontier: Mars.\n\nIt's an age where most culture is produced by AI, and people are content to be passive consumers.\n\n\n\nThere's a girl.\n\nScrapping a living in the metropolis of Alba City, she's working part-time while trying to become a musician. She's always felt like something is missing.\n\nHer name is Carole.\n\n\n\nThere's a girl.\n\nBorn to a wealthy family in the provincial town of Herschel City, she dreams of becoming a musician, but nobody around her understands. She feels like the loneliest person in the world.\n\nHer name is Tuesday.\n\n\n\nA chance meeting brings them together.\n\nThey want to sing.\n\nThey want to make music.\n\nTogether, they feel like they just might have a chance.\n\n\n\nThe two of them may only create a tiny wave.\n\nBut that wave will eventually grow into something larger...\n\n\n\n(Source: Official Website)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101281-s1UoXUaYXhxn.jpg",
   "synonym": "Carole & Tuesday",
   "native": "キャロル＆チューズデイ",
-  "aired": "4/10/2019",
-  "releaseDate": "Apr 10, 2019",
+  "aired": "04/10/2019",
   "premiered": "SPRING 2019",
   "duration": "24m",
   "episodesCount": "24",
-  "totalEpisodes": 24,
   "genres": [
     "Drama",
     "Music",
@@ -24,9 +22,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "37435",
-  "streamingId": "101281",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -643,5 +638,9 @@
       ]
     }
   ],
-  "_forceSyncTime": 1778540714012
+  "streamingId": "101281",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2019-04-10",
+  "malId": "37435",
+  "_forceSyncTime": 1778769619737
 }
