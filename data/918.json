@@ -1,10 +1,10 @@
 {
   "title": "Gintama",
-  "synopsis": "Life isn't easy in feudal Japan... especially since the aliens landed and conquered everything! Oh sure, the new health care is great, but the public ban on the use of swords has left a lot of defeated samurai with a difficult decision to make concerning their future career paths! This is especially true if, as in the case of Gintoki Sakata, they're not particularly inclined towards holding a day job, which is why Gintoki's opted for the freelance route, taking any job that's offered to him as long as the financial remuneration sounds right. Unfortunately, in a brave new world filled with stray bug-eyed monsters, upwardly mobile Yakuza and overly ambitious E.T. entrepreneurs, those jobs usually don't pay as well as they should for the pain, suffering and indignities endured!\n(Source: Sentai Filmworks)",
+  "synopsis": "Life isn't easy in feudal Japan... especially since the aliens landed and conquered everything! Oh sure, the new health care is great, but the public ban on the use of swords has left a lot of defeated samurai with a difficult decision to make concerning their future career paths! This is especially true if, as in the case of Gintoki Sakata, they're not particularly inclined towards holding a day job, which is why Gintoki's opted for the freelance route, taking any job that's offered to him as long as the financial remuneration sounds right. Unfortunately, in a brave new world filled with stray bug-eyed monsters, upwardly mobile Yakuza and overly ambitious E.T. entrepreneurs, those jobs usually don't pay as well as they should for the pain, suffering and indignities endured!\n\n\n(Source: Sentai Filmworks)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx918-iOaeBVUn4uK7.jpg",
   "synonym": "Gintama",
   "native": "銀魂",
-  "aired": "4/4/2006",
+  "aired": "04/04/2006",
   "premiered": "SPRING 2006",
   "duration": "25m",
   "episodesCount": "201",
@@ -16,14 +16,13 @@
   ],
   "rating": "8.5",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Sunrise",
+  "studios": [
+    "Sunrise"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "918",
-  "streamingId": "918",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -57,18 +56,8 @@
       "files": [
         {
           "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/918/2/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/918/2/dub",
           "type": "dub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/918/2/sub",
-          "type": "sub"
         },
         {
           "name": "HD-2",
@@ -5251,5 +5240,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "918",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2006-04-04",
+  "malId": "918",
+  "_forceSyncTime": 1778772016607
 }
