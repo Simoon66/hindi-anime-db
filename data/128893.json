@@ -1,10 +1,10 @@
 {
   "title": "Hell’s Paradise",
-  "synopsis": "The Edo period is nearing its end. Gabimaru, a shinobi formerly known as the strongest in Iwagakure who is now a death row convict, is told that he will be acquitted and set free if he can bring back the Elixir of Life from an island that is rumored to be the Buddhist pure land Sukhavati. In hopes of reuniting with his beloved wife, Gabimaru heads to the island along with the executioner Yamada Asaemon Sagiri. Upon arriving there, they encounter other death row convicts in search of the Elixir of Life... as well as a host of unknown creatures, eerie manmade statues, and the hermits who rule the island. Can Gabimaru find the Elixir of Life on this mysterious island and make it back home alive?\n\n(Source: Crunchyroll)",
+  "synopsis": "The Edo period is nearing its end. Gabimaru, a shinobi formerly known as the strongest in Iwagakure who is now a death row convict, is told that he will be acquitted and set free if he can bring back the Elixir of Life from an island that is rumored to be the Buddhist pure land Sukhavati. In hopes of reuniting with his beloved wife, Gabimaru heads to the island along with the executioner Yamada Asaemon Sagiri. Upon arriving there, they encounter other death row convicts in search of the Elixir of Life... as well as a host of unknown creatures, eerie manmade statues, and the hermits who rule the island. Can Gabimaru find the Elixir of Life on this mysterious island and make it back home alive?\n\n\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128893-Gc2t8b8M0mVu.jpg",
   "synonym": "Jigokuraku",
   "native": "地獄楽",
-  "aired": "4/1/2023",
+  "aired": "04/01/2023",
   "premiered": "SPRING 2023",
   "duration": "24m",
   "episodesCount": "13",
@@ -16,14 +16,13 @@
   ],
   "rating": "8.0",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "MAPPA",
+  "studios": [
+    "MAPPA"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "46569",
-  "streamingId": "128893",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -363,5 +362,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "128893",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2023-04-01",
+  "malId": "46569",
+  "_forceSyncTime": 1778771305539
 }
