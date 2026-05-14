@@ -4,8 +4,7 @@
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9919-nXS7JOZrWHfS.jpg",
   "synonym": "Ao no Exorcist",
   "native": "青の祓魔師",
-  "aired": "4/17/2011",
-  "releaseDate": "Apr 17, 2011",
+  "aired": "04/17/2011",
   "premiered": "SPRING 2011",
   "duration": "24m",
   "episodesCount": "25",
@@ -23,9 +22,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "9919",
-  "streamingId": "9919",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -678,5 +674,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:19:23.194Z"
+  "streamingId": "9919",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2011-04-17",
+  "malId": "9919",
+  "_forceSyncTime": 1778770318404
 }
