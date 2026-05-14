@@ -1,34 +1,35 @@
 {
   "title": "Aoashi",
-  "synopsis": "Ashito Aoi is a young, aspiring soccer player from a backwater town in Japan. His hopes of getting into a high school with a good soccer club are dashed when he causes an incident during a critical match for his team, which results in their loss and elimination from the tournament. Nevertheless, he catches the eye of someone important who happened to be visiting from Tokyo. How will things turn out for Ashito?(Source: Shogakukan Asia)",
-  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx134732-OXKSrOhF9pCM.jpg",
-  "synonym": "Aoashi",
+  "synopsis": "Ashito Aoi is a young, aspiring soccer player from a backwater town in Japan. His hopes of getting into a high school with a good soccer club are dashed when he causes an incident during a critical match for his team, which results in their loss and elimination from the tournament. Nevertheless, he catches the eye of someone important who happened to be visiting from Tokyo. How will things turn out for Ashito?\n\n(Source: Shogakukan Asia)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx134732-OXKSrOhF9pCM.jpg",
+  "synonym": "AOASHI แข็งเด็กหัวใจนักสู้",
   "native": "アオアシ",
-  "aired": "4/9/2022",
-  "releaseDate": "Apr 9, 2022",
+  "aired": "Apr 9, 2022 to Sep 24, 2022",
   "premiered": "SPRING 2022",
   "duration": "25m",
   "episodesCount": "24",
-  "totalEpisodes": 24,
   "genres": [
     "Sports"
   ],
   "rating": "8.1",
-  "type": "TV",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
+    "Production I.G",
     "Production I.G"
   ],
-  "producers": [],
+  "producers": [
+    "Shogakukan-Shueisha Productions",
+    "NHK Enterprises",
+    "BANDAI SPIRITS",
+    "Marvelous"
+  ],
   "seasons": [],
-  "malId": "49052",
-  "streamingId": "134732",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "episodes": [
     {
-      "episode": "1",
       "title": "First Touch",
+      "episode": "1",
       "files": [
         {
           "name": "HD-1",
@@ -53,8 +54,8 @@
       ]
     },
     {
-      "episode": "2",
       "title": "Tokyo City Esperion",
+      "episode": "2",
       "files": [
         {
           "name": "HD-1",
@@ -79,8 +80,8 @@
       ]
     },
     {
-      "episode": "3",
       "title": "The Final Stage of Assessment Begins",
+      "episode": "3",
       "files": [
         {
           "name": "HD-1",
@@ -105,8 +106,8 @@
       ]
     },
     {
-      "episode": "4",
       "title": "Crow",
+      "episode": "4",
       "files": [
         {
           "name": "HD-1",
@@ -131,8 +132,8 @@
       ]
     },
     {
-      "episode": "5",
       "title": "Orange Scenery",
+      "episode": "5",
       "files": [
         {
           "name": "HD-1",
@@ -157,8 +158,8 @@
       ]
     },
     {
-      "episode": "6",
       "title": "First Fan",
+      "episode": "6",
       "files": [
         {
           "name": "HD-1",
@@ -183,8 +184,8 @@
       ]
     },
     {
-      "episode": "7",
       "title": "The First Youth Match",
+      "episode": "7",
       "files": [
         {
           "name": "HD-1",
@@ -209,8 +210,8 @@
       ]
     },
     {
-      "episode": "8",
       "title": "Night Training",
+      "episode": "8",
       "files": [
         {
           "name": "HD-1",
@@ -235,8 +236,8 @@
       ]
     },
     {
-      "episode": "9",
       "title": "A Broader Soccer",
+      "episode": "9",
       "files": [
         {
           "name": "HD-1",
@@ -261,8 +262,8 @@
       ]
     },
     {
-      "episode": "10",
       "title": "No Compromises",
+      "episode": "10",
       "files": [
         {
           "name": "HD-1",
@@ -287,8 +288,8 @@
       ]
     },
     {
-      "episode": "11",
       "title": "Tokyo Metropolis League Match 1 - Seikyo High School",
+      "episode": "11",
       "files": [
         {
           "name": "HD-1",
@@ -313,8 +314,8 @@
       ]
     },
     {
-      "episode": "12",
       "title": "Eagle Eye",
+      "episode": "12",
       "files": [
         {
           "name": "HD-1",
@@ -339,8 +340,8 @@
       ]
     },
     {
-      "episode": "13",
       "title": "Turn",
+      "episode": "13",
       "files": [
         {
           "name": "HD-1",
@@ -365,8 +366,8 @@
       ]
     },
     {
-      "episode": "14",
       "title": "It's Just Soccer",
+      "episode": "14",
       "files": [
         {
           "name": "HD-1",
@@ -391,8 +392,8 @@
       ]
     },
     {
-      "episode": "15",
       "title": "Where I Ought To Be",
+      "episode": "15",
       "files": [
         {
           "name": "HD-1",
@@ -417,8 +418,8 @@
       ]
     },
     {
-      "episode": "16",
       "title": "Just Like You",
+      "episode": "16",
       "files": [
         {
           "name": "HD-1",
@@ -443,8 +444,8 @@
       ]
     },
     {
-      "episode": "17",
       "title": "Tokyo Metropolis League Match 7 - Tama Sports University High School",
+      "episode": "17",
       "files": [
         {
           "name": "HD-1",
@@ -469,8 +470,8 @@
       ]
     },
     {
-      "episode": "18",
       "title": "Wind of Change",
+      "episode": "18",
       "files": [
         {
           "name": "HD-1",
@@ -495,8 +496,8 @@
       ]
     },
     {
-      "episode": "19",
       "title": "What We Lack",
+      "episode": "19",
       "files": [
         {
           "name": "HD-1",
@@ -521,8 +522,8 @@
       ]
     },
     {
-      "episode": "20",
       "title": "The Truly Weak One",
+      "episode": "20",
       "files": [
         {
           "name": "HD-1",
@@ -547,8 +548,8 @@
       ]
     },
     {
-      "episode": "21",
       "title": "Tokyo Metropolis League Match 8 - Tokyo Musashino Football Club Youths",
+      "episode": "21",
       "files": [
         {
           "name": "HD-1",
@@ -573,8 +574,8 @@
       ]
     },
     {
-      "episode": "22",
       "title": "Like A Demon",
+      "episode": "22",
       "files": [
         {
           "name": "HD-1",
@@ -599,8 +600,8 @@
       ]
     },
     {
-      "episode": "23",
       "title": "Do Your Best. Don't Lose. Fight to Your Limits",
+      "episode": "23",
       "files": [
         {
           "name": "HD-1",
@@ -625,8 +626,8 @@
       ]
     },
     {
-      "episode": "24",
       "title": "From Now",
+      "episode": "24",
       "files": [
         {
           "name": "HD-1",
@@ -651,5 +652,8 @@
       ]
     }
   ],
-  "_forceSyncTime": 1778588540629
+  "streamingId": "134732",
+  "hostUrl": "",
+  "releaseDate": "Apr 9, 2022",
+  "malId": "49052"
 }
