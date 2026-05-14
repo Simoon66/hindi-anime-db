@@ -1,11 +1,10 @@
 {
   "title": "JoJo's Bizarre Adventure (TV)",
-  "synopsis": "Beginning its tale in 19th century England, young aristocrat Jonathan Joestar finds himself locked in bitter rivalry with Dio Brando, a low-born boy who Jonathan's father took under his wing after the death of Dio's father. Discontent with his station in life, Dio's fathomless lust to reign over all eventually leads him to seek the supernatural powers of an ancient Aztec stone mask in the Joestar's possession—an artifact that will forever change the destiny of Dio and Jonathan for generations to come.\n\nFifty years later, in 1938 New York City, Jonathan's grandson Joseph Joestar must take up his grandfather's mission and master the abilities necessary to destroy the stone mask and its immensely powerful creators who threaten humanity's very existence, the Pillar Men.\n(Source: Anime News Network)",
+  "synopsis": "Beginning its tale in 19th century England, young aristocrat Jonathan Joestar finds himself locked in bitter rivalry with Dio Brando, a low-born boy who Jonathan's father took under his wing after the death of Dio's father. Discontent with his station in life, Dio's fathomless lust to reign over all eventually leads him to seek the supernatural powers of an ancient Aztec stone mask in the Joestar's possession—an artifact that will forever change the destiny of Dio and Jonathan for generations to come.\n\n\n\nFifty years later, in 1938 New York City, Jonathan's grandson Joseph Joestar must take up his grandfather's mission and master the abilities necessary to destroy the stone mask and its immensely powerful creators who threaten humanity's very existence, the Pillar Men.\n\n\n(Source: Anime News Network)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14719-VT5dRzTBSZ0w.jpg",
   "synonym": "JoJo no Kimyou na Bouken (TV)",
   "native": "ジョジョの奇妙な冒険 (TV)",
-  "aired": "10/6/2012",
-  "releaseDate": "Oct 6, 2012",
+  "aired": "10/06/2012",
   "premiered": "FALL 2012",
   "duration": "24m",
   "episodesCount": "26",
@@ -23,9 +22,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "14719",
-  "streamingId": "14719",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -704,5 +700,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:18:44.191Z"
+  "streamingId": "14719",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2012-10-06",
+  "malId": "14719",
+  "_forceSyncTime": 1778770209308
 }
