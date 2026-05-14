@@ -1,10 +1,10 @@
 {
   "title": "The Quintessential Quintuplets",
-  "synopsis": "Uesugi Fuutarou, a high school second-year from a poor family, receives a highly appealing offer to work part-time as a tutor... but his students turn out to be girls from his own class! What's more, they're quintuplets... and all five are beautiful, but happen to be problem students who have borderline grades and hate studying! Looks like his first assignment will be to win all the sisters' trust?! Every day is a wild party in this rom-com centering around the quintuplet sisters of the Nakano household!\n(Source: Crunchyroll)",
+  "synopsis": "Uesugi Fuutarou, a high school second-year from a poor family, receives a highly appealing offer to work part-time as a tutor... but his students turn out to be girls from his own class! What's more, they're quintuplets... and all five are beautiful, but happen to be problem students who have borderline grades and hate studying! Looks like his first assignment will be to win all the sisters' trust?! Every day is a wild party in this rom-com centering around the quintuplet sisters of the Nakano household!\n\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103572-cchriAdH95cQ.png",
   "synonym": "Go-toubun no Hanayome",
   "native": "五等分の花嫁",
-  "aired": "1/11/2019",
+  "aired": "01/11/2019",
   "premiered": "WINTER 2019",
   "duration": "24m",
   "episodesCount": "12",
@@ -16,14 +16,13 @@
   ],
   "rating": "7.5",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Tezuka Productions",
+  "studios": [
+    "Tezuka Productions"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "38101",
-  "streamingId": "103572",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -337,5 +336,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "103572",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2019-01-11",
+  "malId": "38101",
+  "_forceSyncTime": 1778771685978
 }
