@@ -1,10 +1,10 @@
 {
   "title": "High School of the Dead",
-  "synopsis": "The lockers are splattered with blood, the student bodies are piling up and that's not mystery meat they're eating in the cafeteria… it's the faculty! And that's just the start of the worst day of school ever when a nightmarish virus is unleashed, turning humans into flesh eating zombies and converting Fujimi High School into a literal hell on Earth. Now it's a crash course in survival, and the only test or skill that matters is the ability to keep moving, breathing and fighting. Because if nerds, jocks and the surviving staff can't find a way to work together to escape this carnal house of education, they're all going to end up on the menu. And that's assuming there's anyplace safe left to escape to.\n\n(Source: Sentai Filmworks)",
+  "synopsis": "The lockers are splattered with blood, the student bodies are piling up and that's not mystery meat they're eating in the cafeteria… it's the faculty! And that's just the start of the worst day of school ever when a nightmarish virus is unleashed, turning humans into flesh eating zombies and converting Fujimi High School into a literal hell on Earth. Now it's a crash course in survival, and the only test or skill that matters is the ability to keep moving, breathing and fighting. Because if nerds, jocks and the surviving staff can't find a way to work together to escape this carnal house of education, they're all going to end up on the menu. And that's assuming there's anyplace safe left to escape to.\n\n\n\n(Source: Sentai Filmworks)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8074-YB63Ik96fjPj.png",
   "synonym": "Gakuen Mokushiroku: HIGHSCHOOL OF THE DEAD",
   "native": "学園黙示録HIGHSCHOOL OF THE DEAD",
-  "aired": "7/5/2010",
+  "aired": "07/05/2010",
   "premiered": "SUMMER 2010",
   "duration": "24m",
   "episodesCount": "12",
@@ -18,14 +18,13 @@
   ],
   "rating": "6.7",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "MADHOUSE",
+  "studios": [
+    "MADHOUSE"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "8074",
-  "streamingId": "8074",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -339,5 +338,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "8074",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2010-07-05",
+  "malId": "8074",
+  "_forceSyncTime": 1778772178396
 }
