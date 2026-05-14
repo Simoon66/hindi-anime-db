@@ -1,11 +1,10 @@
 {
   "title": "Another",
-  "synopsis": "When Kouichi Sakakibara transfers to a new school, he senses a frightening atmosphere in his new class, a secret none of them will talk about. At the center is the beautiful Mei Misaki. Kouichi is immediately drawn to her mysterious aura, but he begins to realize that no one else in the class is aware of her presence. Soon after his arrival, what is known as the Calamity begins, and it claims the lives of many students.\n\n(Source: Sentai Filmworks)",
+  "synopsis": "When Kouichi Sakakibara transfers to a new school, he senses a frightening atmosphere in his new class, a secret none of them will talk about. At the center is the beautiful Mei Misaki. Kouichi is immediately drawn to her mysterious aura, but he begins to realize that no one else in the class is aware of her presence. Soon after his arrival, what is known as the Calamity begins, and it claims the lives of many students.\n\n\n\n(Source: Sentai Filmworks)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11111-gvvE5bBYsyFo.png",
   "synonym": "Another",
   "native": "アナザー",
-  "aired": "1/10/2012",
-  "releaseDate": "Jan 10, 2012",
+  "aired": "01/10/2012",
   "premiered": "WINTER 2012",
   "duration": "24m",
   "episodesCount": "12",
@@ -25,9 +24,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "11111",
-  "streamingId": "11111",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -342,5 +338,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:22:52.190Z"
+  "streamingId": "11111",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2012-01-10",
+  "malId": "11111",
+  "_forceSyncTime": 1778770892624
 }
