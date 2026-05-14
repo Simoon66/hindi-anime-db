@@ -22,7 +22,43 @@
     "ufotable"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "Season 1",
+      "link": "/2019/04/101922.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101922-WBsBl0ClmgYL.jpg"
+    },
+    {
+      "title": "[Movie] Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+      "link": "/2020/10/112151.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112151-1qlQwPB1RrJe.png"
+    },
+    {
+      "title": "[TV] Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
+      "link": "/2021/10/129874.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129874-g6ZKXB94Hui1.jpg"
+    },
+    {
+      "title": "Season 2",
+      "link": "/2021/12/142329.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142329-kET1PIXJv2eW.jpg"
+    },
+    {
+      "title": "Season 3",
+      "link": "/2023/04/145139.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145139-rRimpHGWLhym.png"
+    },
+    {
+      "title": "Season 4",
+      "link": "/2024/05/166240.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166240-PBV7zukIHW7V.png"
+    },
+    {
+      "title": "Movie Infinity Castle",
+      "link": "/2025/07/178788.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178788-zm3gtpB9TpRt.jpg"
+    }
+  ],
   "episodes": [
     {
       "episode": "1",
