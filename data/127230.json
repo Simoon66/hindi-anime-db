@@ -1,11 +1,10 @@
 {
   "title": "Chainsaw Man",
-  "synopsis": "Denji is a teenage boy living with a Chainsaw Devil named Pochita. Due to the debt his father left behind, he has been living a rock-bottom life while repaying his debt by harvesting devil corpses with Pochita.\nOne day, Denji is betrayed and killed. As his consciousness fades, he makes a contract with Pochita and gets revived as \"Chainsaw Man\" — a man with a devil's heart.\n\n(Source: Crunchyroll)",
+  "synopsis": "Denji is a teenage boy living with a Chainsaw Devil named Pochita. Due to the debt his father left behind, he has been living a rock-bottom life while repaying his debt by harvesting devil corpses with Pochita.\n\n\nOne day, Denji is betrayed and killed. As his consciousness fades, he makes a contract with Pochita and gets revived as \"Chainsaw Man\" — a man with a devil's heart.\n\n\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-DdP4vAdssLoz.png",
   "synonym": "Chainsaw Man",
   "native": "チェンソーマン",
   "aired": "10/12/2022",
-  "releaseDate": "Oct 12, 2022",
   "premiered": "FALL 2022",
   "duration": "25m",
   "episodesCount": "12",
@@ -24,9 +23,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "44511",
-  "streamingId": "127230",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -341,5 +337,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:15:07.189Z"
+  "streamingId": "127230",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2022-10-12",
+  "malId": "44511",
+  "_forceSyncTime": 1778769520506
 }
