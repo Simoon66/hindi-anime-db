@@ -1,11 +1,10 @@
 {
   "title": "Mob Psycho 100",
-  "synopsis": "The story revolves around \"Mob,\" a boy who will explode if his emotional capacity reaches 100%. This boy with psychic powers earned his nickname \"Mob\" because he does not stand out among other people. He keeps his psychic powers bottled up so he can live normally, but if his emotional level reaches 100, something will overwhelm his entire body.\n\n(Source: Anime News Network)",
+  "synopsis": "The story revolves around \"Mob,\" a boy who will explode if his emotional capacity reaches 100%. This boy with psychic powers earned his nickname \"Mob\" because he does not stand out among other people. He keeps his psychic powers bottled up so he can live normally, but if his emotional level reaches 100, something will overwhelm his entire body.\n\n\n\n(Source: Anime News Network)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
   "synonym": "Mob Psycho 100",
   "native": "モブサイコ100",
-  "aired": "7/12/2016",
-  "releaseDate": "Jul 12, 2016",
+  "aired": "07/12/2016",
   "premiered": "SUMMER 2016",
   "duration": "24m",
   "episodesCount": "12",
@@ -26,9 +25,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "32182",
-  "streamingId": "21507",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -343,5 +339,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:14:54.197Z"
+  "streamingId": "21507",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2016-07-12",
+  "malId": "32182",
+  "_forceSyncTime": 1778769478200
 }
