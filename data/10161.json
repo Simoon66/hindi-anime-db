@@ -1,15 +1,13 @@
 {
   "title": "No.6",
-  "synopsis": "In a near future world, after the last great war, most of mankind lives in a handful of city states. There, for the privileged elite, life should be perfect. But for young Shion, the only thing perfect has been the nightmare his life has become since letting a strange boy called Rat spend the night in his apartment.\nBanished to the outskirts of the city and stripped of all privileges for helping the mysterious stranger who has since disappeared, Shion now finds himself in even worse danger as his inquiry into a new series of mysterious deaths results in his being arrested on suspicion of murder! \nBut even as Shion is being sent to the city's Correctional Institute, the long-missing Rat reappears to rescue him! Now on the run, the two young men have only one chance at survival: uncover the mysterious secrets that lie at the sinister heart of No. 6!\n(Source: RightStuf)",
+  "synopsis": "In a near future world, after the last great war, most of mankind lives in a handful of city states. There, for the privileged elite, life should be perfect. But for young Shion, the only thing perfect has been the nightmare his life has become since letting a strange boy called Rat spend the night in his apartment.\n\n\nBanished to the outskirts of the city and stripped of all privileges for helping the mysterious stranger who has since disappeared, Shion now finds himself in even worse danger as his inquiry into a new series of mysterious deaths results in his being arrested on suspicion of murder! \n\n\nBut even as Shion is being sent to the city's Correctional Institute, the long-missing Rat reappears to rescue him! Now on the run, the two young men have only one chance at survival: uncover the mysterious secrets that lie at the sinister heart of No. 6!\n\n\n(Source: RightStuf)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10161-iJAey1M4zFrX.jpg",
   "synonym": "NO.6",
   "native": "NO.6",
-  "aired": "7/8/2011",
-  "releaseDate": "Jul 8, 2011",
+  "aired": "07/08/2011",
   "premiered": "SUMMER 2011",
   "duration": "23m",
   "episodesCount": "11",
-  "totalEpisodes": 11,
   "genres": [
     "Action",
     "Drama",
@@ -25,9 +23,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "10161",
-  "streamingId": "10161",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -316,5 +311,9 @@
       ]
     }
   ],
-  "_forceSyncTime": 1778540644344
+  "streamingId": "10161",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2011-07-08",
+  "malId": "10161",
+  "_forceSyncTime": 1778782253906
 }
