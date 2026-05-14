@@ -345,11 +345,6 @@
       "files": [
         {
           "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101168/13/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101168/13/dub",
           "type": "dub"
         },
@@ -378,11 +373,6 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101168/14/dub",
           "type": "dub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/37345/14/sub",
-          "type": "sub"
         },
         {
           "name": "HD-2",
@@ -656,5 +646,5 @@
   "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2020-01-09",
   "malId": "37345",
-  "_forceSyncTime": 1778769586223
+  "_forceSyncTime": 1778770727024
 }
