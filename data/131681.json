@@ -1,11 +1,10 @@
 {
   "title": "Attack on Titan Final Season Part 2",
-  "synopsis": "The war for Paradis zeroes in on Shiganshina just as Jaegerists have seized control. After taking a huge blow from a surprise attack led by Eren, Marley swiftly acts to return the favor. With Zeke’s true plan revealed and a military forced under new rule, this battle might be fought on two fronts. Does Eren intend on fulfilling his half-brother’s wishes or does he have a plan of his own?\n\n(Source: Funimation)",
+  "synopsis": "The war for Paradis zeroes in on Shiganshina just as Jaegerists have seized control. After taking a huge blow from a surprise attack led by Eren, Marley swiftly acts to return the favor. With Zeke’s true plan revealed and a military forced under new rule, this battle might be fought on two fronts. Does Eren intend on fulfilling his half-brother’s wishes or does he have a plan of his own?\n\n\n\n(Source: Funimation)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131681-5ooUqvqNtee1.jpg",
   "synonym": "Shingeki no Kyojin: The Final Season Part 2",
   "native": "進撃の巨人 The Final Season Part 2",
-  "aired": "1/10/2022",
-  "releaseDate": "Jan 10, 2022",
+  "aired": "01/10/2022",
   "premiered": "WINTER 2022",
   "duration": "24m",
   "episodesCount": "12",
@@ -25,9 +24,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "48583",
-  "streamingId": "131681",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -342,5 +338,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:20:50.189Z"
+  "streamingId": "131681",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2022-01-10",
+  "malId": "48583",
+  "_forceSyncTime": 1778770577975
 }
