@@ -1,11 +1,10 @@
 {
   "title": "My Hero Academia Season 5",
-  "synopsis": "The rivalry between Class 1-A and Class 1-B heats up in a joint training battle. Eager to be a part of the hero course, brainwashing buff Shinso is tasked with competing on both sides.\n\nBut as each team faces their own weaknesses and discovers new strengths, this showdown might just become a toss-up.\n(Source: Funimation)",
+  "synopsis": "The rivalry between Class 1-A and Class 1-B heats up in a joint training battle. Eager to be a part of the hero course, brainwashing buff Shinso is tasked with competing on both sides.\n\n\n\nBut as each team faces their own weaknesses and discovers new strengths, this showdown might just become a toss-up.\n\n\n(Source: Funimation)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117193-E75BlZmDh1aB.jpg",
   "synonym": "Boku no Hero Academia 5",
   "native": "僕のヒーローアカデミア５",
-  "aired": "3/27/2021",
-  "releaseDate": "Mar 27, 2021",
+  "aired": "03/27/2021",
   "premiered": "SPRING 2021",
   "duration": "24m",
   "episodesCount": "25",
@@ -24,9 +23,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "41587",
-  "streamingId": "117193",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -679,5 +675,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:21:31.198Z"
+  "streamingId": "117193",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2021-03-27",
+  "malId": "41587",
+  "_forceSyncTime": 1778770684197
 }
