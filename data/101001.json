@@ -1,15 +1,13 @@
 {
   "title": "Asobi Asobase - workshop of fun -",
-  "synopsis": "Olivia is a blonde-haired beauty who was born and raised in Japan, but can’t speak any English. Despite always acting serious and as an intellectual, Kasumi is a bespectacled girl with short hair, who also can’t speak English. Finally, there’s the pig-tailed Hanako, who’s cheerful but can’t seem to become a normie. The three middle schoolers end up making a “Players’ Club”?! The ultimately cute, ultimately fun and hilarious teenage girls’ comedy is about to begin!\n\n(Source: Crunchyroll)",
+  "synopsis": "Olivia is a blonde-haired beauty who was born and raised in Japan, but can’t speak any English. Despite always acting serious and as an intellectual, Kasumi is a bespectacled girl with short hair, who also can’t speak English. Finally, there’s the pig-tailed Hanako, who’s cheerful but can’t seem to become a normie. The three middle schoolers end up making a “Players’ Club”?! The ultimately cute, ultimately fun and hilarious teenage girls’ comedy is about to begin!\n\n\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101001-UERCW0UGi0P7.jpg",
   "synonym": "Asobi Asobase",
   "native": "あそびあそばせ",
-  "aired": "7/8/2018",
-  "releaseDate": "Jul 8, 2018",
+  "aired": "07/08/2018",
   "premiered": "SUMMER 2018",
   "duration": "24m",
   "episodesCount": "12",
-  "totalEpisodes": 12,
   "genres": [
     "Comedy",
     "Slice of Life"
@@ -23,9 +21,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "37171",
-  "streamingId": "101001",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -260,5 +255,9 @@
       ]
     }
   ],
-  "_forceSyncTime": 1778540655728
+  "streamingId": "101001",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2018-07-08",
+  "malId": "37171",
+  "_forceSyncTime": 1778769515849
 }
