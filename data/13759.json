@@ -1,10 +1,10 @@
 {
   "title": "The Pet Girl of Sakurasou",
-  "synopsis": "The first time he saw her, it was love at first sight. Unfortunately for Sorata Kanda, \"she\" was a cat named Hikari and his school's rules forbid keeping pets in the regular dorms. As a result, Sorata is banished to the infamous Sakura Hall alongside other troublesome and unusual students like Jin, overzealous playboy, Ryuunosuke, the reclusive hermit, and Mashiro, a brilliant artist who's so unfocused and clueless about the real world that dorm supervisor Ms. Sengoku assigns Sorata the task of taking care of her along with his ever-growing collection of stray cats!\n\n(Source: Sentai Filmworks) ",
+  "synopsis": "The first time he saw her, it was love at first sight. Unfortunately for Sorata Kanda, \"she\" was a cat named Hikari and his school's rules forbid keeping pets in the regular dorms. As a result, Sorata is banished to the infamous Sakura Hall alongside other troublesome and unusual students like Jin, overzealous playboy, Ryuunosuke, the reclusive hermit, and Mashiro, a brilliant artist who's so unfocused and clueless about the real world that dorm supervisor Ms. Sengoku assigns Sorata the task of taking care of her along with his ever-growing collection of stray cats!\n\n\n\n(Source: Sentai Filmworks) ",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13759-xNf0gJK4Axt2.jpg",
   "synonym": "Sakurasou no Pet na Kanojo",
   "native": "さくら荘のペットな彼女",
-  "aired": "10/9/2012",
+  "aired": "10/09/2012",
   "premiered": "FALL 2012",
   "duration": "24m",
   "episodesCount": "24",
@@ -16,14 +16,13 @@
   ],
   "rating": "7.8",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "J.C.STAFF",
+  "studios": [
+    "J.C.STAFF"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "13759",
-  "streamingId": "13759",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -649,5 +648,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "13759",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2012-10-09",
+  "malId": "13759",
+  "_forceSyncTime": 1778772295696
 }
