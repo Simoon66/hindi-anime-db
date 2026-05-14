@@ -27,7 +27,33 @@
     "Sumzap",
     "Mainichi Broadcasting System"
   ],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "JUJUTSU KAISEN 0 Movie",
+      "link": "/2021/12/131573.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131573-rpl82vDEDRm6.jpg"
+    },
+    {
+      "title": "Season 1",
+      "link": "/2020/10/113415.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg"
+    },
+    {
+      "title": "Season 2",
+      "link": "/2023/07/145064.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-hSNRJM03pvv1.jpg"
+    },
+    {
+      "title": "Movie",
+      "link": "/2025/05/192809.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192809-wRlqABGsx2Qs.jpg"
+    },
+    {
+      "title": "Season 3 (Part 1)",
+      "link": "/2026/01/172463.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172463-LnXqHzt74SJL.jpg"
+    }
+  ],
   "episodes": [
     {
       "title": "Execution",
@@ -52,6 +78,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/57658/1/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/7c581b412887d3ddcf188128ec7d7cd5",
+          "type": "multi"
         }
       ]
     },
@@ -78,6 +109,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/57658/2/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/00e53a7bf746f90a6700232281a0a6d0",
+          "type": "multi"
         }
       ]
     },
@@ -104,6 +140,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/57658/3/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/aa34ac274b2e734f35fe9a94b813ba3d",
+          "type": "multi"
         }
       ]
     },
@@ -130,6 +171,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/57658/4/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/571dea3eb9d4d24c6194ef17c91cda79",
+          "type": "multi"
         }
       ]
     },
@@ -156,6 +202,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/57658/5/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/64926740435be6cbcd331ab8cb0bb0c0",
+          "type": "multi"
         }
       ]
     },
@@ -182,6 +233,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/57658/6/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/4682ba60cfd9bdbc779fa633fa3218d5",
+          "type": "multi"
         }
       ]
     },
@@ -208,6 +264,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/57658/7/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/eb4f335eb073875d0faca60ca65d2b5f",
+          "type": "multi"
         }
       ]
     },
@@ -234,6 +295,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/57658/8/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/ec6b45e6329906a0068a8772960c6a60",
+          "type": "multi"
         }
       ]
     },
@@ -260,6 +326,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/57658/9/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/5a78f1d526e0a3c8b4f759968b660b8c",
+          "type": "multi"
         }
       ]
     },
@@ -286,6 +357,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/57658/10/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/e748acf9e03703dc3c545e07eabac62d",
+          "type": "multi"
         }
       ]
     },
@@ -312,6 +388,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/57658/11/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/37aa66e8794da1302fecd980928e950a",
+          "type": "multi"
         }
       ]
     },
@@ -338,6 +419,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/57658/12/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/c16117de1309f508633dae03c0804a0b",
+          "type": "multi"
         }
       ]
     }
