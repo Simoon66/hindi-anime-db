@@ -1,10 +1,10 @@
 {
   "title": "The Seven Deadly Sins: Revival of the Commandments",
-  "synopsis": "Melodias, Hawk, and Elizabeth retook the Kingdom of Leones from the Holy Knights. The festival went off without a hitch and the crew enjoyed their well-earned peace. And yet, another threat looms on the horizon. The Ten Commandments, a group of elite demon clan warriors, have their sights set on the kingdom.\n\n(Source: Anime News Network)",
+  "synopsis": "Melodias, Hawk, and Elizabeth retook the Kingdom of Leones from the Holy Knights. The festival went off without a hitch and the crew enjoyed their well-earned peace. And yet, another threat looms on the horizon. The Ten Commandments, a group of elite demon clan warriors, have their sights set on the kingdom.\n\n\n\n(Source: Anime News Network)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99539-caPX28RSsgRP.jpg",
   "synonym": "Nanatsu no Taizai: Imashime no Fukkatsu",
   "native": "七つの大罪 戒めの復活",
-  "aired": "1/13/2018",
+  "aired": "01/13/2018",
   "premiered": "WINTER 2018",
   "duration": "25m",
   "episodesCount": "24",
@@ -18,14 +18,13 @@
   ],
   "rating": "7.3",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "A-1 Pictures",
+  "studios": [
+    "A-1 Pictures"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "34577",
-  "streamingId": "99539",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -651,5 +650,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "99539",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2018-01-13",
+  "malId": "34577",
+  "_forceSyncTime": 1778772116910
 }
