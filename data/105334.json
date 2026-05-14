@@ -1,10 +1,10 @@
 {
   "title": "Fruits Basket (2019)",
-  "synopsis": "Tohru Honda thought her life was headed for misfortune when a family tragedy left her living in a tent. When her small home is discovered by the mysterious Soma clan, she suddenly finds herself living with Yuki, Kyo, and Shigure Soma. But she quickly learns their family has a bizarre secret of their own: when hugged by the opposite sex, they turn into the animals of the Zodiac!\n\n(Source: Crunchyroll)",
+  "synopsis": "Tohru Honda thought her life was headed for misfortune when a family tragedy left her living in a tent. When her small home is discovered by the mysterious Soma clan, she suddenly finds herself living with Yuki, Kyo, and Shigure Soma. But she quickly learns their family has a bizarre secret of their own: when hugged by the opposite sex, they turn into the animals of the Zodiac!\n\n\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105334-AZwEdMu4KFtV.jpg",
   "synonym": "Fruits Basket: 1st Season",
   "native": "フルーツバスケット 1st Season",
-  "aired": "4/6/2019",
+  "aired": "04/06/2019",
   "premiered": "SPRING 2019",
   "duration": "24m",
   "episodesCount": "25",
@@ -17,14 +17,13 @@
   ],
   "rating": "8.2",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "TMS Entertainment",
+  "studios": [
+    "TMS Entertainment"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "38680",
-  "streamingId": "105334",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -676,5 +675,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "105334",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2019-04-06",
+  "malId": "38680",
+  "_forceSyncTime": 1778771744151
 }
