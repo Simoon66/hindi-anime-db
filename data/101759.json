@@ -32,11 +32,6 @@
       "files": [
         {
           "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101759/1/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101759/1/dub",
           "type": "dub"
         },
@@ -343,5 +338,5 @@
   "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2019-01-10",
   "malId": "37779",
-  "_forceSyncTime": 1778769436230
+  "_forceSyncTime": 1778782942357
 }
