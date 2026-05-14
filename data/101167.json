@@ -1,15 +1,13 @@
 {
   "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? II",
-  "synopsis": "The second season of Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka.\n\nThere's rarely a dull moment when you're the champion of a tiny Familia, and things only get rougher for Bell when the God Apollo declares war on Hestia and her followers. With Apollo's Familia able to field a hundred times as many men, Hestia will have to work a lot of favors to keep her Familia from being completely destroyed.\n\nEven if Bell and Hestia manage to pull off the impossible, a major debt that Hestia owes is about to come due and Lili's sordid past comes back to haunt her! Which means that when Bell and his friends come to Lili's aid, it sets into motion yet another impending clash of the titans that may destroy everything!\n\n(Source: Sentai Filmworks)",
+  "synopsis": "The second season of Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka.\n\n\n\nThere's rarely a dull moment when you're the champion of a tiny Familia, and things only get rougher for Bell when the God Apollo declares war on Hestia and her followers. With Apollo's Familia able to field a hundred times as many men, Hestia will have to work a lot of favors to keep her Familia from being completely destroyed.\n\n\n\nEven if Bell and Hestia manage to pull off the impossible, a major debt that Hestia owes is about to come due and Lili's sordid past comes back to haunt her! Which means that when Bell and his friends come to Lili's aid, it sets into motion yet another impending clash of the titans that may destroy everything!\n\n\n\n(Source: Sentai Filmworks)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101167-Yasvj97UR9ue.png",
   "synonym": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
   "native": "ダンジョンに出会いを求めるのは間違っているだろうかⅡ",
-  "aired": "7/13/2019",
-  "releaseDate": "Jul 13, 2019",
+  "aired": "07/13/2019",
   "premiered": "SUMMER 2019",
   "duration": "24m",
   "episodesCount": "12",
-  "totalEpisodes": 12,
   "genres": [
     "Action",
     "Adventure",
@@ -26,9 +24,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "37347",
-  "streamingId": "101167",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -343,5 +338,9 @@
       ]
     }
   ],
-  "_forceSyncTime": 1778540683358
+  "streamingId": "101167",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2019-07-13",
+  "malId": "37347",
+  "_forceSyncTime": 1778769570338
 }
