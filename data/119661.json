@@ -1,10 +1,10 @@
 {
   "title": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
-  "synopsis": "After learning more behind the Death Loop and Witches of Sin, Subaru vows to save Emilia and his friends from further doom.\n\n(Source: Crunchyroll)",
+  "synopsis": "After learning more behind the Death Loop and Witches of Sin, Subaru vows to save Emilia and his friends from further doom.\n\n\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119661-GDbUZxrZMz01.png",
   "synonym": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
   "native": "Re:ゼロから始める異世界生活 2nd Season Part 2",
-  "aired": "1/6/2021",
+  "aired": "01/06/2021",
   "premiered": "WINTER 2021",
   "duration": "30m",
   "episodesCount": "12",
@@ -19,14 +19,13 @@
   ],
   "rating": "8.4",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "WHITE FOX",
+  "studios": [
+    "WHITE FOX"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "42203",
-  "streamingId": "119661",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -340,5 +339,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "119661",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2021-01-06",
+  "malId": "42203",
+  "_forceSyncTime": 1778771951404
 }
