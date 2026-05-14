@@ -1,10 +1,10 @@
 {
   "title": "Happy Sugar Life",
-  "synopsis": "Satou Matsuzaka is a beautiful high schooler who has a reputation for being permissive with men. However, a chance encounter with a young girl named Shio Koube makes Satou realize that this is her first and only true feeling of love. Telling others that she lives with her aunt, Satou secretly shares an apartment with Shio. Despite her innocent appearance, Satou is willing to do anything to protect her beloved, resorting to desperate measures to ensure that their \"happy sugar life\" remains intact. (Source: MAL Rewrite)",
+  "synopsis": "Satou Matsuzaka is a beautiful high schooler who has a reputation for being permissive with men. However, a chance encounter with a young girl named Shio Koube makes Satou realize that this is her first and only true feeling of love. Telling others that she lives with her aunt, Satou secretly shares an apartment with Shio. Despite her innocent appearance, Satou is willing to do anything to protect her beloved, resorting to desperate measures to ensure that their \"happy sugar life\" remains intact. \n\n(Source: MAL Rewrite)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101351-TWLbnRdE1tBI.jpg",
   "synonym": "Happy Sugar Life",
   "native": "ハッピーシュガーライフ",
-  "aired": "7/14/2018",
+  "aired": "07/14/2018",
   "premiered": "SUMMER 2018",
   "duration": "24m",
   "episodesCount": "12",
@@ -17,14 +17,13 @@
   ],
   "rating": "6.5",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Ezo’la",
+  "studios": [
+    "Ezo’la"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "37517",
-  "streamingId": "101351",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -60,11 +59,6 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101351/2/sub",
           "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101351/2/dub",
-          "type": "dub"
         },
         {
           "name": "HD-2",
@@ -338,5 +332,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "101351",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2018-07-14",
+  "malId": "37517",
+  "_forceSyncTime": 1778772031779
 }
