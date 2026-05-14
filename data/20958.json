@@ -1,15 +1,13 @@
 {
   "title": "Attack on Titan Season 2",
-  "synopsis": "Eren Jaeger swore to wipe out every last Titan, but in a battle for his life he wound up becoming the thing he hates most. With his new powers, he fights for humanity's freedom facing the monsters that threaten his home. After a bittersweet victory against the Female Titan, Eren finds no time to rest—a horde of Titans is approaching Wall Rose and the battle for humanity continues!\n\n(Source: Funimation)",
+  "synopsis": "Eren Jaeger swore to wipe out every last Titan, but in a battle for his life he wound up becoming the thing he hates most. With his new powers, he fights for humanity's freedom facing the monsters that threaten his home. After a bittersweet victory against the Female Titan, Eren finds no time to rest—a horde of Titans is approaching Wall Rose and the battle for humanity continues!\n\n\n\n(Source: Funimation)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20958-HuFJyr54Mmir.jpg",
   "synonym": "Shingeki no Kyojin Season 2",
   "native": "進撃の巨人 Season２",
-  "aired": "4/1/2017",
-  "releaseDate": "Apr 1, 2017",
+  "aired": "04/01/2017",
   "premiered": "SPRING 2017",
   "duration": "25m",
   "episodesCount": "12",
-  "totalEpisodes": 12,
   "genres": [
     "Action",
     "Drama",
@@ -25,9 +23,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "25777",
-  "streamingId": "20958",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -146,16 +141,6 @@
       "title": "The Hunters",
       "files": [
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/20958/8/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/20958/8/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/25777/8/sub",
           "type": "sub"
@@ -272,5 +257,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T22:55:54.158Z"
+  "streamingId": "20958",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2017-04-01",
+  "malId": "25777",
+  "_forceSyncTime": 1778769247376
 }
