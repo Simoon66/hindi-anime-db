@@ -4,8 +4,7 @@
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101347-TGaDwEYqLfm1.jpg",
   "synonym": "Dororo",
   "native": "どろろ",
-  "aired": "1/7/2019",
-  "releaseDate": "Jan 7, 2019",
+  "aired": "01/07/2019",
   "premiered": "WINTER 2019",
   "duration": "24m",
   "episodesCount": "24",
@@ -28,9 +27,6 @@
     "Sentai Filmworks"
   ],
   "seasons": [],
-  "malId": "37520",
-  "streamingId": "101347",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -657,5 +653,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:23:30.195Z"
+  "streamingId": "101347",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2019-01-07",
+  "malId": "37520",
+  "_forceSyncTime": 1778770993131
 }
