@@ -23,7 +23,13 @@
     "CloverWorks"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154768-DHHvNd4MjV1p.jpg",
+      "link": "/2025/07/154768.html"
+    }
+  ],
   "malId": "48736",
   "streamingId": "132405",
   "hostUrl": "https://megaplay.buzz/stream/ani",
