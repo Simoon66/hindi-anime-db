@@ -1,6 +1,6 @@
 {
   "title": "The Apothecary Diaries",
-  "synopsis": "Maomao lived a peaceful life with her apothecary father. Until one day, she’s sold as a lowly servant to the emperor’s palace. But she wasn’t meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she’s making a name for herself solving medical mysteries!\n\n(Source: Crunchyroll)",
+  "synopsis": "Maomao lived a peaceful life with her apothecary father. Until one day, she’s sold as a lowly servant to the emperor’s palace. But she wasn’t meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she’s making a name for herself solving medical mysteries!\n\n\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-QLbzHXiYRgV2.jpg",
   "synonym": "Kusuriya no Hitorigoto",
   "native": "薬屋のひとりごと",
@@ -14,14 +14,14 @@
   ],
   "rating": "8.8",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "OLM",
+  "studios": [
+    "OLM",
+    "TOHO animation STUDIO"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "54492",
-  "streamingId": "161645",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -647,5 +647,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "161645",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2023-10-22",
+  "malId": "54492",
+  "_forceSyncTime": 1778771864892
 }
