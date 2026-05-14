@@ -1,15 +1,13 @@
 {
   "title": "Cowboy Bebop",
-  "synopsis": "Enter a world in the distant future, where Bounty Hunters roam the solar system. Spike and Jet, bounty hunting partners, set out on journeys in an ever struggling effort to win bounty rewards to survive.\nWhile traveling, they meet up with other very interesting people. Could Faye, the beautiful and ridiculously poor gambler, Edward, the computer genius, and Ein, the engineered dog be a good addition to the group?",
+  "synopsis": "Enter a world in the distant future, where Bounty Hunters roam the solar system. Spike and Jet, bounty hunting partners, set out on journeys in an ever struggling effort to win bounty rewards to survive.\n\n\nWhile traveling, they meet up with other very interesting people. Could Faye, the beautiful and ridiculously poor gambler, Edward, the computer genius, and Ein, the engineered dog be a good addition to the group?",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1-GCsPm7waJ4kS.png",
   "synonym": "Cowboy Bebop",
   "native": "カウボーイビバップ",
-  "aired": "4/3/1998",
-  "releaseDate": "Apr 3, 1998",
+  "aired": "04/03/1998",
   "premiered": "SPRING 1998",
   "duration": "24m",
   "episodesCount": "26",
-  "totalEpisodes": 26,
   "genres": [
     "Action",
     "Adventure",
@@ -25,9 +23,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "1",
-  "streamingId": "1",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "episodes": [
     {
       "episode": "1",
@@ -706,5 +701,9 @@
       ]
     }
   ],
-  "_forceSyncTime": 1778587505993
+  "streamingId": "1",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "1998-04-03",
+  "malId": "1",
+  "_forceSyncTime": 1778768470203
 }
