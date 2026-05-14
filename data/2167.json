@@ -1,10 +1,10 @@
 {
   "title": "Clannad",
-  "synopsis": "Tomoya is a bitter, third year high school student. His mother passed away, causing his father to resort to alcohol and gambling. Tomoya is distant with his father and has become a delinquent in the years since his mother's death. Walking to school, he meets Nagisa Furukawa who is a year older but is repeating the grade due to illness. She is alone, as most of her friends have moved on. The two begin hanging out, and as time goes by, Tomoya finds his life shifting in a new direction.\n\n(Source: Sentai Filmworks)",
+  "synopsis": "Tomoya is a bitter, third year high school student. His mother passed away, causing his father to resort to alcohol and gambling. Tomoya is distant with his father and has become a delinquent in the years since his mother's death. Walking to school, he meets Nagisa Furukawa who is a year older but is repeating the grade due to illness. She is alone, as most of her friends have moved on. The two begin hanging out, and as time goes by, Tomoya finds his life shifting in a new direction.\n\n\n\n(Source: Sentai Filmworks)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2167-pSDBcyc0vjej.jpg",
   "synonym": "CLANNAD",
   "native": "ＣＬＡＮＮＡＤ -クラナド-",
-  "aired": "10/5/2007",
+  "aired": "10/05/2007",
   "premiered": "FALL 2007",
   "duration": "24m",
   "episodesCount": "23",
@@ -17,14 +17,13 @@
   ],
   "rating": "7.7",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Kyoto Animation",
+  "studios": [
+    "Kyoto Animation"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "2167",
-  "streamingId": "2167",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -624,5 +623,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "2167",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2007-10-05",
+  "malId": "2167",
+  "_forceSyncTime": 1778771919134
 }
