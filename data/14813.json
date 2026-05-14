@@ -1,11 +1,10 @@
 {
   "title": "My Teen Romantic Comedy SNAFU",
-  "synopsis": "This romantic comedy revolves around an antisocial high school student named Hikigaya Hachiman with a distorted view on life and no friends or girlfriend. When he sees his classmates talking excitedly about living their adolescent lives, he mutters: \"They're a bunch of liars.\" When he is asked about his future dreams, he responds: \"Not working.\" A teacher gets Hachiman to join the 'Volunteer Service' club, which happens to have the school's prettiest girl: Yukinoshita Yukino.\n(Source: Anime News Network)",
+  "synopsis": "This romantic comedy revolves around an antisocial high school student named Hikigaya Hachiman with a distorted view on life and no friends or girlfriend. When he sees his classmates talking excitedly about living their adolescent lives, he mutters: \"They're a bunch of liars.\" When he is asked about his future dreams, he responds: \"Not working.\" A teacher gets Hachiman to join the 'Volunteer Service' club, which happens to have the school's prettiest girl: Yukinoshita Yukino.\n\n\n(Source: Anime News Network)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14813-3mNvcKNEQcDs.jpg",
   "synonym": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
   "native": "やはり俺の青春ラブコメはまちがっている。",
-  "aired": "4/5/2013",
-  "releaseDate": "Apr 5, 2013",
+  "aired": "04/05/2013",
   "premiered": "SPRING 2013",
   "duration": "24m",
   "episodesCount": "13",
@@ -24,9 +23,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "14813",
-  "streamingId": "14813",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -367,5 +363,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:23:10.191Z"
+  "streamingId": "14813",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2013-04-05",
+  "malId": "14813",
+  "_forceSyncTime": 1778770941252
 }
