@@ -1,10 +1,10 @@
 {
   "title": "Bunny Drop",
-  "synopsis": "Going home from his grandfather's funeral, thirty-year-old Daikichi is floored to discover that the old man had an illegitimate child with a younger lover. The rest of his family is equally shocked and embarrassed by this surprise development, and not one of them wants anything to do with the silent little girl, Rin Kaga. In a fit of anger, Daikichi decides to take her in himself. As Daikichi nurtures Rin, he started to understand the struggle while at the same time the joy of parenting.\n\n(Source: Anime News Network)",
+  "synopsis": "Going home from his grandfather's funeral, thirty-year-old Daikichi is floored to discover that the old man had an illegitimate child with a younger lover. The rest of his family is equally shocked and embarrassed by this surprise development, and not one of them wants anything to do with the silent little girl, Rin Kaga. In a fit of anger, Daikichi decides to take her in himself. As Daikichi nurtures Rin, he started to understand the struggle while at the same time the joy of parenting.\n\n\n\n(Source: Anime News Network)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10162-w4SG5oQSQwMn.jpg",
   "synonym": "Usagi Drop",
   "native": "うさぎドロップ",
-  "aired": "7/8/2011",
+  "aired": "07/08/2011",
   "premiered": "SUMMER 2011",
   "duration": "22m",
   "episodesCount": "11",
@@ -13,14 +13,13 @@
   ],
   "rating": "8.1",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Production I.G",
+  "studios": [
+    "Production I.G"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "10162",
-  "streamingId": "10162",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -308,5 +307,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "10162",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2011-07-08",
+  "malId": "10162",
+  "_forceSyncTime": 1778782378347
 }
