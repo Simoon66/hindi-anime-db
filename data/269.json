@@ -1,11 +1,10 @@
 {
   "title": "Bleach",
-  "synopsis": "Ichigo Kurosaki is a rather normal high school student apart from the fact he has the ability to see ghosts. This ability never impacted his life in a major way until the day he encounters the Shinigami Kuchiki Rukia, who saves him and his family's lives from a Hollow, a corrupt spirit that devours human souls. \n\nWounded during the fight against the Hollow, Rukia chooses the only option available to defeat the monster and passes her Shinigami powers to Ichigo. Now forced to act as a substitute until Rukia recovers, Ichigo hunts down the Hollows that plague his town. \n\n\n",
+  "synopsis": "Ichigo Kurosaki is a rather normal high school student apart from the fact he has the ability to see ghosts. This ability never impacted his life in a major way until the day he encounters the Shinigami Kuchiki Rukia, who saves him and his family's lives from a Hollow, a corrupt spirit that devours human souls. \n\n\n\nWounded during the fight against the Hollow, Rukia chooses the only option available to defeat the monster and passes her Shinigami powers to Ichigo. Now forced to act as a substitute until Rukia recovers, Ichigo hunts down the Hollows that plague his town. \n\n\n",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
   "synonym": "BLEACH",
   "native": "BLEACH",
-  "aired": "10/5/2004",
-  "releaseDate": "Oct 5, 2004",
+  "aired": "10/05/2004",
   "premiered": "FALL 2004",
   "duration": "24m",
   "episodesCount": "366",
@@ -23,9 +22,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "269",
-  "streamingId": "269",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -9544,5 +9540,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:18:04.248Z"
+  "streamingId": "269",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2004-10-05",
+  "malId": "269",
+  "_forceSyncTime": 1778770077829
 }
