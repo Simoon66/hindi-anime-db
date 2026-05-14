@@ -1,15 +1,13 @@
 {
   "title": "Plunderer",
-  "synopsis": "Every human inhabiting the world of Alcia is branded by a “Count” or a number written on their body. Depending on how each person lives their life, this Count either goes up or down. For Hina’s mother, her total drops to 0 and she’s pulled into the Abyss, never to be seen again. But her mother’s last words send Hina on a quest to find a legendary hero from the Waste War—the fabled Ace!\n\n(Source: Funimation)",
+  "synopsis": "Every human inhabiting the world of Alcia is branded by a “Count” or a number written on their body. Depending on how each person lives their life, this Count either goes up or down. For Hina’s mother, her total drops to 0 and she’s pulled into the Abyss, never to be seen again. But her mother’s last words send Hina on a quest to find a legendary hero from the Waste War—the fabled Ace!\n\n\n\n(Source: Funimation)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101168-LY3XA61byAVo.jpg",
   "synonym": "Plunderer",
   "native": "プランダラ",
-  "aired": "1/9/2020",
-  "releaseDate": "Jan 9, 2020",
+  "aired": "01/09/2020",
   "premiered": "WINTER 2020",
   "duration": "23m",
   "episodesCount": "24",
-  "totalEpisodes": 24,
   "genres": [
     "Action",
     "Adventure",
@@ -28,9 +26,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "37345",
-  "streamingId": "101168",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -657,5 +652,9 @@
       ]
     }
   ],
-  "_forceSyncTime": 1778540694799
+  "streamingId": "101168",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2020-01-09",
+  "malId": "37345",
+  "_forceSyncTime": 1778769586223
 }
