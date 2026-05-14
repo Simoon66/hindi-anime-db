@@ -1,15 +1,13 @@
 {
   "title": "Sword Art Online: Alicization",
-  "synopsis": "Kirito awakens in a vast, fantastical forest filled with towering trees. In his search for clues to the truth of his surroundings, he encounters a young boy who seems to know him. He ought to be a simple NPC, but the depth of his emotions seem no different than a human. As they search for the boy's parents, Kirito finds a peculiar memory returning to him. A memory from his own childhood, of this boy and a girl, too, with golden hair, and a name he should have never forgotten - Alice.\n\n(Source: Yen Press)\n\nNote: The first episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.",
+  "synopsis": "Kirito awakens in a vast, fantastical forest filled with towering trees. In his search for clues to the truth of his surroundings, he encounters a young boy who seems to know him. He ought to be a simple NPC, but the depth of his emotions seem no different than a human. As they search for the boy's parents, Kirito finds a peculiar memory returning to him. A memory from his own childhood, of this boy and a girl, too, with golden hair, and a name he should have never forgotten - Alice.\n\n\n\n(Source: Yen Press)\n\n\n\nNote: The first episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100182-KctPmCJ2smHQ.jpg",
   "synonym": "Sword Art Online: Alicization",
   "native": "ソードアート・オンライン アリシゼーション",
-  "aired": "10/7/2018",
-  "releaseDate": "Oct 7, 2018",
+  "aired": "10/07/2018",
   "premiered": "FALL 2018",
   "duration": "24m",
   "episodesCount": "24",
-  "totalEpisodes": 24,
   "genres": [
     "Action",
     "Adventure",
@@ -24,9 +22,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "36474",
-  "streamingId": "100182",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -653,5 +648,9 @@
       ]
     }
   ],
-  "_forceSyncTime": 1778540496498
+  "streamingId": "100182",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2018-10-07",
+  "malId": "36474",
+  "_forceSyncTime": 1778772055801
 }
