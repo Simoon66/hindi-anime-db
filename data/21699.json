@@ -1,11 +1,10 @@
 {
   "title": "KONOSUBA -God's blessing on this wonderful world! 2",
-  "synopsis": "When Kazuma Satou died, he was given two choices: pass on to heaven or be revived in a fantasy world. After choosing the new world, the goddess Aqua tasked him with defeating the Demon King, and let him choose any weapon to aid him. Unfortunately, Kazuma chose to bring Aqua herself and has regretted the decision ever since then.\n\nNot only is he stuck with a useless deity turned party archpriest, the pair also has to make enough money for living expenses. To add to their problems, their group continued to grow as more problematic adventurers joined their ranks. Their token spellcaster, Megumin, is an explosion magic specialist who can only cast one spell once per day and refuses to learn anything else. There is also their stalwart crusader, Lalatina \"Darkness\" Dustiness Ford, a helpless masochist who makes Kazuma look pure in comparison.\n\nKono Subarashii Sekai ni Shukufuku wo! 2 continues to follow Kazuma and the rest of his party through countless more adventures as they struggle to earn money and have to deal with one another's problematic personalities. However, things rarely go as planned, and they are often sidetracked by their own idiotic tendencies.\n",
+  "synopsis": "When Kazuma Satou died, he was given two choices: pass on to heaven or be revived in a fantasy world. After choosing the new world, the goddess Aqua tasked him with defeating the Demon King, and let him choose any weapon to aid him. Unfortunately, Kazuma chose to bring Aqua herself and has regretted the decision ever since then.\n\n\n\nNot only is he stuck with a useless deity turned party archpriest, the pair also has to make enough money for living expenses. To add to their problems, their group continued to grow as more problematic adventurers joined their ranks. Their token spellcaster, Megumin, is an explosion magic specialist who can only cast one spell once per day and refuses to learn anything else. There is also their stalwart crusader, Lalatina \"Darkness\" Dustiness Ford, a helpless masochist who makes Kazuma look pure in comparison.\n\n\n\nKono Subarashii Sekai ni Shukufuku wo! 2 continues to follow Kazuma and the rest of his party through countless more adventures as they struggle to earn money and have to deal with one another's problematic personalities. However, things rarely go as planned, and they are often sidetracked by their own idiotic tendencies.\n",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21699-Fkbnkl9ZC6fW.png",
   "synonym": "Kono Subarashii Sekai ni Shukufuku wo! 2",
   "native": "この素晴らしい世界に祝福を！2",
-  "aired": "1/12/2017",
-  "releaseDate": "Jan 12, 2017",
+  "aired": "01/12/2017",
   "premiered": "WINTER 2017",
   "duration": "23m",
   "episodesCount": "10",
@@ -24,9 +23,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "32937",
-  "streamingId": "21699",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -289,5 +285,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:23:17.198Z"
+  "streamingId": "21699",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2017-01-12",
+  "malId": "32937",
+  "_forceSyncTime": 1778770958280
 }
