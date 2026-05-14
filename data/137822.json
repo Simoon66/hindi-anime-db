@@ -1,10 +1,10 @@
 {
   "title": "BLUE LOCK",
-  "synopsis": "Japan’s desire for World Cup glory leads the Japanese Football Association to launch a new rigorous training program to find the national team’s next striker. Three hundred high school players are pitted against each other for the position, but only one will come out on top. Who among them will be the striker to usher in a new era of Japanese soccer?\n\n(Source: Crunchyroll)",
+  "synopsis": "Japan’s desire for World Cup glory leads the Japanese Football Association to launch a new rigorous training program to find the national team’s next striker. Three hundred high school players are pitted against each other for the position, but only one will come out on top. Who among them will be the striker to usher in a new era of Japanese soccer?\n\n\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
   "synonym": "Blue Lock",
   "native": "ブルーロック",
-  "aired": "10/9/2022",
+  "aired": "10/09/2022",
   "premiered": "FALL 2022",
   "duration": "25m",
   "episodesCount": "24",
@@ -15,14 +15,13 @@
   ],
   "rating": "8.0",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "8-bit",
+  "studios": [
+    "8-bit"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "49596",
-  "streamingId": "137822",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -648,5 +647,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "137822",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2022-10-09",
+  "malId": "49596",
+  "_forceSyncTime": 1778771655429
 }
