@@ -1,15 +1,13 @@
 {
   "title": "My Hero Academia Season 3",
-  "synopsis": "Summer is here, and the heroes of Class 1-A and 1-B are in for the toughest training camp of their lives! A group of seasoned pros pushes everyone's Quirks to new heights as the students face one overwhelming challenge after another. Braving the elements in this secret location becomes the least of their worries when routine training turns into a critical struggle for survival.(Source: Crunchyroll)",
+  "synopsis": "Summer is here, and the heroes of Class 1-A and 1-B are in for the toughest training camp of their lives! A group of seasoned pros pushes everyone's Quirks to new heights as the students face one overwhelming challenge after another. Braving the elements in this secret location becomes the least of their worries when routine training turns into a critical struggle for survival.\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100166-jUCZYbzn2XLw.jpg",
   "synonym": "Boku no Hero Academia 3",
   "native": "僕のヒーローアカデミア３",
-  "aired": "4/7/2018",
-  "releaseDate": "Apr 7, 2018",
+  "aired": "04/07/2018",
   "premiered": "SPRING 2018",
   "duration": "24m",
   "episodesCount": "25",
-  "totalEpisodes": 25,
   "genres": [
     "Action",
     "Adventure",
@@ -25,9 +23,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "36456",
-  "streamingId": "100166",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -153,6 +148,16 @@
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/36456/8/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/100166/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/100166/8/dub",
           "type": "dub"
         }
       ]
@@ -600,5 +605,9 @@
       ]
     }
   ],
-  "_forceSyncTime": 1778540489604
+  "streamingId": "100166",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2018-04-07",
+  "malId": "36456",
+  "_forceSyncTime": 1778769655673
 }
