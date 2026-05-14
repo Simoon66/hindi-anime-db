@@ -1,10 +1,10 @@
 {
   "title": "That Time I Got Reincarnated as a Slime Season 2",
-  "synopsis": "The second season of Tensei Shitara Slime Datta Ken.\n\nNow that the Jura Tempest Alliance is growing even further, they will now be meeting the animal kingdom of Eurazania, reuniting with King Gazel, rising tensions between monsters and humans, and Rimuru encountering the strongest enemy he’s ever faced.\n\n(Source: Funimation)",
+  "synopsis": "The second season of Tensei Shitara Slime Datta Ken.\n\n\n\nNow that the Jura Tempest Alliance is growing even further, they will now be meeting the animal kingdom of Eurazania, reuniting with King Gazel, rising tensions between monsters and humans, and Rimuru encountering the strongest enemy he’s ever faced.\n\n\n\n(Source: Funimation)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108511-PufFordLNyIb.jpg",
   "synonym": "Tensei Shitara Slime Datta Ken 2nd Season",
   "native": "転生したらスライムだった件 第2期",
-  "aired": "1/12/2021",
+  "aired": "01/12/2021",
   "premiered": "WINTER 2021",
   "duration": "24m",
   "episodesCount": "12",
@@ -16,14 +16,13 @@
   ],
   "rating": "8.3",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "8-bit",
+  "studios": [
+    "8-bit"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "39551",
-  "streamingId": "108511",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -337,5 +336,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "108511",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2021-01-12",
+  "malId": "39551",
+  "_forceSyncTime": 1778771628134
 }
