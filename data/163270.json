@@ -1,10 +1,10 @@
 {
   "title": "WIND BREAKER",
-  "synopsis": "Where the average scores are the lowest, but the fights are the strongest. Furin High School is renowned as a super school of delinquents. Haruka Sakura, a first-year student, came from outside the city to fight to the top. However, Furin High School has become a group that protects the town called the “Chime of the Wind Breaker” – Bofurin. The heroic legend of high school delinquent Sakura begins here!\n\n(Source: Crunchyroll)",
-  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163270-wboZJp0ybwVK.jpg",
-  "synonym": "WIND BREAKER",
+  "synopsis": "Where the average scores are the lowest, but the fights are the strongest. Furin High School is renowned as a super school of delinquents. Haruka Sakura, a first-year student, came from outside the city to fight to the top. However, Furin High School has become a group that protects the town called the “Chime of the Wind Breaker” – Bofurin. The heroic legend of high school delinquent Sakura begins here!\n\n\n\n(Source: Crunchyroll)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163270-wboZJp0ybwVK.jpg",
+  "synonym": "WB",
   "native": "WIND BREAKER",
-  "aired": "4/5/2024",
+  "aired": "Apr 5, 2024 to Jun 28, 2024",
   "premiered": "SPRING 2024",
   "duration": "24m",
   "episodesCount": "13",
@@ -15,18 +15,34 @@
   ],
   "rating": "7.7",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "CloverWorks",
-  "producers": [],
-  "seasons": [],
-  "malId": "54900",
-  "streamingId": "163270",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "studios": [
+    "CloverWorks",
+    "CloverWorks"
+  ],
+  "producers": [
+    "Aniplex",
+    "Kodansha",
+    "Mainichi Broadcasting System",
+    "Tohan"
+  ],
+  "seasons": [
+    {
+      "title": "Season 1",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163270-wboZJp0ybwVK.jpg",
+      "link": "/2024/04/163270.html"
+    },
+    {
+      "title": "Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178680-nIAhCizY46ZU.jpg",
+      "link": "/2025/04/178680.html"
+    }
+  ],
   "episodes": [
     {
-      "episode": "1",
       "title": "Sakura Arrives at Furin",
+      "episode": "1",
       "files": [
         {
           "name": "HD-1",
@@ -47,12 +63,22 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/54900/1/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/e1c599867ee5449a59e6c638200a3d92",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9KVUpjM0NuWXUifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvMEVPS1JGMGl1In0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9sUUJpQ1lxQmQifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9pU1M3aGVpbXAifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvVTJ4M3VDTW5qIn1d",
+          "type": "multi"
         }
       ]
     },
     {
-      "episode": "2",
       "title": "The Hero of My Dreams",
+      "episode": "2",
       "files": [
         {
           "name": "HD-1",
@@ -73,12 +99,22 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/54900/2/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/2053ea869f5c78d1a98b73ae63133ea1",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9pcXRwMWJGcFkifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvTENPWVJBcFRFIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9hZ2I3d0NnNi0ifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9fMy1La0RlaEEifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvNU4zTVpaYlNFIn1d",
+          "type": "multi"
         }
       ]
     },
     {
-      "episode": "3",
       "title": "The Man Who Stands at the Top",
+      "episode": "3",
       "files": [
         {
           "name": "HD-1",
@@ -99,12 +135,22 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/54900/3/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/81bd84c896e453d8b6292072257c75c1",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC80N3kzQkllZmwifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvLTR6WXdkcGNFIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC82cmtORjVSUDMifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9DZ2RkdW90QU8ifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvanpKY2pDamljIn1d",
+          "type": "multi"
         }
       ]
     },
     {
-      "episode": "4",
       "title": "Clash",
+      "episode": "4",
       "files": [
         {
           "name": "HD-1",
@@ -125,12 +171,22 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/54900/4/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/9b1cab1b93285ce58e7c1dc576ff8a14",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9icU1nQzhMQ04ifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvU0ZwMVJUdHBUQyJ9LHsibGFuZ3VhZ2UiOiJUZWx1Z3UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvaVRILTlmemw0OCJ9LHsibGFuZ3VhZ2UiOiJFbmdsaXNoIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL3NSQTZuZWF3WSJ9LHsibGFuZ3VhZ2UiOiJKYXBhbmVzZSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9qaG9LSFVTVFMifV0%3D",
+          "type": "multi"
         }
       ]
     },
     {
-      "episode": "5",
       "title": "A Gentleman",
+      "episode": "5",
       "files": [
         {
           "name": "HD-1",
@@ -151,12 +207,22 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/54900/5/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/b594f8f8fcc3cc7910e2dcd4269a2e95",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9kSjZxYUwtdnUifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvaVotWVVqVE9sIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC81WWR4WHNXU3AifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9RXzBCTFJHZi0ifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvLVMyTy1zbnNGIn1d",
+          "type": "multi"
         }
       ]
     },
     {
-      "episode": "6",
       "title": "Vow to Follow",
+      "episode": "6",
       "files": [
         {
           "name": "HD-1",
@@ -177,12 +243,22 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/54900/6/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/096ce33c96792e289516407eb29b62bb",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9YSzdoOWh5UkEifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvNnBGSlRKMHBVIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9IdkdyYi1pQ2Z1In0seyJsYW5ndWFnZSI6IkVuZ2xpc2giLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvaG5WOUcwSXFDIn0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL0I5Z18weVVMMiJ9XQ%3D%3D",
+          "type": "multi"
         }
       ]
     },
     {
-      "episode": "7",
       "title": "Fight to Win",
+      "episode": "7",
       "files": [
         {
           "name": "HD-1",
@@ -203,12 +279,22 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/54900/7/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/6e212075e04d1616b06a5e1398e10053",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9EdGJUWWhxWHEifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvaGh3amdHRWpoIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC95Vl9hb01lYlYifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9nMlJvVWMzcDkifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvWXlBMHRqMUhRdCJ9XQ%3D%3D",
+          "type": "multi"
         }
       ]
     },
     {
-      "episode": "8",
       "title": "Succeeding the Past",
+      "episode": "8",
       "files": [
         {
           "name": "HD-1",
@@ -229,12 +315,22 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/54900/8/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/63c0d1be32c9c7e2dee3ac21690e490c",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9abjVELU90MWVfIn0seyJsYW5ndWFnZSI6IlRhbWlsIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL1R5LVJ2c3VHRiJ9LHsibGFuZ3VhZ2UiOiJUZWx1Z3UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvZlpMODhGRUpJIn0seyJsYW5ndWFnZSI6IkVuZ2xpc2giLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvVk1vdDI3aU1ZIn0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL3ZzYkVuZGVyQiJ9XQ%3D%3D",
+          "type": "multi"
         }
       ]
     },
     {
-      "episode": "9",
       "title": "Umemiya's Style",
+      "episode": "9",
       "files": [
         {
           "name": "HD-1",
@@ -255,12 +351,22 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/54900/9/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/a995b410d5e76ed56523533b47e3786a",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC93VzNrS0JaMWdNIn0seyJsYW5ndWFnZSI6IlRhbWlsIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL1ZROVgwQlhEZiJ9LHsibGFuZ3VhZ2UiOiJUZWx1Z3UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvcWRkVW1TRGNYIn0seyJsYW5ndWFnZSI6IkVuZ2xpc2giLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvUzFCZnR5ZlRwIn0seyJsYW5ndWFnZSI6IkphcGFuZXNlIiwibGluayI6Imh0dHBzOlwvXC9zaG9ydC5pY3VcL0NmbzNKSUZqSiJ9XQ%3D%3D",
+          "type": "multi"
         }
       ]
     },
     {
-      "episode": "10",
       "title": "Dialogue",
+      "episode": "10",
       "files": [
         {
           "name": "HD-1",
@@ -281,12 +387,22 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/54900/10/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/530e685ac1c17f4c13ba184841f66796",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9janpqMVFMN3IifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvM0VhY1lXbzJDIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9LUkEwVWRSVFMifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9wZnhZVWZxUVEifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvbjFnNlRDWXVoIn1d",
+          "type": "multi"
         }
       ]
     },
     {
-      "episode": "11",
       "title": "New Classmates",
+      "episode": "11",
       "files": [
         {
           "name": "HD-1",
@@ -307,12 +423,22 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/54900/11/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/265e5f95d04550eb5b53ab39f4860336",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9hQ0oxTU9WdF8ifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvT1hsZTRtWWNrIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9wUExJQTViNHoifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9PTnU4azZYVjQifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvdnRmeXBuWU5TIn1d",
+          "type": "multi"
         }
       ]
     },
     {
-      "episode": "12",
       "title": "The Dependable One",
+      "episode": "12",
       "files": [
         {
           "name": "HD-1",
@@ -333,12 +459,22 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/54900/12/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/902daf6855267276c83a639cbb25165c",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9sTlMxUUM4WjEifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvRE4zLTdrN3haIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9TX0lRdnEyU0QifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC81MHJkT1lQTGEifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvbzNxZzZ0dXBoIn1d",
+          "type": "multi"
         }
       ]
     },
     {
-      "episode": "13",
       "title": "For a Friend",
+      "episode": "13",
       "files": [
         {
           "name": "HD-1",
@@ -359,8 +495,22 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/54900/13/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/88250d62de314beb6755c137ec4e4933",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9pU3pibEE3WXcifSx7Imxhbmd1YWdlIjoiVGFtaWwiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvdmdpenVQTUNmIn0seyJsYW5ndWFnZSI6IlRlbHVndSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC91WWpZSXV6MGIifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9sM3BKSkwtbUUifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvMjMzUnF6WHdEIn1d",
+          "type": "multi"
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "163270",
+  "hostUrl": "",
+  "releaseDate": "Apr 5, 2024",
+  "malId": "54900"
 }
