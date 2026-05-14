@@ -1,10 +1,10 @@
 {
   "title": "Fire Force Season 2",
-  "synopsis": "Shinra and Company 8 have figured out the Evangelist’s goal: to gather Adolla Bursts from Shinra and Shou. After learning more about his past from Captain Burns, Shinra becomes more motivated to discover the truth about his mother and save Shou again.\n\nBut a mysterious girl known as the “First Pillar” reveals the Evangelist’s master plan to start another Great Cataclysm!\n\n(Source: Funimation)",
+  "synopsis": "Shinra and Company 8 have figured out the Evangelist’s goal: to gather Adolla Bursts from Shinra and Shou. After learning more about his past from Captain Burns, Shinra becomes more motivated to discover the truth about his mother and save Shou again.\n\n\n\nBut a mysterious girl known as the “First Pillar” reveals the Evangelist’s master plan to start another Great Cataclysm!\n\n\n\n(Source: Funimation)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114236-wfQOWF0Ii3h2.png",
   "synonym": "Enen no Shouboutai: Ni no Shou",
   "native": "炎炎ノ消防隊 弐ノ章",
-  "aired": "7/4/2020",
+  "aired": "07/04/2020",
   "premiered": "SUMMER 2020",
   "duration": "24m",
   "episodesCount": "24",
@@ -16,14 +16,13 @@
   ],
   "rating": "7.8",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "david production",
+  "studios": [
+    "david production"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "40956",
-  "streamingId": "114236",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -649,5 +648,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "114236",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2020-07-04",
+  "malId": "40956",
+  "_forceSyncTime": 1778771883467
 }
