@@ -1,10 +1,10 @@
 {
   "title": "The Disastrous Life of Saiki K.",
-  "synopsis": "To the average person, psychic abilities might seem a blessing; for Kusuo Saiki, however, this couldn't be further from the truth. Gifted with a wide assortment of supernatural abilities ranging from telepathy to x-ray vision, he finds this so-called blessing to be nothing but a curse. As all the inconveniences his powers cause constantly pile up, all Kusuo aims for is an ordinary, hassle-free life—a life where ignorance is bliss.\n\n\nUnfortunately, the life of a psychic is far from quiet. Though Kusuo tries to stay out of the spotlight by keeping his powers a secret from his classmates, he ends up inadvertently attracting the attention of many odd characters, such as the empty-headed Riki Nendou and the delusional Shun Kaidou. Forced to deal with the craziness of the people around him, Kusuo comes to learn that the ordinary life he has been striving for is a lot more difficult to achieve than expected.\nNote: Aired in 2 versions, a 120-episode 5-minute short series, and a combined 24-episode 24-minute TV series with the same content.",
+  "synopsis": "To the average person, psychic abilities might seem a blessing; for Kusuo Saiki, however, this couldn't be further from the truth. Gifted with a wide assortment of supernatural abilities ranging from telepathy to x-ray vision, he finds this so-called blessing to be nothing but a curse. As all the inconveniences his powers cause constantly pile up, all Kusuo aims for is an ordinary, hassle-free life—a life where ignorance is bliss.\n\n\n\n\nUnfortunately, the life of a psychic is far from quiet. Though Kusuo tries to stay out of the spotlight by keeping his powers a secret from his classmates, he ends up inadvertently attracting the attention of many odd characters, such as the empty-headed Riki Nendou and the delusional Shun Kaidou. Forced to deal with the craziness of the people around him, Kusuo comes to learn that the ordinary life he has been striving for is a lot more difficult to achieve than expected.\n\n\nNote: Aired in 2 versions, a 120-episode 5-minute short series, and a combined 24-episode 24-minute TV series with the same content.",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21804-As6tDLAvEvNY.jpg",
   "synonym": "Saiki Kusuo no Ψ-nan",
   "native": "斉木楠雄のΨ難",
-  "aired": "7/4/2016",
+  "aired": "07/04/2016",
   "premiered": "SUMMER 2016",
   "duration": "5m",
   "episodesCount": "120",
@@ -14,15 +14,15 @@
     "Supernatural"
   ],
   "rating": "8.3",
-  "type": "TV_SHORT",
-  "status": "FINISHED",
+  "type": "TV",
+  "status": "Completed",
   "country": "JP",
-  "studios": "J.C.STAFF",
+  "studios": [
+    "J.C.STAFF",
+    "EGG FIRM"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "33255",
-  "streamingId": "21804",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -3144,5 +3144,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "21804",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2016-07-04",
+  "malId": "33255",
+  "_forceSyncTime": 1778771202899
 }
