@@ -1,10 +1,10 @@
 {
   "title": "JoJo's Bizarre Adventure: Stardust Crusaders - Battle in Egypt",
-  "synopsis": "After 30 days of travel across the world, plagued with countless battles, Jotaro and his companions have finally arrived in Egypt! Now only the strongest \"Stand\" users remain to rebuff our heroes' final march on Cairo: The Nine Egyptian Gods, Dio's most zealous servants. Will the Joestar line fall to the monstrous vampire, or can Jotaro defeat Dio and save his mother's life?\n\n(Source: Crunchyroll)",
+  "synopsis": "After 30 days of travel across the world, plagued with countless battles, Jotaro and his companions have finally arrived in Egypt! Now only the strongest \"Stand\" users remain to rebuff our heroes' final march on Cairo: The Nine Egyptian Gods, Dio's most zealous servants. Will the Joestar line fall to the monstrous vampire, or can Jotaro defeat Dio and save his mother's life?\n\n\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20799-S1eyqBDlx51E.jpg",
   "synonym": "JoJo no Kimyou na Bouken: Stardust Crusaders - Egypt-hen",
   "native": "ジョジョの奇妙な冒険 スターダストクルセイダース エジプト編",
-  "aired": "1/11/2015",
+  "aired": "01/11/2015",
   "premiered": "WINTER 2015",
   "duration": "24m",
   "episodesCount": "24",
@@ -16,14 +16,13 @@
   ],
   "rating": "8.2",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "david production",
+  "studios": [
+    "david production"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "26055",
-  "streamingId": "20799",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -649,5 +648,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "20799",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2015-01-11",
+  "malId": "26055",
+  "_forceSyncTime": 1778772034252
 }
