@@ -1,11 +1,10 @@
 {
   "title": "Mushoku Tensei: Jobless Reincarnation",
-  "synopsis": "When a 34-year-old underachiever gets run over by a bus, his story doesn’t end there. Reincarnated in a new world as an infant, Rudeus will seize every opportunity to live the life he’s always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he’s always dreamed of, he’s embarking on an epic adventure—with all of his past experience intact!\n\n(Source: Funimation, edited)\n\nNote: The anime pre-screened its 1st and 2nd episode starting on the 27th of December on the Nico Nico Live Broadcasting and D Anime Store services",
+  "synopsis": "When a 34-year-old underachiever gets run over by a bus, his story doesn’t end there. Reincarnated in a new world as an infant, Rudeus will seize every opportunity to live the life he’s always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he’s always dreamed of, he’s embarking on an epic adventure—with all of his past experience intact!\n\n\n\n(Source: Funimation, edited)\n\n\n\nNote: The anime pre-screened its 1st and 2nd episode starting on the 27th of December on the Nico Nico Live Broadcasting and D Anime Store services",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108465-1ANspF1EWyFx.jpg",
   "synonym": "Mushoku Tensei: Isekai Ittara Honki Dasu",
   "native": "無職転生 ～異世界行ったら本気だす～",
-  "aired": "1/11/2021",
-  "releaseDate": "Jan 11, 2021",
+  "aired": "01/11/2021",
   "premiered": "WINTER 2021",
   "duration": "24m",
   "episodesCount": "11",
@@ -24,9 +23,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "39535",
-  "streamingId": "108465",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -315,5 +311,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:20:23.201Z"
+  "streamingId": "108465",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2021-01-11",
+  "malId": "39535",
+  "_forceSyncTime": 1778770501963
 }
