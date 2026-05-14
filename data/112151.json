@@ -5,7 +5,6 @@
   "synonym": "Kimetsu no Yaiba: Mugen Ressha-hen",
   "native": "鬼滅の刃 無限列車編",
   "aired": "10/16/2020",
-  "releaseDate": "Oct 16, 2020",
   "premiered": "FALL 2020",
   "duration": "117m",
   "episodesCount": "1",
@@ -26,9 +25,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "40456",
-  "streamingId": "112151",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -57,5 +53,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:17:45.189Z"
+  "streamingId": "112151",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2020-10-16",
+  "malId": "40456",
+  "_forceSyncTime": 1778770011949
 }
