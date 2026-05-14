@@ -1,11 +1,10 @@
 {
   "title": "Code Geass: Lelouch of the Rebellion",
-  "synopsis": "On August 10th of the year 2010 the Holy Empire of Britannia began a campaign of conquest, its sights set on Japan. Operations were completed in one month thanks to Britannia's deployment of new mobile humanoid armor vehicles dubbed Knightmare Frames. Japan's rights and identity were stripped away, the once proud nation now referred to as Area 11. Its citizens, Elevens, are forced to scratch out a living while the Britannian aristocracy lives comfortably within their settlements. Pockets of resistance appear throughout Area 11, working towards independence for Japan.\n Lelouch, an exiled Imperial Prince of Britannia posing as a student, finds himself in the heart of the ongoing conflict for the island nation. Through a chance meeting with a mysterious girl named C.C., Lelouch gains his Geass, the power of the king. Now endowed with absolute dominance over any person, Lelouch may finally realize his goal of bringing down Britannia from within!\n(Source: Bandai Entertainment)",
+  "synopsis": "On August 10th of the year 2010 the Holy Empire of Britannia began a campaign of conquest, its sights set on Japan. Operations were completed in one month thanks to Britannia's deployment of new mobile humanoid armor vehicles dubbed Knightmare Frames. Japan's rights and identity were stripped away, the once proud nation now referred to as Area 11. Its citizens, Elevens, are forced to scratch out a living while the Britannian aristocracy lives comfortably within their settlements. Pockets of resistance appear throughout Area 11, working towards independence for Japan.\n\n\n Lelouch, an exiled Imperial Prince of Britannia posing as a student, finds himself in the heart of the ongoing conflict for the island nation. Through a chance meeting with a mysterious girl named C.C., Lelouch gains his Geass, the power of the king. Now endowed with absolute dominance over any person, Lelouch may finally realize his goal of bringing down Britannia from within!\n\n\n(Source: Bandai Entertainment)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1575-hsmWM2ydNm1m.jpg",
   "synonym": "Code Geass: Hangyaku no Lelouch",
   "native": "コードギアス 反逆のルルーシュ",
-  "aired": "10/6/2006",
-  "releaseDate": "Oct 6, 2006",
+  "aired": "10/06/2006",
   "premiered": "FALL 2006",
   "duration": "24m",
   "episodesCount": "25",
@@ -25,9 +24,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "1575",
-  "streamingId": "1575",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -680,5 +676,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:18:18.190Z"
+  "streamingId": "1575",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2006-10-06",
+  "malId": "1575",
+  "_forceSyncTime": 1778770117258
 }
