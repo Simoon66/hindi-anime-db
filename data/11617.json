@@ -1,10 +1,10 @@
 {
   "title": "High School DxD",
-  "synopsis": "Issei Hyodo is your average perverted high school student whose one wish in life is to have his own harem, but he's got to be one of the unluckiest guys around. He goes on his first date with a girl only to get brutally attacked and killed when it turns out the girl is really a vicious fallen angel. To top it all off, he's later reincarnated as a devil by his gorgeous senpai who tells him that she is also a devil and now his master! One thing's for sure, his peaceful days are over. In a battle between devils and angels, who will win? \n(Source: FUNimation) ",
+  "synopsis": "Issei Hyodo is your average perverted high school student whose one wish in life is to have his own harem, but he's got to be one of the unluckiest guys around. He goes on his first date with a girl only to get brutally attacked and killed when it turns out the girl is really a vicious fallen angel. To top it all off, he's later reincarnated as a devil by his gorgeous senpai who tells him that she is also a devil and now his master! One thing's for sure, his peaceful days are over. In a battle between devils and angels, who will win? \n\n\n(Source: FUNimation) ",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11617-nmxMU9Zh3H5R.jpg",
   "synonym": "High School DxD",
   "native": "ハイスクールD×D",
-  "aired": "1/6/2012",
+  "aired": "01/06/2012",
   "premiered": "WINTER 2012",
   "duration": "24m",
   "episodesCount": "12",
@@ -17,14 +17,13 @@
   ],
   "rating": "6.9",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "TNK",
+  "studios": [
+    "TNK"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "11617",
-  "streamingId": "11617",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -339,5 +338,9 @@
       ]
     }
   ],
-  "releaseDate": "2012"
+  "streamingId": "11617",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2012-01-06",
+  "malId": "11617",
+  "_forceSyncTime": 1778771725379
 }
