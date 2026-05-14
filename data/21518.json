@@ -1,10 +1,10 @@
 {
   "title": "Food Wars! The Second Plate",
-  "synopsis": "The second season of Shokugeki no Souma.\n\nAt the Totsuki Culinary Academy, the first rule is survival of the fittest, and if you don't have what it takes to become a master chef, you need to get out of the kitchen before you get burned. With the wheat of first-year students separated from the chaff, cocky former diner cook Yukihira Souma is one of the handful of kitchen whizzes still standing. As the next round of the Autumn Elections gets underway, can he survive a brutal bento boxing match with the chemistry-obsessed granddaughter of the Academy's director? And which of the other contenders; Megumi, Ryou, Akira, Hisako, Takumi or sinister dark-horse Subaru; will advance to fight for the gold medal?\n\n(Source: Sentai Filmworks))",
+  "synopsis": "The second season of Shokugeki no Souma.\n\n\n\nAt the Totsuki Culinary Academy, the first rule is survival of the fittest, and if you don't have what it takes to become a master chef, you need to get out of the kitchen before you get burned. With the wheat of first-year students separated from the chaff, cocky former diner cook Yukihira Souma is one of the handful of kitchen whizzes still standing. As the next round of the Autumn Elections gets underway, can he survive a brutal bento boxing match with the chemistry-obsessed granddaughter of the Academy's director? And which of the other contenders; Megumi, Ryou, Akira, Hisako, Takumi or sinister dark-horse Subaru; will advance to fight for the gold medal?\n\n\n\n(Source: Sentai Filmworks))",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21518-uBqzDGIuSxJ5.jpg",
   "synonym": "Shokugeki no Souma: Ni no Sara",
   "native": "食戟のソーマ 弍ノ皿",
-  "aired": "7/2/2016",
+  "aired": "07/02/2016",
   "premiered": "SUMMER 2016",
   "duration": "24m",
   "episodesCount": "13",
@@ -14,14 +14,13 @@
   ],
   "rating": "7.9",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "J.C.STAFF",
+  "studios": [
+    "J.C.STAFF"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "32282",
-  "streamingId": "21518",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -361,5 +360,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "21518",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2016-07-02",
+  "malId": "32282",
+  "_forceSyncTime": 1778782249099
 }
