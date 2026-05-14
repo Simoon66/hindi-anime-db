@@ -4,12 +4,10 @@
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100240-vJNaKd5HwPJ2.jpg",
   "synonym": "Tokyo Ghoul:re",
   "native": "東京喰種-トーキョーグール-:re",
-  "aired": "4/3/2018",
-  "releaseDate": "Apr 3, 2018",
+  "aired": "04/03/2018",
   "premiered": "SPRING 2018",
   "duration": "24m",
   "episodesCount": "12",
-  "totalEpisodes": 12,
   "genres": [
     "Action",
     "Horror",
@@ -26,9 +24,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "36511",
-  "streamingId": "100240",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -343,5 +338,9 @@
       ]
     }
   ],
-  "_forceSyncTime": 1778540515358
+  "streamingId": "100240",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2018-04-03",
+  "malId": "36511",
+  "_forceSyncTime": 1778771795327
 }
