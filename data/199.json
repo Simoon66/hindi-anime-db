@@ -4,8 +4,7 @@
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199-sWefXJvXkDOb.jpg",
   "synonym": "Sen to Chihiro no Kamikakushi",
   "native": "千と千尋の神隠し",
-  "aired": "7/20/2001",
-  "releaseDate": "Jul 20, 2001",
+  "aired": "07/20/2001",
   "premiered": "SUMMER 2001",
   "duration": "125m",
   "episodesCount": "1",
@@ -24,9 +23,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "199",
-  "streamingId": "199",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -55,5 +51,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:18:31.198Z"
+  "streamingId": "199",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2001-07-20",
+  "malId": "199",
+  "_forceSyncTime": 1778770145111
 }
