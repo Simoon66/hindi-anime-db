@@ -1,11 +1,10 @@
 {
   "title": "Gurren Lagann",
-  "synopsis": "In a far away future, mankind lives underground in huge caves, unknowing of a world above with a sky and stars.\nIn the small village of Jiha, Simon, a shy boy who works as a digger discovers a strange glowing object during excavation. The enterprising Kamina, a young man with a pair of rakish sunglasses and the passion of a firey sun, befriends Simon and forms a small band of brothers, the Gurren Brigade, to escape the village and break through the ceiling of the cave to reach the surface, which few believe exist.\nThe village elder won't hear of such foolishness and punishes the Brigade. However, when disaster strikes from the world above and the entire village is in jeopardy, it's up to Simon, Kamina, a girl with a big gun named Yoko, and the small yet sturdy robot, Lagann, to save the day.\nThe new friends journey to the world above and find that the surface is a harsh battlefield, and it's up to them to fight back against the rampaging Beastmen to turn the tide in the humans' favor! Pierce the heavens, Gurren Lagann!",
+  "synopsis": "In a far away future, mankind lives underground in huge caves, unknowing of a world above with a sky and stars.\n\n\nIn the small village of Jiha, Simon, a shy boy who works as a digger discovers a strange glowing object during excavation. The enterprising Kamina, a young man with a pair of rakish sunglasses and the passion of a firey sun, befriends Simon and forms a small band of brothers, the Gurren Brigade, to escape the village and break through the ceiling of the cave to reach the surface, which few believe exist.\n\n\nThe village elder won't hear of such foolishness and punishes the Brigade. However, when disaster strikes from the world above and the entire village is in jeopardy, it's up to Simon, Kamina, a girl with a big gun named Yoko, and the small yet sturdy robot, Lagann, to save the day.\n\n\nThe new friends journey to the world above and find that the surface is a harsh battlefield, and it's up to them to fight back against the rampaging Beastmen to turn the tide in the humans' favor! Pierce the heavens, Gurren Lagann!",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2001-XwRnjzGeFWRQ.png",
   "synonym": "Tengen Toppa Gurren Lagann",
   "native": "天元突破グレンラガン",
-  "aired": "4/1/2007",
-  "releaseDate": "Apr 1, 2007",
+  "aired": "04/01/2007",
   "premiered": "SPRING 2007",
   "duration": "24m",
   "episodesCount": "27",
@@ -26,24 +25,11 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "2001",
-  "streamingId": "2001",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
       "title": "Bust Through the Heavens with Your Drill!",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/2001/1/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/2001/1/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/2001/1/sub",
@@ -61,16 +47,6 @@
       "title": "I Said I'm Gonna Pilot That Thing!!",
       "files": [
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/2001/2/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/2001/2/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/2001/2/sub",
           "type": "sub"
@@ -86,16 +62,6 @@
       "episode": "3",
       "title": "Who Do You Think You Are, Having Two Faces!?",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/2001/3/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/2001/3/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/2001/3/sub",
@@ -113,16 +79,6 @@
       "title": "Having Lots of Faces Doesn't Make You Great!",
       "files": [
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/2001/4/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/2001/4/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/2001/4/sub",
           "type": "sub"
@@ -138,16 +94,6 @@
       "episode": "5",
       "title": "I Don't Get It, Not One Bit!",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/2001/5/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/2001/5/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/2001/5/sub",
@@ -165,16 +111,6 @@
       "title": "Sit in the Hot Tub 'Till You're Sick!!",
       "files": [
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/2001/6/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/2001/6/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/2001/6/sub",
           "type": "sub"
@@ -191,16 +127,6 @@
       "title": "You're Gonna Do It!!",
       "files": [
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/2001/7/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/2001/7/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/2001/7/sub",
           "type": "sub"
@@ -216,16 +142,6 @@
       "episode": "8",
       "title": "Later, Buddy",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/2001/8/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/2001/8/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/2001/8/sub",
@@ -733,5 +649,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:23:24.191Z"
+  "streamingId": "2001",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2007-04-01",
+  "malId": "2001",
+  "_forceSyncTime": 1778770975047
 }
