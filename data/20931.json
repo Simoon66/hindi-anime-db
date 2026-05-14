@@ -1,11 +1,10 @@
 {
   "title": "Death Parade",
-  "synopsis": "When two people die at the same time, they’re sent to a place that’s neither heaven nor hell—a lavish bar between worlds where the stakes are high and the rules are simple: if you win you live again, if you die… you’re gone for good.\n\nDecim is the bartender charged with serving the souls who enter Quindecim. He may make a mean cocktail, but his true profession is to play the role of arbiter—a judge who determines whether or not a soul is worthy of reincarnation. To aid in his judgment, the bar’s patrons are forced to play simple games laced with sadistic twists designed to bring their true natures to light. To Decim, judgment has always been black and white—that is—until he meets a mysterious young woman whose fate seems impossible to decide. His indecision shakes the very foundation of the games and raises the biggest question of all: Who is fit to judge the dead?\n\n(Source: Funimation)",
+  "synopsis": "When two people die at the same time, they’re sent to a place that’s neither heaven nor hell—a lavish bar between worlds where the stakes are high and the rules are simple: if you win you live again, if you die… you’re gone for good.\n\n\n\nDecim is the bartender charged with serving the souls who enter Quindecim. He may make a mean cocktail, but his true profession is to play the role of arbiter—a judge who determines whether or not a soul is worthy of reincarnation. To aid in his judgment, the bar’s patrons are forced to play simple games laced with sadistic twists designed to bring their true natures to light. To Decim, judgment has always been black and white—that is—until he meets a mysterious young woman whose fate seems impossible to decide. His indecision shakes the very foundation of the games and raises the biggest question of all: Who is fit to judge the dead?\n\n\n\n(Source: Funimation)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20931-bktYqOcxPERi.jpg",
   "synonym": "Death Parade",
   "native": "デス・パレード",
-  "aired": "1/10/2015",
-  "releaseDate": "Jan 10, 2015",
+  "aired": "01/10/2015",
   "premiered": "WINTER 2015",
   "duration": "23m",
   "episodesCount": "12",
@@ -25,9 +24,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "28223",
-  "streamingId": "20931",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -342,5 +338,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:18:56.201Z"
+  "streamingId": "20931",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2015-01-10",
+  "malId": "28223",
+  "_forceSyncTime": 1778770264273
 }
