@@ -1,10 +1,10 @@
 {
   "title": "Seraph of the End: Vampire Reign",
-  "synopsis": "The story takes place in a world where an unknown virus has killed the entire human population except for children under 13. Those children were then enslaved by vampires. The manga centers on Yuichiro Hyakuya, a human who dreams of becoming strong enough to kill all vampires.\n\n(Source: Anime News Network)",
+  "synopsis": "The story takes place in a world where an unknown virus has killed the entire human population except for children under 13. Those children were then enslaved by vampires. The manga centers on Yuichiro Hyakuya, a human who dreams of becoming strong enough to kill all vampires.\n\n\n\n(Source: Anime News Network)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20829-pgsXVjrfyI5V.png",
   "synonym": "Owari no Seraph",
   "native": "終わりのセラフ",
-  "aired": "4/4/2015",
+  "aired": "04/04/2015",
   "premiered": "SPRING 2015",
   "duration": "24m",
   "episodesCount": "12",
@@ -17,14 +17,13 @@
   ],
   "rating": "7.3",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "WIT STUDIO",
+  "studios": [
+    "WIT STUDIO"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "26243",
-  "streamingId": "20829",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -338,5 +337,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "20829",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2015-04-04",
+  "malId": "26243",
+  "_forceSyncTime": 1778771445159
 }
