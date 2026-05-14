@@ -1,11 +1,10 @@
 {
   "title": "Made in Abyss",
-  "synopsis": "The \"Abyss\" is the last unexplored place in the world. Strange and wonderful creatures roam within, and it is full of precious relics that present humans can't recreate. Those that dare to explore the depths are known as \"Cave Raiders.\" An orphan girl named Riko lives on the rim. Her dream is to become a Cave Raider like her mother and solve the mysteries of the cave system. One day, Riko starts exploring the caves and discovers a robot who resembles a human boy.\n\n(Source: Anime News Network, edited)\n\nNote: The last episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.",
+  "synopsis": "The \"Abyss\" is the last unexplored place in the world. Strange and wonderful creatures roam within, and it is full of precious relics that present humans can't recreate. Those that dare to explore the depths are known as \"Cave Raiders.\" An orphan girl named Riko lives on the rim. Her dream is to become a Cave Raider like her mother and solve the mysteries of the cave system. One day, Riko starts exploring the caves and discovers a robot who resembles a human boy.\n\n\n\n(Source: Anime News Network, edited)\n\n\n\nNote: The last episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97986-TQ7dCgbS3y5s.jpg",
   "synonym": "Made in Abyss",
   "native": "メイドインアビス",
-  "aired": "7/7/2017",
-  "releaseDate": "Jul 7, 2017",
+  "aired": "07/07/2017",
   "premiered": "SUMMER 2017",
   "duration": "25m",
   "episodesCount": "13",
@@ -26,9 +25,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "34599",
-  "streamingId": "97986",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -369,5 +365,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:21:59.193Z"
+  "streamingId": "97986",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2017-07-07",
+  "malId": "34599",
+  "_forceSyncTime": 1778770769369
 }
