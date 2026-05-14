@@ -1,15 +1,13 @@
 {
   "title": "Naruto",
-  "synopsis": "Naruto Uzumaki, a hyperactive and knuckle-headed ninja, lives in Konohagakure, the Hidden Leaf village. Moments prior to his birth, a huge demon known as the Kyuubi, the Nine-tailed Fox, attacked Konohagakure and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the 4th Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto. \nShunned because of the presence of the Kyuubi inside him, Naruto struggles to find his place in the village. He strives to become the Hokage of Konohagakure, and he meets many friends and foes along the way. \n(Source: MAL Rewrite)",
+  "synopsis": "Naruto Uzumaki, a hyperactive and knuckle-headed ninja, lives in Konohagakure, the Hidden Leaf village. Moments prior to his birth, a huge demon known as the Kyuubi, the Nine-tailed Fox, attacked Konohagakure and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the 4th Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto. \n\n\nShunned because of the presence of the Kyuubi inside him, Naruto struggles to find his place in the village. He strives to become the Hokage of Konohagakure, and he meets many friends and foes along the way. \n\n\n(Source: MAL Rewrite)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
   "synonym": "NARUTO",
   "native": "NARUTO -ナルト-",
-  "aired": "10/3/2002",
-  "releaseDate": "Oct 3, 2002",
+  "aired": "10/03/2002",
   "premiered": "FALL 2002",
   "duration": "23m",
   "episodesCount": "220",
-  "totalEpisodes": 220,
   "genres": [
     "Action",
     "Adventure",
@@ -41,9 +39,6 @@
       "link": "/2002/10/20.html"
     }
   ],
-  "malId": "20",
-  "streamingId": "20",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -5766,5 +5761,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T22:56:17.264Z"
+  "streamingId": "20",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2002-10-03",
+  "malId": "20",
+  "_forceSyncTime": 1778769315895
 }
