@@ -1,11 +1,10 @@
 {
   "title": "Parasyte -the maxim-",
-  "synopsis": "They arrive in silence and darkness. They descend from the skies. They have a hunger for human flesh. They are everywhere. They are parasites, alien creatures who must invade–and take control of–a human host to survive. And once they have infected their victims, they can assume any deadly form they choose: monsters with giant teeth, winged demons, creatures with blades for hands. But most have chosen to conceal their lethal purpose behind ordinary human faces. So no one knows their secret–except an ordinary high school student. Shin is battling for control of his own body against an alien parasite, but can he find a way to warn humanity of the horrors to come?\n\n(Source: Del Rey)",
+  "synopsis": "They arrive in silence and darkness. They descend from the skies. They have a hunger for human flesh. They are everywhere. They are parasites, alien creatures who must invade–and take control of–a human host to survive. And once they have infected their victims, they can assume any deadly form they choose: monsters with giant teeth, winged demons, creatures with blades for hands. But most have chosen to conceal their lethal purpose behind ordinary human faces. So no one knows their secret–except an ordinary high school student. Shin is battling for control of his own body against an alien parasite, but can he find a way to warn humanity of the horrors to come?\n\n\n\n(Source: Del Rey)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20623-dUARfggnNDOe.jpg",
   "synonym": "Kiseijuu: Sei no Kakuritsu",
   "native": "寄生獣 セイの格率",
-  "aired": "10/9/2014",
-  "releaseDate": "Oct 9, 2014",
+  "aired": "10/09/2014",
   "premiered": "FALL 2014",
   "duration": "24m",
   "episodesCount": "24",
@@ -25,9 +24,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "22535",
-  "streamingId": "20623",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -654,5 +650,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:17:51.203Z"
+  "streamingId": "20623",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2014-10-09",
+  "malId": "22535",
+  "_forceSyncTime": 1778770028505
 }
