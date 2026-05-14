@@ -1,11 +1,10 @@
 {
   "title": "Dr. STONE",
-  "synopsis": "After five years of harboring unspoken feelings, high-schooler Taiju Ooki is finally ready to confess his love to Yuzuriha Ogawa. Just when Taiju begins his confession however, a blinding green light strikes the Earth and petrifies mankind around the world— turning every single human into stone.\n\nSeveral millennia later, Taiju awakens to find the modern world completely nonexistent, as nature has flourished in the years humanity stood still. Among a stone world of statues, Taiju encounters one other living human: his science-loving friend Senkuu, who has been active for a few months. Taiju learns that Senkuu has developed a grand scheme—to launch the complete revival of civilization with science. Taiju's brawn and Senkuu's brains combine to forge a formidable partnership, and they soon uncover a method to revive those petrified.\n\nHowever, Senkuu's master plan is threatened when his ideologies are challenged by those who awaken. All the while, the reason for mankind's petrification remains unknown.\n\n(Source: MAL Rewrite)",
+  "synopsis": "After five years of harboring unspoken feelings, high-schooler Taiju Ooki is finally ready to confess his love to Yuzuriha Ogawa. Just when Taiju begins his confession however, a blinding green light strikes the Earth and petrifies mankind around the world— turning every single human into stone.\n\n\n\nSeveral millennia later, Taiju awakens to find the modern world completely nonexistent, as nature has flourished in the years humanity stood still. Among a stone world of statues, Taiju encounters one other living human: his science-loving friend Senkuu, who has been active for a few months. Taiju learns that Senkuu has developed a grand scheme—to launch the complete revival of civilization with science. Taiju's brawn and Senkuu's brains combine to forge a formidable partnership, and they soon uncover a method to revive those petrified.\n\n\n\nHowever, Senkuu's master plan is threatened when his ideologies are challenged by those who awaken. All the while, the reason for mankind's petrification remains unknown.\n\n\n\n(Source: MAL Rewrite)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105333-GybuoSoOZfpH.jpg",
   "synonym": "Dr. STONE",
   "native": "Dr.STONE",
-  "aired": "7/5/2019",
-  "releaseDate": "Jul 5, 2019",
+  "aired": "07/05/2019",
   "premiered": "SUMMER 2019",
   "duration": "24m",
   "episodesCount": "24",
@@ -24,9 +23,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "38691",
-  "streamingId": "105333",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -653,5 +649,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:16:35.205Z"
+  "streamingId": "105333",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2019-07-05",
+  "malId": "38691",
+  "_forceSyncTime": 1778769795967
 }
