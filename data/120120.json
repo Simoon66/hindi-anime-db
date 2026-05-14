@@ -1,11 +1,10 @@
 {
   "title": "Tokyo Revengers",
-  "synopsis": "Takemichi Hanagaki is a freelancer that's reached the absolute pits of despair in his life. He finds out that the only girlfriend he ever had in his life that he dated in middle school, Hinata Tachibana, had been killed by the ruthless Tokyo Manji Gang.\n\nThe day after hearing about her death, he's standing on the station platform and ends up being pushed over onto the tracks by a herd of people. He closes his eyes thinking he's about to die, but when he opens his eyes back up, he somehow had gone back in time 12 years.\n\nNow that he's back living the best days of his life, Takemichi decides to get revenge on his life by saving his girlfriend and changing himself that he'd been running away from.\n\n(Source: Crunchyroll)",
+  "synopsis": "Takemichi Hanagaki is a freelancer that's reached the absolute pits of despair in his life. He finds out that the only girlfriend he ever had in his life that he dated in middle school, Hinata Tachibana, had been killed by the ruthless Tokyo Manji Gang.\n\n\n\nThe day after hearing about her death, he's standing on the station platform and ends up being pushed over onto the tracks by a herd of people. He closes his eyes thinking he's about to die, but when he opens his eyes back up, he somehow had gone back in time 12 years.\n\n\n\nNow that he's back living the best days of his life, Takemichi decides to get revenge on his life by saving his girlfriend and changing himself that he'd been running away from.\n\n\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120120-cWDmnmeEntSe.jpg",
   "synonym": "Tokyo Revengers",
   "native": "東京リベンジャーズ",
-  "aired": "4/11/2021",
-  "releaseDate": "Apr 11, 2021",
+  "aired": "04/11/2021",
   "premiered": "SPRING 2021",
   "duration": "24m",
   "episodesCount": "24",
@@ -24,9 +23,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "42249",
-  "streamingId": "120120",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -653,5 +649,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:20:17.203Z"
+  "streamingId": "120120",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2021-04-11",
+  "malId": "42249",
+  "_forceSyncTime": 1778770483956
 }
