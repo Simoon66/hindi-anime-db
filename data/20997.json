@@ -1,11 +1,10 @@
 {
   "title": "Charlotte",
-  "synopsis": "The story centers around the special abilities that occur among a small percentage of boys and girls in puberty. Yuu Otosaka uses his power without others knowing, and lives a fairly normal, average school life. Before him suddenly appears a girl, Nao Tomori. Due to his meeting with her, the fate of special power-users will be exposed.\n\n(Source: Anime News Network)",
+  "synopsis": "The story centers around the special abilities that occur among a small percentage of boys and girls in puberty. Yuu Otosaka uses his power without others knowing, and lives a fairly normal, average school life. Before him suddenly appears a girl, Nao Tomori. Due to his meeting with her, the fate of special power-users will be exposed.\n\n\n\n(Source: Anime News Network)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20997-axVYrsIfjtYJ.jpg",
   "synonym": "Charlotte",
   "native": "Charlotte(シャーロット)",
-  "aired": "7/5/2015",
-  "releaseDate": "Jul 5, 2015",
+  "aired": "07/05/2015",
   "premiered": "SUMMER 2015",
   "duration": "24m",
   "episodesCount": "13",
@@ -25,9 +24,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "28999",
-  "streamingId": "20997",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -368,5 +364,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:20:56.204Z"
+  "streamingId": "20997",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2015-07-05",
+  "malId": "28999",
+  "_forceSyncTime": 1778770596019
 }
