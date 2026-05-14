@@ -1,11 +1,10 @@
 {
   "title": "Noragami",
-  "synopsis": "Minor god Yato is down on his luck. Fed up with his slacker lifestyle, his partner abruptly quits. He has no money, no worshippers, and no shrine to call home. But just when things are starting to seem hopeless, a bus accident forces him to cross paths with Hiyori Iki, a sweet and perky high school girl. After the accident, Hiyori's soul has a bad habit of slipping out of her body, and after enlisting Yato's help to get her back to normal, she begins to fall into the world of spirits and gods.\n\nBut Hiyori's not the only one who's keeping tabs on Yato. A god from Yato's past is back, and he's not interested in a friendly reunion.\n\n(Source: Funimation)",
+  "synopsis": "Minor god Yato is down on his luck. Fed up with his slacker lifestyle, his partner abruptly quits. He has no money, no worshippers, and no shrine to call home. But just when things are starting to seem hopeless, a bus accident forces him to cross paths with Hiyori Iki, a sweet and perky high school girl. After the accident, Hiyori's soul has a bad habit of slipping out of her body, and after enlisting Yato's help to get her back to normal, she begins to fall into the world of spirits and gods.\n\n\n\nBut Hiyori's not the only one who's keeping tabs on Yato. A god from Yato's past is back, and he's not interested in a friendly reunion.\n\n\n\n(Source: Funimation)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20447-EoQXeygHaVCK.jpg",
   "synonym": "Noragami",
   "native": "ノラガミ",
-  "aired": "1/5/2014",
-  "releaseDate": "Jan 5, 2014",
+  "aired": "01/05/2014",
   "premiered": "WINTER 2014",
   "duration": "24m",
   "episodesCount": "12",
@@ -24,9 +23,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "20507",
-  "streamingId": "20447",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -341,5 +337,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:16:53.191Z"
+  "streamingId": "20447",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2014-01-05",
+  "malId": "20507",
+  "_forceSyncTime": 1778769862299
 }
