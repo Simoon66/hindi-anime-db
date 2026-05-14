@@ -1,10 +1,10 @@
 {
   "title": "Oshi No Ko",
-  "synopsis": "When a pregnant young starlet appears in Gorou Amemiya’s countryside medical clinic, the doctor takes it upon himself to safely (and secretly) deliver Ai Hoshino’s child so she can make a scandal-free return to the stage. But no good deed goes unpunished, and on the eve of her delivery, he finds himself slain at the hands of Ai’s deluded stalker — and subsequently reborn as Ai’s child, Aquamarine Hoshino! The glitz and glamor of showbiz hide the dark underbelly of the entertainment industry, threatening to dull the shine of his favorite star. Can he help his new mother rise to the top of the charts? And what will he do when unthinkable disaster strikes? \n\n(Source: HIDIVE)\n\n\nNote: Episode 1【推しの子】Mother and Children was pre-screened in advance in Japanese theaters on March 17, 2023. The regular TV broadcast began on April 12, 2023. The first episode has an extended runtime of ~82 minutes.",
+  "synopsis": "When a pregnant young starlet appears in Gorou Amemiya’s countryside medical clinic, the doctor takes it upon himself to safely (and secretly) deliver Ai Hoshino’s child so she can make a scandal-free return to the stage. But no good deed goes unpunished, and on the eve of her delivery, he finds himself slain at the hands of Ai’s deluded stalker — and subsequently reborn as Ai’s child, Aquamarine Hoshino! The glitz and glamor of showbiz hide the dark underbelly of the entertainment industry, threatening to dull the shine of his favorite star. Can he help his new mother rise to the top of the charts? And what will he do when unthinkable disaster strikes? \n\n\n\n(Source: HIDIVE)\n\n\n\n\nNote: Episode 1【推しの子】Mother and Children was pre-screened in advance in Japanese theaters on March 17, 2023. The regular TV broadcast began on April 12, 2023. The first episode has an extended runtime of ~82 minutes.",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-WqmmwZ4nMzAy.png",
   "synonym": "[Oshi no Ko]",
   "native": "【推しの子】",
-  "aired": "4/12/2023",
+  "aired": "04/12/2023",
   "premiered": "SPRING 2023",
   "duration": "24m",
   "episodesCount": "11",
@@ -16,14 +16,13 @@
   ],
   "rating": "8.4",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Doga Kobo",
+  "studios": [
+    "Doga Kobo"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "52034",
-  "streamingId": "150672",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -311,5 +310,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "150672",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2023-04-12",
+  "malId": "52034",
+  "_forceSyncTime": 1778771539288
 }
