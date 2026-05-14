@@ -4,8 +4,7 @@
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21234-XmqW39aQ9o7O.jpg",
   "synonym": "Boku dake ga Inai Machi",
   "native": "僕だけがいない街",
-  "aired": "1/8/2016",
-  "releaseDate": "Jan 8, 2016",
+  "aired": "01/08/2016",
   "premiered": "WINTER 2016",
   "duration": "23m",
   "episodesCount": "12",
@@ -34,9 +33,6 @@
     "Fuji TV"
   ],
   "seasons": [],
-  "malId": "31043",
-  "streamingId": "21234",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -603,5 +599,9 @@
       "hianimeCode": "4044"
     }
   ],
-  "_lastSync": "2026-05-11T21:15:41.196Z"
+  "streamingId": "21234",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2016-01-08",
+  "malId": "31043",
+  "_forceSyncTime": 1778769636472
 }
