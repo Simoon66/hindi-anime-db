@@ -1,10 +1,10 @@
 {
   "title": "Vinland Saga Season 2",
-  "synopsis": "The second season of Vinland Saga. \nAfter his father's death and the destruction of his village at the hands of English raiders, Einar wishes for a peaceful life with his family on their newly rebuilt farms. However, fate has other plans: his village is invaded once again. Einar watches helplessly as the marauding Danes burn his lands and slaughter his family. The invaders capture Einar and take him back to Denmark as a slave.\n\nEinar clings to his mother's final words to survive. He is purchased by Ketil, a kind slave owner and landlord who promises that Einar can regain his freedom in return for working in the fields. Soon, Einar encounters his new partner in farm cultivation—Thorfinn, a dejected and melancholic slave. As Einar and Thorfinn work together toward their freedom, they are haunted by both sins of the past and the ploys of the present. Yet they carry on, grasping for a glimmer of hope, redemption, and peace in a world that is nothing but unjust and unforgiving.\n\n(Source: MAL Rewrite)",
+  "synopsis": "The second season of Vinland Saga. \n\n\nAfter his father's death and the destruction of his village at the hands of English raiders, Einar wishes for a peaceful life with his family on their newly rebuilt farms. However, fate has other plans: his village is invaded once again. Einar watches helplessly as the marauding Danes burn his lands and slaughter his family. The invaders capture Einar and take him back to Denmark as a slave.\n\n\n\nEinar clings to his mother's final words to survive. He is purchased by Ketil, a kind slave owner and landlord who promises that Einar can regain his freedom in return for working in the fields. Soon, Einar encounters his new partner in farm cultivation—Thorfinn, a dejected and melancholic slave. As Einar and Thorfinn work together toward their freedom, they are haunted by both sins of the past and the ploys of the present. Yet they carry on, grasping for a glimmer of hope, redemption, and peace in a world that is nothing but unjust and unforgiving.\n\n\n\n(Source: MAL Rewrite)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136430-gsBsJjA7hGh9.jpg",
   "synonym": "VINLAND SAGA SEASON 2",
   "native": "ヴィンランド・サガ SEASON2",
-  "aired": "1/10/2023",
+  "aired": "01/10/2023",
   "premiered": "WINTER 2023",
   "duration": "26m",
   "episodesCount": "24",
@@ -15,14 +15,13 @@
   ],
   "rating": "8.8",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "MAPPA",
+  "studios": [
+    "MAPPA"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "49387",
-  "streamingId": "136430",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -648,5 +647,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "136430",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2023-01-10",
+  "malId": "49387",
+  "_forceSyncTime": 1778782231454
 }
