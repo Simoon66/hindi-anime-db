@@ -1,11 +1,10 @@
 {
   "title": "Akame ga Kill!",
-  "synopsis": "In a land where corruption rules and a ruthless Prime Minister has turned the puppet Emperor's armies of soldiers, assassins and secret police against the people, only one force dares to stand against them: Night Raid, an elite team of relentless killers, each equipped with an Imperial Arm - legendary weapons with unique and incredible powers created in the distant past.\n\nRescued from a fate worse than death by Night Raid, young Tatsumi is offered the chance to join their lethal ranks… but it's a deadly choice, as few can master an Imperial Arm and even fewer survive when two Arms go against each other in combat. The battle is on, and only the strongest will make it out alive.\n\n(Source: Sentai Filmworks)",
+  "synopsis": "In a land where corruption rules and a ruthless Prime Minister has turned the puppet Emperor's armies of soldiers, assassins and secret police against the people, only one force dares to stand against them: Night Raid, an elite team of relentless killers, each equipped with an Imperial Arm - legendary weapons with unique and incredible powers created in the distant past.\n\n\n\nRescued from a fate worse than death by Night Raid, young Tatsumi is offered the chance to join their lethal ranks… but it's a deadly choice, as few can master an Imperial Arm and even fewer survive when two Arms go against each other in combat. The battle is on, and only the strongest will make it out alive.\n\n\n\n(Source: Sentai Filmworks)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20613-HXHpec4bemk5.jpg",
   "synonym": "Akame ga Kill!",
   "native": "アカメが斬る！",
-  "aired": "7/7/2014",
-  "releaseDate": "Jul 7, 2014",
+  "aired": "07/07/2014",
   "premiered": "SUMMER 2014",
   "duration": "24m",
   "episodesCount": "24",
@@ -27,24 +26,11 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "22199",
-  "streamingId": "20613",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
       "title": "Kill the Darkness",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/20613/1/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/20613/1/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/22199/1/sub",
@@ -62,16 +48,6 @@
       "title": "Kill the Authority",
       "files": [
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/20613/2/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/20613/2/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/22199/2/sub",
           "type": "sub"
@@ -87,16 +63,6 @@
       "episode": "3",
       "title": "Kill Your Cares",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/20613/3/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/20613/3/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/22199/3/sub",
@@ -114,16 +80,6 @@
       "title": "Kill the Imperial Arm Users",
       "files": [
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/20613/4/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/20613/4/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/22199/4/sub",
           "type": "sub"
@@ -139,16 +95,6 @@
       "episode": "5",
       "title": "Kill the Dream",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/20613/5/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/20613/5/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/22199/5/sub",
@@ -166,16 +112,6 @@
       "title": "Kill the Absolute Justice",
       "files": [
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/20613/6/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/20613/6/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/22199/6/sub",
           "type": "sub"
@@ -192,16 +128,6 @@
       "title": "Kill the Three: Part 1",
       "files": [
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/20613/7/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/20613/7/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/22199/7/sub",
           "type": "sub"
@@ -217,16 +143,6 @@
       "episode": "8",
       "title": "Kill the Three: Part 2",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/20613/8/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/20613/8/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/22199/8/sub",
@@ -656,5 +572,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:17:06.202Z"
+  "streamingId": "20613",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2014-07-07",
+  "malId": "22199",
+  "_forceSyncTime": 1778769899202
 }
