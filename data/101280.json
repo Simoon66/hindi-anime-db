@@ -1,15 +1,13 @@
 {
   "title": "That Time I Got Reincarnated as a Slime",
-  "synopsis": "Lonely thirty-seven-year-old Satoru Mikami is stuck in a dead-end job, unhappy with his mundane life, but after dying at the hands of a robber, he awakens to a fresh start in a fantasy realm...as a slime monster! As he acclimates to his goopy new existence, his exploits with the other monsters set off a chain of events that will change his new world forever!\n\n(Source: Yen Press)",
+  "synopsis": "Lonely thirty-seven-year-old Satoru Mikami is stuck in a dead-end job, unhappy with his mundane life, but after dying at the hands of a robber, he awakens to a fresh start in a fantasy realm...as a slime monster! As he acclimates to his goopy new existence, his exploits with the other monsters set off a chain of events that will change his new world forever!\n\n\n\n(Source: Yen Press)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101280-tDxCVJm714nt.jpg",
   "synonym": "Tensei Shitara Slime Datta Ken",
   "native": "転生したらスライムだった件",
-  "aired": "10/2/2018",
-  "releaseDate": "Oct 2, 2018",
+  "aired": "10/02/2018",
   "premiered": "FALL 2018",
   "duration": "24m",
   "episodesCount": "24",
-  "totalEpisodes": 24,
   "genres": [
     "Action",
     "Adventure",
@@ -25,9 +23,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "37430",
-  "streamingId": "101280",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -654,5 +649,9 @@
       ]
     }
   ],
-  "_forceSyncTime": 1778540701605
+  "streamingId": "101280",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2018-10-02",
+  "malId": "37430",
+  "_forceSyncTime": 1778769601446
 }
