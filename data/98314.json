@@ -1,11 +1,10 @@
 {
   "title": "Kakegurui",
-  "synopsis": "During daylight hours, an exclusive, elite private school prepares its illustrious students for careers in business, politics, and high society. But when darkness falls, the halls of this esteemed establishment transform into an underground gambling den where bright-eyed youngsters learn the timeless art of bluffing, backdoor dealings and social manipulation. In this school for the rich and elite, money is power, and the tyrant of the betting books rules with an iron fist. So when the beautiful Yumeko Jabami upsets the academy hierarchy with her voracious appetite for the thrill of the gamble, the entire student body mobilizes to send her house of cards tumbling down.\n\n(Source: Sentai Filmworks)",
+  "synopsis": "During daylight hours, an exclusive, elite private school prepares its illustrious students for careers in business, politics, and high society. But when darkness falls, the halls of this esteemed establishment transform into an underground gambling den where bright-eyed youngsters learn the timeless art of bluffing, backdoor dealings and social manipulation. In this school for the rich and elite, money is power, and the tyrant of the betting books rules with an iron fist. So when the beautiful Yumeko Jabami upsets the academy hierarchy with her voracious appetite for the thrill of the gamble, the entire student body mobilizes to send her house of cards tumbling down.\n\n\n\n(Source: Sentai Filmworks)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98314-TSJykxVwCCQN.jpg",
   "synonym": "Kakegurui",
   "native": "賭ケグルイ",
-  "aired": "7/1/2017",
-  "releaseDate": "Jul 1, 2017",
+  "aired": "07/01/2017",
   "premiered": "SUMMER 2017",
   "duration": "25m",
   "episodesCount": "12",
@@ -23,9 +22,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "34933",
-  "streamingId": "98314",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -115,19 +111,9 @@
           "type": "sub"
         },
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/98314/4/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/34933/4/sub",
           "type": "sub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/34933/4/dub",
-          "type": "dub"
         }
       ]
     },
@@ -340,5 +326,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:19:30.194Z"
+  "streamingId": "98314",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2017-07-01",
+  "malId": "34933",
+  "_forceSyncTime": 1778770341324
 }
