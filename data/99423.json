@@ -1,11 +1,10 @@
 {
   "title": "DARLING in the FRANXX",
-  "synopsis": "The distant future: Humanity established the mobile fort city, Plantation, upon the ruined wasteland. Within the city were pilot quarters, Mistilteinn, otherwise known as the “Birdcage.” That is where the children live... Their only mission in life was the fight. Their enemies are the mysterious giant organisms known as Kyoryu. The children operate robots known as FRANXX in order to face these still unseen enemies. Among them was a boy who was once called a child prodigy: Code number 016, Hiro. One day, a mysterious girl called Zero Two appears in front of Hiro. “I’ve found you, my Darling.”\n\n(Source: Crunchyroll)",
+  "synopsis": "The distant future: Humanity established the mobile fort city, Plantation, upon the ruined wasteland. Within the city were pilot quarters, Mistilteinn, otherwise known as the “Birdcage.” That is where the children live... Their only mission in life was the fight. Their enemies are the mysterious giant organisms known as Kyoryu. The children operate robots known as FRANXX in order to face these still unseen enemies. Among them was a boy who was once called a child prodigy: Code number 016, Hiro. One day, a mysterious girl called Zero Two appears in front of Hiro. “I’ve found you, my Darling.”\n\n\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99423-8MBxtwCeHf8B.png",
   "synonym": "Darling in the Franxx",
   "native": "ダーリン・イン・ザ・フランキス",
-  "aired": "1/13/2018",
-  "releaseDate": "Jan 13, 2018",
+  "aired": "01/13/2018",
   "premiered": "WINTER 2018",
   "duration": "24m",
   "episodesCount": "24",
@@ -27,9 +26,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "35849",
-  "streamingId": "99423",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -656,5 +652,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:18:12.189Z"
+  "streamingId": "99423",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2018-01-13",
+  "malId": "35849",
+  "_forceSyncTime": 1778770097026
 }
