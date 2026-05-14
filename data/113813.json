@@ -1,10 +1,10 @@
 {
   "title": "Rent-a-Girlfriend",
-  "synopsis": "Kinoshita Kazuya is a 20-year-old failure of a college student. He managed to kiss his girlfriend once, but was dumped after a month. \"Ugh... Damn it. I never want to go through that again.\" \n\nCompletely spiteful, Kazuya uses a certain method to date a girl. He goes to their meeting place and suddenly hears, \"You're Kazuya-kun, right?\" A beautiful girl brushing her long, black hair behind her ear was there, smiling at him. Her name was Mizuhara Chizuru. Something real is born after just a single rental! A reckless rom-com filled with love and excitement is about to begin!\n\n(Source: Crunchyroll)",
+  "synopsis": "Kinoshita Kazuya is a 20-year-old failure of a college student. He managed to kiss his girlfriend once, but was dumped after a month. \"Ugh... Damn it. I never want to go through that again.\" \n\n\n\nCompletely spiteful, Kazuya uses a certain method to date a girl. He goes to their meeting place and suddenly hears, \"You're Kazuya-kun, right?\" A beautiful girl brushing her long, black hair behind her ear was there, smiling at him. Her name was Mizuhara Chizuru. Something real is born after just a single rental! A reckless rom-com filled with love and excitement is about to begin!\n\n\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113813-SnljeXpU3Pw7.jpg",
   "synonym": "Kanojo, Okarishimasu",
   "native": "彼女、お借りします",
-  "aired": "7/11/2020",
+  "aired": "07/11/2020",
   "premiered": "SUMMER 2020",
   "duration": "24m",
   "episodesCount": "12",
@@ -15,14 +15,13 @@
   ],
   "rating": "6.6",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "TMS Entertainment",
+  "studios": [
+    "TMS Entertainment"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "40839",
-  "streamingId": "113813",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -336,5 +335,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "113813",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2020-07-11",
+  "malId": "40839",
+  "_forceSyncTime": 1778771777002
 }
