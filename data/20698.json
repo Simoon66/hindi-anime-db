@@ -1,10 +1,10 @@
 {
   "title": "My Teen Romantic Comedy SNAFU TOO!",
-  "synopsis": "The second season of Yahari Ore no Seishun Love Come wa Machigatteiru.\n\nYahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku picks up immediately after the events of the first season, continuing the adventures of the Volunteer Service Club—the dispassionate Hachiman Hikigaya, the cheerful Yui Yuigahama, and the competitive Yukino Yukinoshita—as it dedicates itself to helping any student with issues that they may face.\n\nWith the rift among his own group widening, Hachiman begins to realize that his knack for quickly getting to the root of other people's troubles is a double-edged sword: sometimes the best solution is not necessarily the most appropriate one.\n\n(Source: MAL Rewrite)",
+  "synopsis": "The second season of Yahari Ore no Seishun Love Come wa Machigatteiru.\n\n\n\nYahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku picks up immediately after the events of the first season, continuing the adventures of the Volunteer Service Club—the dispassionate Hachiman Hikigaya, the cheerful Yui Yuigahama, and the competitive Yukino Yukinoshita—as it dedicates itself to helping any student with issues that they may face.\n\n\n\nWith the rift among his own group widening, Hachiman begins to realize that his knack for quickly getting to the root of other people's troubles is a double-edged sword: sometimes the best solution is not necessarily the most appropriate one.\n\n\n\n(Source: MAL Rewrite)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20698-YZIYor2zW3Ta.png",
   "synonym": "Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku",
   "native": "やはり俺の青春ラブコメはまちがっている。続",
-  "aired": "4/3/2015",
+  "aired": "04/03/2015",
   "premiered": "SPRING 2015",
   "duration": "24m",
   "episodesCount": "13",
@@ -16,14 +16,13 @@
   ],
   "rating": "8.1",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "feel.",
+  "studios": [
+    "feel."
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "23847",
-  "streamingId": "20698",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -363,5 +362,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "20698",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2015-04-03",
+  "malId": "23847",
+  "_forceSyncTime": 1778772350387
 }
