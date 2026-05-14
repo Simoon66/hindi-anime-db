@@ -1,10 +1,10 @@
 {
   "title": "JoJo's Bizarre Adventure: Golden Wind",
-  "synopsis": "The fifth story arc of the long-running JoJo's Bizarre Adventure series.\nGiorno Giovanna, a young man living in Naples, has the blood of DIO -- the eternal enemy of the Joestar clan -- running in his veins. Giorno becomes a delinquent due to being persecuted since childhood. However, he's led back onto the right path thanks to a gangster who saved him and taught him to believe in others. Bizarrely enough, this gang of people who didn't forget honor, gratitude, and respect made him reform. This is how Giorno came to admire gangsters. In the backstreets of Italy, Giorno causes trouble alongside his gang \"Passione,\" and ends up being targeted...\n(Source: Anime News Network)",
+  "synopsis": "The fifth story arc of the long-running JoJo's Bizarre Adventure series.\n\n\nGiorno Giovanna, a young man living in Naples, has the blood of DIO -- the eternal enemy of the Joestar clan -- running in his veins. Giorno becomes a delinquent due to being persecuted since childhood. However, he's led back onto the right path thanks to a gangster who saved him and taught him to believe in others. Bizarrely enough, this gang of people who didn't forget honor, gratitude, and respect made him reform. This is how Giorno came to admire gangsters. In the backstreets of Italy, Giorno causes trouble alongside his gang \"Passione,\" and ends up being targeted...\n\n\n(Source: Anime News Network)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102883-S9KzdMJhDswJ.png",
   "synonym": "JoJo no Kimyou na Bouken: Ougon no Kaze",
   "native": "ジョジョの奇妙な冒険 黄金の風",
-  "aired": "10/6/2018",
+  "aired": "10/06/2018",
   "premiered": "FALL 2018",
   "duration": "24m",
   "episodesCount": "39",
@@ -15,16 +15,15 @@
     "Mystery",
     "Supernatural"
   ],
-  "rating": "8.4",
+  "rating": "8.5",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "david production",
+  "studios": [
+    "david production"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "37991",
-  "streamingId": "102883",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -1040,5 +1039,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "102883",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2018-10-06",
+  "malId": "37991",
+  "_forceSyncTime": 1778771902459
 }
