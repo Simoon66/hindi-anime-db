@@ -1,11 +1,10 @@
 {
   "title": "Bungo Stray Dogs",
-  "synopsis": "Stalked by a beastly white tiger, Atsushi Nakajima has no idea that the menace lives inside him—a power that catches the attention of the Armed Detective Agency. Using inhuman abilities to combat crime, this team takes Atsushi under the wing of their most eccentric member, Dazai. Together, they tear through mafia-muddled mysteries while enemies keep an eye on the tiger’s lofty bounty.\n\n(Source: Funimation)",
+  "synopsis": "Stalked by a beastly white tiger, Atsushi Nakajima has no idea that the menace lives inside him—a power that catches the attention of the Armed Detective Agency. Using inhuman abilities to combat crime, this team takes Atsushi under the wing of their most eccentric member, Dazai. Together, they tear through mafia-muddled mysteries while enemies keep an eye on the tiger’s lofty bounty.\n\n\n\n(Source: Funimation)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21311-hAXyT8Yoh6G9.jpg",
   "synonym": "Bungou Stray Dogs",
   "native": "文豪ストレイドッグス",
-  "aired": "4/7/2016",
-  "releaseDate": "Apr 7, 2016",
+  "aired": "04/07/2016",
   "premiered": "SPRING 2016",
   "duration": "24m",
   "episodesCount": "12",
@@ -24,9 +23,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "31478",
-  "streamingId": "21311",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -341,5 +337,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:21:09.189Z"
+  "streamingId": "21311",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2016-04-07",
+  "malId": "31478",
+  "_forceSyncTime": 1778770646099
 }
