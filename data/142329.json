@@ -1,11 +1,10 @@
 {
   "title": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
-  "synopsis": "After visiting the Rengoku residence, Tanjirou and his comrades volunteer for a mission within the Entertainment District, a place where desires are sold and demons dwell. They journey alongside the flashy Sound Hashira, Tengen Uzui, in search of a monstrous foe terrorizing the town. Sworn to slay creatures of the night, the hunt continues.\n\n(Source: Funimation)\n\nNote:\n- The first episode aired with a runtime of ~47 minutes.\n- The last episode aired with a runtime of ~33 minutes.",
+  "synopsis": "After visiting the Rengoku residence, Tanjirou and his comrades volunteer for a mission within the Entertainment District, a place where desires are sold and demons dwell. They journey alongside the flashy Sound Hashira, Tengen Uzui, in search of a monstrous foe terrorizing the town. Sworn to slay creatures of the night, the hunt continues.\n\n\n\n(Source: Funimation)\n\n\n\nNote:\n\n- The first episode aired with a runtime of ~47 minutes.\n\n- The last episode aired with a runtime of ~33 minutes.",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142329-kET1PIXJv2eW.jpg",
   "synonym": "Kimetsu no Yaiba: Yuukaku-hen",
   "native": "鬼滅の刃 遊郭編",
-  "aired": "12/5/2021",
-  "releaseDate": "Dec 5, 2021",
+  "aired": "12/05/2021",
   "premiered": "WINTER 2022",
   "duration": "24m",
   "episodesCount": "11",
@@ -24,9 +23,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "47778",
-  "streamingId": "142329",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -315,5 +311,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:18:50.196Z"
+  "streamingId": "142329",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2021-12-05",
+  "malId": "47778",
+  "_forceSyncTime": 1778770184363
 }
