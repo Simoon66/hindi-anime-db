@@ -1,11 +1,10 @@
 {
   "title": "Mob Psycho 100 II",
-  "synopsis": "The second season of Mob Psycho 100. \nKageyama is an ordinary 8th grader who just wants to live a normal life. Although he can disappear in the crowd in a flash, he was actually the most powerful psychic. The lives of those around Mob and his numerous feelings that softly piles up for the eventual explosion. The mysterious group \"Claw\" stands before him once again. In the midst of his youthful days, where will his roaring heart take him!?\n\n\n(Source: Crunchyroll)",
+  "synopsis": "The second season of Mob Psycho 100. \n\n\nKageyama is an ordinary 8th grader who just wants to live a normal life. Although he can disappear in the crowd in a flash, he was actually the most powerful psychic. The lives of those around Mob and his numerous feelings that softly piles up for the eventual explosion. The mysterious group \"Claw\" stands before him once again. In the midst of his youthful days, where will his roaring heart take him!?\n\n\n\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101338-rokVscjRYzdP.jpg",
   "synonym": "Mob Psycho 100 II",
   "native": "モブサイコ100 II",
-  "aired": "1/7/2019",
-  "releaseDate": "Jan 7, 2019",
+  "aired": "01/07/2019",
   "premiered": "WINTER 2019",
   "duration": "24m",
   "episodesCount": "13",
@@ -26,9 +25,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "37510",
-  "streamingId": "101338",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -369,5 +365,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:19:51.192Z"
+  "streamingId": "101338",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2019-01-07",
+  "malId": "37510",
+  "_forceSyncTime": 1778770413128
 }
