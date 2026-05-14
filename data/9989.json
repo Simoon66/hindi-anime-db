@@ -1,11 +1,10 @@
 {
   "title": "Anohana: The Flower We Saw That Day",
-  "synopsis": "Jinta Yadomi and his group of childhood friends have become estranged after a tragic accident split them apart. Now in their high school years, a sudden surprise forces each of them to confront their guilt over what happened that day and come to terms with the ghosts of their past. \n(Source: NIS America)",
+  "synopsis": "Jinta Yadomi and his group of childhood friends have become estranged after a tragic accident split them apart. Now in their high school years, a sudden surprise forces each of them to confront their guilt over what happened that day and come to terms with the ghosts of their past. \n\n\n(Source: NIS America)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9989-hImMg6kCMm6I.jpg",
   "synonym": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
   "native": "あの日見た花の名前を僕達はまだ知らない。",
-  "aired": "4/15/2011",
-  "releaseDate": "Apr 15, 2011",
+  "aired": "04/15/2011",
   "premiered": "SPRING 2011",
   "duration": "22m",
   "episodesCount": "11",
@@ -24,9 +23,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "9989",
-  "streamingId": "9989",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -315,5 +311,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:22:21.201Z"
+  "streamingId": "9989",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2011-04-15",
+  "malId": "9989",
+  "_forceSyncTime": 1778770820675
 }
