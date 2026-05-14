@@ -1,10 +1,10 @@
 {
   "title": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
-  "synopsis": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai adapts the fourth part of the JoJo no Kimyou na Bouken manga series.\n\nIt's the year 1999, 11 years after Jotaro Kujo's desperate fight against DIO in Egypt. Jotaro meets with Josuke Higashikata, the illegitimate son of his grandfather Joseph Joestar. He discovers that Josuke also has the same \"Stand\" power and that a new threat is surfacing in Morioh City.\n\n(Source: Anime News Network)",
+  "synopsis": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai adapts the fourth part of the JoJo no Kimyou na Bouken manga series.\n\n\n\nIt's the year 1999, 11 years after Jotaro Kujo's desperate fight against DIO in Egypt. Jotaro meets with Josuke Higashikata, the illegitimate son of his grandfather Joseph Joestar. He discovers that Josuke also has the same \"Stand\" power and that a new threat is surfacing in Morioh City.\n\n\n\n(Source: Anime News Network)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21450-D7XFwEQjZ5GA.jpg",
   "synonym": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
   "native": "ジョジョの奇妙な冒険 ダイヤモンドは砕けない",
-  "aired": "4/2/2016",
+  "aired": "04/02/2016",
   "premiered": "SPRING 2016",
   "duration": "24m",
   "episodesCount": "39",
@@ -17,14 +17,13 @@
   ],
   "rating": "8.4",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "david production",
+  "studios": [
+    "david production"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "31933",
-  "streamingId": "21450",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -1040,5 +1039,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "21450",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2016-04-02",
+  "malId": "31933",
+  "_forceSyncTime": 1778771607463
 }
