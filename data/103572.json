@@ -134,11 +134,6 @@
       "files": [
         {
           "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/103572/5/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/103572/5/dub",
           "type": "dub"
         },
@@ -146,11 +141,6 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38101/5/sub",
           "type": "sub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/38101/5/dub",
-          "type": "dub"
         }
       ]
     },
@@ -158,16 +148,6 @@
       "episode": "6",
       "title": "What's Been Built Up",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/103572/6/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/103572/6/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38101/6/sub",
@@ -185,16 +165,6 @@
       "title": "Liar McLieface",
       "files": [
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/103572/7/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/103572/7/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38101/7/sub",
           "type": "sub"
@@ -210,16 +180,6 @@
       "episode": "8",
       "title": "The Photo That Started It All",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/103572/8/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/103572/8/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38101/8/sub",
@@ -237,16 +197,6 @@
       "title": "Legend of Fate Day 1",
       "files": [
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/103572/9/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/103572/9/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38101/9/sub",
           "type": "sub"
@@ -262,16 +212,6 @@
       "episode": "10",
       "title": "Legend of Fate Day 2",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/103572/10/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/103572/10/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38101/10/sub",
@@ -289,16 +229,6 @@
       "title": "Legend of Fate Day 3",
       "files": [
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/103572/11/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/103572/11/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38101/11/sub",
           "type": "sub"
@@ -314,16 +244,6 @@
       "episode": "12",
       "title": "Legend of Fate Day 2000",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/103572/12/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/103572/12/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38101/12/sub",
@@ -341,5 +261,5 @@
   "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2019-01-11",
   "malId": "38101",
-  "_forceSyncTime": 1778771685978
+  "_forceSyncTime": 1778784701814
 }
