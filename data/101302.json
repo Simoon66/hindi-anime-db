@@ -15,15 +15,14 @@
     "Sci-Fi"
   ],
   "rating": "8.1",
-  "type": "MOVIE",
-  "status": "FINISHED",
+  "type": "Movie",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Toei Animation",
+  "studios": [
+    "Toei Animation"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "36946",
-  "streamingId": "101302",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -51,5 +50,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "101302",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2018-12-14",
+  "malId": "36946",
+  "_forceSyncTime": 1778769646234
 }
