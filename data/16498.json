@@ -1,15 +1,13 @@
 {
   "title": "Attack on Titan",
-  "synopsis": "Several hundred years ago, humans were nearly exterminated by titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest of titans.\r\nFlash forward to the present and the city has not seen a titan in over 100 years. Teenage boy Eren and his foster sister Mikasa witness something horrific as the city walls are destroyed by a colossal titan that appears out of thin air. As the smaller titans flood the city, the two kids watch in horror as their mother is eaten alive. Eren vows that he will murder every single titan and take revenge for all of mankind.\r\n(Source: MangaHelpers) ",
+  "synopsis": "Several hundred years ago, humans were nearly exterminated by titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest of titans.\n\n\r\nFlash forward to the present and the city has not seen a titan in over 100 years. Teenage boy Eren and his foster sister Mikasa witness something horrific as the city walls are destroyed by a colossal titan that appears out of thin air. As the smaller titans flood the city, the two kids watch in horror as their mother is eaten alive. Eren vows that he will murder every single titan and take revenge for all of mankind.\n\n\r\n(Source: MangaHelpers) ",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
   "synonym": "Shingeki no Kyojin",
   "native": "進撃の巨人",
-  "aired": "4/7/2013",
-  "releaseDate": "Apr 7, 2013",
+  "aired": "04/07/2013",
   "premiered": "SPRING 2013",
   "duration": "24m",
   "episodesCount": "25",
-  "totalEpisodes": 25,
   "genres": [
     "Action",
     "Drama",
@@ -25,9 +23,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "16498",
-  "streamingId": "16498",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -680,5 +675,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T22:54:10.674Z"
+  "streamingId": "16498",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2013-04-07",
+  "malId": "16498",
+  "_forceSyncTime": 1778768961587
 }
