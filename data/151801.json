@@ -1,10 +1,10 @@
 {
   "title": "MASHLE: MAGIC AND MUSCLES",
-  "synopsis": "This is a world of magic. This is a world in which magic is casually used by everyone.\nIn a deep, dark forest in this world of magic, there is a boy who is singlemindedly working out. His name is Mash Burnedead, and he has a secret. He can’t use magic. \nAll he wanted was to live a quiet life with his family, but people suddenly start trying to kill him one day and he somehow finds himself enrolled in Magic School. There, he sets his sights on becoming a “Divine Visionary,” the elite of the elite.  Will his ripped muscles work against the best and brightest of the wizarding world? The curtain rises on this off-kilter magical fantasy in which the power of being jacked crushes any spell!\n\n(Source: Crunchyroll)",
+  "synopsis": "This is a world of magic. This is a world in which magic is casually used by everyone.\n\n\nIn a deep, dark forest in this world of magic, there is a boy who is singlemindedly working out. His name is Mash Burnedead, and he has a secret. He can’t use magic. \n\n\nAll he wanted was to live a quiet life with his family, but people suddenly start trying to kill him one day and he somehow finds himself enrolled in Magic School. There, he sets his sights on becoming a “Divine Visionary,” the elite of the elite. \n\n Will his ripped muscles work against the best and brightest of the wizarding world? The curtain rises on this off-kilter magical fantasy in which the power of being jacked crushes any spell!\n\n\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151801-XxVf22Le6C8o.png",
   "synonym": "MASHLE",
   "native": "マッシュル-MASHLE-",
-  "aired": "4/8/2023",
+  "aired": "04/08/2023",
   "premiered": "SPRING 2023",
   "duration": "24m",
   "episodesCount": "12",
@@ -15,14 +15,13 @@
   ],
   "rating": "7.6",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "A-1 Pictures",
+  "studios": [
+    "A-1 Pictures"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "52211",
-  "streamingId": "151801",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -336,5 +335,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "151801",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2023-04-08",
+  "malId": "52211",
+  "_forceSyncTime": 1778772315263
 }
