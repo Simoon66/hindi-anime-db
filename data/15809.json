@@ -4,8 +4,7 @@
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15809-ECv3HyOYJKrk.jpg",
   "synonym": "Hataraku Maou-sama!",
   "native": "はたらく魔王さま!",
-  "aired": "4/4/2013",
-  "releaseDate": "Apr 4, 2013",
+  "aired": "04/04/2013",
   "premiered": "SPRING 2013",
   "duration": "24m",
   "episodesCount": "13",
@@ -24,9 +23,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "15809",
-  "streamingId": "15809",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -367,5 +363,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:22:28.192Z"
+  "streamingId": "15809",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2013-04-04",
+  "malId": "15809",
+  "_forceSyncTime": 1778770836863
 }
