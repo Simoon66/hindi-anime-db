@@ -1,11 +1,10 @@
 {
   "title": "Solo Leveling",
-  "synopsis": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Seong Jin-U. After being brutally slaughtered by monsters in a high-ranking dungeon, Jin-U came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.\n\n(Source: Crunchyroll) ",
+  "synopsis": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Seong Jin-U. After being brutally slaughtered by monsters in a high-ranking dungeon, Jin-U came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.\n\n\n\n(Source: Crunchyroll) \n\n",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png",
   "synonym": "Ore dake Level Up na Ken",
   "native": "俺だけレベルアップな件",
-  "aired": "1/7/2024",
-  "releaseDate": "Jan 7, 2024",
+  "aired": "01/07/2024",
   "premiered": "WINTER 2024",
   "duration": "24m",
   "episodesCount": "12",
@@ -23,9 +22,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "52299",
-  "streamingId": "151807",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -340,5 +336,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:21:16.204Z"
+  "streamingId": "151807",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2024-01-07",
+  "malId": "52299",
+  "_forceSyncTime": 1778770626242
 }
