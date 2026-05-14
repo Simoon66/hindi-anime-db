@@ -1,10 +1,10 @@
 {
   "title": "The Eminence in Shadow",
-  "synopsis": "Some people just aren’t suited to playing the part of the flashy, in-your-face hero or the dastardly, mustache-twirling villain with larger-than-life panache. Instead, they operate in the shadows and pull the strings of society through wit and cleverness. That’s the role Cid wants to play when he’s transported to another world. Cid spins a yarn or three and becomes the unlikely leader of the underground Shadow Garden organization that fights against a menacing cult (which he totally made up). However, there’s a catch even his wild imagination didn’t see coming: the cult he concocted actually exists, and they’re beyond displeased that his power fantasy just got in the way of their evil plans!\n\n(Source: HIDIVE)",
+  "synopsis": "Some people just aren’t suited to playing the part of the flashy, in-your-face hero or the dastardly, mustache-twirling villain with larger-than-life panache. Instead, they operate in the shadows and pull the strings of society through wit and cleverness. That’s the role Cid wants to play when he’s transported to another world. Cid spins a yarn or three and becomes the unlikely leader of the underground Shadow Garden organization that fights against a menacing cult (which he totally made up). However, there’s a catch even his wild imagination didn’t see coming: the cult he concocted actually exists, and they’re beyond displeased that his power fantasy just got in the way of their evil plans!\n\n\n\n(Source: HIDIVE)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130298-YMdcKHytpWNH.jpg",
   "synonym": "Kage no Jitsuryokusha ni Naritakute!",
   "native": "陰の実力者になりたくて！",
-  "aired": "10/5/2022",
+  "aired": "10/05/2022",
   "premiered": "FALL 2022",
   "duration": "24m",
   "episodesCount": "20",
@@ -15,14 +15,13 @@
   ],
   "rating": "8.1",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Nexus",
+  "studios": [
+    "Nexus"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "48316",
-  "streamingId": "130298",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -544,5 +543,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "130298",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2022-10-05",
+  "malId": "48316",
+  "_forceSyncTime": 1778771935146
 }
