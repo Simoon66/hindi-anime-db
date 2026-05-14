@@ -1,11 +1,10 @@
 {
   "title": "Soul Eater",
-  "synopsis": "Set in the Shinigami technical school for weapon meisters, the series revolves around 3 groups of each a weapon meister and a human weapon. Trying to make the latter a \"Death Scythe\" which is the highest title for a weapon and thus fit for use by the Shinigami, they must collect the souls of 99 evil humans and 1 witch.\nMaka &amp; Soul Eater, Black Star &amp; Tsubaki, and Death the Kid with Patty and Liz Thompson are the characters Soul Eater revolves around. Besides taking the time to gather souls, these students of Shibusen defend Death City from some of the most powerful of creatures while still attending school and trying to become stronger.",
+  "synopsis": "Set in the Shinigami technical school for weapon meisters, the series revolves around 3 groups of each a weapon meister and a human weapon. Trying to make the latter a \"Death Scythe\" which is the highest title for a weapon and thus fit for use by the Shinigami, they must collect the souls of 99 evil humans and 1 witch.\n\n\nMaka &amp; Soul Eater, Black Star &amp; Tsubaki, and Death the Kid with Patty and Liz Thompson are the characters Soul Eater revolves around. Besides taking the time to gather souls, these students of Shibusen defend Death City from some of the most powerful of creatures while still attending school and trying to become stronger.",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3588-fSMggQoFSbUI.png",
   "synonym": "Soul Eater",
   "native": "ソウルイーター",
-  "aired": "4/7/2008",
-  "releaseDate": "Apr 7, 2008",
+  "aired": "04/07/2008",
   "premiered": "SPRING 2008",
   "duration": "24m",
   "episodesCount": "51",
@@ -25,9 +24,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "3588",
-  "streamingId": "3588",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -1356,5 +1352,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:22:45.204Z"
+  "streamingId": "3588",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2008-04-07",
+  "malId": "3588",
+  "_forceSyncTime": 1778770874648
 }
