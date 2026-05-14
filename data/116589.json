@@ -1,10 +1,10 @@
 {
   "title": "86 EIGHTY-SIX",
-  "synopsis": "Called “Juggernaut,” these are the unmanned combat drones developed by the Republic of San Magnolia in answer to the attacks by the autonomous unmanned drones of the neighboring Empire of Giad, the “Legion”. But they’re only unmanned in name. In reality, they are piloted by the Eighty-sixers—those considered to be less than human and treated as mere tools.\n\nDetermined to achieve his own mysterious ends, Shin, the captain of Spearhead Squadron, which is comprised of Eighty-sixers, continues to fight a hopeless war on a battlefield where only death awaits him.\n\n(Source: Crunchyroll)",
+  "synopsis": "Called “Juggernaut,” these are the unmanned combat drones developed by the Republic of San Magnolia in answer to the attacks by the autonomous unmanned drones of the neighboring Empire of Giad, the “Legion”. But they’re only unmanned in name. In reality, they are piloted by the Eighty-sixers—those considered to be less than human and treated as mere tools.\n\n\n\nDetermined to achieve his own mysterious ends, Shin, the captain of Spearhead Squadron, which is comprised of Eighty-sixers, continues to fight a hopeless war on a battlefield where only death awaits him.\n\n\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116589-KawXHB6sApFt.jpg",
   "synonym": "86: Eighty Six",
   "native": "86－エイティシックス－",
-  "aired": "4/11/2021",
+  "aired": "04/11/2021",
   "premiered": "SPRING 2021",
   "duration": "24m",
   "episodesCount": "11",
@@ -16,14 +16,13 @@
   ],
   "rating": "8.3",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "A-1 Pictures",
+  "studios": [
+    "A-1 Pictures"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "41457",
-  "streamingId": "116589",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -311,5 +310,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "116589",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2021-04-11",
+  "malId": "41457",
+  "_forceSyncTime": 1778771670230
 }
