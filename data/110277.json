@@ -1,15 +1,13 @@
 {
   "title": "Attack on Titan Final Season",
-  "synopsis": "It’s been four years since the Scout Regiment reached the shoreline, and the world looks different now. Things are heating up as the fate of the Scout Regiment—and the people of Paradis—are determined at last. However, Eren is missing. Will he reappear before age-old tensions between Marleyans and Eldians result in the war of all wars?\n\n(Source: Crunchyroll)",
+  "synopsis": "It’s been four years since the Scout Regiment reached the shoreline, and the world looks different now. Things are heating up as the fate of the Scout Regiment—and the people of Paradis—are determined at last. However, Eren is missing. Will he reappear before age-old tensions between Marleyans and Eldians result in the war of all wars?\n\n\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-sKUNXAsWMNFw.jpg",
   "synonym": "Shingeki no Kyojin: The Final Season",
   "native": "進撃の巨人 The Final Season",
-  "aired": "12/7/2020",
-  "releaseDate": "Dec 7, 2020",
+  "aired": "12/07/2020",
   "premiered": "WINTER 2021",
   "duration": "24m",
   "episodesCount": "16",
-  "totalEpisodes": 16,
   "genres": [
     "Action",
     "Drama",
@@ -25,9 +23,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "40028",
-  "streamingId": "110277",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -446,5 +441,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T22:57:13.538Z"
+  "streamingId": "110277",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2020-12-07",
+  "malId": "40028",
+  "_forceSyncTime": 1778769416008
 }
