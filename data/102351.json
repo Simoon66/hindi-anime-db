@@ -1,10 +1,10 @@
 {
   "title": "Tokyo Ghoul:re 2",
-  "synopsis": "The second cour of Tokyo Ghoul:re.\nKaneki Ken has finally regained memories of his former self, but this once again leaves him at a crossroads in the war between human and ghoul. After donning a pair of glasses to mirror his mentor Arima, Kaneki's new assignment is to manage the interrogation of Eto, the One-Eyed Owl, after she reveals her ghoul nature in a press conference about the publication of her newest book, which she claims will bridge the gap between the two warring sides. Now interred in Cochlea, Eto eagerly awaits the awakening of the \"One-Eyed King\", but only Kaneki seems to understand what she's really planning. As Aogiri Tree descends on the facility to rescue their leader, Kaneki turns to one of his oldest friends for help in his new secret mission.\n\n(Source: Anime News Network)\nThe first episode was distributed online via GYAO! on September 29, 2018. TV broadcast began on October 9, 2018.",
+  "synopsis": "The second cour of Tokyo Ghoul:re.\n\n\nKaneki Ken has finally regained memories of his former self, but this once again leaves him at a crossroads in the war between human and ghoul. After donning a pair of glasses to mirror his mentor Arima, Kaneki's new assignment is to manage the interrogation of Eto, the One-Eyed Owl, after she reveals her ghoul nature in a press conference about the publication of her newest book, which she claims will bridge the gap between the two warring sides. Now interred in Cochlea, Eto eagerly awaits the awakening of the \"One-Eyed King\", but only Kaneki seems to understand what she's really planning. As Aogiri Tree descends on the facility to rescue their leader, Kaneki turns to one of his oldest friends for help in his new secret mission.\n\n\n\n(Source: Anime News Network)\n\n\nThe first episode was distributed online via GYAO! on September 29, 2018. TV broadcast began on October 9, 2018.",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102351-yD3Ty9YZFMsf.jpg",
   "synonym": "Tokyo Ghoul:re 2",
   "native": "東京喰種-トーキョーグール-:re 2",
-  "aired": "10/9/2018",
+  "aired": "10/09/2018",
   "premiered": "FALL 2018",
   "duration": "24m",
   "episodesCount": "12",
@@ -17,14 +17,13 @@
   ],
   "rating": "6.2",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Studio Pierrot",
+  "studios": [
+    "Studio Pierrot"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "37799",
-  "streamingId": "102351",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -338,5 +337,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "102351",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2018-10-09",
+  "malId": "37799",
+  "_forceSyncTime": 1778783721344
 }
