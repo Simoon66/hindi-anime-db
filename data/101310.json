@@ -4,7 +4,7 @@
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101310-w1PLPsyg0XHr.jpg",
   "synonym": "Kishuku Gakkou no Juliet",
   "native": "寄宿学校のジュリエット",
-  "aired": "10/6/2018",
+  "aired": "10/06/2018",
   "premiered": "FALL 2018",
   "duration": "25m",
   "episodesCount": "12",
@@ -14,14 +14,13 @@
   ],
   "rating": "7.3",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "LIDENFILMS",
+  "studios": [
+    "LIDENFILMS"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "37475",
-  "streamingId": "101310",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -335,5 +334,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "101310",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2018-10-06",
+  "malId": "37475",
+  "_forceSyncTime": 1778771312155
 }
