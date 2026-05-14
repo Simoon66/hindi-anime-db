@@ -1,10 +1,10 @@
 {
   "title": "Nichijou - My Ordinary Life",
-  "synopsis": "Nichijou primarily focuses on the daily antics of a trio of childhood friends—high school girls Mio Naganohara, Yuuko Aioi and Mai Minakami—whose stories soon intertwine with the young genius Hakase Shinonome, her robot caretaker Nano, and their talking cat Sakamoto. With every passing day, the lives of these six, as well as of the many people around them, experience both the calms of normal life and the insanity of the absurd. Walking to school, being bitten by a talking crow, spending time with friends, and watching the principal suplex a deer: they are all in a day's work in the extraordinary everyday lives of those in Nichijou. \n(Source: MAL Rewrite)",
+  "synopsis": "Nichijou primarily focuses on the daily antics of a trio of childhood friends—high school girls Mio Naganohara, Yuuko Aioi and Mai Minakami—whose stories soon intertwine with the young genius Hakase Shinonome, her robot caretaker Nano, and their talking cat Sakamoto. With every passing day, the lives of these six, as well as of the many people around them, experience both the calms of normal life and the insanity of the absurd. Walking to school, being bitten by a talking crow, spending time with friends, and watching the principal suplex a deer: they are all in a day's work in the extraordinary everyday lives of those in Nichijou. \n\n\n(Source: MAL Rewrite)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10165-tw8Cz7K9tfVJ.png",
   "synonym": "Nichijou",
   "native": "日常",
-  "aired": "4/3/2011",
+  "aired": "04/03/2011",
   "premiered": "SPRING 2011",
   "duration": "23m",
   "episodesCount": "26",
@@ -14,14 +14,13 @@
   ],
   "rating": "8.3",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Kyoto Animation",
+  "studios": [
+    "Kyoto Animation"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "10165",
-  "streamingId": "10165",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -699,5 +698,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "10165",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2011-04-03",
+  "malId": "10165",
+  "_forceSyncTime": 1778782519944
 }
