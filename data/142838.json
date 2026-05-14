@@ -1,10 +1,10 @@
 {
   "title": "SPY x FAMILY Cour 2",
-  "synopsis": "The second half of SPYxFAMILY.\n\nWith Anya Forger successfully enrolled at the renowned Eden Academy, Operation Strix advances to its second phase. To investigate Ostanian politician Donovan Desmond, Anya must either befriend his son Damian or collect eight Stella Stars to become an Imperial Scholar. Fortunately, Anya has already acquired her first star. In celebration, her adoptive father, Loid, decides to fulfill her wish to adopt a dog.\n\nDuring their canine search, Loid receives new orders from his superiors, who have found that a band of Berlint University students is plotting to assassinate Westalis' Minister Brantz using bombs worn by trained dogs. While Loid tries to stop their plans, Anya stumbles upon the terrorists' base of operations. There, she befriends a kindhearted, clairvoyant dog who the family later names Bond.\n\nAlthough the Forgers continue to lead their individual lives in secrecy, the family—with a new fluffy addition—remains united through all of the unusual obstacles thrown their way.\n\n(Source: MAL Rewrite)",
+  "synopsis": "The second half of SPYxFAMILY.\n\n\n\nWith Anya Forger successfully enrolled at the renowned Eden Academy, Operation Strix advances to its second phase. To investigate Ostanian politician Donovan Desmond, Anya must either befriend his son Damian or collect eight Stella Stars to become an Imperial Scholar. Fortunately, Anya has already acquired her first star. In celebration, her adoptive father, Loid, decides to fulfill her wish to adopt a dog.\n\n\n\nDuring their canine search, Loid receives new orders from his superiors, who have found that a band of Berlint University students is plotting to assassinate Westalis' Minister Brantz using bombs worn by trained dogs. While Loid tries to stop their plans, Anya stumbles upon the terrorists' base of operations. There, she befriends a kindhearted, clairvoyant dog who the family later names Bond.\n\n\n\nAlthough the Forgers continue to lead their individual lives in secrecy, the family—with a new fluffy addition—remains united through all of the unusual obstacles thrown their way.\n\n\n\n(Source: MAL Rewrite)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142838-26JrqcFU1ljB.jpg",
   "synonym": "SPY×FAMILY Part 2",
   "native": "SPY×FAMILY 第2クール",
-  "aired": "10/1/2022",
+  "aired": "10/01/2022",
   "premiered": "FALL 2022",
   "duration": "24m",
   "episodesCount": "13",
@@ -16,14 +16,14 @@
   ],
   "rating": "8.1",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "WIT STUDIO",
+  "studios": [
+    "WIT STUDIO",
+    "CloverWorks"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "50602",
-  "streamingId": "142838",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -363,5 +363,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "142838",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2022-10-01",
+  "malId": "50602",
+  "_forceSyncTime": 1778771501402
 }
