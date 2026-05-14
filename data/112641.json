@@ -1,11 +1,10 @@
 {
   "title": "Kaguya-sama: Love is War?",
-  "synopsis": "After a slow but eventful summer vacation, Shuchiin Academy's second term is now starting in full force. As August transitions into September, Miyuki Shirogane's birthday looms ever closer, leaving Kaguya Shinomiya in a serious predicament as to how to celebrate it. Furthermore, the tenure of the school's 67th student council is coming to an end. Due to the council members being in different classes, the only time Kaguya and Miyuki have to be together will soon disappear, putting all of their cunning plans at risk.\n\nA long and difficult election that will decide the fate of the new student council awaits, as multiple challengers fight for the coveted title of president.\n",
+  "synopsis": "After a slow but eventful summer vacation, Shuchiin Academy's second term is now starting in full force. As August transitions into September, Miyuki Shirogane's birthday looms ever closer, leaving Kaguya Shinomiya in a serious predicament as to how to celebrate it. Furthermore, the tenure of the school's 67th student council is coming to an end. Due to the council members being in different classes, the only time Kaguya and Miyuki have to be together will soon disappear, putting all of their cunning plans at risk.\n\n\nA long and difficult election that will decide the fate of the new student council awaits, as multiple challengers fight for the coveted title of president.\n\n",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112641-zoGC8d6FaPXU.jpg",
   "synonym": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
   "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
-  "aired": "4/11/2020",
-  "releaseDate": "Apr 11, 2020",
+  "aired": "04/11/2020",
   "premiered": "SPRING 2020",
   "duration": "25m",
   "episodesCount": "12",
@@ -24,9 +23,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "40591",
-  "streamingId": "112641",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -341,5 +337,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:20:36.200Z"
+  "streamingId": "112641",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2020-04-11",
+  "malId": "40591",
+  "_forceSyncTime": 1778770542013
 }
