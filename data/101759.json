@@ -1,15 +1,13 @@
 {
   "title": "The Promised Neverland",
-  "synopsis": "Emma, Norman and Ray are the brightest kids at the Grace Field House orphanage. And under the care of the woman they refer to as “Mom,” all the kids have enjoyed a comfortable life. Good food, clean clothes and the perfect environment to learn—what more could an orphan ask for? One day, though, Emma and Norman uncover the dark truth of the outside world they are forbidden from seeing.\n\n(Source: VIZ Media)",
+  "synopsis": "Emma, Norman and Ray are the brightest kids at the Grace Field House orphanage. And under the care of the woman they refer to as “Mom,” all the kids have enjoyed a comfortable life. Good food, clean clothes and the perfect environment to learn—what more could an orphan ask for? One day, though, Emma and Norman uncover the dark truth of the outside world they are forbidden from seeing.\n\n\n\n(Source: VIZ Media)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101759-8UR7r9MNVpz2.jpg",
   "synonym": "Yakusoku no Neverland",
   "native": "約束のネバーランド",
-  "aired": "1/10/2019",
-  "releaseDate": "Jan 10, 2019",
+  "aired": "01/10/2019",
   "premiered": "WINTER 2019",
   "duration": "23m",
   "episodesCount": "12",
-  "totalEpisodes": 12,
   "genres": [
     "Drama",
     "Fantasy",
@@ -27,9 +25,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "37779",
-  "streamingId": "101759",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -344,5 +339,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T22:57:19.589Z"
+  "streamingId": "101759",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2019-01-10",
+  "malId": "37779",
+  "_forceSyncTime": 1778769436230
 }
