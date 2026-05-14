@@ -1,10 +1,10 @@
 {
   "title": "DON'T TOY WITH ME, MISS NAGATORO",
-  "synopsis": "\"A girl in a lower grade just made me cry!\"\n\nOne day, Senpai visits the library after school and becomes the target of a super sadistic junior! The name of the girl who teases, torments, and tantalizes Senpai is \"Nagatoro!\" She's annoying yet adorable. It's painful, but you still want to be by her side. This is a story about an extremely sadistic and temperamental girl and you'll feel something awaken inside of you.\n\n(Source: Crunchyroll)",
+  "synopsis": "\"A girl in a lower grade just made me cry!\"\n\n\n\nOne day, Senpai visits the library after school and becomes the target of a super sadistic junior! The name of the girl who teases, torments, and tantalizes Senpai is \"Nagatoro!\" She's annoying yet adorable. It's painful, but you still want to be by her side. This is a story about an extremely sadistic and temperamental girl and you'll feel something awaken inside of you.\n\n\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120697-BA2TqxB1I5bJ.jpg",
   "synonym": "Ijiranaide, Nagatoro-san",
   "native": "イジらないで、長瀞さん",
-  "aired": "4/11/2021",
+  "aired": "04/11/2021",
   "premiered": "SPRING 2021",
   "duration": "24m",
   "episodesCount": "12",
@@ -15,14 +15,13 @@
   ],
   "rating": "6.9",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Telecom Animation Film",
+  "studios": [
+    "Telecom Animation Film"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "42361",
-  "streamingId": "120697",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -336,5 +335,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "120697",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2021-04-11",
+  "malId": "42361",
+  "_forceSyncTime": 1778772424880
 }
