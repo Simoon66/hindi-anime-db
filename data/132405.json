@@ -1,11 +1,10 @@
 {
   "title": "My Dress-Up Darling",
-  "synopsis": "High schooler Wakana Gojou cares about one thing: making Hina dolls. With nobody to share his obsession, he has trouble finding friends—or even holding conversation. But after the school’s most popular girl, Marin Kitagawa, reveals a secret of her own, he discovers a new purpose for his sewing skills. Together, they’ll make her cosplay dreams come true! \n\n(Source: Funimation)",
-  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132405-qP7FQYGmNI3d.jpg",
-  "synonym": "Sono Bisque Doll wa Koi wo Suru",
+  "synopsis": "High schooler Wakana Gojou cares about one thing: making Hina dolls. With nobody to share his obsession, he has trouble finding friends—or even holding conversation. But after the school’s most popular girl, Marin Kitagawa, reveals a secret of her own, he discovers a new purpose for his sewing skills. Together, they’ll make her cosplay dreams come true! \n\n\n\n(Source: Funimation)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132405-qP7FQYGmNI3d.jpg",
+  "synonym": "Sono Kisekae Ningyou wa Koi wo suru",
   "native": "その着せ替え人形は恋をする",
-  "aired": "1/9/2022",
-  "releaseDate": "Jan 9, 2022",
+  "aired": "Jan 9, 2022 to Mar 27, 2022",
   "premiered": "WINTER 2022",
   "duration": "24m",
   "episodesCount": "12",
@@ -22,21 +21,30 @@
   "studios": [
     "CloverWorks"
   ],
-  "producers": [],
+  "producers": [
+    "Aniplex",
+    "Square Enix",
+    "Movic",
+    "TOKYO MX",
+    "BS11",
+    "Studio Mausu"
+  ],
   "seasons": [
+    {
+      "title": "Season 1",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132405-qP7FQYGmNI3d.jpg",
+      "link": "/2022/01/132405.html"
+    },
     {
       "title": "Season 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154768-DHHvNd4MjV1p.jpg",
       "link": "/2025/07/154768.html"
     }
   ],
-  "malId": "48736",
-  "streamingId": "132405",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
-      "episode": "1",
       "title": "Someone Who Lives in the Exact Opposite World as Me",
+      "episode": "1",
       "files": [
         {
           "name": "HD-1",
@@ -61,8 +69,8 @@
       ]
     },
     {
-      "episode": "2",
       "title": "Wanna Hurry Up, and Do It?",
+      "episode": "2",
       "files": [
         {
           "name": "HD-1",
@@ -87,8 +95,8 @@
       ]
     },
     {
-      "episode": "3",
       "title": "Then Why Don't We?",
+      "episode": "3",
       "files": [
         {
           "name": "HD-1",
@@ -113,8 +121,8 @@
       ]
     },
     {
-      "episode": "4",
       "title": "Are These Your Girlfriend's?",
+      "episode": "4",
       "files": [
         {
           "name": "HD-1",
@@ -139,8 +147,8 @@
       ]
     },
     {
-      "episode": "5",
       "title": "It's Probably Because This Is the Best Boob Bag Here",
+      "episode": "5",
       "files": [
         {
           "name": "HD-1",
@@ -165,8 +173,8 @@
       ]
     },
     {
-      "episode": "6",
       "title": "For Real?!",
+      "episode": "6",
       "files": [
         {
           "name": "HD-1",
@@ -191,8 +199,8 @@
       ]
     },
     {
-      "episode": "7",
       "title": "A Home Date with the Guy I Wuv Is the Best",
+      "episode": "7",
       "files": [
         {
           "name": "HD-1",
@@ -217,8 +225,8 @@
       ]
     },
     {
-      "episode": "8",
       "title": "Backlighting Is the Best",
+      "episode": "8",
       "files": [
         {
           "name": "HD-1",
@@ -243,8 +251,8 @@
       ]
     },
     {
-      "episode": "9",
       "title": "A Lot Happened After I Saw That Photo",
+      "episode": "9",
       "files": [
         {
           "name": "HD-1",
@@ -269,8 +277,8 @@
       ]
     },
     {
-      "episode": "10",
       "title": "We've All Got Struggles",
+      "episode": "10",
       "files": [
         {
           "name": "HD-1",
@@ -295,8 +303,8 @@
       ]
     },
     {
-      "episode": "11",
       "title": "I Am Currently at a Love Hotel",
+      "episode": "11",
       "files": [
         {
           "name": "HD-1",
@@ -321,8 +329,8 @@
       ]
     },
     {
-      "episode": "12",
       "title": "My Dress-Up Darling",
+      "episode": "12",
       "files": [
         {
           "name": "HD-1",
@@ -347,5 +355,8 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:21:44.191Z"
+  "streamingId": "132405",
+  "hostUrl": "",
+  "releaseDate": "Jan 9, 2022",
+  "malId": "48736"
 }
