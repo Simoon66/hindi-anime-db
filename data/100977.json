@@ -1,15 +1,13 @@
 {
   "title": "Cells at Work!",
-  "synopsis": "The average human body contains about 60 trillion cells, and each of them has work to do! But when you get injured, viruses or bacteria invade, or when an allergic reaction flares up, everyone from the silent but deadly white blood cells to the brainy neurons has to work together to get through the crisis!\n\n(Source: Kodansha US)",
+  "synopsis": "The average human body contains about 60 trillion cells, and each of them has work to do! But when you get injured, viruses or bacteria invade, or when an allergic reaction flares up, everyone from the silent but deadly white blood cells to the brainy neurons has to work together to get through the crisis!\n\n\n\n(Source: Kodansha US)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100977-nH1J2dR7GGAk.jpg",
   "synonym": "Hataraku Saibou",
   "native": "はたらく細胞",
-  "aired": "7/8/2018",
-  "releaseDate": "Jul 8, 2018",
+  "aired": "07/08/2018",
   "premiered": "SUMMER 2018",
   "duration": "24m",
   "episodesCount": "13",
-  "totalEpisodes": 13,
   "genres": [
     "Action",
     "Comedy",
@@ -24,9 +22,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "37141",
-  "streamingId": "100977",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -367,5 +362,9 @@
       ]
     }
   ],
-  "_forceSyncTime": 1778540622558
+  "streamingId": "100977",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2018-07-08",
+  "malId": "37141",
+  "_forceSyncTime": 1778769496488
 }
