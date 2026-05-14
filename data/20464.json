@@ -1,11 +1,10 @@
 {
   "title": "HAIKYU!!",
-  "synopsis": "Inspired after watching a volleyball ace nicknamed \"Little Giant\" in action, small-statured Shouyou Hinata revives the volleyball club at his middle school. The newly-formed team even makes it to a tournament; however, their first match turns out to be their last when they are brutally squashed by the \"King of the Court,\" Tobio Kageyama. Hinata vows to surpass Kageyama, and so after graduating from middle school, he joins Karasuno High School's volleyball team—only to find that his sworn rival, Kageyama, is now his teammate.\n\nThanks to his short height, Hinata struggles to find his role on the team, even with his superior jumping power. Surprisingly, Kageyama has his own problems that only Hinata can help with, and learning to work together appears to be the only way for the team to be successful. Based on Haruichi Furudate's popular shounen manga of the same name, Haikyuu!! is an exhilarating and emotional sports comedy following two determined athletes as they attempt to patch a heated rivalry in order to make their high school volleyball team the best in Japan.\n\n[Written by MAL Rewrite]",
+  "synopsis": "Inspired after watching a volleyball ace nicknamed \"Little Giant\" in action, small-statured Shouyou Hinata revives the volleyball club at his middle school. The newly-formed team even makes it to a tournament; however, their first match turns out to be their last when they are brutally squashed by the \"King of the Court,\" Tobio Kageyama. Hinata vows to surpass Kageyama, and so after graduating from middle school, he joins Karasuno High School's volleyball team—only to find that his sworn rival, Kageyama, is now his teammate.\n\n\n\nThanks to his short height, Hinata struggles to find his role on the team, even with his superior jumping power. Surprisingly, Kageyama has his own problems that only Hinata can help with, and learning to work together appears to be the only way for the team to be successful. Based on Haruichi Furudate's popular shounen manga of the same name, Haikyuu!! is an exhilarating and emotional sports comedy following two determined athletes as they attempt to patch a heated rivalry in order to make their high school volleyball team the best in Japan.\n\n\n\n[Written by MAL Rewrite]",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-ooZUyBe4ptp9.png",
   "synonym": "Haikyuu!!",
   "native": "ハイキュー!!",
-  "aired": "4/6/2014",
-  "releaseDate": "Apr 6, 2014",
+  "aired": "04/06/2014",
   "premiered": "SPRING 2014",
   "duration": "24m",
   "episodesCount": "25",
@@ -23,9 +22,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "20583",
-  "streamingId": "20464",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -678,5 +674,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:15:59.200Z"
+  "streamingId": "20464",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2014-04-06",
+  "malId": "20583",
+  "_forceSyncTime": 1778769695867
 }
