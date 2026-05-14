@@ -1,15 +1,13 @@
 {
   "title": "How NOT to Summon a Demon Lord",
-  "synopsis": "In the MMORPG Cross Reverie, Takuma Sakamoto is so powerful that he is lauded as the “Demon Lord” by other players. One day, he is summoned to another world – but with the same appearance he had in the game! There, he meets two girls who both proclaim themselves to be his Summoner. They had performed an Enslavement Ritual to turn him into their Summon... but that's when Takuma's passive ability  activated! Instead, it was the girls who had become enslaved! Though Takuma may have been the strongest Sorcerer there was, he had no idea how to talk with other people. That's when he makes his choice: to act based on his persona from the game!\n\n“Amazing? But of course... I am Diablo, the being known and feared as the Demon Lord!”\n\nSo begins a tale of adventure with an earth-shakingly powerful Demon Lord (or at least someone who acts like one) taking on another world!\n\n(Source: J-Novel Club)",
+  "synopsis": "In the MMORPG Cross Reverie, Takuma Sakamoto is so powerful that he is lauded as the “Demon Lord” by other players. One day, he is summoned to another world – but with the same appearance he had in the game! There, he meets two girls who both proclaim themselves to be his Summoner. They had performed an Enslavement Ritual to turn him into their Summon... but that's when Takuma's passive ability  activated! Instead, it was the girls who had become enslaved! Though Takuma may have been the strongest Sorcerer there was, he had no idea how to talk with other people. That's when he makes his choice: to act based on his persona from the game!\n\n\n\n“Amazing? But of course... I am Diablo, the being known and feared as the Demon Lord!”\n\n\n\nSo begins a tale of adventure with an earth-shakingly powerful Demon Lord (or at least someone who acts like one) taking on another world!\n\n\n\n(Source: J-Novel Club)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101004-rJLBIWGypbYK.png",
   "synonym": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
   "native": "異世界魔王と召喚少女の奴隷魔術",
-  "aired": "7/5/2018",
-  "releaseDate": "Jul 5, 2018",
+  "aired": "07/05/2018",
   "premiered": "SUMMER 2018",
   "duration": "24m",
   "episodesCount": "12",
-  "totalEpisodes": 12,
   "genres": [
     "Comedy",
     "Ecchi",
@@ -24,9 +22,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "37210",
-  "streamingId": "101004",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -341,5 +336,9 @@
       ]
     }
   ],
-  "_forceSyncTime": 1778540662348
+  "streamingId": "101004",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2018-07-05",
+  "malId": "37210",
+  "_forceSyncTime": 1778769533612
 }
