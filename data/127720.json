@@ -1,10 +1,10 @@
 {
   "title": "Mushoku Tensei: Jobless Reincarnation Cour 2",
-  "synopsis": "After the mysterious mana calamity, Rudeus Greyrat and his fierce student Eris Boreas Greyrat are teleported to the Demon Continent. There, they team up with their newfound companion Ruijerd Supardia—the former leader of the Superd's Warrior group—to form \"Dead End,\" a successful adventurer party. Making a name for themselves, the trio journeys across the continent to make their way back home to Fittoa.\n\nFollowing the advice he received from the faceless god Hitogami, Rudeus saves Kishirika Kishirisu, the Great Emperor of the Demon World, who rewards him by granting him a strange power. Now, as Rudeus masters the powerful ability that offers a number of new opportunities, it might prove to be more than what he bargained for when unexpected dangers threaten to hinder their travels.\n\n(Source: MAL Rewrite)",
+  "synopsis": "After the mysterious mana calamity, Rudeus Greyrat and his fierce student Eris Boreas Greyrat are teleported to the Demon Continent. There, they team up with their newfound companion Ruijerd Supardia—the former leader of the Superd's Warrior group—to form \"Dead End,\" a successful adventurer party. Making a name for themselves, the trio journeys across the continent to make their way back home to Fittoa.\n\n\n\nFollowing the advice he received from the faceless god Hitogami, Rudeus saves Kishirika Kishirisu, the Great Emperor of the Demon World, who rewards him by granting him a strange power. Now, as Rudeus masters the powerful ability that offers a number of new opportunities, it might prove to be more than what he bargained for when unexpected dangers threaten to hinder their travels.\n\n\n\n(Source: MAL Rewrite)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127720-ADJgIrUVMdU9.jpg",
   "synonym": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
   "native": "無職転生 ～異世界行ったら本気だす～ 第2クール",
-  "aired": "10/4/2021",
+  "aired": "10/04/2021",
   "premiered": "FALL 2021",
   "duration": "24m",
   "episodesCount": "12",
@@ -16,14 +16,13 @@
   ],
   "rating": "8.5",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Studio Bind",
+  "studios": [
+    "Studio Bind"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "45576",
-  "streamingId": "127720",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -337,5 +336,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "127720",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2021-10-04",
+  "malId": "45576",
+  "_forceSyncTime": 1778771761081
 }
