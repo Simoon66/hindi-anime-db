@@ -1,10 +1,10 @@
 {
   "title": "Beyond the Boundary",
-  "synopsis": "They should never have met. They shouldn't even exist. But when they come together, the entire world will change. The last surviving member of her clan, Mirai Kuriyama is cursed with the terrifying ability to control and manipulate blood, a power so heretical that she is shunned even by those with the ability to understand her \"gift\". Akihito Kanbara is only half human, but while the monstrous other half of his lineage seems to have doomed him to a life alone, it has also given him near invulnerability in the form of rapid healing. Alone, their futures seem bleak, but when a chance encounter brings them together, it becomes clear that they share more than just an unexpected bond. Together they share a destiny and a mission that only the two of them together may be strong enough to survive.\n\n(Source: Sentai Filmworks)",
+  "synopsis": "They should never have met. They shouldn't even exist. But when they come together, the entire world will change. The last surviving member of her clan, Mirai Kuriyama is cursed with the terrifying ability to control and manipulate blood, a power so heretical that she is shunned even by those with the ability to understand her \"gift\". Akihito Kanbara is only half human, but while the monstrous other half of his lineage seems to have doomed him to a life alone, it has also given him near invulnerability in the form of rapid healing. Alone, their futures seem bleak, but when a chance encounter brings them together, it becomes clear that they share more than just an unexpected bond. Together they share a destiny and a mission that only the two of them together may be strong enough to survive.\n\n\n\n(Source: Sentai Filmworks)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18153-oDqA9zQzQPOq.png",
   "synonym": "Kyoukai no Kanata",
   "native": "境界の彼方",
-  "aired": "10/3/2013",
+  "aired": "10/03/2013",
   "premiered": "FALL 2013",
   "duration": "24m",
   "episodesCount": "12",
@@ -17,14 +17,13 @@
   ],
   "rating": "7.4",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Kyoto Animation",
+  "studios": [
+    "Kyoto Animation"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "18153",
-  "streamingId": "18153",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -338,5 +337,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "18153",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2013-10-03",
+  "malId": "18153",
+  "_forceSyncTime": 1778772223663
 }
