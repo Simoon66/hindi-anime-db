@@ -1,10 +1,10 @@
 {
   "title": "Komi Can’t Communicate",
-  "synopsis": "Timid Tadano is a total wallflower, and that’s just the way he likes it. But all that changes when he finds himself alone in a classroom on the first day of high school with the legendary Komi. He quickly realizes she isn’t aloof—she’s just super awkward. Now he’s made it his mission to help her on her quest to make 100 friends!\n\n(Source: VIZ Media)",
+  "synopsis": "Timid Tadano is a total wallflower, and that’s just the way he likes it. But all that changes when he finds himself alone in a classroom on the first day of high school with the legendary Komi. He quickly realizes she isn’t aloof—she’s just super awkward. Now he’s made it his mission to help her on her quest to make 100 friends!\n\n\n\n(Source: VIZ Media)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133965-9TZBS4m4yvED.png",
   "synonym": "Komi-san wa, Komyushou desu.",
   "native": "古見さんは、コミュ症です。",
-  "aired": "10/7/2021",
+  "aired": "10/07/2021",
   "premiered": "FALL 2021",
   "duration": "24m",
   "episodesCount": "12",
@@ -15,14 +15,13 @@
   ],
   "rating": "7.6",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "OLM",
+  "studios": [
+    "OLM"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "48926",
-  "streamingId": "133965",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -336,5 +335,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "133965",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2021-10-07",
+  "malId": "48926",
+  "_forceSyncTime": 1778771557187
 }
