@@ -4,7 +4,7 @@
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10408-PlKJ6DAyvMk2.png",
   "synonym": "Hotarubi no Mori e",
   "native": "蛍火の杜へ",
-  "aired": "9/17/2011",
+  "aired": "09/17/2011",
   "premiered": "SUMMER 2011",
   "duration": "45m",
   "episodesCount": "1",
@@ -15,15 +15,14 @@
     "Supernatural"
   ],
   "rating": "8.0",
-  "type": "MOVIE",
-  "status": "FINISHED",
+  "type": "Movie",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Brain's Base",
+  "studios": [
+    "Brain's Base"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "10408",
-  "streamingId": "10408",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -51,5 +50,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "10408",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2011-09-17",
+  "malId": "10408",
+  "_forceSyncTime": 1778782811594
 }
