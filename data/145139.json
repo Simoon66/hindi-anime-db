@@ -1,11 +1,10 @@
 {
   "title": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
-  "synopsis": "Adaptation of the Swordsmith Village Arc.\n\nTanjiro’s journey leads him to the Swordsmith Village, where he reunites with two Hashira, members of the Demon Slayer Corps’ highest-ranking swordsmen - Mist Hashira Muichiro Tokito and Love Hashira Mitsuri Kanroji. With the shadows of demons lurking near, a new battle begins for Tanjiro and his comrades.\n\nNotes:\n• The first episode has a runtime of ~49 minutes, and received an early premiere in cinemas worldwide as part of a special screening alongside the final two episodes of Kimetsu no Yaiba: Yuukaku-hen.\n• The final episode has a runtime of ~52 minutes. ",
+  "synopsis": "Adaptation of the Swordsmith Village Arc.\n\n\n\nTanjiro’s journey leads him to the Swordsmith Village, where he reunites with two Hashira, members of the Demon Slayer Corps’ highest-ranking swordsmen - Mist Hashira Muichiro Tokito and Love Hashira Mitsuri Kanroji. With the shadows of demons lurking near, a new battle begins for Tanjiro and his comrades.\n\n\n\nNotes:\n\n• The first episode has a runtime of ~49 minutes, and received an early premiere in cinemas worldwide as part of a special screening alongside the final two episodes of Kimetsu no Yaiba: Yuukaku-hen.\n\n• The final episode has a runtime of ~52 minutes. ",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
   "synonym": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
   "native": "鬼滅の刃 刀鍛冶の里編",
-  "aired": "4/9/2023",
-  "releaseDate": "Apr 9, 2023",
+  "aired": "04/09/2023",
   "premiered": "SPRING 2023",
   "duration": "24m",
   "episodesCount": "11",
@@ -25,9 +24,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "51019",
-  "streamingId": "145139",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -316,5 +312,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:24:28.230Z"
+  "streamingId": "145139",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2023-04-09",
+  "malId": "51019",
+  "_forceSyncTime": 1778771095942
 }
