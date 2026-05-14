@@ -1,10 +1,10 @@
 {
   "title": "Overlord II",
-  "synopsis": "The second season of Overlord.\nContinuing his quest to rule this new world, Ains begins to put the pieces in place for his conquest. But between a Lizard Man tribe uprising, and performing missions as adamantite adventurer Lord Momon, Ains has his work cut out for him! Thankfully he has his most loyal and willing subordinates to do his bidding. Nothing and no one can stop the supreme and mighty Overlord in his quest to rule all!\n(Source: Manga Entertainment)",
+  "synopsis": "The second season of Overlord.\n\n\nContinuing his quest to rule this new world, Ains begins to put the pieces in place for his conquest. But between a Lizard Man tribe uprising, and performing missions as adamantite adventurer Lord Momon, Ains has his work cut out for him! Thankfully he has his most loyal and willing subordinates to do his bidding. Nothing and no one can stop the supreme and mighty Overlord in his quest to rule all!\n\n\n(Source: Manga Entertainment)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98437-5q0GWqHhNAgJ.jpg",
   "synonym": "Overlord II",
   "native": "オーバーロードⅡ",
-  "aired": "1/9/2018",
+  "aired": "01/09/2018",
   "premiered": "WINTER 2018",
   "duration": "24m",
   "episodesCount": "13",
@@ -15,14 +15,13 @@
   ],
   "rating": "7.6",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "MADHOUSE",
+  "studios": [
+    "MADHOUSE"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "35073",
-  "streamingId": "98437",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -362,5 +361,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "98437",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2018-01-09",
+  "malId": "35073",
+  "_forceSyncTime": 1778782204330
 }
