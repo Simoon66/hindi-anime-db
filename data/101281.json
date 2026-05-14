@@ -36,6 +36,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/37435/1/sub",
           "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/101281/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/37435/1/dub",
+          "type": "dub"
         }
       ]
     },
@@ -43,11 +53,6 @@
       "episode": "2",
       "title": "Born to Run",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101281/2/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101281/2/dub",
@@ -69,11 +74,6 @@
       "episode": "3",
       "title": "Fire and Rain",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101281/3/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101281/3/dub",
@@ -121,11 +121,6 @@
       "episode": "5",
       "title": "Every Breath You Take",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101281/5/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101281/5/dub",
@@ -201,11 +196,6 @@
       "files": [
         {
           "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101281/8/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101281/8/dub",
           "type": "dub"
         },
@@ -225,11 +215,6 @@
       "episode": "9",
       "title": "Dancing Queen",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101281/9/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101281/9/dub",
@@ -253,11 +238,6 @@
       "files": [
         {
           "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101281/10/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101281/10/dub",
           "type": "dub"
         },
@@ -277,11 +257,6 @@
       "episode": "11",
       "title": "With or Without You",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101281/11/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101281/11/dub",
@@ -357,11 +332,6 @@
       "files": [
         {
           "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101281/14/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101281/14/dub",
           "type": "dub"
         },
@@ -383,11 +353,6 @@
       "files": [
         {
           "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101281/15/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101281/15/dub",
           "type": "dub"
         },
@@ -407,11 +372,6 @@
       "episode": "16",
       "title": "A Natural Woman",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101281/16/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101281/16/dub",
@@ -487,11 +447,6 @@
       "files": [
         {
           "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101281/19/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101281/19/dub",
           "type": "dub"
         },
@@ -511,11 +466,6 @@
       "episode": "20",
       "title": "Immigrant Song",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/101281/20/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101281/20/dub",
@@ -642,5 +592,5 @@
   "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2019-04-10",
   "malId": "37435",
-  "_forceSyncTime": 1778769619737
+  "_forceSyncTime": 1778771019327
 }
