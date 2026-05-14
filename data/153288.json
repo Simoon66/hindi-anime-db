@@ -1,10 +1,10 @@
 {
   "title": "Kaiju No. 8",
   "synopsis": "With the highest kaiju-emergence rates in the world, Japan is no stranger to attack by deadly monsters. Enter the Japan Defense Force, a military organization tasked with the neutralization of kaiju. Kafka Hibino, a kaiju-corpse cleanup man, has always dreamed of joining the force. But when he gets another shot at achieving his childhood dream, he undergoes an unexpected transformation. How can he fight kaiju now that he’s become one himself?!\n\n\n\n(Source: VIZ Media)",
-  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153288-25FBfFJzEQ5O.jpg",
-  "synonym": "Monster #8",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-25FBfFJzEQ5O.jpg",
+  "synonym": "Kaijuu 8-gou",
   "native": "怪獣８号",
-  "aired": "Apr 13, 2024 to Jun 29, 2024",
+  "aired": "04/13/2024",
   "premiered": "SPRING 2024",
   "duration": "24m",
   "episodesCount": "12",
@@ -17,9 +17,7 @@
   "status": "Completed",
   "country": "JP",
   "studios": [
-    "Production I.G",
-    "Production I.G",
-    "Studio Khara"
+    "Production I.G"
   ],
   "producers": [
     "Toho",
@@ -54,8 +52,8 @@
   ],
   "episodes": [
     {
-      "title": "The Man Who Became a Kaiju",
       "episode": "1",
+      "title": "The Man Who Became a Kaiju",
       "files": [
         {
           "name": "HD-1",
@@ -80,8 +78,8 @@
       ]
     },
     {
-      "title": "The Kaiju Who Defeats Kaiju",
       "episode": "2",
+      "title": "The Kaiju Who Defeats Kaiju",
       "files": [
         {
           "name": "HD-1",
@@ -106,8 +104,8 @@
       ]
     },
     {
-      "title": "Revenge Match",
       "episode": "3",
+      "title": "Revenge Match",
       "files": [
         {
           "name": "HD-1",
@@ -132,8 +130,8 @@
       ]
     },
     {
-      "title": "Fortitude 9.8",
       "episode": "4",
+      "title": "Fortitude 9.8",
       "files": [
         {
           "name": "HD-1",
@@ -158,8 +156,8 @@
       ]
     },
     {
-      "title": "Joining Up!",
       "episode": "5",
+      "title": "Joining Up!",
       "files": [
         {
           "name": "HD-1",
@@ -184,8 +182,8 @@
       ]
     },
     {
-      "title": "Sagamihara Neutralization Operation At Daybreak",
       "episode": "6",
+      "title": "Sagamihara Neutralization Operation At Daybreak",
       "files": [
         {
           "name": "HD-1",
@@ -210,8 +208,8 @@
       ]
     },
     {
-      "title": "Kaiju No. 9",
       "episode": "7",
+      "title": "Kaiju No. 9",
       "files": [
         {
           "name": "HD-1",
@@ -236,8 +234,8 @@
       ]
     },
     {
-      "title": "Welcome to the Defense Force",
       "episode": "8",
+      "title": "Welcome to the Defense Force",
       "files": [
         {
           "name": "HD-1",
@@ -262,8 +260,8 @@
       ]
     },
     {
-      "title": "Raid on Tachikawa Base",
       "episode": "9",
+      "title": "Raid on Tachikawa Base",
       "files": [
         {
           "name": "HD-1",
@@ -288,8 +286,8 @@
       ]
     },
     {
-      "title": "Secret Revealed",
       "episode": "10",
+      "title": "Secret Revealed",
       "files": [
         {
           "name": "HD-1",
@@ -314,8 +312,8 @@
       ]
     },
     {
-      "title": "Kaiju No. 8 Captured",
       "episode": "11",
+      "title": "Kaiju No. 8 Captured",
       "files": [
         {
           "name": "HD-1",
@@ -340,8 +338,8 @@
       ]
     },
     {
-      "title": "Kafka Hibino",
       "episode": "12",
+      "title": "Kafka Hibino",
       "files": [
         {
           "name": "HD-1",
@@ -367,7 +365,8 @@
     }
   ],
   "streamingId": "153288",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
-  "releaseDate": "Apr 13, 2024",
-  "malId": "52588"
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2024-04-13",
+  "malId": "52588",
+  "_forceSyncTime": 1778772384529
 }
