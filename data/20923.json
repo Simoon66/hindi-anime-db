@@ -1,11 +1,10 @@
 {
   "title": "Food Wars!",
-  "synopsis": "Ever since he was little, Souma Yukihira’s main goals have been to beat his father in a cooking contest and take over the family diner. That’s why, when his dad suddenly announces that he’s shutting the restaurant down and sending Souma to cooking school, Souma is shocked. However, Totsuki Academy is no ordinary cooking school. This elite institution is filled with culinary giants like Erina “God Tongue” Nakiri, who does her best to keep a lowly short-order like Souma from even making it inside the door. However, if the snobs can dish it out, Souma can serve it up, and when he learns that only a handful of the students manage to graduate every year, he swears that the only way he’ll leave is as number one!\n\n(Source: Sentai Filmworks)",
+  "synopsis": "Ever since he was little, Souma Yukihira’s main goals have been to beat his father in a cooking contest and take over the family diner. That’s why, when his dad suddenly announces that he’s shutting the restaurant down and sending Souma to cooking school, Souma is shocked. However, Totsuki Academy is no ordinary cooking school. This elite institution is filled with culinary giants like Erina “God Tongue” Nakiri, who does her best to keep a lowly short-order like Souma from even making it inside the door. However, if the snobs can dish it out, Souma can serve it up, and when he learns that only a handful of the students manage to graduate every year, he swears that the only way he’ll leave is as number one!\n\n\n\n(Source: Sentai Filmworks)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20923-pNT38pjW3RFH.jpg",
   "synonym": "Shokugeki no Souma",
   "native": "食戟のソーマ",
-  "aired": "4/4/2015",
-  "releaseDate": "Apr 4, 2015",
+  "aired": "04/04/2015",
   "premiered": "SPRING 2015",
   "duration": "25m",
   "episodesCount": "24",
@@ -22,9 +21,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "28171",
-  "streamingId": "20923",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -651,5 +647,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:21:52.201Z"
+  "streamingId": "20923",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2015-04-04",
+  "malId": "28171",
+  "_forceSyncTime": 1778770751876
 }
