@@ -4,8 +4,7 @@
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97668-nC8gQrXVxt7k.png",
   "synonym": "One Punch Man 2",
   "native": "ワンパンマン 2",
-  "aired": "4/10/2019",
-  "releaseDate": "Apr 10, 2019",
+  "aired": "04/10/2019",
   "premiered": "SPRING 2019",
   "duration": "24m",
   "episodesCount": "12",
@@ -24,9 +23,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "34134",
-  "streamingId": "97668",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -341,5 +337,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T21:19:08.193Z"
+  "streamingId": "97668",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2019-04-10",
+  "malId": "34134",
+  "_forceSyncTime": 1778770282011
 }
