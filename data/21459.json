@@ -1,15 +1,13 @@
 {
   "title": "My Hero Academia",
-  "synopsis": "What would the world be like if 80 percent of the population manifested extraordinary superpowers called “Quirks” at age four? Heroes and villains would be battling it out everywhere! Becoming a hero would mean learning to use your power, but where would you go to study? U.A. High's Hero Program of course! But what would you do if you were one of the 20 percent who were born Quirkless?\n\nMiddle school student Izuku Midoriya wants to be a hero more than anything, but he hasn't got an ounce of power in him. With no chance of ever getting into the prestigious U.A. High School for budding heroes, his life is looking more and more like a dead end. Then an encounter with All Might, the greatest hero of them all gives him a chance to change his destiny…\n\n(Source: VIZ Media)",
+  "synopsis": "What would the world be like if 80 percent of the population manifested extraordinary superpowers called “Quirks” at age four? Heroes and villains would be battling it out everywhere! Becoming a hero would mean learning to use your power, but where would you go to study? U.A. High's Hero Program of course! But what would you do if you were one of the 20 percent who were born Quirkless?\n\n\n\nMiddle school student Izuku Midoriya wants to be a hero more than anything, but he hasn't got an ounce of power in him. With no chance of ever getting into the prestigious U.A. High School for budding heroes, his life is looking more and more like a dead end. Then an encounter with All Might, the greatest hero of them all gives him a chance to change his destiny…\n\n\n\n(Source: VIZ Media)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-nYh85uj2Fuwr.jpg",
   "synonym": "Boku no Hero Academia",
   "native": "僕のヒーローアカデミア",
-  "aired": "4/3/2016",
-  "releaseDate": "Apr 3, 2016",
+  "aired": "04/03/2016",
   "premiered": "SPRING 2016",
   "duration": "24m",
   "episodesCount": "13",
-  "totalEpisodes": 13,
   "genres": [
     "Action",
     "Adventure",
@@ -24,9 +22,6 @@
   ],
   "producers": [],
   "seasons": [],
-  "malId": "31964",
-  "streamingId": "21459",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -367,5 +362,9 @@
       ]
     }
   ],
-  "_lastSync": "2026-05-11T22:54:55.358Z"
+  "streamingId": "21459",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2016-04-03",
+  "malId": "31964",
+  "_forceSyncTime": 1778769052004
 }
