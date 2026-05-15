@@ -4,7 +4,7 @@
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx889-4S7N2ciq2cwA.png",
   "synonym": "BLACK LAGOON",
   "native": "BLACK LAGOON",
-  "aired": "4/9/2006",
+  "aired": "04/09/2006",
   "premiered": "SPRING 2006",
   "duration": "24m",
   "episodesCount": "12",
@@ -16,14 +16,13 @@
   ],
   "rating": "7.8",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "MADHOUSE",
+  "studios": [
+    "MADHOUSE"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "889",
-  "streamingId": "889",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -337,5 +336,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "889",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2006-04-09",
+  "malId": "889",
+  "_forceSyncTime": 1778862448004
 }
