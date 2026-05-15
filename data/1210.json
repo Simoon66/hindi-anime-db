@@ -1,10 +1,10 @@
 {
   "title": "Welcome to the N-H-K",
-  "synopsis": "Satou’s life – or what’s left of it – is a paranoid mess of conspiracy theories and social anxieties. He’s terrified of the outside world; his apartment is overflowing with the remnants of cheap take-out food; and his retinas have been permanently scarred by a steady diet of internet porn. But maybe it’s not all his fault. After all, the nefarious N-H-K is out there, and they’re determined to turn society’s fringe-dwellers into a brainwashed lot of jobless, hopeless, futureless recluses.\n\nEnter Misaki – a mysterious girl-next-door type who is Satou’s last chance to beat down his inner demons and venture out into the light of day. She’s ready to help him overcome his crippling phobias, but Satou would rather cower in his existential foxhole and pretend to work on the demo for his virtual sex game.\n\nHe’s afraid to face the world. She’s strangely desperate to fix a total stranger. Maybe together they can be normal.\n\n(Source: Funimation)",
+  "synopsis": "Satou’s life – or what’s left of it – is a paranoid mess of conspiracy theories and social anxieties. He’s terrified of the outside world; his apartment is overflowing with the remnants of cheap take-out food; and his retinas have been permanently scarred by a steady diet of internet porn. But maybe it’s not all his fault. After all, the nefarious N-H-K is out there, and they’re determined to turn society’s fringe-dwellers into a brainwashed lot of jobless, hopeless, futureless recluses.\n\n\n\nEnter Misaki – a mysterious girl-next-door type who is Satou’s last chance to beat down his inner demons and venture out into the light of day. She’s ready to help him overcome his crippling phobias, but Satou would rather cower in his existential foxhole and pretend to work on the demo for his virtual sex game.\n\n\n\nHe’s afraid to face the world. She’s strangely desperate to fix a total stranger. Maybe together they can be normal.\n\n\n\n(Source: Funimation)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1210-2XotjcgqdcaX.jpg",
   "synonym": "NHK ni Youkoso!",
   "native": "N・H・Kにようこそ！",
-  "aired": "7/10/2006",
+  "aired": "07/10/2006",
   "premiered": "SUMMER 2006",
   "duration": "24m",
   "episodesCount": "24",
@@ -17,14 +17,13 @@
   ],
   "rating": "8.2",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "GONZO",
+  "studios": [
+    "GONZO"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "1210",
-  "streamingId": "1210",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -650,5 +649,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "1210",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2006-07-10",
+  "malId": "1210",
+  "_forceSyncTime": 1778865148750
 }
