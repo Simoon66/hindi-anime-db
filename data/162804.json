@@ -1,10 +1,10 @@
 {
   "title": "Alya Sometimes Hides Her Feelings in Russian",
-  "synopsis": "Alya is a transfer student enjoying popularity at her new high school, often sporting a cold shoulder while earning high marks in class. She ignores her nerdy classmate, Kuze Masachika, except for when she blurts out a flirtatious line to him in Russian. Little does she know, Kuze understands Russian, though he pretends not to. Let’s see where this wacky love story takes them!\n\n(Source: Crunchyroll)",
-  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162804-TBeptcAfvqTd.jpg",
-  "synonym": "Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san",
+  "synopsis": "Alya is a transfer student enjoying popularity at her new high school, often sporting a cold shoulder while earning high marks in class. She ignores her nerdy classmate, Kuze Masachika, except for when she blurts out a flirtatious line to him in Russian. Little does she know, Kuze understands Russian, though he pretends not to. Let’s see where this wacky love story takes them!\n\n\n\n(Source: Crunchyroll)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162804-TBeptcAfvqTd.jpg",
+  "synonym": "Roshidere",
   "native": "時々ボソッとロシア語でデレる隣のアーリャさん",
-  "aired": "7/3/2024",
+  "aired": "Jul 3, 2024 to Sep 18, 2024",
   "premiered": "SUMMER 2024",
   "duration": "25m",
   "episodesCount": "12",
@@ -15,18 +15,32 @@
   ],
   "rating": "7.5",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Doga Kobo",
-  "producers": [],
-  "seasons": [],
-  "malId": "54744",
-  "streamingId": "162804",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "studios": [
+    "Doga Kobo",
+    "Doga Kobo"
+  ],
+  "producers": [
+    "KADOKAWA",
+    "SEGA"
+  ],
+  "seasons": [
+    {
+      "title": "[TV] Alya Sometimes Hides Her Feelings in Russian",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162804-TBeptcAfvqTd.jpg",
+      "link": "/2024/07/162804.html"
+    },
+    {
+      "title": "[TV] Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181641-XPV9xFwWjvu9.jpg",
+      "link": "/2027/00/181641.html"
+    }
+  ],
   "episodes": [
     {
-      "episode": "1",
       "title": "Alya Hides Her Feelings in Russian",
+      "episode": "1",
       "files": [
         {
           "name": "HD-1",
@@ -51,8 +65,8 @@
       ]
     },
     {
-      "episode": "2",
       "title": "So Much For Childhood Friends",
+      "episode": "2",
       "files": [
         {
           "name": "HD-1",
@@ -77,8 +91,8 @@
       ]
     },
     {
-      "episode": "3",
       "title": "And So They Met",
+      "episode": "3",
       "files": [
         {
           "name": "HD-1",
@@ -103,8 +117,8 @@
       ]
     },
     {
-      "episode": "4",
       "title": "An Outpouring of Emotion",
+      "episode": "4",
       "files": [
         {
           "name": "HD-1",
@@ -129,8 +143,8 @@
       ]
     },
     {
-      "episode": "5",
       "title": "Different People, Common Undercurrent",
+      "episode": "5",
       "files": [
         {
           "name": "HD-1",
@@ -155,8 +169,8 @@
       ]
     },
     {
-      "episode": "6",
       "title": "A Kiss of the Indirect Variety",
+      "episode": "6",
       "files": [
         {
           "name": "HD-1",
@@ -181,8 +195,8 @@
       ]
     },
     {
-      "episode": "7",
       "title": "A Storm Arrives",
+      "episode": "7",
       "files": [
         {
           "name": "HD-1",
@@ -207,8 +221,8 @@
       ]
     },
     {
-      "episode": "8",
       "title": "Student Congress",
+      "episode": "8",
       "files": [
         {
           "name": "HD-1",
@@ -233,8 +247,8 @@
       ]
     },
     {
-      "episode": "9",
       "title": "Rom-commy with a Chance of Hypnosis",
+      "episode": "9",
       "files": [
         {
           "name": "HD-1",
@@ -259,8 +273,8 @@
       ]
     },
     {
-      "episode": "10",
       "title": "Birthday Party, Much Belated",
+      "episode": "10",
       "files": [
         {
           "name": "HD-1",
@@ -285,8 +299,8 @@
       ]
     },
     {
-      "episode": "11",
       "title": "An Unexpected Curtain-Raiser",
+      "episode": "11",
       "files": [
         {
           "name": "HD-1",
@@ -311,8 +325,8 @@
       ]
     },
     {
-      "episode": "12",
       "title": "Chin Up and Face Forward",
+      "episode": "12",
       "files": [
         {
           "name": "HD-1",
@@ -336,5 +350,9 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "162804",
+  "hostUrl": "",
+  "releaseDate": "Jul 3, 2024",
+  "malId": "54744"
 }
