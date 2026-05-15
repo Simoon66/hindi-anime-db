@@ -1,12 +1,12 @@
 {
   "title": "Attack on Titan Season 3 Part 2",
-  "synopsis": "The battle to retake Wall Maria begins now! With Eren’s new hardening ability, the Scouts are confident they can seal the wall and take back Shiganshina District. If they succeed, Eren can finally unlock the secrets of the basement—and the world. But danger lies in wait as Reiner, Bertholdt, and the Beast Titan have plans of their own. Could this be humanity’s final battle for survival?\n\n\n\n(Source: Funimation)",
+  "synopsis": "The battle to retake Wall Maria begins now! With Eren’s new hardening ability, the Scouts are confident they can seal the wall and take back Shiganshina District. If they succeed, Eren can finally unlock the secrets of the basement—and the world. But danger lies in wait as Reiner, Bertholdt, and the Beast Titan have plans of their own. Could this be humanity’s final battle for survival?\\n\n\\n\n(Source: Funimation)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104578-k61nx3LPjvgd.jpg",
-  "synonym": "Shingeki no Kyojin Season 3 Part 2",
-  "native": "進撃の巨人 Season３ Part.2",
-  "aired": "04/29/2019",
-  "premiered": "SPRING 2019",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "10",
   "genres": [
     "Action",
@@ -14,24 +14,66 @@
     "Fantasy",
     "Mystery"
   ],
-  "rating": "9.0",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "WIT STUDIO"
   ],
   "producers": [],
-  "seasons": [],
-  "episodes": [
+  "seasons": [
     {
-      "episode": "1",
-      "title": "The Town Where Everything Began",
-      "files": []
+      "title": "[TV Series] Attack on Titan Season 3 Part 2",
+      "link": "/2019/04/104578.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104578-k61nx3LPjvgd.jpg"
     },
     {
+      "title": "[TV Series] Attack on Titan Season 3",
+      "link": "/2018/07/99147.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99147-AiPDD8cwlCfi.jpg"
+    },
+    {
+      "title": "[TV Series] Attack on Titan Final Season",
+      "link": "/2020/12/110277.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110277-sKUNXAsWMNFw.jpg"
+    },
+    {
+      "title": "[Movie] Attack on Titan ~Chronicle~",
+      "link": "/2020/07/119113.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119113-IzVI5oZ0og8O.jpg"
+    }
+  ],
+  "episodes": [
+    {
+      "title": "Episode 1",
+      "episode": "1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/104578/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/104578/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38524/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/38524/1/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Thunder Spears",
       "files": [
         {
           "name": "HD-1",
@@ -56,8 +98,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Descent",
       "files": [
         {
           "name": "HD-1",
@@ -82,8 +124,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Perfect Game",
       "files": [
         {
           "name": "HD-1",
@@ -108,8 +150,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Hero",
       "files": [
         {
           "name": "HD-1",
@@ -134,8 +176,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Midnight Sun",
       "files": [
         {
           "name": "HD-1",
@@ -160,8 +202,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "The Basement",
       "files": [
         {
           "name": "HD-1",
@@ -186,8 +228,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "That Day",
       "files": [
         {
           "name": "HD-1",
@@ -212,8 +254,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Attack Titan",
       "files": [
         {
           "name": "HD-1",
@@ -238,8 +280,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "The Other Side of the Wall",
       "files": [
         {
           "name": "HD-1",
@@ -265,8 +307,7 @@
     }
   ],
   "streamingId": "104578",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2019-04-29",
-  "malId": "38524",
-  "_forceSyncTime": 1778769534592
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

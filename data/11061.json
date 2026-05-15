@@ -1,32 +1,78 @@
 {
   "title": "Hunter x Hunter (2011)",
-  "synopsis": "A new adaption of the manga of the same name by Togashi Yoshihiro.\n\n\nA Hunter is one who travels the world doing all sorts of dangerous tasks. From capturing criminals to searching deep within uncharted lands for any lost treasures. Gon is a young boy whose father disappeared long ago, being a Hunter. He believes if he could also follow his father's path, he could one day reunite with him.\n\n\nAfter becoming 12, Gon leaves his home and takes on the task of entering the Hunter exam, notorious for its low success rate and high probability of death to become an official Hunter. He befriends the revenge-driven Kurapika, the doctor-to-be Leorio and the rebellious ex-assassin Killua in the exam, with their friendship prevailing throughout the many trials and threats they come upon taking on the dangerous career of a Hunter.",
+  "synopsis": "A new adaption of the manga of the same name by Togashi Yoshihiro.\\n\\n\nA Hunter is one who travels the world doing all sorts of dangerous tasks. From capturing criminals to searching deep within uncharted lands for any lost treasures. Gon is a young boy whose father disappeared long ago, being a Hunter. He believes if he could also follow his father's path, he could one day reunite with him.\\n\\n\nAfter becoming 12, Gon leaves his home and takes on the task of entering the Hunter exam, notorious for its low success rate and high probability of death to become an official Hunter. He befriends the revenge-driven Kurapika, the doctor-to-be Leorio and the rebellious ex-assassin Killua in the exam, with their friendship prevailing throughout the many trials and threats they come upon taking on the dangerous career of a Hunter.",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-y5gsT1hoHuHw.png",
-  "synonym": "HUNTER×HUNTER (2011)",
-  "native": "HUNTER×HUNTER (2011)",
-  "aired": "10/02/2011",
-  "premiered": "FALL 2011",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "148",
   "genres": [
     "Action",
     "Adventure",
     "Fantasy"
   ],
-  "rating": "8.9",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "MADHOUSE"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Hunter x Hunter (2011)",
+      "link": "/2011/10/11061.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-y5gsT1hoHuHw.png"
+    },
+    {
+      "title": "[Movie] Hunter x Hunter: Phantom Rouge",
+      "link": "/2013/01/13271.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13271-jBxQFqHCpb2K.png"
+    },
+    {
+      "title": "[TV Series] Hunter x Hunter",
+      "link": "/1999/10/136.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136-gj0bbCpDNrKG.jpg"
+    },
+    {
+      "title": "[OVA] Hunter x Hunter: Yorknew City",
+      "link": "/2002/01/137.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137-u17pWQRTZfKn.jpg"
+    },
+    {
+      "title": "[OVA] HUNTER×HUNTER: Greed Island",
+      "link": "/2003/02/138.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138-BY6R1y8zuf7s.png"
+    },
+    {
+      "title": "[OVA] HUNTER×HUNTER: Greed Island Final",
+      "link": "/2004/03/139.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139-qiFhjx4o1sKI.png"
+    },
+    {
+      "title": "[Movie] Hunter x Hunter: The Last Mission",
+      "link": "/2013/12/19951.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx19951-kouyrYvcEyGP.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Departure × And × Friends",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/1/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/1/sub",
@@ -40,9 +86,19 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Test × of × Tests",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/2/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/2/sub",
@@ -56,9 +112,19 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Rivals x In x Survival",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/3/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/3/sub",
@@ -72,9 +138,19 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Hope × and × Ambition",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/4/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/4/sub",
@@ -88,9 +164,19 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Hisoka × is × Sneaky",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/5/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/5/sub",
@@ -104,9 +190,19 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "A × Surprising × Challenge",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/6/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/6/sub",
@@ -120,9 +216,19 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Showdown × On × The Airship",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/7/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/7/sub",
@@ -136,9 +242,19 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Solution × Is × Majority Rules?",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/8/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/8/sub",
@@ -152,9 +268,19 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Beware × Of × Prisoners",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11061/9/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/11061/9/sub",
@@ -168,8 +294,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Trick × To × The Trick",
       "files": [
         {
           "name": "HD-1",
@@ -194,8 +320,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Trouble × With × The Gamble",
       "files": [
         {
           "name": "HD-1",
@@ -220,8 +346,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Last Test × Of × Resolve",
       "files": [
         {
           "name": "HD-1",
@@ -246,8 +372,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "Letter × From × Gon",
       "files": [
         {
           "name": "HD-1",
@@ -272,8 +398,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "Hit × The × Target",
       "files": [
         {
           "name": "HD-1",
@@ -298,8 +424,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "Scramble × Of × Deception",
       "files": [
         {
           "name": "HD-1",
@@ -324,8 +450,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "Defeat × And × Disgrace",
       "files": [
         {
           "name": "HD-1",
@@ -350,8 +476,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "Trap × In × The Hole",
       "files": [
         {
           "name": "HD-1",
@@ -376,8 +502,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "Big × Time × Interview",
       "files": [
         {
           "name": "HD-1",
@@ -402,8 +528,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "Can't Win × But × Can't Lose",
       "files": [
         {
           "name": "HD-1",
@@ -428,8 +554,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "Baffling Turn × Of × Events",
       "files": [
         {
           "name": "HD-1",
@@ -454,19 +580,9 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "Some × Brother × Trouble",
       "files": [
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/11061/21/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/11061/21/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/11061/21/sub",
@@ -476,23 +592,23 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/11061/21/dub",
           "type": "dub"
-        }
-      ]
-    },
-    {
-      "episode": "22",
-      "title": "A × Dangerous × Watchdog",
-      "files": [
+        },
         {
           "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/11061/22/sub",
+          "url": "https://megaplay.buzz/stream/mal/11061/21/sub",
           "type": "sub"
         },
         {
           "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/11061/22/dub",
+          "url": "https://megaplay.buzz/stream/mal/11061/21/dub",
           "type": "dub"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Episode 22",
+      "episode": "22",
+      "files": [
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/11061/22/sub",
@@ -502,23 +618,23 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/11061/22/dub",
           "type": "dub"
-        }
-      ]
-    },
-    {
-      "episode": "23",
-      "title": "The × Guard's × Duty",
-      "files": [
+        },
         {
           "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/11061/23/sub",
+          "url": "https://megaplay.buzz/stream/mal/11061/22/sub",
           "type": "sub"
         },
         {
           "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/11061/23/dub",
+          "url": "https://megaplay.buzz/stream/mal/11061/22/dub",
           "type": "dub"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Episode 23",
+      "episode": "23",
+      "files": [
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/11061/23/sub",
@@ -528,23 +644,23 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/11061/23/dub",
           "type": "dub"
-        }
-      ]
-    },
-    {
-      "episode": "24",
-      "title": "The × Zoldyck × Family",
-      "files": [
+        },
         {
           "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/11061/24/sub",
+          "url": "https://megaplay.buzz/stream/mal/11061/23/sub",
           "type": "sub"
         },
         {
           "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/11061/24/dub",
+          "url": "https://megaplay.buzz/stream/mal/11061/23/dub",
           "type": "dub"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Episode 24",
+      "episode": "24",
+      "files": [
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/11061/24/sub",
@@ -554,23 +670,23 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/11061/24/dub",
           "type": "dub"
-        }
-      ]
-    },
-    {
-      "episode": "25",
-      "title": "Can't See × If × You're Blind",
-      "files": [
+        },
         {
           "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/11061/25/sub",
+          "url": "https://megaplay.buzz/stream/mal/11061/24/sub",
           "type": "sub"
         },
         {
           "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/11061/25/dub",
+          "url": "https://megaplay.buzz/stream/mal/11061/24/dub",
           "type": "dub"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Episode 25",
+      "episode": "25",
+      "files": [
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/11061/25/sub",
@@ -580,23 +696,23 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/11061/25/dub",
           "type": "dub"
-        }
-      ]
-    },
-    {
-      "episode": "26",
-      "title": "Then × and × After",
-      "files": [
+        },
         {
           "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/11061/26/sub",
+          "url": "https://megaplay.buzz/stream/mal/11061/25/sub",
           "type": "sub"
         },
         {
           "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/11061/26/dub",
+          "url": "https://megaplay.buzz/stream/mal/11061/25/dub",
           "type": "dub"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Episode 26",
+      "episode": "26",
+      "files": [
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/11061/26/sub",
@@ -606,12 +722,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/11061/26/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/11061/26/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/11061/26/dub",
+          "type": "dub"
         }
       ]
     },
     {
+      "title": "Episode 27",
       "episode": "27",
-      "title": "Arrival × At × The Arena",
       "files": [
         {
           "name": "HD-1",
@@ -636,8 +762,8 @@
       ]
     },
     {
+      "title": "Episode 28",
       "episode": "28",
-      "title": "Nen × And × Nen",
       "files": [
         {
           "name": "HD-1",
@@ -662,8 +788,8 @@
       ]
     },
     {
+      "title": "Episode 29",
       "episode": "29",
-      "title": "Awakening × And × Potential",
       "files": [
         {
           "name": "HD-1",
@@ -688,8 +814,8 @@
       ]
     },
     {
+      "title": "Episode 30",
       "episode": "30",
-      "title": "Fierce × And × Ferocious",
       "files": [
         {
           "name": "HD-1",
@@ -714,8 +840,8 @@
       ]
     },
     {
+      "title": "Episode 31",
       "episode": "31",
-      "title": "Destiny × And × Tenacity",
       "files": [
         {
           "name": "HD-1",
@@ -740,8 +866,8 @@
       ]
     },
     {
+      "title": "Episode 32",
       "episode": "32",
-      "title": "A × Surprising × Win",
       "files": [
         {
           "name": "HD-1",
@@ -766,8 +892,8 @@
       ]
     },
     {
+      "title": "Episode 33",
       "episode": "33",
-      "title": "An × Empty × Threat",
       "files": [
         {
           "name": "HD-1",
@@ -792,8 +918,8 @@
       ]
     },
     {
+      "title": "Episode 34",
       "episode": "34",
-      "title": "Power × To × Avenge",
       "files": [
         {
           "name": "HD-1",
@@ -818,8 +944,8 @@
       ]
     },
     {
+      "title": "Episode 35",
       "episode": "35",
-      "title": "The × True × Pass",
       "files": [
         {
           "name": "HD-1",
@@ -844,8 +970,8 @@
       ]
     },
     {
+      "title": "Episode 36",
       "episode": "36",
-      "title": "A Big Debt × And × A Small Kick",
       "files": [
         {
           "name": "HD-1",
@@ -870,8 +996,8 @@
       ]
     },
     {
+      "title": "Episode 37",
       "episode": "37",
-      "title": "Ging × And × Gon",
       "files": [
         {
           "name": "HD-1",
@@ -896,8 +1022,8 @@
       ]
     },
     {
+      "title": "Episode 38",
       "episode": "38",
-      "title": "Reply × From × Dad",
       "files": [
         {
           "name": "HD-1",
@@ -922,8 +1048,8 @@
       ]
     },
     {
+      "title": "Episode 39",
       "episode": "39",
-      "title": "Wish × And × Promise",
       "files": [
         {
           "name": "HD-1",
@@ -948,8 +1074,8 @@
       ]
     },
     {
+      "title": "Episode 40",
       "episode": "40",
-      "title": "Nen × Users × Unite?",
       "files": [
         {
           "name": "HD-1",
@@ -974,8 +1100,8 @@
       ]
     },
     {
+      "title": "Episode 41",
       "episode": "41",
-      "title": "Gathering × Of × Heroes",
       "files": [
         {
           "name": "HD-1",
@@ -1000,8 +1126,8 @@
       ]
     },
     {
+      "title": "Episode 42",
       "episode": "42",
-      "title": "Defend × And × Attack",
       "files": [
         {
           "name": "HD-1",
@@ -1026,8 +1152,8 @@
       ]
     },
     {
+      "title": "Episode 43",
       "episode": "43",
-      "title": "A × Shocking × Tragedy",
       "files": [
         {
           "name": "HD-1",
@@ -1052,8 +1178,8 @@
       ]
     },
     {
+      "title": "Episode 44",
       "episode": "44",
-      "title": "Buildup × To A × Fierce Battle",
       "files": [
         {
           "name": "HD-1",
@@ -1078,8 +1204,8 @@
       ]
     },
     {
+      "title": "Episode 45",
       "episode": "45",
-      "title": "Restraint × And × Vow",
       "files": [
         {
           "name": "HD-1",
@@ -1104,8 +1230,8 @@
       ]
     },
     {
+      "title": "Episode 46",
       "episode": "46",
-      "title": "Chasing × And × Waiting",
       "files": [
         {
           "name": "HD-1",
@@ -1130,8 +1256,8 @@
       ]
     },
     {
+      "title": "Episode 47",
       "episode": "47",
-      "title": "Condition × And × Condition",
       "files": [
         {
           "name": "HD-1",
@@ -1156,8 +1282,8 @@
       ]
     },
     {
+      "title": "Episode 48",
       "episode": "48",
-      "title": "Very × Sharp × Eye",
       "files": [
         {
           "name": "HD-1",
@@ -1182,8 +1308,8 @@
       ]
     },
     {
+      "title": "Episode 49",
       "episode": "49",
-      "title": "Pursuit × And × Analysis",
       "files": [
         {
           "name": "HD-1",
@@ -1208,8 +1334,8 @@
       ]
     },
     {
+      "title": "Episode 50",
       "episode": "50",
-      "title": "Ally × And × Sword",
       "files": [
         {
           "name": "HD-1",
@@ -1234,8 +1360,8 @@
       ]
     },
     {
+      "title": "Episode 51",
       "episode": "51",
-      "title": "A × Brutal × Battlefield",
       "files": [
         {
           "name": "HD-1",
@@ -1260,8 +1386,8 @@
       ]
     },
     {
+      "title": "Episode 52",
       "episode": "52",
-      "title": "Assault × And × Impact",
       "files": [
         {
           "name": "HD-1",
@@ -1286,8 +1412,8 @@
       ]
     },
     {
+      "title": "Episode 53",
       "episode": "53",
-      "title": "Fake × And × Psyche",
       "files": [
         {
           "name": "HD-1",
@@ -1312,8 +1438,8 @@
       ]
     },
     {
+      "title": "Episode 54",
       "episode": "54",
-      "title": "Fortunes × Aren't × Right?",
       "files": [
         {
           "name": "HD-1",
@@ -1338,8 +1464,8 @@
       ]
     },
     {
+      "title": "Episode 55",
       "episode": "55",
-      "title": "Allies × And × Lies",
       "files": [
         {
           "name": "HD-1",
@@ -1364,8 +1490,8 @@
       ]
     },
     {
+      "title": "Episode 56",
       "episode": "56",
-      "title": "Beloved × And × Beleaguered",
       "files": [
         {
           "name": "HD-1",
@@ -1390,8 +1516,8 @@
       ]
     },
     {
+      "title": "Episode 57",
       "episode": "57",
-      "title": "Initiative × And × Law",
       "files": [
         {
           "name": "HD-1",
@@ -1416,8 +1542,8 @@
       ]
     },
     {
+      "title": "Episode 58",
       "episode": "58",
-      "title": "Signal × To × Retreat",
       "files": [
         {
           "name": "HD-1",
@@ -1442,8 +1568,8 @@
       ]
     },
     {
+      "title": "Episode 59",
       "episode": "59",
-      "title": "Bid × And × Haste",
       "files": [
         {
           "name": "HD-1",
@@ -1468,8 +1594,8 @@
       ]
     },
     {
+      "title": "Episode 60",
       "episode": "60",
-      "title": "End × And × Beginning",
       "files": [
         {
           "name": "HD-1",
@@ -1494,8 +1620,8 @@
       ]
     },
     {
+      "title": "Episode 61",
       "episode": "61",
-      "title": "Invitation × And × Friend",
       "files": [
         {
           "name": "HD-1",
@@ -1520,8 +1646,8 @@
       ]
     },
     {
+      "title": "Episode 62",
       "episode": "62",
-      "title": "Reality? × And × Raw",
       "files": [
         {
           "name": "HD-1",
@@ -1546,8 +1672,8 @@
       ]
     },
     {
+      "title": "Episode 63",
       "episode": "63",
-      "title": "A × Hard × Master?",
       "files": [
         {
           "name": "HD-1",
@@ -1572,8 +1698,8 @@
       ]
     },
     {
+      "title": "Episode 64",
       "episode": "64",
-      "title": "Strengthen × And × Threaten",
       "files": [
         {
           "name": "HD-1",
@@ -1598,8 +1724,8 @@
       ]
     },
     {
+      "title": "Episode 65",
       "episode": "65",
-      "title": "Evil Fist × And × Rock-Paper-Scissors",
       "files": [
         {
           "name": "HD-1",
@@ -1624,8 +1750,8 @@
       ]
     },
     {
+      "title": "Episode 66",
       "episode": "66",
-      "title": "Strategy × And × Scheme",
       "files": [
         {
           "name": "HD-1",
@@ -1650,8 +1776,8 @@
       ]
     },
     {
+      "title": "Episode 67",
       "episode": "67",
-      "title": "15 × 15",
       "files": [
         {
           "name": "HD-1",
@@ -1676,8 +1802,8 @@
       ]
     },
     {
+      "title": "Episode 68",
       "episode": "68",
-      "title": "Pirates × And × Guesses",
       "files": [
         {
           "name": "HD-1",
@@ -1702,8 +1828,8 @@
       ]
     },
     {
+      "title": "Episode 69",
       "episode": "69",
-      "title": "A × Heated × Showdown",
       "files": [
         {
           "name": "HD-1",
@@ -1728,8 +1854,8 @@
       ]
     },
     {
+      "title": "Episode 70",
       "episode": "70",
-      "title": "Guts × And × Courage",
       "files": [
         {
           "name": "HD-1",
@@ -1754,8 +1880,8 @@
       ]
     },
     {
+      "title": "Episode 71",
       "episode": "71",
-      "title": "Bargain × And × Deal",
       "files": [
         {
           "name": "HD-1",
@@ -1780,8 +1906,8 @@
       ]
     },
     {
+      "title": "Episode 72",
       "episode": "72",
-      "title": "Chase × And × Chance",
       "files": [
         {
           "name": "HD-1",
@@ -1806,8 +1932,8 @@
       ]
     },
     {
+      "title": "Episode 73",
       "episode": "73",
-      "title": "Insanity × And × Sanity",
       "files": [
         {
           "name": "HD-1",
@@ -1832,8 +1958,8 @@
       ]
     },
     {
+      "title": "Episode 74",
       "episode": "74",
-      "title": "Victor × And × Loser",
       "files": [
         {
           "name": "HD-1",
@@ -1858,8 +1984,8 @@
       ]
     },
     {
+      "title": "Episode 75",
       "episode": "75",
-      "title": "Ging's Friends × And × True Friends",
       "files": [
         {
           "name": "HD-1",
@@ -1884,8 +2010,8 @@
       ]
     },
     {
+      "title": "Episode 76",
       "episode": "76",
-      "title": "Reunion × And × Understanding",
       "files": [
         {
           "name": "HD-1",
@@ -1910,8 +2036,8 @@
       ]
     },
     {
+      "title": "Episode 77",
       "episode": "77",
-      "title": "Unease × And × Sighting",
       "files": [
         {
           "name": "HD-1",
@@ -1936,8 +2062,8 @@
       ]
     },
     {
+      "title": "Episode 78",
       "episode": "78",
-      "title": "Very × Rapid × Reproduction",
       "files": [
         {
           "name": "HD-1",
@@ -1962,8 +2088,8 @@
       ]
     },
     {
+      "title": "Episode 79",
       "episode": "79",
-      "title": "No × Good × NGL",
       "files": [
         {
           "name": "HD-1",
@@ -1988,8 +2114,8 @@
       ]
     },
     {
+      "title": "Episode 80",
       "episode": "80",
-      "title": "Evil × And × Terrible",
       "files": [
         {
           "name": "HD-1",
@@ -2014,8 +2140,8 @@
       ]
     },
     {
+      "title": "Episode 81",
       "episode": "81",
-      "title": "The × Fight × Begins",
       "files": [
         {
           "name": "HD-1",
@@ -2040,8 +2166,8 @@
       ]
     },
     {
+      "title": "Episode 82",
       "episode": "82",
-      "title": "Kite × And × Slots",
       "files": [
         {
           "name": "HD-1",
@@ -2066,8 +2192,8 @@
       ]
     },
     {
+      "title": "Episode 83",
       "episode": "83",
-      "title": "Inspiration × To × Evolve",
       "files": [
         {
           "name": "HD-1",
@@ -2092,8 +2218,8 @@
       ]
     },
     {
+      "title": "Episode 84",
       "episode": "84",
-      "title": "A × Fated × Awakening",
       "files": [
         {
           "name": "HD-1",
@@ -2118,8 +2244,8 @@
       ]
     },
     {
+      "title": "Episode 85",
       "episode": "85",
-      "title": "Light × And × Darkness",
       "files": [
         {
           "name": "HD-1",
@@ -2144,8 +2270,8 @@
       ]
     },
     {
+      "title": "Episode 86",
       "episode": "86",
-      "title": "Promise × And × Reunion",
       "files": [
         {
           "name": "HD-1",
@@ -2170,8 +2296,8 @@
       ]
     },
     {
+      "title": "Episode 87",
       "episode": "87",
-      "title": "Duel × And × Escape",
       "files": [
         {
           "name": "HD-1",
@@ -2196,8 +2322,8 @@
       ]
     },
     {
+      "title": "Episode 88",
       "episode": "88",
-      "title": "Rock-Paper-Scissors × And × Weakness",
       "files": [
         {
           "name": "HD-1",
@@ -2222,8 +2348,8 @@
       ]
     },
     {
+      "title": "Episode 89",
       "episode": "89",
-      "title": "Compassion × And × Strength",
       "files": [
         {
           "name": "HD-1",
@@ -2248,8 +2374,8 @@
       ]
     },
     {
+      "title": "Episode 90",
       "episode": "90",
-      "title": "Interest × And × Curse",
       "files": [
         {
           "name": "HD-1",
@@ -2274,8 +2400,8 @@
       ]
     },
     {
+      "title": "Episode 91",
       "episode": "91",
-      "title": "The Strong × And × The Weak",
       "files": [
         {
           "name": "HD-1",
@@ -2300,8 +2426,8 @@
       ]
     },
     {
+      "title": "Episode 92",
       "episode": "92",
-      "title": "One Wish × And × Two Promises",
       "files": [
         {
           "name": "HD-1",
@@ -2326,8 +2452,8 @@
       ]
     },
     {
+      "title": "Episode 93",
       "episode": "93",
-      "title": "Date × With × Palm",
       "files": [
         {
           "name": "HD-1",
@@ -2352,8 +2478,8 @@
       ]
     },
     {
+      "title": "Episode 94",
       "episode": "94",
-      "title": "Friend × And × Journey",
       "files": [
         {
           "name": "HD-1",
@@ -2378,8 +2504,8 @@
       ]
     },
     {
+      "title": "Episode 95",
       "episode": "95",
-      "title": "Grudge × And × Dread",
       "files": [
         {
           "name": "HD-1",
@@ -2404,8 +2530,8 @@
       ]
     },
     {
+      "title": "Episode 96",
       "episode": "96",
-      "title": "A × Lawless × Home",
       "files": [
         {
           "name": "HD-1",
@@ -2430,8 +2556,8 @@
       ]
     },
     {
+      "title": "Episode 97",
       "episode": "97",
-      "title": "Carnage × And × Devastation",
       "files": [
         {
           "name": "HD-1",
@@ -2456,8 +2582,8 @@
       ]
     },
     {
+      "title": "Episode 98",
       "episode": "98",
-      "title": "Infiltration × And × Selection",
       "files": [
         {
           "name": "HD-1",
@@ -2482,8 +2608,8 @@
       ]
     },
     {
+      "title": "Episode 99",
       "episode": "99",
-      "title": "Combination × And × Evolution",
       "files": [
         {
           "name": "HD-1",
@@ -2508,8 +2634,8 @@
       ]
     },
     {
+      "title": "Episode 100",
       "episode": "100",
-      "title": "Tracking × And × Pursuit",
       "files": [
         {
           "name": "HD-1",
@@ -2534,8 +2660,8 @@
       ]
     },
     {
+      "title": "Episode 101",
       "episode": "101",
-      "title": "Ikalgo × And × Lightning",
       "files": [
         {
           "name": "HD-1",
@@ -2560,8 +2686,8 @@
       ]
     },
     {
+      "title": "Episode 102",
       "episode": "102",
-      "title": "Power × And × Games",
       "files": [
         {
           "name": "HD-1",
@@ -2586,8 +2712,8 @@
       ]
     },
     {
+      "title": "Episode 103",
       "episode": "103",
-      "title": "Check × And × Mate",
       "files": [
         {
           "name": "HD-1",
@@ -2612,8 +2738,8 @@
       ]
     },
     {
+      "title": "Episode 104",
       "episode": "104",
-      "title": "Doubt × And × Hesitation",
       "files": [
         {
           "name": "HD-1",
@@ -2638,8 +2764,8 @@
       ]
     },
     {
+      "title": "Episode 105",
       "episode": "105",
-      "title": "Resolve × And × Awakening",
       "files": [
         {
           "name": "HD-1",
@@ -2664,8 +2790,8 @@
       ]
     },
     {
+      "title": "Episode 106",
       "episode": "106",
-      "title": "Knov × And × Morel",
       "files": [
         {
           "name": "HD-1",
@@ -2690,8 +2816,8 @@
       ]
     },
     {
+      "title": "Episode 107",
       "episode": "107",
-      "title": "Return × And × Retire",
       "files": [
         {
           "name": "HD-1",
@@ -2716,8 +2842,8 @@
       ]
     },
     {
+      "title": "Episode 108",
       "episode": "108",
-      "title": "Gungi × Of × Komugi",
       "files": [
         {
           "name": "HD-1",
@@ -2742,8 +2868,8 @@
       ]
     },
     {
+      "title": "Episode 109",
       "episode": "109",
-      "title": "Taking Stock × And × Taking Action",
       "files": [
         {
           "name": "HD-1",
@@ -2768,8 +2894,8 @@
       ]
     },
     {
+      "title": "Episode 110",
       "episode": "110",
-      "title": "Confusion × And × Expectation",
       "files": [
         {
           "name": "HD-1",
@@ -2794,8 +2920,8 @@
       ]
     },
     {
+      "title": "Episode 111",
       "episode": "111",
-      "title": "Charge × And × Invade",
       "files": [
         {
           "name": "HD-1",
@@ -2820,8 +2946,8 @@
       ]
     },
     {
+      "title": "Episode 112",
       "episode": "112",
-      "title": "Monster × And × Monster",
       "files": [
         {
           "name": "HD-1",
@@ -2846,8 +2972,8 @@
       ]
     },
     {
+      "title": "Episode 113",
       "episode": "113",
-      "title": "An × Indebted × Insect",
       "files": [
         {
           "name": "HD-1",
@@ -2872,8 +2998,8 @@
       ]
     },
     {
+      "title": "Episode 114",
       "episode": "114",
-      "title": "Divide × And × Conquer",
       "files": [
         {
           "name": "HD-1",
@@ -2898,8 +3024,8 @@
       ]
     },
     {
+      "title": "Episode 115",
       "episode": "115",
-      "title": "Duty × And × Question",
       "files": [
         {
           "name": "HD-1",
@@ -2924,8 +3050,8 @@
       ]
     },
     {
+      "title": "Episode 116",
       "episode": "116",
-      "title": "Revenge × And × Recovery",
       "files": [
         {
           "name": "HD-1",
@@ -2950,8 +3076,8 @@
       ]
     },
     {
+      "title": "Episode 117",
       "episode": "117",
-      "title": "Insult × And × Payback",
       "files": [
         {
           "name": "HD-1",
@@ -2976,8 +3102,8 @@
       ]
     },
     {
+      "title": "Episode 118",
       "episode": "118",
-      "title": "A × False × Rage",
       "files": [
         {
           "name": "HD-1",
@@ -3002,8 +3128,8 @@
       ]
     },
     {
+      "title": "Episode 119",
       "episode": "119",
-      "title": "Strong × Or × Weak",
       "files": [
         {
           "name": "HD-1",
@@ -3028,8 +3154,8 @@
       ]
     },
     {
+      "title": "Episode 120",
       "episode": "120",
-      "title": "Fake × And × Real",
       "files": [
         {
           "name": "HD-1",
@@ -3054,8 +3180,8 @@
       ]
     },
     {
+      "title": "Episode 121",
       "episode": "121",
-      "title": "Defeat × And × Dignity",
       "files": [
         {
           "name": "HD-1",
@@ -3080,8 +3206,8 @@
       ]
     },
     {
+      "title": "Episode 122",
       "episode": "122",
-      "title": "Pose × And × Name",
       "files": [
         {
           "name": "HD-1",
@@ -3106,8 +3232,8 @@
       ]
     },
     {
+      "title": "Episode 123",
       "episode": "123",
-      "title": "Centipede × And × Memory",
       "files": [
         {
           "name": "HD-1",
@@ -3132,8 +3258,8 @@
       ]
     },
     {
+      "title": "Episode 124",
       "episode": "124",
-      "title": "Breakdown × And × Awakening",
       "files": [
         {
           "name": "HD-1",
@@ -3158,8 +3284,8 @@
       ]
     },
     {
+      "title": "Episode 125",
       "episode": "125",
-      "title": "Great Power × And × Ultimate Power",
       "files": [
         {
           "name": "HD-1",
@@ -3184,8 +3310,8 @@
       ]
     },
     {
+      "title": "Episode 126",
       "episode": "126",
-      "title": "Zero × And × Rose",
       "files": [
         {
           "name": "HD-1",
@@ -3210,8 +3336,8 @@
       ]
     },
     {
+      "title": "Episode 127",
       "episode": "127",
-      "title": "Hostility × And × Determination",
       "files": [
         {
           "name": "HD-1",
@@ -3236,8 +3362,8 @@
       ]
     },
     {
+      "title": "Episode 128",
       "episode": "128",
-      "title": "Unparalleled Joy × And × Unconditional Love",
       "files": [
         {
           "name": "HD-1",
@@ -3262,8 +3388,8 @@
       ]
     },
     {
+      "title": "Episode 129",
       "episode": "129",
-      "title": "Formidable Enemy × And × Clear Objective",
       "files": [
         {
           "name": "HD-1",
@@ -3288,8 +3414,8 @@
       ]
     },
     {
+      "title": "Episode 130",
       "episode": "130",
-      "title": "Magic × And × Despair",
       "files": [
         {
           "name": "HD-1",
@@ -3314,8 +3440,8 @@
       ]
     },
     {
+      "title": "Episode 131",
       "episode": "131",
-      "title": "Anger × And × Light",
       "files": [
         {
           "name": "HD-1",
@@ -3340,8 +3466,8 @@
       ]
     },
     {
+      "title": "Episode 132",
       "episode": "132",
-      "title": "Flash × And × Trigger",
       "files": [
         {
           "name": "HD-1",
@@ -3366,8 +3492,8 @@
       ]
     },
     {
+      "title": "Episode 133",
       "episode": "133",
-      "title": "Deadline × to × Live",
       "files": [
         {
           "name": "HD-1",
@@ -3392,8 +3518,8 @@
       ]
     },
     {
+      "title": "Episode 134",
       "episode": "134",
-      "title": "The Word × Is × That Person",
       "files": [
         {
           "name": "HD-1",
@@ -3418,8 +3544,8 @@
       ]
     },
     {
+      "title": "Episode 135",
       "episode": "135",
-      "title": "This Day × And × This Moment",
       "files": [
         {
           "name": "HD-1",
@@ -3444,8 +3570,8 @@
       ]
     },
     {
+      "title": "Episode 136",
       "episode": "136",
-      "title": "Homecoming × And × Real Name",
       "files": [
         {
           "name": "HD-1",
@@ -3470,8 +3596,8 @@
       ]
     },
     {
+      "title": "Episode 137",
       "episode": "137",
-      "title": "Twelve Zodiac × In × Discussion",
       "files": [
         {
           "name": "HD-1",
@@ -3496,8 +3622,8 @@
       ]
     },
     {
+      "title": "Episode 138",
       "episode": "138",
-      "title": "Plea × and × Favor",
       "files": [
         {
           "name": "HD-1",
@@ -3522,8 +3648,8 @@
       ]
     },
     {
+      "title": "Episode 139",
       "episode": "139",
-      "title": "Alluka × and × That Thing",
       "files": [
         {
           "name": "HD-1",
@@ -3548,8 +3674,8 @@
       ]
     },
     {
+      "title": "Episode 140",
       "episode": "140",
-      "title": "Third Election × And × Re-election",
       "files": [
         {
           "name": "HD-1",
@@ -3574,8 +3700,8 @@
       ]
     },
     {
+      "title": "Episode 141",
       "episode": "141",
-      "title": "Magician × And × Butler",
       "files": [
         {
           "name": "HD-1",
@@ -3600,8 +3726,8 @@
       ]
     },
     {
+      "title": "Episode 142",
       "episode": "142",
-      "title": "Needle × And × Debt",
       "files": [
         {
           "name": "HD-1",
@@ -3626,8 +3752,8 @@
       ]
     },
     {
+      "title": "Episode 143",
       "episode": "143",
-      "title": "Sin × And × Claw",
       "files": [
         {
           "name": "HD-1",
@@ -3652,8 +3778,8 @@
       ]
     },
     {
+      "title": "Episode 144",
       "episode": "144",
-      "title": "Approval × And × Coalition",
       "files": [
         {
           "name": "HD-1",
@@ -3678,8 +3804,8 @@
       ]
     },
     {
+      "title": "Episode 145",
       "episode": "145",
-      "title": "Defeat × And × Reunion",
       "files": [
         {
           "name": "HD-1",
@@ -3704,8 +3830,8 @@
       ]
     },
     {
+      "title": "Episode 146",
       "episode": "146",
-      "title": "Chairman × And × Release",
       "files": [
         {
           "name": "HD-1",
@@ -3730,8 +3856,8 @@
       ]
     },
     {
+      "title": "Episode 147",
       "episode": "147",
-      "title": "Salvation × And × Future",
       "files": [
         {
           "name": "HD-1",
@@ -3756,19 +3882,9 @@
       ]
     },
     {
+      "title": "Episode 148",
       "episode": "148",
-      "title": "Until Now × And × From Now",
       "files": [
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/11061/148/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/11061/148/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/11061/148/sub",
@@ -3778,13 +3894,22 @@
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/11061/148/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/11061/148/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/11061/148/dub",
+          "type": "dub"
         }
       ]
     }
   ],
   "streamingId": "11061",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2011-10-02",
-  "malId": "11061",
-  "_forceSyncTime": 1778769077593
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

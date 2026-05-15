@@ -1,12 +1,12 @@
 {
   "title": "Owarimonogatari Second Season",
-  "synopsis": "Third and “Final Season” of the Monogatari Series, part 4/5. Contains the arcs Mayoi Hell, Hitagi Rendezvous, and Ougi Dark from the Owarimonogatari light novels.\n\nKoyomi wakes up to see Mayoi Hachikuji before him, the girl who supposedly had gone to the afterlife. She tells Koyomi that they are currently in Avichi, the lowest levels of hell. Koyomi is dubious of how Mayoi knew about the exact timing of his death and which hell he would drop into, when Mayoi tells him that she was there to pick him up by the request of a certain individual.\n\n(Source: Aniplex)",
+  "synopsis": "Third and “Final Season” of the Monogatari Series, part 4/5. Contains the arcs Mayoi Hell, Hitagi Rendezvous, and Ougi Dark from the Owarimonogatari light novels.\n\\n\\n\nKoyomi wakes up to see Mayoi Hachikuji before him, the girl who supposedly had gone to the afterlife. She tells Koyomi that they are currently in Avichi, the lowest levels of hell. Koyomi is dubious of how Mayoi knew about the exact timing of his death and which hell he would drop into, when Mayoi tells him that she was there to pick him up by the request of a certain individual.\n\\n\\n\n(Source: Aniplex)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21745-VrhhJjZNdBXV.png",
-  "synonym": "Owarimonogatari (Ge)",
-  "native": "終物語（下）",
-  "aired": "8/12/2017",
-  "premiered": "SUMMER 2017",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "7",
   "genres": [
     "Comedy",
@@ -15,20 +15,35 @@
     "Romance",
     "Supernatural"
   ],
-  "rating": "8.9",
-  "type": "TV",
-  "status": "FINISHED",
+  "rating": "",
+  "type": "TV Series",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Shaft",
+  "studios": [
+    "Shaft"
+  ],
   "producers": [],
-  "seasons": [],
-  "malId": "35247",
-  "streamingId": "21745",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "seasons": [
+    {
+      "title": "[TV Series] Owarimonogatari Second Season",
+      "link": "/2017/08/21745.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21745-VrhhJjZNdBXV.png"
+    },
+    {
+      "title": "[OVA] Zoku Owarimonogatari",
+      "link": "/2019/02/100815.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100815-cZbnM9Bjth8W.png"
+    },
+    {
+      "title": "[TV Series] Tsukimonogatari",
+      "link": "/2014/12/20918.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20918-8Gp6nJpbjFgr.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Mayoi Hell, Part One",
       "files": [
         {
           "name": "HD-1",
@@ -53,8 +68,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Mayoi Hell, Part Two",
       "files": [
         {
           "name": "HD-1",
@@ -79,8 +94,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Hitagi Rendezvous, Part One",
       "files": [
         {
           "name": "HD-1",
@@ -105,8 +120,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Hitagi Rendezvous, Part Two",
       "files": [
         {
           "name": "HD-1",
@@ -131,8 +146,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Ougi Dark, Part One",
       "files": [
         {
           "name": "HD-1",
@@ -157,8 +172,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Ougi Dark, Part Two",
       "files": [
         {
           "name": "HD-1",
@@ -183,8 +198,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Ougi Dark, Part Three",
       "files": [
         {
           "name": "HD-1",
@@ -208,5 +223,9 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "21745",
+  "releaseDate": "2017-08-12",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

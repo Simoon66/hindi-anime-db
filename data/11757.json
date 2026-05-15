@@ -1,12 +1,12 @@
 {
   "title": "Sword Art Online",
-  "synopsis": "In the near future, a Virtual Reality Massive Multiplayer Online Role-Playing Game (VRMMORPG) called Sword Art Online has been released where players control their avatars with their bodies using a piece of technology called Nerve Gear. One day, players discover they cannot log out, as the game creator is holding them captive unless they reach the 100th floor of the game's tower and defeat the final boss. However, if they die in the game, they die in real life. Their struggle for survival starts now...\n\n\n(Source: Crunchyroll)",
+  "synopsis": "In the near future, a Virtual Reality Massive Multiplayer Online Role-Playing Game (VRMMORPG) called Sword Art Online has been released where players control their avatars with their bodies using a piece of technology called Nerve Gear. One day, players discover they cannot log out, as the game creator is holding them captive unless they reach the 100th floor of the game's tower and defeat the final boss. However, if they die in the game, they die in real life. Their struggle for survival starts now...\\n\\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11757-SxYDUzdr9rh2.jpg",
-  "synonym": "Sword Art Online",
-  "native": "ソードアート・オンライン",
-  "aired": "07/08/2012",
-  "premiered": "SUMMER 2012",
-  "duration": "23m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "25",
   "genres": [
     "Action",
@@ -14,24 +14,60 @@
     "Fantasy",
     "Romance"
   ],
-  "rating": "7.0",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "A-1 Pictures"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Sword Art Online",
+      "link": "/2012/07/11757.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11757-SxYDUzdr9rh2.jpg"
+    },
+    {
+      "title": "[Special] Sword Art Online EXTRA EDITION",
+      "link": "/2013/12/20021.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20021-BZA5XTwahXPj.png"
+    },
+    {
+      "title": "[TV Series] Sword Art Online II",
+      "link": "/2014/07/20594.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20594-FhRgZ1H9Istt.jpg"
+    },
+    {
+      "title": "[Movie] Sword Art Online the Movie -Progressive- Aria of a Starless Night",
+      "link": "/2021/10/124140.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124140-HNL0CpH6ig6y.png"
+    },
+    {
+      "title": "[Movie] Unanswered//butterfly: Sword Art Online",
+      "link": "/2026/07/208754.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208754-333Nyh5abrqS.png"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "The World of Swords",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11757/1/sub",
+          "type": "sub"
+        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/11757/1/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/11757/1/sub",
+          "type": "sub"
         },
         {
           "name": "HD-2",
@@ -41,13 +77,23 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Beater",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11757/2/sub",
+          "type": "sub"
+        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/11757/2/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/11757/2/sub",
+          "type": "sub"
         },
         {
           "name": "HD-2",
@@ -57,33 +103,138 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "The Red-Nosed Reindeer",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11757/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11757/3/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/11757/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/11757/3/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "The Black Swordsman",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11757/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11757/4/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/11757/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/11757/4/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "A Crime Within the Walls",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11757/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11757/5/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/11757/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/11757/5/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Illusionary Avenger",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11757/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11757/6/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/11757/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/11757/6/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "The Temperature of the Heart",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11757/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/11757/7/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/11757/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/11757/7/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "The Sword Dance of White and Black",
       "files": [
         {
           "name": "HD-1",
@@ -108,8 +259,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "The Blue-Eyed Demon",
       "files": [
         {
           "name": "HD-1",
@@ -134,8 +285,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Crimson Killing Intent",
       "files": [
         {
           "name": "HD-1",
@@ -160,8 +311,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "The Girl of Morning Dew",
       "files": [
         {
           "name": "HD-1",
@@ -186,8 +337,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Yui's Heart",
       "files": [
         {
           "name": "HD-1",
@@ -212,8 +363,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "Edge of Hell's Abyss",
       "files": [
         {
           "name": "HD-1",
@@ -238,8 +389,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "The End of the World",
       "files": [
         {
           "name": "HD-1",
@@ -264,8 +415,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "Return",
       "files": [
         {
           "name": "HD-1",
@@ -290,8 +441,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "Land of the Fairies",
       "files": [
         {
           "name": "HD-1",
@@ -316,8 +467,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "Captive Queen",
       "files": [
         {
           "name": "HD-1",
@@ -342,8 +493,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "To the World Tree",
       "files": [
         {
           "name": "HD-1",
@@ -368,8 +519,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "The Lugru Corridor",
       "files": [
         {
           "name": "HD-1",
@@ -394,8 +545,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "General of the Blazing Flame",
       "files": [
         {
           "name": "HD-1",
@@ -420,8 +571,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "The Truth of Alfheim",
       "files": [
         {
           "name": "HD-1",
@@ -446,8 +597,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "Grand Quest",
       "files": [
         {
           "name": "HD-1",
@@ -472,8 +623,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "Bonds",
       "files": [
         {
           "name": "HD-1",
@@ -498,8 +649,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "Gilded Hero",
       "files": [
         {
           "name": "HD-1",
@@ -524,8 +675,8 @@
       ]
     },
     {
+      "title": "Episode 25",
       "episode": "25",
-      "title": "The World Seed",
       "files": [
         {
           "name": "HD-1",
@@ -551,8 +702,7 @@
     }
   ],
   "streamingId": "11757",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2012-07-08",
-  "malId": "11757",
-  "_forceSyncTime": 1778769335792
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

@@ -1,12 +1,12 @@
 {
   "title": "Kaguya-sama: Love is War",
-  "synopsis": "Known for being both brilliant and powerful, Miyuki Shirogane and Kaguya Shinomiya lead the illustrious Shuchiin Academy as near equals. And everyone thinks they’d make a great couple. Pride and arrogance are in ample supply, so the only logical move is to trick the other into instigating a date! Who will come out on top in this psychological war where the first move is the only one that matters?\n\n\n\n(Source: Aniplex)",
+  "synopsis": "Known for being both brilliant and powerful, Miyuki Shirogane and Kaguya Shinomiya lead the illustrious Shuchiin Academy as near equals. And everyone thinks they’d make a great couple. Pride and arrogance are in ample supply, so the only logical move is to trick the other into instigating a date! Who will come out on top in this psychological war where the first move is the only one that matters?\n\\n\\n\n(Source: Aniplex)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101921-ufrjLzhSz7L1.jpg",
-  "synonym": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
-  "native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
-  "aired": "01/12/2019",
-  "premiered": "WINTER 2019",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "12",
   "genres": [
     "Comedy",
@@ -14,19 +14,30 @@
     "Romance",
     "Slice of Life"
   ],
-  "rating": "8.3",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "A-1 Pictures"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Kaguya-sama: Love is War",
+      "link": "/2019/01/101921.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101921-ufrjLzhSz7L1.jpg"
+    },
+    {
+      "title": "[TV Series] Kaguya-sama: Love is War?",
+      "link": "/2020/04/112641.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112641-zoGC8d6FaPXU.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "I Will Make You Invite Me to a Movie / Kaguya Wants to Be Stopped / Kaguya Wants It",
       "files": [
         {
           "name": "HD-1",
@@ -51,8 +62,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Kaguya Wants to Exchange Contact Info / Fujiwara Wants to Go Out / Shirogane Miyuki Wants to Hide It",
       "files": [
         {
           "name": "HD-1",
@@ -77,8 +88,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Miyuki Shirogane Still Hasn't Done It / Kaguya Wants to Be Figured Out / Kaguya Wants to Walk",
       "files": [
         {
           "name": "HD-1",
@@ -103,8 +114,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Kaguya Wants Affection / The Student Council Wants It to Be Said / Kaguya Wants Him to Send It / Miyuki Shirogane Wants to Talk",
       "files": [
         {
           "name": "HD-1",
@@ -129,8 +140,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Kaguya Wants to Handle It / Miyuki Shirogane Wants to Show Off / Kaguya Wants to Be Covered",
       "files": [
         {
           "name": "HD-1",
@@ -155,8 +166,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Yu Ishigami Wants to Live / Chika Fujiwara Wants to Test You / Kaguya Wants to Be Noticed",
       "files": [
         {
           "name": "HD-1",
@@ -181,8 +192,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Miyuki Shirogane Wants to Work / Kaguya Wants Him to Join In / Kaguya Wants to Control It",
       "files": [
         {
           "name": "HD-1",
@@ -207,8 +218,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Kaguya Wants Her to Say It / Miyuki Shirogane Can't Lose / Yu Ishigami Closes His Eyes",
       "files": [
         {
           "name": "HD-1",
@@ -233,8 +244,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Kaguya Wants to Give a Gift / Chika Fujiwara Wants to Pay a Visit / About Kaguya Shinomiya, Part 1",
       "files": [
         {
           "name": "HD-1",
@@ -259,8 +270,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Kaguya Won't Forgive / Kaguya Wants to Forgive / Miyuki Shirogane Wants to Go Somewhere",
       "files": [
         {
           "name": "HD-1",
@@ -285,8 +296,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Ai Hayasaka Wants to Get Soaked / Chika Fujiwara Really Wants to Eat It / Miyuki Shirogane Wants to See You / I Can't Hear the Fireworks, Part 1",
       "files": [
         {
           "name": "HD-1",
@@ -311,8 +322,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "I Can't Hear the Fireworks, Part 2 / Kaguya Doesn't Want to Avoid Him",
       "files": [
         {
           "name": "HD-1",
@@ -338,8 +349,7 @@
     }
   ],
   "streamingId": "101921",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2019-01-12",
-  "malId": "37999",
-  "_forceSyncTime": 1778783316893
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

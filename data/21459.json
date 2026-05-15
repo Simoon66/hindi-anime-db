@@ -1,31 +1,52 @@
 {
   "title": "My Hero Academia",
-  "synopsis": "What would the world be like if 80 percent of the population manifested extraordinary superpowers called “Quirks” at age four? Heroes and villains would be battling it out everywhere! Becoming a hero would mean learning to use your power, but where would you go to study? U.A. High's Hero Program of course! But what would you do if you were one of the 20 percent who were born Quirkless?\n\n\n\nMiddle school student Izuku Midoriya wants to be a hero more than anything, but he hasn't got an ounce of power in him. With no chance of ever getting into the prestigious U.A. High School for budding heroes, his life is looking more and more like a dead end. Then an encounter with All Might, the greatest hero of them all gives him a chance to change his destiny…\n\n\n\n(Source: VIZ Media)",
+  "synopsis": "What would the world be like if 80 percent of the population manifested extraordinary superpowers called “Quirks” at age four? Heroes and villains would be battling it out everywhere! Becoming a hero would mean learning to use your power, but where would you go to study? U.A. High's Hero Program of course! But what would you do if you were one of the 20 percent who were born Quirkless?\\n\\n\n\nMiddle school student Izuku Midoriya wants to be a hero more than anything, but he hasn't got an ounce of power in him. With no chance of ever getting into the prestigious U.A. High School for budding heroes, his life is looking more and more like a dead end. Then an encounter with All Might, the greatest hero of them all gives him a chance to change his destiny…\\n\\n\n\n(Source: VIZ Media)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-nYh85uj2Fuwr.jpg",
-  "synonym": "Boku no Hero Academia",
-  "native": "僕のヒーローアカデミア",
-  "aired": "04/03/2016",
-  "premiered": "SPRING 2016",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "13",
   "genres": [
     "Action",
     "Adventure",
     "Comedy"
   ],
-  "rating": "7.7",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "bones"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] My Hero Academia",
+      "link": "/2016/04/21459.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-nYh85uj2Fuwr.jpg"
+    },
+    {
+      "title": "[TV Series] My Hero Academia Season 2",
+      "link": "/2017/04/21856.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21856-gutauxhWAwn6.png"
+    },
+    {
+      "title": "[OVA] Boku no Hero Academia: Sukue! Kyuujo Kunren!",
+      "link": "/2017/04/87486.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx87486-RN58UaoCSALB.png"
+    },
+    {
+      "title": "[TV Series] My Hero Academia: Vigilantes",
+      "link": "/2025/04/185736.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185736-Ci6AiGwjKKtp.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Izuku Midoriya: Origin",
       "files": [
         {
           "name": "HD-1",
@@ -50,8 +71,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "What It Takes to Be a Hero",
       "files": [
         {
           "name": "HD-1",
@@ -76,8 +97,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Roaring Muscles",
       "files": [
         {
           "name": "HD-1",
@@ -102,8 +123,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Start Line",
       "files": [
         {
           "name": "HD-1",
@@ -128,8 +149,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "What I Can Do For Now",
       "files": [
         {
           "name": "HD-1",
@@ -154,8 +175,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Rage, You Damn Nerd",
       "files": [
         {
           "name": "HD-1",
@@ -180,8 +201,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Deku vs. Kacchan",
       "files": [
         {
           "name": "HD-1",
@@ -206,8 +227,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Bakugo's Start Line",
       "files": [
         {
           "name": "HD-1",
@@ -232,8 +253,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Yeah, Just Do Your Best, Iida!",
       "files": [
         {
           "name": "HD-1",
@@ -258,8 +279,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Encounter with the Unknown",
       "files": [
         {
           "name": "HD-1",
@@ -284,8 +305,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Game Over",
       "files": [
         {
           "name": "HD-1",
@@ -310,8 +331,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "All Might",
       "files": [
         {
           "name": "HD-1",
@@ -336,8 +357,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "In Each of Our Hearts",
       "files": [
         {
           "name": "HD-1",
@@ -363,8 +384,7 @@
     }
   ],
   "streamingId": "21459",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2016-04-03",
-  "malId": "31964",
-  "_forceSyncTime": 1778769052004
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

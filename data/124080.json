@@ -1,31 +1,47 @@
 {
   "title": "Horimiya",
-  "synopsis": "A secret life is the one thing they have in common. At school, Hori is a prim and perfect social butterfly, but the truth is she's a brash homebody. Meanwhile, under a gloomy facade, Miyamura hides a gentle heart, along with piercings and tattoos. In a chance meeting, they both reveal a side they've never shown. Could this blossom into something new?\n\n\n\n(Source: Funimation)",
+  "synopsis": "A secret life is the one thing they have in common. At school, Hori is a prim and perfect social butterfly, but the truth is she's a brash homebody. Meanwhile, under a gloomy facade, Miyamura hides a gentle heart, along with piercings and tattoos. In a chance meeting, they both reveal a side they've never shown. Could this blossom into something new?\\n\n\\n\n(Source: Funimation)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124080-3i22mRVPBS0T.jpg",
-  "synonym": "Horimiya",
-  "native": "ホリミヤ",
-  "aired": "01/10/2021",
-  "premiered": "WINTER 2021",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "13",
   "genres": [
     "Comedy",
     "Romance",
     "Slice of Life"
   ],
-  "rating": "8.1",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "CloverWorks"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Horimiya",
+      "link": "/2021/01/124080.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124080-3i22mRVPBS0T.jpg"
+    },
+    {
+      "title": "[OVA] Hori-san to Miyamura-kun",
+      "link": "/2012/09/14753.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b14753-FKgfBa6AO5wg.jpg"
+    },
+    {
+      "title": "[TV Series] Horimiya: The Missing Pieces",
+      "link": "/2023/07/163132.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163132-C220CO5UrTxY.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "A Tiny Happenstance",
       "files": [
         {
           "name": "HD-1",
@@ -50,8 +66,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "You Wear More Than One Face",
       "files": [
         {
           "name": "HD-1",
@@ -76,8 +92,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "That's Why It's Okay",
       "files": [
         {
           "name": "HD-1",
@@ -102,8 +118,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Everybody Loves Somebody",
       "files": [
         {
           "name": "HD-1",
@@ -128,8 +144,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "I Can't Say It Out Loud",
       "files": [
         {
           "name": "HD-1",
@@ -154,8 +170,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "This Summer's Going to Be a Hot One",
       "files": [
         {
           "name": "HD-1",
@@ -180,8 +196,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "You're Here, I'm Here",
       "files": [
         {
           "name": "HD-1",
@@ -206,8 +222,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "The Truth Deception Reveals",
       "files": [
         {
           "name": "HD-1",
@@ -232,8 +248,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "It's Hard, but Not Impossible",
       "files": [
         {
           "name": "HD-1",
@@ -258,8 +274,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Until the Snow Melts",
       "files": [
         {
           "name": "HD-1",
@@ -284,8 +300,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "It May Seem Like Hate",
       "files": [
         {
           "name": "HD-1",
@@ -310,8 +326,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Hitherto, and Forevermore",
       "files": [
         {
           "name": "HD-1",
@@ -336,8 +352,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "I Would Gift You the Sky",
       "files": [
         {
           "name": "HD-1",
@@ -363,8 +379,7 @@
     }
   ],
   "streamingId": "124080",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2021-01-10",
-  "malId": "42897",
-  "_forceSyncTime": 1778769983723
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

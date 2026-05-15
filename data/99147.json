@@ -1,12 +1,12 @@
 {
   "title": "Attack on Titan Season 3",
-  "synopsis": "Eren and his companions in the 104th are assigned to the newly-formed Levi Squad, whose assignment is to keep Eren and Historia safe given Eren's newly-discovered power and Historia's knowledge and pedigree. Levi and Erwin have good reason to be concerned, because the priest of the Church that Hanji had hidden away was found tortured to death, making it clear that the Military Police are involved with the cover-up. Things get more harrowing when the MPs make a move on Erwin and the Levi Squad narrowly avoids capture. Eren is also having problems with his Titan transformation, and a deadly killer has been hired to secure Eren and Historia, one Levi knows all too well from his youth.\n\n\n\n(Source: Anime News Network)",
+  "synopsis": "Eren and his companions in the 104th are assigned to the newly-formed Levi Squad, whose assignment is to keep Eren and Historia safe given Eren's newly-discovered power and Historia's knowledge and pedigree. Levi and Erwin have good reason to be concerned, because the priest of the Church that Hanji had hidden away was found tortured to death, making it clear that the Military Police are involved with the cover-up. Things get more harrowing when the MPs make a move on Erwin and the Levi Squad narrowly avoids capture. Eren is also having problems with his Titan transformation, and a deadly killer has been hired to secure Eren and Historia, one Levi knows all too well from his youth.\\n\n\\n\n(Source: Anime News Network)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99147-AiPDD8cwlCfi.jpg",
-  "synonym": "Shingeki no Kyojin Season 3",
-  "native": "進撃の巨人 Season３",
-  "aired": "07/23/2018",
-  "premiered": "SUMMER 2018",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "12",
   "genres": [
     "Action",
@@ -14,20 +14,56 @@
     "Fantasy",
     "Mystery"
   ],
-  "rating": "8.6",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "WIT STUDIO"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Attack on Titan Season 3",
+      "link": "/2018/07/99147.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99147-AiPDD8cwlCfi.jpg"
+    },
+    {
+      "title": "[TV Series] Attack on Titan Season 2",
+      "link": "/2017/04/20958.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20958-HuFJyr54Mmir.jpg"
+    },
+    {
+      "title": "[TV Series] Attack on Titan Season 3 Part 2",
+      "link": "/2019/04/104578.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104578-k61nx3LPjvgd.jpg"
+    },
+    {
+      "title": "[Movie] Attack on Titan ~Chronicle~",
+      "link": "/2020/07/119113.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119113-IzVI5oZ0og8O.jpg"
+    },
+    {
+      "title": "[OVA] Attack on Titan: Lost Girls",
+      "link": "/2017/12/99634.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99634-9u4hdvWwmC2s.png"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Smoke Signal",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/99147/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/99147/1/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/35760/1/sub",
@@ -41,9 +77,19 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Pain",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/99147/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/99147/2/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/35760/2/sub",
@@ -57,9 +103,19 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Old Story",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/99147/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/99147/3/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/35760/3/sub",
@@ -73,9 +129,19 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Trust",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/99147/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/99147/4/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/35760/4/sub",
@@ -89,9 +155,19 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Reply",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/99147/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/99147/5/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/35760/5/sub",
@@ -105,9 +181,19 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Sin",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/99147/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/99147/6/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/35760/6/sub",
@@ -121,9 +207,19 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Wish",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/99147/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/99147/7/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/35760/7/sub",
@@ -137,9 +233,19 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Outside the Walls of Orvud District",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/99147/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/99147/8/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/35760/8/sub",
@@ -153,9 +259,19 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Ruler of the Walls",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/99147/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/99147/9/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/35760/9/sub",
@@ -169,8 +285,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Friends",
       "files": [
         {
           "name": "HD-1",
@@ -195,8 +311,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Bystander",
       "files": [
         {
           "name": "HD-1",
@@ -221,8 +337,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Night of the Battle to Retake the Wall",
       "files": [
         {
           "name": "HD-1",
@@ -248,8 +364,7 @@
     }
   ],
   "streamingId": "99147",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2018-07-23",
-  "malId": "35760",
-  "_forceSyncTime": 1778769382268
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

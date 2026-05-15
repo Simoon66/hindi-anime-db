@@ -1,12 +1,12 @@
 {
   "title": "Parasyte -the maxim-",
-  "synopsis": "They arrive in silence and darkness. They descend from the skies. They have a hunger for human flesh. They are everywhere. They are parasites, alien creatures who must invade–and take control of–a human host to survive. And once they have infected their victims, they can assume any deadly form they choose: monsters with giant teeth, winged demons, creatures with blades for hands. But most have chosen to conceal their lethal purpose behind ordinary human faces. So no one knows their secret–except an ordinary high school student. Shin is battling for control of his own body against an alien parasite, but can he find a way to warn humanity of the horrors to come?\n\n\n\n(Source: Del Rey)",
+  "synopsis": "They arrive in silence and darkness. They descend from the skies. They have a hunger for human flesh. They are everywhere. They are parasites, alien creatures who must invade–and take control of–a human host to survive. And once they have infected their victims, they can assume any deadly form they choose: monsters with giant teeth, winged demons, creatures with blades for hands. But most have chosen to conceal their lethal purpose behind ordinary human faces. So no one knows their secret–except an ordinary high school student. Shin is battling for control of his own body against an alien parasite, but can he find a way to warn humanity of the horrors to come?\\n\n\\n\n(Source: Del Rey)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20623-dUARfggnNDOe.jpg",
-  "synonym": "Kiseijuu: Sei no Kakuritsu",
-  "native": "寄生獣 セイの格率",
-  "aired": "10/09/2014",
-  "premiered": "FALL 2014",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "24",
   "genres": [
     "Action",
@@ -15,19 +15,25 @@
     "Psychological",
     "Sci-Fi"
   ],
-  "rating": "8.1",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "MADHOUSE"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Parasyte -the maxim-",
+      "link": "/2014/10/20623.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20623-dUARfggnNDOe.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Metamorphosis",
       "files": [
         {
           "name": "HD-1",
@@ -52,8 +58,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Demon in the Flesh",
       "files": [
         {
           "name": "HD-1",
@@ -78,8 +84,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Feast",
       "files": [
         {
           "name": "HD-1",
@@ -104,8 +110,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Disheveled Hair",
       "files": [
         {
           "name": "HD-1",
@@ -130,8 +136,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "The Stranger",
       "files": [
         {
           "name": "HD-1",
@@ -156,8 +162,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "The Sun Also Rises",
       "files": [
         {
           "name": "HD-1",
@@ -182,8 +188,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Dark Night's Passing",
       "files": [
         {
           "name": "HD-1",
@@ -208,8 +214,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Freezing Point",
       "files": [
         {
           "name": "HD-1",
@@ -234,8 +240,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Beyond Good and Evil",
       "files": [
         {
           "name": "HD-1",
@@ -260,8 +266,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "What Mad Universe",
       "files": [
         {
           "name": "HD-1",
@@ -286,8 +292,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "The Blue Bird",
       "files": [
         {
           "name": "HD-1",
@@ -312,8 +318,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Kokoro",
       "files": [
         {
           "name": "HD-1",
@@ -338,8 +344,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "Hello Sadness",
       "files": [
         {
           "name": "HD-1",
@@ -364,8 +370,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "The Selfish Gene",
       "files": [
         {
           "name": "HD-1",
@@ -390,8 +396,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "Something Wicked This Way Comes",
       "files": [
         {
           "name": "HD-1",
@@ -416,8 +422,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "Happy Family",
       "files": [
         {
           "name": "HD-1",
@@ -442,8 +448,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "The Adventure of the Dying Detective",
       "files": [
         {
           "name": "HD-1",
@@ -468,8 +474,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "More than Human",
       "files": [
         {
           "name": "HD-1",
@@ -494,8 +500,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "In Cold Blood",
       "files": [
         {
           "name": "HD-1",
@@ -520,8 +526,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "Crime and Punishment",
       "files": [
         {
           "name": "HD-1",
@@ -546,8 +552,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "Sex and Spirit",
       "files": [
         {
           "name": "HD-1",
@@ -572,8 +578,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "Quiescence and Awakening",
       "files": [
         {
           "name": "HD-1",
@@ -598,8 +604,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "Life and Oath",
       "files": [
         {
           "name": "HD-1",
@@ -624,8 +630,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "Parasyte",
       "files": [
         {
           "name": "HD-1",
@@ -651,8 +657,7 @@
     }
   ],
   "streamingId": "20623",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2014-10-09",
-  "malId": "22535",
-  "_forceSyncTime": 1778770028505
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

@@ -1,12 +1,12 @@
 {
   "title": "Naruto",
-  "synopsis": "Naruto Uzumaki, a hyperactive and knuckle-headed ninja, lives in Konohagakure, the Hidden Leaf village. Moments prior to his birth, a huge demon known as the Kyuubi, the Nine-tailed Fox, attacked Konohagakure and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the 4th Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto. \n\n\nShunned because of the presence of the Kyuubi inside him, Naruto struggles to find his place in the village. He strives to become the Hokage of Konohagakure, and he meets many friends and foes along the way. \n\n\n(Source: MAL Rewrite)",
+  "synopsis": "Naruto Uzumaki, a hyperactive and knuckle-headed ninja, lives in Konohagakure, the Hidden Leaf village. Moments prior to his birth, a huge demon known as the Kyuubi, the Nine-tailed Fox, attacked Konohagakure and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the 4th Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto. \\n\\n\nShunned because of the presence of the Kyuubi inside him, Naruto struggles to find his place in the village. He strives to become the Hokage of Konohagakure, and he meets many friends and foes along the way. \\n\\n\n(Source: MAL Rewrite)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
-  "synonym": "NARUTO",
-  "native": "NARUTO -ナルト-",
-  "aired": "10/03/2002",
-  "premiered": "FALL 2002",
-  "duration": "23m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "220",
   "genres": [
     "Action",
@@ -16,33 +16,75 @@
     "Fantasy",
     "Supernatural"
   ],
-  "rating": "8.0",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "Studio Pierrot"
   ],
-  "producers": [
-    "TV Tokyo",
-    "Aniplex",
-    "Viz Media",
-    "Shueisha",
-    "KSS",
-    "SME Visual Works",
-    "Rakuonsha"
-  ],
+  "producers": [],
   "seasons": [
     {
-      "title": "Naruto",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20-dE6UHbFFg1A5.jpg",
-      "link": "/2002/10/20.html"
+      "title": "[TV Series] Naruto",
+      "link": "/2002/10/20.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg"
+    },
+    {
+      "title": "[TV Series] Naruto: Shippuden",
+      "link": "/2007/02/1735.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1735-kGfVm0YqCPcu.png"
+    },
+    {
+      "title": "[Movie] Naruto the Movie: Ninja Clash in the Land of Snow",
+      "link": "/2004/08/442.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx442-VJbmIVTgmne3.png"
+    },
+    {
+      "title": "[Special] Naruto: The Lost Story - Mission: Protect the Waterfall Village",
+      "link": "/2003/12/594.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/594.jpg"
+    },
+    {
+      "title": "[Special] NARUTO: Akaki Yotsuba no Clover wo Sagase",
+      "link": "/2003/05/761.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/761.jpg"
+    },
+    {
+      "title": "[Movie] Naruto the Movie: Legend of the Stone of Gelel",
+      "link": "/2005/08/936.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx936-P1ogcIs07UR8.jpg"
+    },
+    {
+      "title": "[OVA] NARUTO: Narutimate Hero 3: Tsui ni Gekitotsu! Jounin VS Genin!! Musabetsu Dairansen Taikai Kaisai!!",
+      "link": "/2005/12/1074.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1074.jpg"
+    },
+    {
+      "title": "[Movie] Naruto the Movie: Guardians of the Crescent Moon Kingdom",
+      "link": "/2006/08/2144.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2144-9FITEzdGnlWC.jpg"
+    },
+    {
+      "title": "[Special] NARUTO: THE CROSS ROADS",
+      "link": "/2009/10/7367.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7367.jpg"
+    },
+    {
+      "title": "[Special] Naruto, the Genie, and the Three Wishes, Believe It!",
+      "link": "/2010/07/10659.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10659.jpg"
+    },
+    {
+      "title": "[Special] ROAD OF NARUTO",
+      "link": "/2022/10/155348.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155348-4ipji8SvTjyh.jpg"
     }
   ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Enter: Naruto Uzumaki!",
       "files": [
         {
           "name": "HD-1",
@@ -67,8 +109,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "My Name is Konohamaru!",
       "files": [
         {
           "name": "HD-1",
@@ -93,8 +135,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Sasuke and Sakura: Friends or Foes?",
       "files": [
         {
           "name": "HD-1",
@@ -119,8 +161,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Pass or Fail: Survival Test",
       "files": [
         {
           "name": "HD-1",
@@ -145,8 +187,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "You Failed! Kakashi's Final Decision",
       "files": [
         {
           "name": "HD-1",
@@ -171,8 +213,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "A Dangerous Mission! Journey to the Land of Waves!",
       "files": [
         {
           "name": "HD-1",
@@ -197,8 +239,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "The Assassin of the Mist!",
       "files": [
         {
           "name": "HD-1",
@@ -223,8 +265,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "The Oath of Pain",
       "files": [
         {
           "name": "HD-1",
@@ -249,8 +291,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Kakashi: Sharingan Warrior!",
       "files": [
         {
           "name": "HD-1",
@@ -275,8 +317,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "The Forest of Chakra",
       "files": [
         {
           "name": "HD-1",
@@ -301,8 +343,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "The Land Where a Hero Once Lived",
       "files": [
         {
           "name": "HD-1",
@@ -327,8 +369,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Battle on the Bridge! Zabuza Returns!",
       "files": [
         {
           "name": "HD-1",
@@ -353,8 +395,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "Haku's Secret Jutsu: Crystal Ice Mirrors",
       "files": [
         {
           "name": "HD-1",
@@ -379,8 +421,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "The Number One Hyperactive, Knucklehead Ninja Joins the Fight!",
       "files": [
         {
           "name": "HD-1",
@@ -405,8 +447,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "Zero Visibility: The Sharingan Shatters",
       "files": [
         {
           "name": "HD-1",
@@ -431,8 +473,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "The Broken Seal",
       "files": [
         {
           "name": "HD-1",
@@ -457,8 +499,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "White Past: Hidden Ambition",
       "files": [
         {
           "name": "HD-1",
@@ -483,8 +525,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "The Weapons Known as Shinobi",
       "files": [
         {
           "name": "HD-1",
@@ -509,8 +551,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "The Demon in the Snow",
       "files": [
         {
           "name": "HD-1",
@@ -535,8 +577,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "A New Chapter Begins: The Chunin Exam!",
       "files": [
         {
           "name": "HD-1",
@@ -561,8 +603,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "Identify Yourself: Powerful New Rivals",
       "files": [
         {
           "name": "HD-1",
@@ -587,8 +629,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "Chunin Challenge: Rock Lee vs. Sasuke!",
       "files": [
         {
           "name": "HD-1",
@@ -613,8 +655,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "Genin Takedown! All Nine Rookies Face Off!",
       "files": [
         {
           "name": "HD-1",
@@ -639,8 +681,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "Start Your Engines: The Chunin Exam Begins!",
       "files": [
         {
           "name": "HD-1",
@@ -665,8 +707,8 @@
       ]
     },
     {
+      "title": "Episode 25",
       "episode": "25",
-      "title": "The Tenth Question: All or Nothing!",
       "files": [
         {
           "name": "HD-1",
@@ -691,8 +733,8 @@
       ]
     },
     {
+      "title": "Episode 26",
       "episode": "26",
-      "title": "Special Report: Live from the Forest of Death!",
       "files": [
         {
           "name": "HD-1",
@@ -717,8 +759,8 @@
       ]
     },
     {
+      "title": "Episode 27",
       "episode": "27",
-      "title": "The Chunin Exam Stage 2: The Forest of Death",
       "files": [
         {
           "name": "HD-1",
@@ -743,8 +785,8 @@
       ]
     },
     {
+      "title": "Episode 28",
       "episode": "28",
-      "title": "Eat or be Eaten: Panic in the Forest",
       "files": [
         {
           "name": "HD-1",
@@ -769,8 +811,8 @@
       ]
     },
     {
+      "title": "Episode 29",
       "episode": "29",
-      "title": "Naruto's Counterattack: Never Give In!",
       "files": [
         {
           "name": "HD-1",
@@ -795,8 +837,8 @@
       ]
     },
     {
+      "title": "Episode 30",
       "episode": "30",
-      "title": "The Sharingan Revived: Dragon-Flame Jutsu!",
       "files": [
         {
           "name": "HD-1",
@@ -821,8 +863,8 @@
       ]
     },
     {
+      "title": "Episode 31",
       "episode": "31",
-      "title": "Bushy Brow's Pledge: Undying Love and Protection!",
       "files": [
         {
           "name": "HD-1",
@@ -847,8 +889,8 @@
       ]
     },
     {
+      "title": "Episode 32",
       "episode": "32",
-      "title": "Sakura Blossoms!",
       "files": [
         {
           "name": "HD-1",
@@ -873,8 +915,8 @@
       ]
     },
     {
+      "title": "Episode 33",
       "episode": "33",
-      "title": "Battle Formation: Ino-Shika-Cho!",
       "files": [
         {
           "name": "HD-1",
@@ -899,8 +941,8 @@
       ]
     },
     {
+      "title": "Episode 34",
       "episode": "34",
-      "title": "Akamaru Trembles: Gaara's Cruel Strength!",
       "files": [
         {
           "name": "HD-1",
@@ -925,8 +967,8 @@
       ]
     },
     {
+      "title": "Episode 35",
       "episode": "35",
-      "title": "The Scroll's Secret: No Peeking Allowed",
       "files": [
         {
           "name": "HD-1",
@@ -951,8 +993,8 @@
       ]
     },
     {
+      "title": "Episode 36",
       "episode": "36",
-      "title": "Clone vs. Clone: Mine are Better than Yours!",
       "files": [
         {
           "name": "HD-1",
@@ -977,8 +1019,8 @@
       ]
     },
     {
+      "title": "Episode 37",
       "episode": "37",
-      "title": "Surviving the Cut! The Rookie Nine Together Again!",
       "files": [
         {
           "name": "HD-1",
@@ -1003,8 +1045,8 @@
       ]
     },
     {
+      "title": "Episode 38",
       "episode": "38",
-      "title": "Narrowing the Field: Sudden Death Elimination!",
       "files": [
         {
           "name": "HD-1",
@@ -1029,8 +1071,8 @@
       ]
     },
     {
+      "title": "Episode 39",
       "episode": "39",
-      "title": "Bushy Brow's Jealousy: Lions Barrage Unleashed!",
       "files": [
         {
           "name": "HD-1",
@@ -1055,8 +1097,8 @@
       ]
     },
     {
+      "title": "Episode 40",
       "episode": "40",
-      "title": "Kakashi and Orochimaru: Face-to-Face!",
       "files": [
         {
           "name": "HD-1",
@@ -1081,8 +1123,8 @@
       ]
     },
     {
+      "title": "Episode 41",
       "episode": "41",
-      "title": "Kunoichi Rumble: The Rivals Get Serious!",
       "files": [
         {
           "name": "HD-1",
@@ -1107,8 +1149,8 @@
       ]
     },
     {
+      "title": "Episode 42",
       "episode": "42",
-      "title": "The Ultimate Battle: Cha!",
       "files": [
         {
           "name": "HD-1",
@@ -1133,8 +1175,8 @@
       ]
     },
     {
+      "title": "Episode 43",
       "episode": "43",
-      "title": "Killer Kunoichi and a Shaky Shikamaru",
       "files": [
         {
           "name": "HD-1",
@@ -1159,8 +1201,8 @@
       ]
     },
     {
+      "title": "Episode 44",
       "episode": "44",
-      "title": "Akamaru Unleashed! Who's Top Dog Now?",
       "files": [
         {
           "name": "HD-1",
@@ -1185,8 +1227,8 @@
       ]
     },
     {
+      "title": "Episode 45",
       "episode": "45",
-      "title": "Surprise Attack! Naruto's Secret Weapon!",
       "files": [
         {
           "name": "HD-1",
@@ -1211,8 +1253,8 @@
       ]
     },
     {
+      "title": "Episode 46",
       "episode": "46",
-      "title": "Byakugan Battle: Hinata Grows Bold!",
       "files": [
         {
           "name": "HD-1",
@@ -1237,8 +1279,8 @@
       ]
     },
     {
+      "title": "Episode 47",
       "episode": "47",
-      "title": "A Failure Stands Tall!",
       "files": [
         {
           "name": "HD-1",
@@ -1263,8 +1305,8 @@
       ]
     },
     {
+      "title": "Episode 48",
       "episode": "48",
-      "title": "Gaara vs. Rock Lee: The Power of Youth Explodes!",
       "files": [
         {
           "name": "HD-1",
@@ -1289,8 +1331,8 @@
       ]
     },
     {
+      "title": "Episode 49",
       "episode": "49",
-      "title": "Lee's Hidden Strength: Forbidden Secret Jutsu!",
       "files": [
         {
           "name": "HD-1",
@@ -1315,8 +1357,8 @@
       ]
     },
     {
+      "title": "Episode 50",
       "episode": "50",
-      "title": "The Fifth Gate: A Splendid Ninja is Born",
       "files": [
         {
           "name": "HD-1",
@@ -1341,8 +1383,8 @@
       ]
     },
     {
+      "title": "Episode 51",
       "episode": "51",
-      "title": "A Shadow in Darkness: Danger Approaches Sasuke",
       "files": [
         {
           "name": "HD-1",
@@ -1367,8 +1409,8 @@
       ]
     },
     {
+      "title": "Episode 52",
       "episode": "52",
-      "title": "Ebisu Returns: Naruto's Toughest Training Yet!",
       "files": [
         {
           "name": "HD-1",
@@ -1393,8 +1435,8 @@
       ]
     },
     {
+      "title": "Episode 53",
       "episode": "53",
-      "title": "Long Time No See: Jiraiya Returns!",
       "files": [
         {
           "name": "HD-1",
@@ -1419,8 +1461,8 @@
       ]
     },
     {
+      "title": "Episode 54",
       "episode": "54",
-      "title": "The Summoning Jutsu: Wisdom of the Toad Sage!",
       "files": [
         {
           "name": "HD-1",
@@ -1445,8 +1487,8 @@
       ]
     },
     {
+      "title": "Episode 55",
       "episode": "55",
-      "title": "A Feeling of Yearning, A Flower Full of Hope",
       "files": [
         {
           "name": "HD-1",
@@ -1471,8 +1513,8 @@
       ]
     },
     {
+      "title": "Episode 56",
       "episode": "56",
-      "title": "Live or Die: Risk it All to Win it All!",
       "files": [
         {
           "name": "HD-1",
@@ -1497,8 +1539,8 @@
       ]
     },
     {
+      "title": "Episode 57",
       "episode": "57",
-      "title": "He Flies! He Jumps! He Lurks! Chief Toad Appears!",
       "files": [
         {
           "name": "HD-1",
@@ -1523,8 +1565,8 @@
       ]
     },
     {
+      "title": "Episode 58",
       "episode": "58",
-      "title": "Hospital Besieged: The Evil Hand Revealed!",
       "files": [
         {
           "name": "HD-1",
@@ -1549,8 +1591,8 @@
       ]
     },
     {
+      "title": "Episode 59",
       "episode": "59",
-      "title": "The Final Rounds: Rush to the Battle Arena!",
       "files": [
         {
           "name": "HD-1",
@@ -1575,8 +1617,8 @@
       ]
     },
     {
+      "title": "Episode 60",
       "episode": "60",
-      "title": "Byakugan vs. Shadow Clone",
       "files": [
         {
           "name": "HD-1",
@@ -1601,8 +1643,8 @@
       ]
     },
     {
+      "title": "Episode 61",
       "episode": "61",
-      "title": "Ultimate Defense: Zero Blind Spot!",
       "files": [
         {
           "name": "HD-1",
@@ -1627,8 +1669,8 @@
       ]
     },
     {
+      "title": "Episode 62",
       "episode": "62",
-      "title": "A Failure's True Power",
       "files": [
         {
           "name": "HD-1",
@@ -1653,8 +1695,8 @@
       ]
     },
     {
+      "title": "Episode 63",
       "episode": "63",
-      "title": "Hit it or Quit it: The Final Rounds Get Complicated!",
       "files": [
         {
           "name": "HD-1",
@@ -1679,8 +1721,8 @@
       ]
     },
     {
+      "title": "Episode 64",
       "episode": "64",
-      "title": "Zero Motivation: The Guy with Cloud Envy!",
       "files": [
         {
           "name": "HD-1",
@@ -1705,8 +1747,8 @@
       ]
     },
     {
+      "title": "Episode 65",
       "episode": "65",
-      "title": "Dancing Leaf, Squirming Sand",
       "files": [
         {
           "name": "HD-1",
@@ -1731,8 +1773,8 @@
       ]
     },
     {
+      "title": "Episode 66",
       "episode": "66",
-      "title": "Bushy Brow's Jutsu: Sasuke Style!",
       "files": [
         {
           "name": "HD-1",
@@ -1757,8 +1799,8 @@
       ]
     },
     {
+      "title": "Episode 67",
       "episode": "67",
-      "title": "Late for the Show, But Ready to Go! The Ultimate Secret Technique is Born!",
       "files": [
         {
           "name": "HD-1",
@@ -1783,8 +1825,8 @@
       ]
     },
     {
+      "title": "Episode 68",
       "episode": "68",
-      "title": "Zero Hour! The Destruction of the Hidden Leaf Village Begins!",
       "files": [
         {
           "name": "HD-1",
@@ -1809,8 +1851,8 @@
       ]
     },
     {
+      "title": "Episode 69",
       "episode": "69",
-      "title": "Village in Distress: A New A-Ranked Mission!",
       "files": [
         {
           "name": "HD-1",
@@ -1835,8 +1877,8 @@
       ]
     },
     {
+      "title": "Episode 70",
       "episode": "70",
-      "title": "A Shirker's Call to Action: A Layabout No More!",
       "files": [
         {
           "name": "HD-1",
@@ -1861,8 +1903,8 @@
       ]
     },
     {
+      "title": "Episode 71",
       "episode": "71",
-      "title": "An Unrivaled Match: Hokage Battle Royale!",
       "files": [
         {
           "name": "HD-1",
@@ -1887,8 +1929,8 @@
       ]
     },
     {
+      "title": "Episode 72",
       "episode": "72",
-      "title": "A Mistake from the Past: A Face Revealed!",
       "files": [
         {
           "name": "HD-1",
@@ -1913,8 +1955,8 @@
       ]
     },
     {
+      "title": "Episode 73",
       "episode": "73",
-      "title": "Forbidden Secret Technique: Reaper Death Seal!",
       "files": [
         {
           "name": "HD-1",
@@ -1939,8 +1981,8 @@
       ]
     },
     {
+      "title": "Episode 74",
       "episode": "74",
-      "title": "Astonishing Truth! Gaara's Identity Emerges!",
       "files": [
         {
           "name": "HD-1",
@@ -1965,8 +2007,8 @@
       ]
     },
     {
+      "title": "Episode 75",
       "episode": "75",
-      "title": "Sasuke's Decision: Pushed to the Edge!",
       "files": [
         {
           "name": "HD-1",
@@ -1991,8 +2033,8 @@
       ]
     },
     {
+      "title": "Episode 76",
       "episode": "76",
-      "title": "Assassin of the Moonlit Night",
       "files": [
         {
           "name": "HD-1",
@@ -2017,8 +2059,8 @@
       ]
     },
     {
+      "title": "Episode 77",
       "episode": "77",
-      "title": "Light vs. Dark: The Two Faces of Gaara",
       "files": [
         {
           "name": "HD-1",
@@ -2043,8 +2085,8 @@
       ]
     },
     {
+      "title": "Episode 78",
       "episode": "78",
-      "title": "Naruto's Ninja Handbook",
       "files": [
         {
           "name": "HD-1",
@@ -2069,8 +2111,8 @@
       ]
     },
     {
+      "title": "Episode 79",
       "episode": "79",
-      "title": "Beyond the Limit of Darkness and Light",
       "files": [
         {
           "name": "HD-1",
@@ -2095,8 +2137,8 @@
       ]
     },
     {
+      "title": "Episode 80",
       "episode": "80",
-      "title": "The Third Hokage, Forever...",
       "files": [
         {
           "name": "HD-1",
@@ -2121,8 +2163,8 @@
       ]
     },
     {
+      "title": "Episode 81",
       "episode": "81",
-      "title": "Return of the Morning Mist",
       "files": [
         {
           "name": "HD-1",
@@ -2147,8 +2189,8 @@
       ]
     },
     {
+      "title": "Episode 82",
       "episode": "82",
-      "title": "Eye to Eye: Sharingan vs. Sharingan!",
       "files": [
         {
           "name": "HD-1",
@@ -2173,8 +2215,8 @@
       ]
     },
     {
+      "title": "Episode 83",
       "episode": "83",
-      "title": "Jiraiya: Naruto's Potential Disaster!",
       "files": [
         {
           "name": "HD-1",
@@ -2199,8 +2241,8 @@
       ]
     },
     {
+      "title": "Episode 84",
       "episode": "84",
-      "title": "Roar, Chidori! Brother vs. Brother!",
       "files": [
         {
           "name": "HD-1",
@@ -2225,8 +2267,8 @@
       ]
     },
     {
+      "title": "Episode 85",
       "episode": "85",
-      "title": "Hate Among the Uchihas: The Last of the Clan!",
       "files": [
         {
           "name": "HD-1",
@@ -2251,8 +2293,8 @@
       ]
     },
     {
+      "title": "Episode 86",
       "episode": "86",
-      "title": "A New Training Begins: I Will Be Strong!",
       "files": [
         {
           "name": "HD-1",
@@ -2277,8 +2319,8 @@
       ]
     },
     {
+      "title": "Episode 87",
       "episode": "87",
-      "title": "Keep on Training: Pop Goes the Water Balloon!",
       "files": [
         {
           "name": "HD-1",
@@ -2303,8 +2345,8 @@
       ]
     },
     {
+      "title": "Episode 88",
       "episode": "88",
-      "title": "Focal Point: The Mark of the Leaf",
       "files": [
         {
           "name": "HD-1",
@@ -2329,8 +2371,8 @@
       ]
     },
     {
+      "title": "Episode 89",
       "episode": "89",
-      "title": "An Impossible Choice: The Pain Within Tsunade's Heart",
       "files": [
         {
           "name": "HD-1",
@@ -2355,8 +2397,8 @@
       ]
     },
     {
+      "title": "Episode 90",
       "episode": "90",
-      "title": "Unforgivable! A Total Lack of Respect!",
       "files": [
         {
           "name": "HD-1",
@@ -2381,8 +2423,8 @@
       ]
     },
     {
+      "title": "Episode 91",
       "episode": "91",
-      "title": "Inheritence! The Necklace of Death!",
       "files": [
         {
           "name": "HD-1",
@@ -2407,8 +2449,8 @@
       ]
     },
     {
+      "title": "Episode 92",
       "episode": "92",
-      "title": "A Dubious Offer! Tsunade's Choice!",
       "files": [
         {
           "name": "HD-1",
@@ -2433,8 +2475,8 @@
       ]
     },
     {
+      "title": "Episode 93",
       "episode": "93",
-      "title": "Breakdown! The Deal is Off!",
       "files": [
         {
           "name": "HD-1",
@@ -2459,8 +2501,8 @@
       ]
     },
     {
+      "title": "Episode 94",
       "episode": "94",
-      "title": "Attack! Fury of the Rasengan!",
       "files": [
         {
           "name": "HD-1",
@@ -2485,8 +2527,8 @@
       ]
     },
     {
+      "title": "Episode 95",
       "episode": "95",
-      "title": "The Fifth Hokage! A Life on the Line!",
       "files": [
         {
           "name": "HD-1",
@@ -2511,8 +2553,8 @@
       ]
     },
     {
+      "title": "Episode 96",
       "episode": "96",
-      "title": "Deadlock! Sannin Showdown!",
       "files": [
         {
           "name": "HD-1",
@@ -2537,8 +2579,8 @@
       ]
     },
     {
+      "title": "Episode 97",
       "episode": "97",
-      "title": "Kidnapped! Naruto's Hot Spring Adventure!",
       "files": [
         {
           "name": "HD-1",
@@ -2563,8 +2605,8 @@
       ]
     },
     {
+      "title": "Episode 98",
       "episode": "98",
-      "title": "Tsunade's Warning: Ninja No More!",
       "files": [
         {
           "name": "HD-1",
@@ -2589,8 +2631,8 @@
       ]
     },
     {
+      "title": "Episode 99",
       "episode": "99",
-      "title": "The Will of Fire Still Burns!",
       "files": [
         {
           "name": "HD-1",
@@ -2615,8 +2657,8 @@
       ]
     },
     {
+      "title": "Episode 100",
       "episode": "100",
-      "title": "Sensei and Student: The Bond of the Shinobi",
       "files": [
         {
           "name": "HD-1",
@@ -2641,8 +2683,8 @@
       ]
     },
     {
+      "title": "Episode 101",
       "episode": "101",
-      "title": "Gotta See! Gotta Know! Kakashi-Sensei's True Face!",
       "files": [
         {
           "name": "HD-1",
@@ -2667,8 +2709,8 @@
       ]
     },
     {
+      "title": "Episode 102",
       "episode": "102",
-      "title": "Mission: Help an Old Friend in the Land of Tea",
       "files": [
         {
           "name": "HD-1",
@@ -2693,8 +2735,8 @@
       ]
     },
     {
+      "title": "Episode 103",
       "episode": "103",
-      "title": "The Race is on! Trouble on the High Seas!",
       "files": [
         {
           "name": "HD-1",
@@ -2719,8 +2761,8 @@
       ]
     },
     {
+      "title": "Episode 104",
       "episode": "104",
-      "title": "Run Idate Run! Nagi Island Awaits!",
       "files": [
         {
           "name": "HD-1",
@@ -2745,8 +2787,8 @@
       ]
     },
     {
+      "title": "Episode 105",
       "episode": "105",
-      "title": "A Fierce Battle of Rolling Thunder!",
       "files": [
         {
           "name": "HD-1",
@@ -2771,8 +2813,8 @@
       ]
     },
     {
+      "title": "Episode 106",
       "episode": "106",
-      "title": "The Last Leg: A Final Act of Desperation",
       "files": [
         {
           "name": "HD-1",
@@ -2797,8 +2839,8 @@
       ]
     },
     {
+      "title": "Episode 107",
       "episode": "107",
-      "title": "The Battle Begins: Naruto vs. Sasuke",
       "files": [
         {
           "name": "HD-1",
@@ -2823,8 +2865,8 @@
       ]
     },
     {
+      "title": "Episode 108",
       "episode": "108",
-      "title": "Bitter Rivals and Broken Bonds",
       "files": [
         {
           "name": "HD-1",
@@ -2849,8 +2891,8 @@
       ]
     },
     {
+      "title": "Episode 109",
       "episode": "109",
-      "title": "An Invitation from the Sound",
       "files": [
         {
           "name": "HD-1",
@@ -2875,8 +2917,8 @@
       ]
     },
     {
+      "title": "Episode 110",
       "episode": "110",
-      "title": "Formation! The Sasuke Retrieval Squad",
       "files": [
         {
           "name": "HD-1",
@@ -2901,8 +2943,8 @@
       ]
     },
     {
+      "title": "Episode 111",
       "episode": "111",
-      "title": "Sound vs. Leaf",
       "files": [
         {
           "name": "HD-1",
@@ -2927,8 +2969,8 @@
       ]
     },
     {
+      "title": "Episode 112",
       "episode": "112",
-      "title": "Squad Mutiny: Everything Falls Apart!",
       "files": [
         {
           "name": "HD-1",
@@ -2953,8 +2995,8 @@
       ]
     },
     {
+      "title": "Episode 113",
       "episode": "113",
-      "title": "Full Throttle Power! Choji, Ablaze!",
       "files": [
         {
           "name": "HD-1",
@@ -2979,8 +3021,8 @@
       ]
     },
     {
+      "title": "Episode 114",
       "episode": "114",
-      "title": "Good-bye Old Friend...! I'll Always Believe in You!",
       "files": [
         {
           "name": "HD-1",
@@ -3005,8 +3047,8 @@
       ]
     },
     {
+      "title": "Episode 115",
       "episode": "115",
-      "title": "Your Opponent Is Me!",
       "files": [
         {
           "name": "HD-1",
@@ -3031,8 +3073,8 @@
       ]
     },
     {
+      "title": "Episode 116",
       "episode": "116",
-      "title": "360 Degrees of Vision: The Byakugan's Blind Spot",
       "files": [
         {
           "name": "HD-1",
@@ -3057,8 +3099,8 @@
       ]
     },
     {
+      "title": "Episode 117",
       "episode": "117",
-      "title": "Losing is Not an Option!",
       "files": [
         {
           "name": "HD-1",
@@ -3083,8 +3125,8 @@
       ]
     },
     {
+      "title": "Episode 118",
       "episode": "118",
-      "title": "The Vessel Arrives Too Late",
       "files": [
         {
           "name": "HD-1",
@@ -3109,8 +3151,8 @@
       ]
     },
     {
+      "title": "Episode 119",
       "episode": "119",
-      "title": "Miscalculation: A New Enemy Appears!",
       "files": [
         {
           "name": "HD-1",
@@ -3135,8 +3177,8 @@
       ]
     },
     {
+      "title": "Episode 120",
       "episode": "120",
-      "title": "Roar and Howl! The Ultimate Tag Team",
       "files": [
         {
           "name": "HD-1",
@@ -3161,8 +3203,8 @@
       ]
     },
     {
+      "title": "Episode 121",
       "episode": "121",
-      "title": "To Each His Own Battle",
       "files": [
         {
           "name": "HD-1",
@@ -3187,8 +3229,8 @@
       ]
     },
     {
+      "title": "Episode 122",
       "episode": "122",
-      "title": "Fakeout: Shikamaru's Comeback!",
       "files": [
         {
           "name": "HD-1",
@@ -3213,8 +3255,8 @@
       ]
     },
     {
+      "title": "Episode 123",
       "episode": "123",
-      "title": "The Leaf's Handsome Devil!",
       "files": [
         {
           "name": "HD-1",
@@ -3239,8 +3281,8 @@
       ]
     },
     {
+      "title": "Episode 124",
       "episode": "124",
-      "title": "The Beast Within",
       "files": [
         {
           "name": "HD-1",
@@ -3265,8 +3307,8 @@
       ]
     },
     {
+      "title": "Episode 125",
       "episode": "125",
-      "title": "The Sand Shinobi: Allies of the Leaf",
       "files": [
         {
           "name": "HD-1",
@@ -3291,8 +3333,8 @@
       ]
     },
     {
+      "title": "Episode 126",
       "episode": "126",
-      "title": "Showdown: Gaara vs. Kimimaro!",
       "files": [
         {
           "name": "HD-1",
@@ -3317,8 +3359,8 @@
       ]
     },
     {
+      "title": "Episode 127",
       "episode": "127",
-      "title": "Vengeful Strike! The Bracken Dance",
       "files": [
         {
           "name": "HD-1",
@@ -3343,8 +3385,8 @@
       ]
     },
     {
+      "title": "Episode 128",
       "episode": "128",
-      "title": "A Cry on Deaf Ears",
       "files": [
         {
           "name": "HD-1",
@@ -3369,8 +3411,8 @@
       ]
     },
     {
+      "title": "Episode 129",
       "episode": "129",
-      "title": "Brothers: Distance Among the Uchiha",
       "files": [
         {
           "name": "HD-1",
@@ -3395,8 +3437,8 @@
       ]
     },
     {
+      "title": "Episode 130",
       "episode": "130",
-      "title": "Father and Son, the Broken Crest",
       "files": [
         {
           "name": "HD-1",
@@ -3421,8 +3463,8 @@
       ]
     },
     {
+      "title": "Episode 131",
       "episode": "131",
-      "title": "The Secrets of the Mangekyo Sharingan!",
       "files": [
         {
           "name": "HD-1",
@@ -3447,8 +3489,8 @@
       ]
     },
     {
+      "title": "Episode 132",
       "episode": "132",
-      "title": "For a Friend",
       "files": [
         {
           "name": "HD-1",
@@ -3473,8 +3515,8 @@
       ]
     },
     {
+      "title": "Episode 133",
       "episode": "133",
-      "title": "A Plea From a Friend",
       "files": [
         {
           "name": "HD-1",
@@ -3499,8 +3541,8 @@
       ]
     },
     {
+      "title": "Episode 134",
       "episode": "134",
-      "title": "The End of Tears",
       "files": [
         {
           "name": "HD-1",
@@ -3525,8 +3567,8 @@
       ]
     },
     {
+      "title": "Episode 135",
       "episode": "135",
-      "title": "The Promise That Could Not Be Kept",
       "files": [
         {
           "name": "HD-1",
@@ -3551,8 +3593,8 @@
       ]
     },
     {
+      "title": "Episode 136",
       "episode": "136",
-      "title": "Deep Cover!? A Super S-Ranked Mission!",
       "files": [
         {
           "name": "HD-1",
@@ -3577,8 +3619,8 @@
       ]
     },
     {
+      "title": "Episode 137",
       "episode": "137",
-      "title": "A Town of Outlaws, the Shadow of the Fuma Clan",
       "files": [
         {
           "name": "HD-1",
@@ -3603,8 +3645,8 @@
       ]
     },
     {
+      "title": "Episode 138",
       "episode": "138",
-      "title": "Pure Betrayal, and a Fleeting Plea!",
       "files": [
         {
           "name": "HD-1",
@@ -3629,8 +3671,8 @@
       ]
     },
     {
+      "title": "Episode 139",
       "episode": "139",
-      "title": "Pure Terror! The House of Orochimaru",
       "files": [
         {
           "name": "HD-1",
@@ -3655,8 +3697,8 @@
       ]
     },
     {
+      "title": "Episode 140",
       "episode": "140",
-      "title": "Two Heartbeats: Kabuto's Trap",
       "files": [
         {
           "name": "HD-1",
@@ -3681,8 +3723,8 @@
       ]
     },
     {
+      "title": "Episode 141",
       "episode": "141",
-      "title": "Sakura's Determination",
       "files": [
         {
           "name": "HD-1",
@@ -3707,8 +3749,8 @@
       ]
     },
     {
+      "title": "Episode 142",
       "episode": "142",
-      "title": "The Three Villains from the Maximum Security Prison",
       "files": [
         {
           "name": "HD-1",
@@ -3733,8 +3775,8 @@
       ]
     },
     {
+      "title": "Episode 143",
       "episode": "143",
-      "title": "Tonton! I'm Counting on You!",
       "files": [
         {
           "name": "HD-1",
@@ -3759,8 +3801,8 @@
       ]
     },
     {
+      "title": "Episode 144",
       "episode": "144",
-      "title": "A New Squad! Two People and a Dog?!",
       "files": [
         {
           "name": "HD-1",
@@ -3785,8 +3827,8 @@
       ]
     },
     {
+      "title": "Episode 145",
       "episode": "145",
-      "title": "A New Formation: Ino-Shika-Cho!",
       "files": [
         {
           "name": "HD-1",
@@ -3811,8 +3853,8 @@
       ]
     },
     {
+      "title": "Episode 146",
       "episode": "146",
-      "title": "Orochimaru's Shadow",
       "files": [
         {
           "name": "HD-1",
@@ -3837,8 +3879,8 @@
       ]
     },
     {
+      "title": "Episode 147",
       "episode": "147",
-      "title": "A Clash of Fate: You Can't Bring Me Down",
       "files": [
         {
           "name": "HD-1",
@@ -3863,8 +3905,8 @@
       ]
     },
     {
+      "title": "Episode 148",
       "episode": "148",
-      "title": "Search for the Rare Bikochu Beetle",
       "files": [
         {
           "name": "HD-1",
@@ -3889,8 +3931,8 @@
       ]
     },
     {
+      "title": "Episode 149",
       "episode": "149",
-      "title": "What's the Difference? Don't All Insects Look Alike?",
       "files": [
         {
           "name": "HD-1",
@@ -3915,8 +3957,8 @@
       ]
     },
     {
+      "title": "Episode 150",
       "episode": "150",
-      "title": "A Battle of Bugs: The Deceivers and the Deceived",
       "files": [
         {
           "name": "HD-1",
@@ -3941,8 +3983,8 @@
       ]
     },
     {
+      "title": "Episode 151",
       "episode": "151",
-      "title": "Blaze Away Byakugan: This Is My Ninja Way",
       "files": [
         {
           "name": "HD-1",
@@ -3967,8 +4009,8 @@
       ]
     },
     {
+      "title": "Episode 152",
       "episode": "152",
-      "title": "Funeral March for the Living",
       "files": [
         {
           "name": "HD-1",
@@ -3993,8 +4035,8 @@
       ]
     },
     {
+      "title": "Episode 153",
       "episode": "153",
-      "title": "A Lesson Learned: The Iron Fist of Love",
       "files": [
         {
           "name": "HD-1",
@@ -4019,8 +4061,8 @@
       ]
     },
     {
+      "title": "Episode 154",
       "episode": "154",
-      "title": "The Enemy of the Byakugan",
       "files": [
         {
           "name": "HD-1",
@@ -4045,8 +4087,8 @@
       ]
     },
     {
+      "title": "Episode 155",
       "episode": "155",
-      "title": "The Dark Creeping Clouds",
       "files": [
         {
           "name": "HD-1",
@@ -4071,8 +4113,8 @@
       ]
     },
     {
+      "title": "Episode 156",
       "episode": "156",
-      "title": "Raiga's Counterattack",
       "files": [
         {
           "name": "HD-1",
@@ -4097,8 +4139,8 @@
       ]
     },
     {
+      "title": "Episode 157",
       "episode": "157",
-      "title": "Run! The Curry of Life",
       "files": [
         {
           "name": "HD-1",
@@ -4123,8 +4165,8 @@
       ]
     },
     {
+      "title": "Episode 158",
       "episode": "158",
-      "title": "Follow My Lead! The Great Survival Challenge",
       "files": [
         {
           "name": "HD-1",
@@ -4149,8 +4191,8 @@
       ]
     },
     {
+      "title": "Episode 159",
       "episode": "159",
-      "title": "Bounty Hunter from the Wilderness",
       "files": [
         {
           "name": "HD-1",
@@ -4175,8 +4217,8 @@
       ]
     },
     {
+      "title": "Episode 160",
       "episode": "160",
-      "title": "Hunt or Be Hunted?! Showdown at the O.K. Temple!",
       "files": [
         {
           "name": "HD-1",
@@ -4201,8 +4243,8 @@
       ]
     },
     {
+      "title": "Episode 161",
       "episode": "161",
-      "title": "The Appearance of Strange Visitors",
       "files": [
         {
           "name": "HD-1",
@@ -4227,8 +4269,8 @@
       ]
     },
     {
+      "title": "Episode 162",
       "episode": "162",
-      "title": "The Cursed Warrior",
       "files": [
         {
           "name": "HD-1",
@@ -4253,8 +4295,8 @@
       ]
     },
     {
+      "title": "Episode 163",
       "episode": "163",
-      "title": "The Tactician's Intent",
       "files": [
         {
           "name": "HD-1",
@@ -4279,8 +4321,8 @@
       ]
     },
     {
+      "title": "Episode 164",
       "episode": "164",
-      "title": "Too Late for Help",
       "files": [
         {
           "name": "HD-1",
@@ -4305,8 +4347,8 @@
       ]
     },
     {
+      "title": "Episode 165",
       "episode": "165",
-      "title": "The Death of Naruto",
       "files": [
         {
           "name": "HD-1",
@@ -4331,8 +4373,8 @@
       ]
     },
     {
+      "title": "Episode 166",
       "episode": "166",
-      "title": "When Time Stands Still",
       "files": [
         {
           "name": "HD-1",
@@ -4357,8 +4399,8 @@
       ]
     },
     {
+      "title": "Episode 167",
       "episode": "167",
-      "title": "When Egrets Flap Their Wings",
       "files": [
         {
           "name": "HD-1",
@@ -4383,8 +4425,8 @@
       ]
     },
     {
+      "title": "Episode 168",
       "episode": "168",
-      "title": "Mix It, Stretch It, Boil It Up! Burn, Copper Pot, Burn!",
       "files": [
         {
           "name": "HD-1",
@@ -4409,8 +4451,8 @@
       ]
     },
     {
+      "title": "Episode 169",
       "episode": "169",
-      "title": "Remembrance: The Lost Page",
       "files": [
         {
           "name": "HD-1",
@@ -4435,8 +4477,8 @@
       ]
     },
     {
+      "title": "Episode 170",
       "episode": "170",
-      "title": "The Closed Door",
       "files": [
         {
           "name": "HD-1",
@@ -4461,8 +4503,8 @@
       ]
     },
     {
+      "title": "Episode 171",
       "episode": "171",
-      "title": "Infiltration: The Set-Up!",
       "files": [
         {
           "name": "HD-1",
@@ -4487,8 +4529,8 @@
       ]
     },
     {
+      "title": "Episode 172",
       "episode": "172",
-      "title": "Despair: A Fractured Heart",
       "files": [
         {
           "name": "HD-1",
@@ -4513,8 +4555,8 @@
       ]
     },
     {
+      "title": "Episode 173",
       "episode": "173",
-      "title": "The Battle at Sea: The Power Unleashed!",
       "files": [
         {
           "name": "HD-1",
@@ -4539,8 +4581,8 @@
       ]
     },
     {
+      "title": "Episode 174",
       "episode": "174",
-      "title": "Impossible! Celebrity Ninja Art - Money Style Jutsu!",
       "files": [
         {
           "name": "HD-1",
@@ -4565,8 +4607,8 @@
       ]
     },
     {
+      "title": "Episode 175",
       "episode": "175",
-      "title": "The Treasure Hunt is On!",
       "files": [
         {
           "name": "HD-1",
@@ -4591,8 +4633,8 @@
       ]
     },
     {
+      "title": "Episode 176",
       "episode": "176",
-      "title": "Run, Dodge, Zigzag! Chase or Be Chased!",
       "files": [
         {
           "name": "HD-1",
@@ -4617,8 +4659,8 @@
       ]
     },
     {
+      "title": "Episode 177",
       "episode": "177",
-      "title": "Please, Mr. Postman!",
       "files": [
         {
           "name": "HD-1",
@@ -4643,8 +4685,8 @@
       ]
     },
     {
+      "title": "Episode 178",
       "episode": "178",
-      "title": "Encounter! The Boy with a Star's Name",
       "files": [
         {
           "name": "HD-1",
@@ -4669,8 +4711,8 @@
       ]
     },
     {
+      "title": "Episode 179",
       "episode": "179",
-      "title": "The Remembered Lullaby",
       "files": [
         {
           "name": "HD-1",
@@ -4695,8 +4737,8 @@
       ]
     },
     {
+      "title": "Episode 180",
       "episode": "180",
-      "title": "Hidden Jutsu: The Price of The Ninja Art: Kujaku",
       "files": [
         {
           "name": "HD-1",
@@ -4721,8 +4763,8 @@
       ]
     },
     {
+      "title": "Episode 181",
       "episode": "181",
-      "title": "Hoshikage, The Buried Truth",
       "files": [
         {
           "name": "HD-1",
@@ -4747,8 +4789,8 @@
       ]
     },
     {
+      "title": "Episode 182",
       "episode": "182",
-      "title": "Reunion, The Remaining time",
       "files": [
         {
           "name": "HD-1",
@@ -4773,8 +4815,8 @@
       ]
     },
     {
+      "title": "Episode 183",
       "episode": "183",
-      "title": "The Star's Radiance",
       "files": [
         {
           "name": "HD-1",
@@ -4799,8 +4841,8 @@
       ]
     },
     {
+      "title": "Episode 184",
       "episode": "184",
-      "title": "Kiba's Long Day!",
       "files": [
         {
           "name": "HD-1",
@@ -4825,8 +4867,8 @@
       ]
     },
     {
+      "title": "Episode 185",
       "episode": "185",
-      "title": "A Legend from the Hidden Leaf: The Onbaa!",
       "files": [
         {
           "name": "HD-1",
@@ -4851,8 +4893,8 @@
       ]
     },
     {
+      "title": "Episode 186",
       "episode": "186",
-      "title": "Laughing Shino",
       "files": [
         {
           "name": "HD-1",
@@ -4877,8 +4919,8 @@
       ]
     },
     {
+      "title": "Episode 187",
       "episode": "187",
-      "title": "Open for Business! The Leaf Moving Service",
       "files": [
         {
           "name": "HD-1",
@@ -4903,8 +4945,8 @@
       ]
     },
     {
+      "title": "Episode 188",
       "episode": "188",
-      "title": "Mystery of the Targeted Merchants",
       "files": [
         {
           "name": "HD-1",
@@ -4929,8 +4971,8 @@
       ]
     },
     {
+      "title": "Episode 189",
       "episode": "189",
-      "title": "A Limitless Supply of Ninja Tools",
       "files": [
         {
           "name": "HD-1",
@@ -4955,8 +4997,8 @@
       ]
     },
     {
+      "title": "Episode 190",
       "episode": "190",
-      "title": "The Byakugan Sees the Blind Spot",
       "files": [
         {
           "name": "HD-1",
@@ -4981,8 +5023,8 @@
       ]
     },
     {
+      "title": "Episode 191",
       "episode": "191",
-      "title": "Forecast: Death! Cloudy with Chance of Sun",
       "files": [
         {
           "name": "HD-1",
@@ -5007,8 +5049,8 @@
       ]
     },
     {
+      "title": "Episode 192",
       "episode": "192",
-      "title": "Ino Screams! Chubby Paradise!",
       "files": [
         {
           "name": "HD-1",
@@ -5033,8 +5075,8 @@
       ]
     },
     {
+      "title": "Episode 193",
       "episode": "193",
-      "title": "Viva Dojo Challenge! Youth Is All About Passion!",
       "files": [
         {
           "name": "HD-1",
@@ -5059,8 +5101,8 @@
       ]
     },
     {
+      "title": "Episode 194",
       "episode": "194",
-      "title": "The Mysterious Curse of the Haunted Castle",
       "files": [
         {
           "name": "HD-1",
@@ -5085,8 +5127,8 @@
       ]
     },
     {
+      "title": "Episode 195",
       "episode": "195",
-      "title": "The Third Super-Beast!",
       "files": [
         {
           "name": "HD-1",
@@ -5111,8 +5153,8 @@
       ]
     },
     {
+      "title": "Episode 196",
       "episode": "196",
-      "title": "Hot-Blooded Confrontation: Student vs. Sensei",
       "files": [
         {
           "name": "HD-1",
@@ -5137,8 +5179,8 @@
       ]
     },
     {
+      "title": "Episode 197",
       "episode": "197",
-      "title": "Crisis! The Hidden Leaf 11 Gather!",
       "files": [
         {
           "name": "HD-1",
@@ -5163,8 +5205,8 @@
       ]
     },
     {
+      "title": "Episode 198",
       "episode": "198",
-      "title": "The ANBU Gives Up? Naruto's Recollection",
       "files": [
         {
           "name": "HD-1",
@@ -5189,8 +5231,8 @@
       ]
     },
     {
+      "title": "Episode 199",
       "episode": "199",
-      "title": "The Missed Target",
       "files": [
         {
           "name": "HD-1",
@@ -5215,8 +5257,8 @@
       ]
     },
     {
+      "title": "Episode 200",
       "episode": "200",
-      "title": "The Powerful Helper",
       "files": [
         {
           "name": "HD-1",
@@ -5241,8 +5283,8 @@
       ]
     },
     {
+      "title": "Episode 201",
       "episode": "201",
-      "title": "Multiple Traps! Countdown to Destruction",
       "files": [
         {
           "name": "HD-1",
@@ -5267,8 +5309,8 @@
       ]
     },
     {
+      "title": "Episode 202",
       "episode": "202",
-      "title": "The Top 5 Ninja Battles",
       "files": [
         {
           "name": "HD-1",
@@ -5293,8 +5335,8 @@
       ]
     },
     {
+      "title": "Episode 203",
       "episode": "203",
-      "title": "Kurenai's Decision, Squad 8 Left Behind",
       "files": [
         {
           "name": "HD-1",
@@ -5319,8 +5361,8 @@
       ]
     },
     {
+      "title": "Episode 204",
       "episode": "204",
-      "title": "Yakumo's Sealed Ability",
       "files": [
         {
           "name": "HD-1",
@@ -5345,8 +5387,8 @@
       ]
     },
     {
+      "title": "Episode 205",
       "episode": "205",
-      "title": "Kurenai's Top-Secret Mission: The Promise With the Third Hokage",
       "files": [
         {
           "name": "HD-1",
@@ -5371,8 +5413,8 @@
       ]
     },
     {
+      "title": "Episode 206",
       "episode": "206",
-      "title": "Genjutsu or Reality?",
       "files": [
         {
           "name": "HD-1",
@@ -5397,8 +5439,8 @@
       ]
     },
     {
+      "title": "Episode 207",
       "episode": "207",
-      "title": "The Supposed Sealed Ability",
       "files": [
         {
           "name": "HD-1",
@@ -5423,8 +5465,8 @@
       ]
     },
     {
+      "title": "Episode 208",
       "episode": "208",
-      "title": "The Weight of the Prized Artifact!",
       "files": [
         {
           "name": "HD-1",
@@ -5449,8 +5491,8 @@
       ]
     },
     {
+      "title": "Episode 209",
       "episode": "209",
-      "title": "The Enemy: Ninja Dropouts",
       "files": [
         {
           "name": "HD-1",
@@ -5475,8 +5517,8 @@
       ]
     },
     {
+      "title": "Episode 210",
       "episode": "210",
-      "title": "The Bewildering Forest",
       "files": [
         {
           "name": "HD-1",
@@ -5501,8 +5543,8 @@
       ]
     },
     {
+      "title": "Episode 211",
       "episode": "211",
-      "title": "Memory of Flames",
       "files": [
         {
           "name": "HD-1",
@@ -5527,8 +5569,8 @@
       ]
     },
     {
+      "title": "Episode 212",
       "episode": "212",
-      "title": "To Each His Own Path",
       "files": [
         {
           "name": "HD-1",
@@ -5553,8 +5595,8 @@
       ]
     },
     {
+      "title": "Episode 213",
       "episode": "213",
-      "title": "Vanished Memories",
       "files": [
         {
           "name": "HD-1",
@@ -5579,8 +5621,8 @@
       ]
     },
     {
+      "title": "Episode 214",
       "episode": "214",
-      "title": "Bringing Back Reality",
       "files": [
         {
           "name": "HD-1",
@@ -5605,8 +5647,8 @@
       ]
     },
     {
+      "title": "Episode 215",
       "episode": "215",
-      "title": "A Past to Be Erased",
       "files": [
         {
           "name": "HD-1",
@@ -5631,8 +5673,8 @@
       ]
     },
     {
+      "title": "Episode 216",
       "episode": "216",
-      "title": "The Targeted Shukaku",
       "files": [
         {
           "name": "HD-1",
@@ -5657,8 +5699,8 @@
       ]
     },
     {
+      "title": "Episode 217",
       "episode": "217",
-      "title": "Sand Alliance With The Leaf Shinobi",
       "files": [
         {
           "name": "HD-1",
@@ -5683,8 +5725,8 @@
       ]
     },
     {
+      "title": "Episode 218",
       "episode": "218",
-      "title": "The Counterattack!",
       "files": [
         {
           "name": "HD-1",
@@ -5709,8 +5751,8 @@
       ]
     },
     {
+      "title": "Episode 219",
       "episode": "219",
-      "title": "The Ultimate Weapon Reborn",
       "files": [
         {
           "name": "HD-1",
@@ -5735,8 +5777,8 @@
       ]
     },
     {
+      "title": "Episode 220",
       "episode": "220",
-      "title": "Departure",
       "files": [
         {
           "name": "HD-1",
@@ -5762,8 +5804,7 @@
     }
   ],
   "streamingId": "20",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2002-10-03",
-  "malId": "20",
-  "_forceSyncTime": 1778769315895
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

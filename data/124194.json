@@ -1,12 +1,12 @@
 {
   "title": "Fruits Basket The Final Season",
-  "synopsis": "After last season’s revelations, the Soma family moves forward, but the emotional chains that bind them are not easily broken. Unable to admit why she wants the cure, Tohru wrestles with the truth, aware that time is running out for someone close.\n\nAnd a secret still lurks that could break another’s heart. But hope is not lost—a clue to the curse is found. Could their imprisonment’s end be near?\n(Source: Funimation)\nNote: This season premiered on Funimation and AnimeLab on March 20, 2021. The Japanese broadcast started two weeks later on April 6, 2021.",
+  "synopsis": "After last season’s revelations, the Soma family moves forward, but the emotional chains that bind them are not easily broken. Unable to admit why she wants the cure, Tohru wrestles with the truth, aware that time is running out for someone close.\n\\n\\n\nAnd a secret still lurks that could break another’s heart. But hope is not lost—a clue to the curse is found. Could their imprisonment’s end be near?\\n\\n\n(Source: Funimation)\\n\\n\nNote: This season premiered on Funimation and AnimeLab on March 20, 2021. The Japanese broadcast started two weeks later on April 6, 2021.",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124194-TJlqMMR7BGn9.jpg",
-  "synonym": "Fruits Basket: The Final",
-  "native": "フルーツバスケットThe Final",
-  "aired": "4/6/2021",
-  "premiered": "SPRING 2021",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "13",
   "genres": [
     "Comedy",
@@ -16,20 +16,35 @@
     "Slice of Life",
     "Supernatural"
   ],
-  "rating": "8.9",
-  "type": "TV",
-  "status": "FINISHED",
+  "rating": "",
+  "type": "TV Series",
+  "status": "Completed",
   "country": "JP",
-  "studios": "TMS Entertainment",
+  "studios": [
+    "TMS Entertainment"
+  ],
   "producers": [],
-  "seasons": [],
-  "malId": "42938",
-  "streamingId": "124194",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "seasons": [
+    {
+      "title": "[TV Series] Fruits Basket The Final Season",
+      "link": "/2021/04/124194.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124194-TJlqMMR7BGn9.jpg"
+    },
+    {
+      "title": "[TV Series] Fruits Basket Season 2",
+      "link": "/2020/04/111762.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111762-C8TNf5uRlVNQ.jpg"
+    },
+    {
+      "title": "[Movie] Fruits Basket -prelude-",
+      "link": "/2022/02/136192.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136192-hxeNRzBHizBZ.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "I'll Hold Another Banquet",
       "files": [
         {
           "name": "HD-1",
@@ -54,8 +69,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "That's an Unwavering Truth",
       "files": [
         {
           "name": "HD-1",
@@ -80,8 +95,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "I Hope It Snows Soon",
       "files": [
         {
           "name": "HD-1",
@@ -106,8 +121,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "I'm ... Home",
       "files": [
         {
           "name": "HD-1",
@@ -132,8 +147,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "I Mean... You Know, Right?",
       "files": [
         {
           "name": "HD-1",
@@ -158,8 +173,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "It Was So Foolish",
       "files": [
         {
           "name": "HD-1",
@@ -184,8 +199,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "That's Right, It's Empty",
       "files": [
         {
           "name": "HD-1",
@@ -210,8 +225,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "I'm Disappointed in You",
       "files": [
         {
           "name": "HD-1",
@@ -236,8 +251,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "What's Your Name?",
       "files": [
         {
           "name": "HD-1",
@@ -262,8 +277,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "I Just Love Her",
       "files": [
         {
           "name": "HD-1",
@@ -288,8 +303,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Goodbye",
       "files": [
         {
           "name": "HD-1",
@@ -314,8 +329,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "You Fought Well",
       "files": [
         {
           "name": "HD-1",
@@ -340,8 +355,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "See You Again Soon",
       "files": [
         {
           "name": "HD-1",
@@ -365,5 +380,9 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "124194",
+  "releaseDate": "2021-04-06",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

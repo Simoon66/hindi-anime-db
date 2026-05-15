@@ -1,12 +1,12 @@
 {
   "title": "Re:ZERO -Starting Life in Another World-",
-  "synopsis": "In the story, Subaru Natsuki is an ordinary high school student who is lost in an alternate world, where he is rescued by a beautiful, silver-haired girl. He stays near her to return the favor, but the destiny she is burdened with is more than Subaru can imagine. Enemies attack one by one, and both of them are killed. He then finds out he has the power to rewind death, back to the time he first came to this world. But only he remembers what has happened since.\n\n\n\n(Source: Anime News Network)\n\n\n\nNotes:\n\n- The first episode aired with a runtime of ~50 minutes as opposed to the standard 25 minute long episode.\n\n- In the Winter 2020 season, Re:ZERO was rebroadcast and re-edited to fit into an hour time-slot. This edit included the first OVA and added slight modifications to certain scenes throughout. It also added an additional scene at the end of the final episode.",
+  "synopsis": "In the story, Subaru Natsuki is an ordinary high school student who is lost in an alternate world, where he is rescued by a beautiful, silver-haired girl. He stays near her to return the favor, but the destiny she is burdened with is more than Subaru can imagine. Enemies attack one by one, and both of them are killed. He then finds out he has the power to rewind death, back to the time he first came to this world. But only he remembers what has happened since.\\n\n\\n\n(Source: Anime News Network)\n\\n\\n\nNotes:\\n\n- The first episode aired with a runtime of ~50 minutes as opposed to the standard 25 minute long episode.\\n\n- In the Winter 2020 season, Re:ZERO was rebroadcast and re-edited to fit into an hour time-slot. This edit included the first OVA and added slight modifications to certain scenes throughout. It also added an additional scene at the end of the final episode.",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-wRVUrGxpvIQQ.jpg",
-  "synonym": "Re:Zero kara Hajimeru Isekai Seikatsu",
-  "native": "Re:ゼロから始める異世界生活",
-  "aired": "04/04/2016",
-  "premiered": "SPRING 2016",
-  "duration": "25m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "25",
   "genres": [
     "Action",
@@ -17,19 +17,45 @@
     "Romance",
     "Thriller"
   ],
-  "rating": "8.1",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "WHITE FOX"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Re:ZERO -Starting Life in Another World-",
+      "link": "/2016/04/21355.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-wRVUrGxpvIQQ.jpg"
+    },
+    {
+      "title": "[TV_SHORT] Re:ZERO ~Starting Break Time From Zero~",
+      "link": "/2016/04/21780.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21780-xCJk0z5vpn57.jpg"
+    },
+    {
+      "title": "[TV_SHORT] Re:PETIT ~Re: Starting Life in Another World From PETIT~",
+      "link": "/2016/06/21891.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21891-Zr4CPYnZzljl.jpg"
+    },
+    {
+      "title": "[OVA] Re:ZERO -Starting Life in Another World- OVAs",
+      "link": "/2018/10/100049.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100049-mgvPLctBJprp.jpg"
+    },
+    {
+      "title": "[TV Series] Re:ZERO -Starting Life in Another World- Season 2",
+      "link": "/2020/07/108632.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108632-lQWnmw7XaNOK.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "The End of the Beginning and the Beginning of the End",
       "files": [
         {
           "name": "HD-1",
@@ -54,8 +80,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Reunion with the Witch",
       "files": [
         {
           "name": "HD-1",
@@ -80,8 +106,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Starting Life from Zero in Another World",
       "files": [
         {
           "name": "HD-1",
@@ -106,8 +132,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "The Happy Roswaal Mansion Family",
       "files": [
         {
           "name": "HD-1",
@@ -132,8 +158,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "The Morning of Our Promise Is Still Distant",
       "files": [
         {
           "name": "HD-1",
@@ -158,8 +184,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "The Sound of Chains",
       "files": [
         {
           "name": "HD-1",
@@ -184,8 +210,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Natsuki Subaru's Restart",
       "files": [
         {
           "name": "HD-1",
@@ -210,8 +236,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "I Cried, Cried My Lungs Out, and Stopped Crying",
       "files": [
         {
           "name": "HD-1",
@@ -236,8 +262,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "The Meaning of Courage",
       "files": [
         {
           "name": "HD-1",
@@ -262,8 +288,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Fanatical Methods Like a Demon",
       "files": [
         {
           "name": "HD-1",
@@ -288,8 +314,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Rem",
       "files": [
         {
           "name": "HD-1",
@@ -314,8 +340,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Return to the Capital",
       "files": [
         {
           "name": "HD-1",
@@ -340,8 +366,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "Self-Proclaimed Knight Natsuki Subaru",
       "files": [
         {
           "name": "HD-1",
@@ -366,8 +392,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "The Sickness Called Despair",
       "files": [
         {
           "name": "HD-1",
@@ -392,8 +418,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "The Outside of Madness",
       "files": [
         {
           "name": "HD-1",
@@ -418,8 +444,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "The Greed of a Pig",
       "files": [
         {
           "name": "HD-1",
@@ -444,8 +470,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "Disgrace in the Extreme",
       "files": [
         {
           "name": "HD-1",
@@ -470,8 +496,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "From Zero",
       "files": [
         {
           "name": "HD-1",
@@ -496,8 +522,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "Battle Against the White Whale",
       "files": [
         {
           "name": "HD-1",
@@ -522,8 +548,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "Wilhelm van Astrea",
       "files": [
         {
           "name": "HD-1",
@@ -548,8 +574,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "A Wager That Defies Despair",
       "files": [
         {
           "name": "HD-1",
@@ -574,8 +600,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "A Flash of Sloth",
       "files": [
         {
           "name": "HD-1",
@@ -600,8 +626,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "Nefarious Sloth",
       "files": [
         {
           "name": "HD-1",
@@ -626,8 +652,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "The Self-Proclaimed Knight and the Greatest Knight",
       "files": [
         {
           "name": "HD-1",
@@ -652,8 +678,8 @@
       ]
     },
     {
+      "title": "Episode 25",
       "episode": "25",
-      "title": "That's All This Story Is About",
       "files": [
         {
           "name": "HD-1",
@@ -679,8 +705,7 @@
     }
   ],
   "streamingId": "21355",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2016-04-04",
-  "malId": "31240",
-  "_forceSyncTime": 1778769550050
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

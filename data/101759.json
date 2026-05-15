@@ -1,12 +1,12 @@
 {
   "title": "The Promised Neverland",
-  "synopsis": "Emma, Norman and Ray are the brightest kids at the Grace Field House orphanage. And under the care of the woman they refer to as “Mom,” all the kids have enjoyed a comfortable life. Good food, clean clothes and the perfect environment to learn—what more could an orphan ask for? One day, though, Emma and Norman uncover the dark truth of the outside world they are forbidden from seeing.\n\n\n\n(Source: VIZ Media)",
+  "synopsis": "Emma, Norman and Ray are the brightest kids at the Grace Field House orphanage. And under the care of the woman they refer to as “Mom,” all the kids have enjoyed a comfortable life. Good food, clean clothes and the perfect environment to learn—what more could an orphan ask for? One day, though, Emma and Norman uncover the dark truth of the outside world they are forbidden from seeing.\n\\n\\n\n(Source: VIZ Media)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101759-8UR7r9MNVpz2.jpg",
-  "synonym": "Yakusoku no Neverland",
-  "native": "約束のネバーランド",
-  "aired": "01/10/2019",
-  "premiered": "WINTER 2019",
-  "duration": "23m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "12",
   "genres": [
     "Drama",
@@ -16,20 +16,36 @@
     "Psychological",
     "Thriller"
   ],
-  "rating": "8.4",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "CloverWorks"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] The Promised Neverland",
+      "link": "/2019/01/101759.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101759-8UR7r9MNVpz2.jpg"
+    },
+    {
+      "title": "[TV Series] The Promised Neverland Season 2",
+      "link": "/2021/01/108725.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108725-ZKivuyr4Jtc9.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "121045",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/101759/1/sub",
+          "type": "sub"
+        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/101759/1/dub",
@@ -48,8 +64,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "131045",
       "files": [
         {
           "name": "HD-1",
@@ -74,8 +90,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "181045",
       "files": [
         {
           "name": "HD-1",
@@ -100,8 +116,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "291045",
       "files": [
         {
           "name": "HD-1",
@@ -126,8 +142,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "301045",
       "files": [
         {
           "name": "HD-1",
@@ -152,8 +168,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "311045",
       "files": [
         {
           "name": "HD-1",
@@ -178,8 +194,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "011145",
       "files": [
         {
           "name": "HD-1",
@@ -204,8 +220,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "021145",
       "files": [
         {
           "name": "HD-1",
@@ -230,8 +246,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "031145",
       "files": [
         {
           "name": "HD-1",
@@ -256,8 +272,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "130146",
       "files": [
         {
           "name": "HD-1",
@@ -282,8 +298,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "140146",
       "files": [
         {
           "name": "HD-1",
@@ -308,8 +324,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "150146",
       "files": [
         {
           "name": "HD-1",
@@ -335,8 +351,7 @@
     }
   ],
   "streamingId": "101759",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2019-01-10",
-  "malId": "37779",
-  "_forceSyncTime": 1778782942357
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

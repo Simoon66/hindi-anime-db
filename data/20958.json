@@ -1,12 +1,12 @@
 {
   "title": "Attack on Titan Season 2",
-  "synopsis": "Eren Jaeger swore to wipe out every last Titan, but in a battle for his life he wound up becoming the thing he hates most. With his new powers, he fights for humanity's freedom facing the monsters that threaten his home. After a bittersweet victory against the Female Titan, Eren finds no time to rest—a horde of Titans is approaching Wall Rose and the battle for humanity continues!\n\n\n\n(Source: Funimation)",
+  "synopsis": "Eren Jaeger swore to wipe out every last Titan, but in a battle for his life he wound up becoming the thing he hates most. With his new powers, he fights for humanity's freedom facing the monsters that threaten his home. After a bittersweet victory against the Female Titan, Eren finds no time to rest—a horde of Titans is approaching Wall Rose and the battle for humanity continues!\\n\\n\n\n(Source: Funimation)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20958-HuFJyr54Mmir.jpg",
-  "synonym": "Shingeki no Kyojin Season 2",
-  "native": "進撃の巨人 Season２",
-  "aired": "04/01/2017",
-  "premiered": "SPRING 2017",
-  "duration": "25m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "12",
   "genres": [
     "Action",
@@ -14,20 +14,56 @@
     "Fantasy",
     "Mystery"
   ],
-  "rating": "8.5",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "WIT STUDIO"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Attack on Titan Season 2",
+      "link": "/2017/04/20958.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20958-HuFJyr54Mmir.jpg"
+    },
+    {
+      "title": "[TV Series] Attack on Titan",
+      "link": "/2013/04/16498.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16498-buvcRTBx4NSm.jpg"
+    },
+    {
+      "title": "[TV Series] Attack on Titan Season 3",
+      "link": "/2018/07/99147.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99147-AiPDD8cwlCfi.jpg"
+    },
+    {
+      "title": "[Movie] Attack on Titan: The Roar of Awakening",
+      "link": "/2018/01/100465.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100465-ivKS0RqXg5dI.png"
+    },
+    {
+      "title": "[Movie] Attack on Titan ~Chronicle~",
+      "link": "/2020/07/119113.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119113-IzVI5oZ0og8O.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Beast Titan",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20958/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20958/1/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/25777/1/sub",
@@ -41,9 +77,19 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "I'm Home",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20958/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20958/2/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/25777/2/sub",
@@ -57,9 +103,19 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Southwestward",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20958/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20958/3/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/25777/3/sub",
@@ -73,9 +129,19 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Soldier",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20958/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20958/4/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/25777/4/sub",
@@ -89,9 +155,19 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Historia",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20958/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20958/5/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/25777/5/sub",
@@ -105,9 +181,19 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Warrior",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20958/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20958/6/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/25777/6/sub",
@@ -121,9 +207,19 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Close Combat",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20958/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20958/7/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/25777/7/sub",
@@ -137,9 +233,19 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "The Hunters",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20958/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/20958/8/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/25777/8/sub",
@@ -153,8 +259,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Opening",
       "files": [
         {
           "name": "HD-1",
@@ -179,8 +285,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Children",
       "files": [
         {
           "name": "HD-1",
@@ -205,8 +311,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Charge",
       "files": [
         {
           "name": "HD-1",
@@ -231,8 +337,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Scream",
       "files": [
         {
           "name": "HD-1",
@@ -258,8 +364,7 @@
     }
   ],
   "streamingId": "20958",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2017-04-01",
-  "malId": "25777",
-  "_forceSyncTime": 1778769247376
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

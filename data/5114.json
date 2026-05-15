@@ -1,12 +1,12 @@
 {
   "title": "Fullmetal Alchemist: Brotherhood",
-  "synopsis": "\"In order for something to be obtained, something of equal value must be lost.\"\n\n\n\nAlchemy is bound by this Law of Equivalent Exchange—something the young brothers Edward and Alphonse Elric only realize after attempting human transmutation: the one forbidden act of alchemy. They pay a terrible price for their transgression—Edward loses his left leg, Alphonse his physical body. It is only by the desperate sacrifice of Edward's right arm that he is able to affix Alphonse's soul to a suit of armor. Devastated and alone, it is the hope that they would both eventually return to their original bodies that gives Edward the inspiration to obtain metal limbs called \"automail\" and become a state alchemist, the Fullmetal Alchemist.\n\n\n\nThree years of searching later, the brothers seek the Philosopher's Stone, a mythical relic that allows an alchemist to overcome the Law of Equivalent Exchange. Even with military allies Colonel Roy Mustang, Lieutenant Riza Hawkeye, and Lieutenant Colonel Maes Hughes on their side, the brothers find themselves caught up in a nationwide conspiracy that leads them not only to the true nature of the elusive Philosopher's Stone, but their country's murky history as well. In between finding a serial killer and racing against time, Edward and Alphonse must ask themselves if what they are doing will make them human again... or take away their humanity.\n\n\n\n(Source: MAL Rewrite)",
+  "synopsis": "\"In order for something to be obtained, something of equal value must be lost.\"\n\\n\\n\nAlchemy is bound by this Law of Equivalent Exchange—something the young brothers Edward and Alphonse Elric only realize after attempting human transmutation: the one forbidden act of alchemy. They pay a terrible price for their transgression—Edward loses his left leg, Alphonse his physical body. It is only by the desperate sacrifice of Edward's right arm that he is able to affix Alphonse's soul to a suit of armor. Devastated and alone, it is the hope that they would both eventually return to their original bodies that gives Edward the inspiration to obtain metal limbs called \"automail\" and become a state alchemist, the Fullmetal Alchemist.\n\\n\\n\nThree years of searching later, the brothers seek the Philosopher's Stone, a mythical relic that allows an alchemist to overcome the Law of Equivalent Exchange. Even with military allies Colonel Roy Mustang, Lieutenant Riza Hawkeye, and Lieutenant Colonel Maes Hughes on their side, the brothers find themselves caught up in a nationwide conspiracy that leads them not only to the true nature of the elusive Philosopher's Stone, but their country's murky history as well. In between finding a serial killer and racing against time, Edward and Alphonse must ask themselves if what they are doing will make them human again... or take away their humanity.\n\\n\\n\n(Source: MAL Rewrite)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-nSWCgQlmOMtj.jpg",
-  "synonym": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
-  "native": "鋼の錬金術師 FULLMETAL ALCHEMIST",
-  "aired": "04/05/2009",
-  "premiered": "SPRING 2009",
-  "duration": "25m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "64",
   "genres": [
     "Action",
@@ -14,19 +14,45 @@
     "Drama",
     "Fantasy"
   ],
-  "rating": "9.0",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "bones"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Fullmetal Alchemist: Brotherhood",
+      "link": "/2009/04/5114.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-nSWCgQlmOMtj.jpg"
+    },
+    {
+      "title": "[OVA] Fullmetal Alchemist: Brotherhood OVA Collection",
+      "link": "/2009/08/6421.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6421.jpg"
+    },
+    {
+      "title": "[Movie] Fullmetal Alchemist: The Sacred Star of Milos",
+      "link": "/2011/07/9135.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9135-nPvbvO7QCx7L.jpg"
+    },
+    {
+      "title": "[TV Series] Fullmetal Alchemist",
+      "link": "/2003/10/121.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121-zjmixZ428Mwv.png"
+    },
+    {
+      "title": "[Special] Fullmetal Alchemist: Brotherhood: 4-Koma Theater",
+      "link": "/2009/08/7902.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Fullmetal Alchemist",
       "files": [
         {
           "name": "HD-1",
@@ -51,8 +77,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "The First Day",
       "files": [
         {
           "name": "HD-1",
@@ -77,8 +103,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "City of Heresy",
       "files": [
         {
           "name": "HD-1",
@@ -103,8 +129,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "An Alchemist's Anguish",
       "files": [
         {
           "name": "HD-1",
@@ -129,8 +155,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Rain of Sorrows",
       "files": [
         {
           "name": "HD-1",
@@ -155,8 +181,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Road of Hope",
       "files": [
         {
           "name": "HD-1",
@@ -181,8 +207,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Hidden Truths",
       "files": [
         {
           "name": "HD-1",
@@ -207,8 +233,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "The Fifth Laboratory",
       "files": [
         {
           "name": "HD-1",
@@ -233,8 +259,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Created Feelings",
       "files": [
         {
           "name": "HD-1",
@@ -259,8 +285,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Separate Destinations",
       "files": [
         {
           "name": "HD-1",
@@ -285,8 +311,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Miracle at Rush Valley",
       "files": [
         {
           "name": "HD-1",
@@ -311,8 +337,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "One is All, All is One",
       "files": [
         {
           "name": "HD-1",
@@ -337,8 +363,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "Beasts of Dublith",
       "files": [
         {
           "name": "HD-1",
@@ -363,8 +389,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "Those Who Lurk Underground",
       "files": [
         {
           "name": "HD-1",
@@ -389,8 +415,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "Envoy From the East",
       "files": [
         {
           "name": "HD-1",
@@ -415,8 +441,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "Footsteps of a Comrade-in-Arms",
       "files": [
         {
           "name": "HD-1",
@@ -441,8 +467,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "Cold Flame",
       "files": [
         {
           "name": "HD-1",
@@ -467,8 +493,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "The Arrogant Palm of a Small Human",
       "files": [
         {
           "name": "HD-1",
@@ -493,8 +519,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "Death of the Undying",
       "files": [
         {
           "name": "HD-1",
@@ -519,8 +545,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "Father Before the Grave",
       "files": [
         {
           "name": "HD-1",
@@ -545,8 +571,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "Advance of the Fool",
       "files": [
         {
           "name": "HD-1",
@@ -571,8 +597,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "Backs in the Distance",
       "files": [
         {
           "name": "HD-1",
@@ -597,8 +623,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "Girl on the Battlefield",
       "files": [
         {
           "name": "HD-1",
@@ -623,8 +649,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "Inside the Belly",
       "files": [
         {
           "name": "HD-1",
@@ -649,8 +675,8 @@
       ]
     },
     {
+      "title": "Episode 25",
       "episode": "25",
-      "title": "Doorway of Darkness",
       "files": [
         {
           "name": "HD-1",
@@ -675,8 +701,8 @@
       ]
     },
     {
+      "title": "Episode 26",
       "episode": "26",
-      "title": "Reunion",
       "files": [
         {
           "name": "HD-1",
@@ -701,8 +727,8 @@
       ]
     },
     {
+      "title": "Episode 27",
       "episode": "27",
-      "title": "Interlude Party",
       "files": [
         {
           "name": "HD-1",
@@ -727,8 +753,8 @@
       ]
     },
     {
+      "title": "Episode 28",
       "episode": "28",
-      "title": "Father",
       "files": [
         {
           "name": "HD-1",
@@ -753,8 +779,8 @@
       ]
     },
     {
+      "title": "Episode 29",
       "episode": "29",
-      "title": "Struggle of the Fool",
       "files": [
         {
           "name": "HD-1",
@@ -779,8 +805,8 @@
       ]
     },
     {
+      "title": "Episode 30",
       "episode": "30",
-      "title": "The Ishvalan War of Extermination",
       "files": [
         {
           "name": "HD-1",
@@ -805,8 +831,8 @@
       ]
     },
     {
+      "title": "Episode 31",
       "episode": "31",
-      "title": "The 520 Cens Promise",
       "files": [
         {
           "name": "HD-1",
@@ -831,8 +857,8 @@
       ]
     },
     {
+      "title": "Episode 32",
       "episode": "32",
-      "title": "The Fuhrer's Son",
       "files": [
         {
           "name": "HD-1",
@@ -857,8 +883,8 @@
       ]
     },
     {
+      "title": "Episode 33",
       "episode": "33",
-      "title": "The Northern Wall of Briggs",
       "files": [
         {
           "name": "HD-1",
@@ -883,8 +909,8 @@
       ]
     },
     {
+      "title": "Episode 34",
       "episode": "34",
-      "title": "Ice Queen",
       "files": [
         {
           "name": "HD-1",
@@ -909,8 +935,8 @@
       ]
     },
     {
+      "title": "Episode 35",
       "episode": "35",
-      "title": "The Shape of This Country",
       "files": [
         {
           "name": "HD-1",
@@ -935,8 +961,8 @@
       ]
     },
     {
+      "title": "Episode 36",
       "episode": "36",
-      "title": "Family Portrait",
       "files": [
         {
           "name": "HD-1",
@@ -961,8 +987,8 @@
       ]
     },
     {
+      "title": "Episode 37",
       "episode": "37",
-      "title": "The First Homunculus",
       "files": [
         {
           "name": "HD-1",
@@ -987,8 +1013,8 @@
       ]
     },
     {
+      "title": "Episode 38",
       "episode": "38",
-      "title": "Conflict at Baschool",
       "files": [
         {
           "name": "HD-1",
@@ -1013,8 +1039,8 @@
       ]
     },
     {
+      "title": "Episode 39",
       "episode": "39",
-      "title": "Daydream",
       "files": [
         {
           "name": "HD-1",
@@ -1039,8 +1065,8 @@
       ]
     },
     {
+      "title": "Episode 40",
       "episode": "40",
-      "title": "Homunculus (The Dwarf in the Flask)",
       "files": [
         {
           "name": "HD-1",
@@ -1065,8 +1091,8 @@
       ]
     },
     {
+      "title": "Episode 41",
       "episode": "41",
-      "title": "The Abyss",
       "files": [
         {
           "name": "HD-1",
@@ -1091,8 +1117,8 @@
       ]
     },
     {
+      "title": "Episode 42",
       "episode": "42",
-      "title": "Signs of a Counteroffensive",
       "files": [
         {
           "name": "HD-1",
@@ -1117,8 +1143,8 @@
       ]
     },
     {
+      "title": "Episode 43",
       "episode": "43",
-      "title": "Bite of the Ant",
       "files": [
         {
           "name": "HD-1",
@@ -1143,8 +1169,8 @@
       ]
     },
     {
+      "title": "Episode 44",
       "episode": "44",
-      "title": "Revving at Full Throttle",
       "files": [
         {
           "name": "HD-1",
@@ -1169,8 +1195,8 @@
       ]
     },
     {
+      "title": "Episode 45",
       "episode": "45",
-      "title": "The Promised Day",
       "files": [
         {
           "name": "HD-1",
@@ -1195,8 +1221,8 @@
       ]
     },
     {
+      "title": "Episode 46",
       "episode": "46",
-      "title": "Looming Shadows",
       "files": [
         {
           "name": "HD-1",
@@ -1221,8 +1247,8 @@
       ]
     },
     {
+      "title": "Episode 47",
       "episode": "47",
-      "title": "Emissary of Darkness",
       "files": [
         {
           "name": "HD-1",
@@ -1247,8 +1273,8 @@
       ]
     },
     {
+      "title": "Episode 48",
       "episode": "48",
-      "title": "The Oath in the Tunnel",
       "files": [
         {
           "name": "HD-1",
@@ -1273,8 +1299,8 @@
       ]
     },
     {
+      "title": "Episode 49",
       "episode": "49",
-      "title": "Filial Affection",
       "files": [
         {
           "name": "HD-1",
@@ -1299,8 +1325,8 @@
       ]
     },
     {
+      "title": "Episode 50",
       "episode": "50",
-      "title": "Upheaval in Central",
       "files": [
         {
           "name": "HD-1",
@@ -1325,8 +1351,8 @@
       ]
     },
     {
+      "title": "Episode 51",
       "episode": "51",
-      "title": "The Immortal Legion",
       "files": [
         {
           "name": "HD-1",
@@ -1351,8 +1377,8 @@
       ]
     },
     {
+      "title": "Episode 52",
       "episode": "52",
-      "title": "Combined Strength",
       "files": [
         {
           "name": "HD-1",
@@ -1377,8 +1403,8 @@
       ]
     },
     {
+      "title": "Episode 53",
       "episode": "53",
-      "title": "Flame of Vengeance",
       "files": [
         {
           "name": "HD-1",
@@ -1403,8 +1429,8 @@
       ]
     },
     {
+      "title": "Episode 54",
       "episode": "54",
-      "title": "Beyond the Inferno",
       "files": [
         {
           "name": "HD-1",
@@ -1429,8 +1455,8 @@
       ]
     },
     {
+      "title": "Episode 55",
       "episode": "55",
-      "title": "The Adults' Way of Life",
       "files": [
         {
           "name": "HD-1",
@@ -1455,8 +1481,8 @@
       ]
     },
     {
+      "title": "Episode 56",
       "episode": "56",
-      "title": "The Return of the Fuhrer",
       "files": [
         {
           "name": "HD-1",
@@ -1481,8 +1507,8 @@
       ]
     },
     {
+      "title": "Episode 57",
       "episode": "57",
-      "title": "Eternal Leave",
       "files": [
         {
           "name": "HD-1",
@@ -1507,8 +1533,8 @@
       ]
     },
     {
+      "title": "Episode 58",
       "episode": "58",
-      "title": "Sacrifices",
       "files": [
         {
           "name": "HD-1",
@@ -1533,8 +1559,8 @@
       ]
     },
     {
+      "title": "Episode 59",
       "episode": "59",
-      "title": "Lost Light",
       "files": [
         {
           "name": "HD-1",
@@ -1559,8 +1585,8 @@
       ]
     },
     {
+      "title": "Episode 60",
       "episode": "60",
-      "title": "Eye of Heaven, Gateway of Earth",
       "files": [
         {
           "name": "HD-1",
@@ -1585,8 +1611,8 @@
       ]
     },
     {
+      "title": "Episode 61",
       "episode": "61",
-      "title": "He Who Would Swallow God",
       "files": [
         {
           "name": "HD-1",
@@ -1611,8 +1637,8 @@
       ]
     },
     {
+      "title": "Episode 62",
       "episode": "62",
-      "title": "A Fierce Counterattack",
       "files": [
         {
           "name": "HD-1",
@@ -1637,8 +1663,8 @@
       ]
     },
     {
+      "title": "Episode 63",
       "episode": "63",
-      "title": "The Other Side of the Gateway",
       "files": [
         {
           "name": "HD-1",
@@ -1663,8 +1689,8 @@
       ]
     },
     {
+      "title": "Episode 64",
       "episode": "64",
-      "title": "Journey's End",
       "files": [
         {
           "name": "HD-1",
@@ -1690,8 +1716,7 @@
     }
   ],
   "streamingId": "5114",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2009-04-05",
-  "malId": "5114",
-  "_forceSyncTime": 1778769266836
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

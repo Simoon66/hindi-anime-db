@@ -1,12 +1,12 @@
 {
   "title": "Death Note",
-  "synopsis": "Light Yagami is a genius high school student who is about to learn about life through a book of death. When a bored shinigami, a God of Death, named Ryuk drops a black notepad called a Death Note, Light receives power over life and death with the stroke of a pen. Determined to use this dark gift for the best, Light sets out to rid the world of evil… namely, the people he believes to be evil. Should anyone hold such power?\n\n\n\nThe consequences of Light’s actions will set the world ablaze.\n\n\n\n(Source: VIZ Media)",
+  "synopsis": "Light Yagami is a genius high school student who is about to learn about life through a book of death. When a bored shinigami, a God of Death, named Ryuk drops a black notepad called a Death Note, Light receives power over life and death with the stroke of a pen. Determined to use this dark gift for the best, Light sets out to rid the world of evil… namely, the people he believes to be evil. Should anyone hold such power?\\n\n\\n\nThe consequences of Light’s actions will set the world ablaze.\\n\n\\n\n(Source: VIZ Media)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-kUgkcrfOrkUM.jpg",
-  "synonym": "DEATH NOTE",
-  "native": "DEATH NOTE",
-  "aired": "10/04/2006",
-  "premiered": "FALL 2006",
-  "duration": "23m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "37",
   "genres": [
     "Mystery",
@@ -14,19 +14,30 @@
     "Supernatural",
     "Thriller"
   ],
-  "rating": "8.4",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "MADHOUSE"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Death Note",
+      "link": "/2006/10/1535.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-kUgkcrfOrkUM.jpg"
+    },
+    {
+      "title": "[Special] Death Note: Relight",
+      "link": "/2007/08/2994.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2994-mlofkz5GpkIu.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Rebirth",
       "files": [
         {
           "name": "HD-1",
@@ -51,8 +62,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Confrontation",
       "files": [
         {
           "name": "HD-1",
@@ -77,8 +88,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Dealings",
       "files": [
         {
           "name": "HD-1",
@@ -103,8 +114,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Pursuit",
       "files": [
         {
           "name": "HD-1",
@@ -129,8 +140,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Tactics",
       "files": [
         {
           "name": "HD-1",
@@ -155,8 +166,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Unraveling",
       "files": [
         {
           "name": "HD-1",
@@ -181,8 +192,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Overcast",
       "files": [
         {
           "name": "HD-1",
@@ -207,8 +218,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Glare",
       "files": [
         {
           "name": "HD-1",
@@ -233,8 +244,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Encounter",
       "files": [
         {
           "name": "HD-1",
@@ -259,8 +270,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Doubt",
       "files": [
         {
           "name": "HD-1",
@@ -285,8 +296,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Assault",
       "files": [
         {
           "name": "HD-1",
@@ -311,8 +322,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Love",
       "files": [
         {
           "name": "HD-1",
@@ -337,8 +348,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "Confession",
       "files": [
         {
           "name": "HD-1",
@@ -363,8 +374,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "Friend",
       "files": [
         {
           "name": "HD-1",
@@ -389,8 +400,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "Wager",
       "files": [
         {
           "name": "HD-1",
@@ -415,8 +426,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "Decision",
       "files": [
         {
           "name": "HD-1",
@@ -441,8 +452,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "Execution",
       "files": [
         {
           "name": "HD-1",
@@ -467,8 +478,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "Ally",
       "files": [
         {
           "name": "HD-1",
@@ -493,8 +504,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "Matsuda",
       "files": [
         {
           "name": "HD-1",
@@ -519,8 +530,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "Makeshift",
       "files": [
         {
           "name": "HD-1",
@@ -545,8 +556,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "Performance",
       "files": [
         {
           "name": "HD-1",
@@ -571,8 +582,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "Guidance",
       "files": [
         {
           "name": "HD-1",
@@ -597,8 +608,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "Frenzy",
       "files": [
         {
           "name": "HD-1",
@@ -623,8 +634,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "Revival",
       "files": [
         {
           "name": "HD-1",
@@ -649,8 +660,8 @@
       ]
     },
     {
+      "title": "Episode 25",
       "episode": "25",
-      "title": "Silence",
       "files": [
         {
           "name": "HD-1",
@@ -675,8 +686,8 @@
       ]
     },
     {
+      "title": "Episode 26",
       "episode": "26",
-      "title": "Renewal",
       "files": [
         {
           "name": "HD-1",
@@ -701,8 +712,8 @@
       ]
     },
     {
+      "title": "Episode 27",
       "episode": "27",
-      "title": "Abduction",
       "files": [
         {
           "name": "HD-1",
@@ -727,8 +738,8 @@
       ]
     },
     {
+      "title": "Episode 28",
       "episode": "28",
-      "title": "Impatience",
       "files": [
         {
           "name": "HD-1",
@@ -753,8 +764,8 @@
       ]
     },
     {
+      "title": "Episode 29",
       "episode": "29",
-      "title": "Father",
       "files": [
         {
           "name": "HD-1",
@@ -779,8 +790,8 @@
       ]
     },
     {
+      "title": "Episode 30",
       "episode": "30",
-      "title": "Justice",
       "files": [
         {
           "name": "HD-1",
@@ -805,8 +816,8 @@
       ]
     },
     {
+      "title": "Episode 31",
       "episode": "31",
-      "title": "Transfer",
       "files": [
         {
           "name": "HD-1",
@@ -831,8 +842,8 @@
       ]
     },
     {
+      "title": "Episode 32",
       "episode": "32",
-      "title": "Selection",
       "files": [
         {
           "name": "HD-1",
@@ -857,8 +868,8 @@
       ]
     },
     {
+      "title": "Episode 33",
       "episode": "33",
-      "title": "Scorn",
       "files": [
         {
           "name": "HD-1",
@@ -883,8 +894,8 @@
       ]
     },
     {
+      "title": "Episode 34",
       "episode": "34",
-      "title": "Vigilance",
       "files": [
         {
           "name": "HD-1",
@@ -909,8 +920,8 @@
       ]
     },
     {
+      "title": "Episode 35",
       "episode": "35",
-      "title": "Malice",
       "files": [
         {
           "name": "HD-1",
@@ -935,8 +946,8 @@
       ]
     },
     {
+      "title": "Episode 36",
       "episode": "36",
-      "title": "1.28 (January 28)",
       "files": [
         {
           "name": "HD-1",
@@ -961,8 +972,8 @@
       ]
     },
     {
+      "title": "Episode 37",
       "episode": "37",
-      "title": "New World",
       "files": [
         {
           "name": "HD-1",
@@ -988,8 +999,7 @@
     }
   ],
   "streamingId": "1535",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2006-10-04",
-  "malId": "1535",
-  "_forceSyncTime": 1778769033601
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

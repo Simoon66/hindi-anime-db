@@ -1,12 +1,12 @@
 {
   "title": "No Game, No Life",
-  "synopsis": "Bored with life and considering the real world to be just a “crappy game,” savvy sibling shut-ins Sora and Shiro have withdrawn into their own fantasy world filled with video games. \n\n\n\nHowever, one day they find themselves summoned to another world by a boy who calls himself “God,” their abilities are about to be put to the ultimate test! Now not only their fates — but the fate of all of humanity — will be decided by a series of games that may just be the hardest these super-geniuses have ever faced!\n\n\n\n(Source: Sentai Filmworks, edited)",
+  "synopsis": "Bored with life and considering the real world to be just a “crappy game,” savvy sibling shut-ins Sora and Shiro have withdrawn into their own fantasy world filled with video games. \n\\n\\n\nHowever, one day they find themselves summoned to another world by a boy who calls himself “God,” their abilities are about to be put to the ultimate test! Now not only their fates — but the fate of all of humanity — will be decided by a series of games that may just be the hardest these super-geniuses have ever faced!\n\\n\\n\n(Source: Sentai Filmworks, edited)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19815-sEOQ9yQaPKlk.jpg",
-  "synonym": "No Game No Life",
-  "native": "ノーゲーム・ノーライフ",
-  "aired": "04/09/2014",
-  "premiered": "SPRING 2014",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "12",
   "genres": [
     "Adventure",
@@ -14,19 +14,35 @@
     "Ecchi",
     "Fantasy"
   ],
-  "rating": "7.7",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "MADHOUSE"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] No Game, No Life",
+      "link": "/2014/04/19815.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19815-sEOQ9yQaPKlk.jpg"
+    },
+    {
+      "title": "[Special] No Game No Life Specials",
+      "link": "/2014/06/20769.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20769-yn9crl5jlupz.jpg"
+    },
+    {
+      "title": "[Movie] No Game, No Life Zero",
+      "link": "/2017/07/21875.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21875-ybSgx75MgRMM.png"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Beginner",
       "files": [
         {
           "name": "HD-1",
@@ -51,8 +67,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Challenger",
       "files": [
         {
           "name": "HD-1",
@@ -77,8 +93,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Expert",
       "files": [
         {
           "name": "HD-1",
@@ -103,8 +119,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Grandmaster",
       "files": [
         {
           "name": "HD-1",
@@ -129,8 +145,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Weak Square",
       "files": [
         {
           "name": "HD-1",
@@ -155,8 +171,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Interesting",
       "files": [
         {
           "name": "HD-1",
@@ -181,8 +197,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Sacrifice",
       "files": [
         {
           "name": "HD-1",
@@ -207,8 +223,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Fake End",
       "files": [
         {
           "name": "HD-1",
@@ -233,8 +249,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Sky Walk",
       "files": [
         {
           "name": "HD-1",
@@ -259,8 +275,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Blue Rose",
       "files": [
         {
           "name": "HD-1",
@@ -285,8 +301,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Killing Giant",
       "files": [
         {
           "name": "HD-1",
@@ -311,8 +327,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Rule Number 10",
       "files": [
         {
           "name": "HD-1",
@@ -338,8 +354,7 @@
     }
   ],
   "streamingId": "19815",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2014-04-09",
-  "malId": "19815",
-  "_forceSyncTime": 1778769843183
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

@@ -1,0 +1,76 @@
+{
+  "title": "STEEL BALL RUN JoJo's Bizarre Adventure 1st STAGE",
+  "synopsis": "The beginning of the seventh story arc in the long-running JoJo's Bizarre Adventure series.\\n\\n\n\nIt’s 1890, in America, the Steel Ball Run — the first horse racing championship across the North American continent — was about to begin. Johnny Joestar, once being hailed as a genius jockey, is now paralysed and lost in despair. He finds hope in the mysterious phenomena caused by Gyro Zeppeli, an outlaw aiming to win the race, and determines to participate in the 4,000 miles of grueling adventure.\\n\\n\n\n(Source: STEEL BALL RUN: JoJo no Kimyou na Bouken Site)\\n\\n",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190327-riJNCFL7w9y4.jpg",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Mystery",
+    "Sports",
+    "Supernatural"
+  ],
+  "rating": "",
+  "type": "ONA",
+  "status": "Completed",
+  "country": "JP",
+  "studios": [
+    "david production"
+  ],
+  "producers": [],
+  "seasons": [
+    {
+      "title": "[ONA] STEEL BALL RUN JoJo's Bizarre Adventure 1st STAGE",
+      "link": "/2026/03/190327.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190327-riJNCFL7w9y4.jpg"
+    },
+    {
+      "title": "[ONA] JoJo's Bizarre Adventure: STONE OCEAN Part 2",
+      "link": "/2022/09/146722.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146722-hiZU7M33fBhn.jpg"
+    },
+    {
+      "title": "[ONA] STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE",
+      "link": "/2026/00/210482.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210482-FiOIHVT3QR3F.jpg"
+    }
+  ],
+  "episodes": [
+    {
+      "title": "Episode 1",
+      "episode": "1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/190327/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/190327/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61469/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61469/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ],
+  "streamingId": "190327",
+  "releaseDate": "2026-03-19",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
+}

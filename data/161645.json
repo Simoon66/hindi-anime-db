@@ -1,19 +1,19 @@
 {
   "title": "The Apothecary Diaries",
-  "synopsis": "Maomao lived a peaceful life with her apothecary father. Until one day, she’s sold as a lowly servant to the emperor’s palace. But she wasn’t meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she’s making a name for herself solving medical mysteries!\n\n\n\n(Source: Crunchyroll)",
+  "synopsis": "Maomao lived a peaceful life with her apothecary father. Until one day, she’s sold as a lowly servant to the emperor’s palace. But she wasn’t meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she’s making a name for herself solving medical mysteries!\n\\n\\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-QLbzHXiYRgV2.jpg",
-  "synonym": "Kusuriya no Hitorigoto",
-  "native": "薬屋のひとりごと",
-  "aired": "10/22/2023",
-  "premiered": "FALL 2023",
-  "duration": "23m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "24",
   "genres": [
     "Drama",
     "Mystery"
   ],
-  "rating": "8.8",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
@@ -21,11 +21,27 @@
     "TOHO animation STUDIO"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] The Apothecary Diaries",
+      "link": "/2023/10/161645.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-QLbzHXiYRgV2.jpg"
+    },
+    {
+      "title": "[ONA] Maomao no Hitorigoto",
+      "link": "/2023/10/170508.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170508-72GLTka7NHeF.jpg"
+    },
+    {
+      "title": "[TV Series] The Apothecary Diaries Season 2",
+      "link": "/2025/01/176301.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176301-TIGmldLffQGX.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Maomao",
       "files": [
         {
           "name": "HD-1",
@@ -50,8 +66,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Chilly Apothecary",
       "files": [
         {
           "name": "HD-1",
@@ -76,8 +92,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "The Unsettling Matter of the Spirit",
       "files": [
         {
           "name": "HD-1",
@@ -102,8 +118,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "The Threat",
       "files": [
         {
           "name": "HD-1",
@@ -128,8 +144,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Covert Operations",
       "files": [
         {
           "name": "HD-1",
@@ -154,8 +170,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "The Garden Party",
       "files": [
         {
           "name": "HD-1",
@@ -180,8 +196,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Homecoming",
       "files": [
         {
           "name": "HD-1",
@@ -206,8 +222,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Wheat Stalks",
       "files": [
         {
           "name": "HD-1",
@@ -232,8 +248,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Suicide or Murder?",
       "files": [
         {
           "name": "HD-1",
@@ -258,8 +274,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Honey",
       "files": [
         {
           "name": "HD-1",
@@ -284,8 +300,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Reducing Two to One",
       "files": [
         {
           "name": "HD-1",
@@ -310,8 +326,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "The Eunuch and the Courtesan",
       "files": [
         {
           "name": "HD-1",
@@ -336,8 +352,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "Serving in the Outer Court",
       "files": [
         {
           "name": "HD-1",
@@ -362,8 +378,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "The New Pure Consort",
       "files": [
         {
           "name": "HD-1",
@@ -388,8 +404,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "Raw Fish",
       "files": [
         {
           "name": "HD-1",
@@ -414,8 +430,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "Lead",
       "files": [
         {
           "name": "HD-1",
@@ -440,8 +456,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "A Jaunt Around Town",
       "files": [
         {
           "name": "HD-1",
@@ -466,8 +482,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "Lakan",
       "files": [
         {
           "name": "HD-1",
@@ -492,8 +508,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "Chance or Something More",
       "files": [
         {
           "name": "HD-1",
@@ -518,8 +534,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "Thornapple",
       "files": [
         {
           "name": "HD-1",
@@ -544,8 +560,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "How to Buy Out a Contract",
       "files": [
         {
           "name": "HD-1",
@@ -570,8 +586,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "Blue Roses",
       "files": [
         {
           "name": "HD-1",
@@ -596,8 +612,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "Rose Balsam and Wood Sorrel",
       "files": [
         {
           "name": "HD-1",
@@ -622,8 +638,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "Jinshi and Maomao",
       "files": [
         {
           "name": "HD-1",
@@ -649,8 +665,7 @@
     }
   ],
   "streamingId": "161645",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2023-10-22",
-  "malId": "54492",
-  "_forceSyncTime": 1778771864892
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

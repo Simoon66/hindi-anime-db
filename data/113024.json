@@ -1,0 +1,74 @@
+{
+  "title": "Revue Starlight: The Movie",
+  "synopsis": "The stage emulates life and compresses it, setting free skills learned over lifetimes in brief but dazzling displays for the amusement and judgment of others. For the performers, it is the ultimate risk, and some will rise while others must fall. Nowhere is this truer than at the Seisho Music Academy, where music, dance and real weapons all come into play in the creation of the next great Star. Karen and Hikari’s destinies have been linked since a childhood promise, but their journeys here have taken very different paths. Now, after Hikari leaves, Karen must discover who she is without her opposite, while Hikari must rediscover her own course.\\n\n\\n\n(Source: Sentai Filmworks)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113024-OdzOh0OKFPTN.png",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Drama",
+    "Music",
+    "Psychological"
+  ],
+  "rating": "",
+  "type": "Movie",
+  "status": "Completed",
+  "country": "JP",
+  "studios": [
+    "Kinema Citrus"
+  ],
+  "producers": [],
+  "seasons": [
+    {
+      "title": "[Movie] Revue Starlight: The Movie",
+      "link": "/2021/06/113024.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113024-OdzOh0OKFPTN.png"
+    },
+    {
+      "title": "[TV Series] Revue Starlight",
+      "link": "/2018/07/98658.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98658-Xz8uliDO7dzZ.png"
+    },
+    {
+      "title": "[Movie] Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo",
+      "link": "/2020/08/113023.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113023-ppUSdBgb9pzc.jpg"
+    }
+  ],
+  "episodes": [
+    {
+      "title": "Episode 1",
+      "episode": "1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113024/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/113024/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40664/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/40664/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ],
+  "streamingId": "113024",
+  "releaseDate": "2021-06-04",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
+}

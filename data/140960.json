@@ -1,12 +1,12 @@
 {
   "title": "SPY x FAMILY",
-  "synopsis": "Everyone has a part of themselves they cannot show to anyone else.\n\n\n\nAt a time when all nations of the world were involved in a fierce war of information happening behind closed doors, Ostania and Westalis had been in a state of cold war against one another for decades. The Westalis Intelligence Services' Eastern-Focused Division (WISE) sends their most talented spy, \"Twilight,\" on a top-secret mission to investigate the movements of Donovan Desmond, the chairman of Ostania's National Unity Party, who is threatening peace efforts between the two nations.\n\n\n\nThis mission is known as \"Operation Strix.\" It consists of \"putting together a family in one week in order to infiltrate social gatherings organized by the elite school that Desmond's son attends.\" \n\n\n\"Twilight\" takes on the identity of psychiatrist Loid Forger and starts looking for family members. But Anya, the daughter he adopts, turns out to have the ability to read people's minds, while his wife, Yor, is an assassin! With it being in each of their own interests to keep these facts hidden, they start living together while concealing their true identities from one another. \n\nWorld peace is now in the hands of this brand-new family as they embark on an adventure full of surprises.\n\n\n\n(Source: Crunchyroll)",
+  "synopsis": "Everyone has a part of themselves they cannot show to anyone else.\n\\n\\n\nAt a time when all nations of the world were involved in a fierce war of information happening behind closed doors, Ostania and Westalis had been in a state of cold war against one another for decades. The Westalis Intelligence Services' Eastern-Focused Division (WISE) sends their most talented spy, \"Twilight,\" on a top-secret mission to investigate the movements of Donovan Desmond, the chairman of Ostania's National Unity Party, who is threatening peace efforts between the two nations.\n\\n\\n\nThis mission is known as \"Operation Strix.\" It consists of \"putting together a family in one week in order to infiltrate social gatherings organized by the elite school that Desmond's son attends.\" \\n\\n\n\"Twilight\" takes on the identity of psychiatrist Loid Forger and starts looking for family members. But Anya, the daughter he adopts, turns out to have the ability to read people's minds, while his wife, Yor, is an assassin! With it being in each of their own interests to keep these facts hidden, they start living together while concealing their true identities from one another. \\n\nWorld peace is now in the hands of this brand-new family as they embark on an adventure full of surprises.\n\\n\\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-Kb6R5nYQfjmP.jpg",
-  "synonym": "SPY×FAMILY",
-  "native": "SPY×FAMILY",
-  "aired": "04/09/2022",
-  "premiered": "SPRING 2022",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "12",
   "genres": [
     "Action",
@@ -14,8 +14,8 @@
     "Slice of Life",
     "Supernatural"
   ],
-  "rating": "8.3",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
@@ -23,11 +23,22 @@
     "WIT STUDIO"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] SPY x FAMILY",
+      "link": "/2022/04/140960.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-Kb6R5nYQfjmP.jpg"
+    },
+    {
+      "title": "[TV Series] SPY x FAMILY Cour 2",
+      "link": "/2022/10/142838.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142838-26JrqcFU1ljB.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Operation Strix",
       "files": [
         {
           "name": "HD-1",
@@ -52,8 +63,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Secure a Wife",
       "files": [
         {
           "name": "HD-1",
@@ -78,8 +89,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Prepare for the Interview",
       "files": [
         {
           "name": "HD-1",
@@ -104,8 +115,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "The Prestigious School's Interview",
       "files": [
         {
           "name": "HD-1",
@@ -130,8 +141,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Will They Pass or Fail",
       "files": [
         {
           "name": "HD-1",
@@ -156,8 +167,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "The Friendship Scheme",
       "files": [
         {
           "name": "HD-1",
@@ -182,8 +193,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "The Target's Second Son",
       "files": [
         {
           "name": "HD-1",
@@ -208,8 +219,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "The Counter-Secret Police Cover Operation",
       "files": [
         {
           "name": "HD-1",
@@ -234,8 +245,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Show Off How in Love You Are",
       "files": [
         {
           "name": "HD-1",
@@ -260,8 +271,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "The Great Dodgeball Plan",
       "files": [
         {
           "name": "HD-1",
@@ -286,8 +297,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "STELLA",
       "files": [
         {
           "name": "HD-1",
@@ -312,8 +323,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Penguin Park",
       "files": [
         {
           "name": "HD-1",
@@ -339,8 +350,7 @@
     }
   ],
   "streamingId": "140960",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2022-04-09",
-  "malId": "50265",
-  "_forceSyncTime": 1778769759002
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

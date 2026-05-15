@@ -1,12 +1,12 @@
 {
   "title": "Wistoria: Wand and Sword",
-  "synopsis": "A hard-working boy named Will enters a magic academy in hopes of becoming a great sorcerer. Unfortunately, there's a fatal flaw in his plan: he lacks the ability to use magic. Amid the cold stares of his classmates and instructors, Will feels discouraged at times, but he presses forward with unwavering determination. He can't use a wand, but he can wield a sword in his battle to reach the top of a magic-dominated world. He just needs to believe in his own unique strengths and remember the promise he made with someone precious to him...\n\n(Source: Crunchyroll)",
+  "synopsis": "A hard-working boy named Will enters a magic academy in hopes of becoming a great sorcerer. Unfortunately, there's a fatal flaw in his plan: he lacks the ability to use magic. Amid the cold stares of his classmates and instructors, Will feels discouraged at times, but he presses forward with unwavering determination. He can't use a wand, but he can wield a sword in his battle to reach the top of a magic-dominated world. He just needs to believe in his own unique strengths and remember the promise he made with someone precious to him...\n\\n\\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174576-tpKcHG0eO6CS.jpg",
-  "synonym": "Tsue to Tsurugi no Wistoria",
-  "native": "杖と剣のウィストリア",
-  "aired": "7/7/2024",
-  "premiered": "SUMMER 2024",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "12",
   "genres": [
     "Action",
@@ -14,20 +14,31 @@
     "Drama",
     "Fantasy"
   ],
-  "rating": "7.8",
-  "type": "TV",
-  "status": "FINISHED",
+  "rating": "",
+  "type": "TV Series",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Actas",
+  "studios": [
+    "Actas",
+    "Bandai Namco Pictures"
+  ],
   "producers": [],
-  "seasons": [],
-  "malId": "58059",
-  "streamingId": "174576",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "seasons": [
+    {
+      "title": "[TV Series] Wistoria: Wand and Sword",
+      "link": "/2024/07/174576.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174576-tpKcHG0eO6CS.jpg"
+    },
+    {
+      "title": "[TV Series] Wistoria: Wand and Sword Season 2",
+      "link": "/2026/04/182300.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182300-IYkq5KrkQq1V.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Like a Lone Sword",
       "files": [
         {
           "name": "HD-1",
@@ -52,8 +63,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "As Though Undaunted",
       "files": [
         {
           "name": "HD-1",
@@ -78,8 +89,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Order & Watcher",
       "files": [
         {
           "name": "HD-1",
@@ -104,8 +115,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "The Eve of the Grand Festival",
       "files": [
         {
           "name": "HD-1",
@@ -130,8 +141,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Raise the Starting Pistol",
       "files": [
         {
           "name": "HD-1",
@@ -156,8 +167,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Between Pride and Passion",
       "files": [
         {
           "name": "HD-1",
@@ -182,8 +193,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Twelve Secret Ice Magics, El Glace Frosse",
       "files": [
         {
           "name": "HD-1",
@@ -208,8 +219,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Shall We Date?",
       "files": [
         {
           "name": "HD-1",
@@ -234,8 +245,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Praxis Begins",
       "files": [
         {
           "name": "HD-1",
@@ -260,8 +271,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Our Dream",
       "files": [
         {
           "name": "HD-1",
@@ -286,8 +297,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "The True Name of Cowards",
       "files": [
         {
           "name": "HD-1",
@@ -312,8 +323,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Wand and Sword",
       "files": [
         {
           "name": "HD-1",
@@ -337,5 +348,9 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "174576",
+  "releaseDate": "2024-07-07",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

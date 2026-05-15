@@ -1,12 +1,12 @@
 {
   "title": "Mob Psycho 100 III",
-  "synopsis": "The third season of Mob Psycho 100. \nThe appearance of a divine tree and new religion turns Mob and Reigen's city upside down!\n(Source: Crunchyroll)\n",
+  "synopsis": "The third season of Mob Psycho 100. \\n\\n\nThe appearance of a divine tree and new religion turns Mob and Reigen's city upside down!\\n\\n\n(Source: Crunchyroll)\n",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140439-bPKmhe1wNxc9.jpg",
-  "synonym": "Mob Psycho 100 III",
-  "native": "モブサイコ100 Ⅲ",
-  "aired": "10/6/2022",
-  "premiered": "FALL 2022",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "12",
   "genres": [
     "Action",
@@ -16,20 +16,30 @@
     "Slice of Life",
     "Supernatural"
   ],
-  "rating": "8.7",
-  "type": "TV",
-  "status": "FINISHED",
+  "rating": "",
+  "type": "TV Series",
+  "status": "Completed",
   "country": "JP",
-  "studios": "bones",
+  "studios": [
+    "bones"
+  ],
   "producers": [],
-  "seasons": [],
-  "malId": "50172",
-  "streamingId": "140439",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "seasons": [
+    {
+      "title": "[TV Series] Mob Psycho 100 III",
+      "link": "/2022/10/140439.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140439-bPKmhe1wNxc9.jpg"
+    },
+    {
+      "title": "[TV Series] Mob Psycho 100 II",
+      "link": "/2019/01/101338.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101338-rokVscjRYzdP.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Future: Career Paths",
       "files": [
         {
           "name": "HD-1",
@@ -54,8 +64,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Yokai Hunter Amakusa Haruaki Appears! The Threat of a Hundred Demons!!",
       "files": [
         {
           "name": "HD-1",
@@ -80,8 +90,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Getting Carried Away: 100%",
       "files": [
         {
           "name": "HD-1",
@@ -106,8 +116,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Divine Tree 1: The Founder Appears",
       "files": [
         {
           "name": "HD-1",
@@ -132,8 +142,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Divine Tree 2: Peace",
       "files": [
         {
           "name": "HD-1",
@@ -158,8 +168,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Divine Tree 3: Dimple Is",
       "files": [
         {
           "name": "HD-1",
@@ -184,8 +194,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Transmission 1: Winter Break",
       "files": [
         {
           "name": "HD-1",
@@ -210,8 +220,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Transmission 2: Encountering the Unknown",
       "files": [
         {
           "name": "HD-1",
@@ -236,8 +246,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Mob 1: Moving",
       "files": [
         {
           "name": "HD-1",
@@ -262,8 +272,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Mob 2: Rival",
       "files": [
         {
           "name": "HD-1",
@@ -288,8 +298,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Mob 3: Trauma",
       "files": [
         {
           "name": "HD-1",
@@ -314,8 +324,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Confession: The Future",
       "files": [
         {
           "name": "HD-1",
@@ -339,5 +349,9 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "140439",
+  "releaseDate": "2022-10-06",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

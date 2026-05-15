@@ -1,12 +1,12 @@
 {
   "title": "Code Geass: Lelouch of the Rebellion",
-  "synopsis": "On August 10th of the year 2010 the Holy Empire of Britannia began a campaign of conquest, its sights set on Japan. Operations were completed in one month thanks to Britannia's deployment of new mobile humanoid armor vehicles dubbed Knightmare Frames. Japan's rights and identity were stripped away, the once proud nation now referred to as Area 11. Its citizens, Elevens, are forced to scratch out a living while the Britannian aristocracy lives comfortably within their settlements. Pockets of resistance appear throughout Area 11, working towards independence for Japan.\n\n\n Lelouch, an exiled Imperial Prince of Britannia posing as a student, finds himself in the heart of the ongoing conflict for the island nation. Through a chance meeting with a mysterious girl named C.C., Lelouch gains his Geass, the power of the king. Now endowed with absolute dominance over any person, Lelouch may finally realize his goal of bringing down Britannia from within!\n\n\n(Source: Bandai Entertainment)",
+  "synopsis": "On August 10th of the year 2010 the Holy Empire of Britannia began a campaign of conquest, its sights set on Japan. Operations were completed in one month thanks to Britannia's deployment of new mobile humanoid armor vehicles dubbed Knightmare Frames. Japan's rights and identity were stripped away, the once proud nation now referred to as Area 11. Its citizens, Elevens, are forced to scratch out a living while the Britannian aristocracy lives comfortably within their settlements. Pockets of resistance appear throughout Area 11, working towards independence for Japan.\\n\\n\n Lelouch, an exiled Imperial Prince of Britannia posing as a student, finds himself in the heart of the ongoing conflict for the island nation. Through a chance meeting with a mysterious girl named C.C., Lelouch gains his Geass, the power of the king. Now endowed with absolute dominance over any person, Lelouch may finally realize his goal of bringing down Britannia from within!\\n\\n\n(Source: Bandai Entertainment)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1575-hsmWM2ydNm1m.jpg",
-  "synonym": "Code Geass: Hangyaku no Lelouch",
-  "native": "コードギアス 反逆のルルーシュ",
-  "aired": "10/06/2006",
-  "premiered": "FALL 2006",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "25",
   "genres": [
     "Action",
@@ -15,19 +15,45 @@
     "Sci-Fi",
     "Thriller"
   ],
-  "rating": "8.5",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "Sunrise"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Code Geass: Lelouch of the Rebellion",
+      "link": "/2006/10/1575.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1575-hsmWM2ydNm1m.jpg"
+    },
+    {
+      "title": "[TV Series] Code Geass: Lelouch of the Rebellion R2",
+      "link": "/2008/04/2904.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2904-Fet9Q33suC7G.jpg"
+    },
+    {
+      "title": "[Special] Code Geass: Hangyaku no Lelouch Picture Drama",
+      "link": "/2007/01/1953.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1953.jpg"
+    },
+    {
+      "title": "[Movie] Code Geass: Lelouch of the Rebellion I - Initiation",
+      "link": "/2017/10/101811.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101811-pRfRiEvgZn4T.png"
+    },
+    {
+      "title": "[OVA] Code Geass: Oz the Reflection Picture Drama",
+      "link": "/2013/01/17277.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17277.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "The Day a New Demon was Born",
       "files": [
         {
           "name": "HD-1",
@@ -52,8 +78,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "The White Knight Awakens",
       "files": [
         {
           "name": "HD-1",
@@ -78,8 +104,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "The False Classmate",
       "files": [
         {
           "name": "HD-1",
@@ -104,8 +130,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "His Name is Zero",
       "files": [
         {
           "name": "HD-1",
@@ -130,8 +156,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "The Princess and the Witch",
       "files": [
         {
           "name": "HD-1",
@@ -156,8 +182,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "The Stolen Mask",
       "files": [
         {
           "name": "HD-1",
@@ -182,8 +208,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Attack Cornelia",
       "files": [
         {
           "name": "HD-1",
@@ -208,8 +234,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "The Black Knights",
       "files": [
         {
           "name": "HD-1",
@@ -234,8 +260,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Refrain",
       "files": [
         {
           "name": "HD-1",
@@ -260,8 +286,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Guren Dances",
       "files": [
         {
           "name": "HD-1",
@@ -286,8 +312,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Battle for Narita",
       "files": [
         {
           "name": "HD-1",
@@ -312,8 +338,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "The Messenger from Kyoto",
       "files": [
         {
           "name": "HD-1",
@@ -338,8 +364,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "Shirley at Gunpoint",
       "files": [
         {
           "name": "HD-1",
@@ -364,8 +390,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "Geass vs. Geass",
       "files": [
         {
           "name": "HD-1",
@@ -390,8 +416,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "Cheering Mao",
       "files": [
         {
           "name": "HD-1",
@@ -416,8 +442,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "Nunnally Held Hostage",
       "files": [
         {
           "name": "HD-1",
@@ -442,8 +468,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "Knight",
       "files": [
         {
           "name": "HD-1",
@@ -468,8 +494,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "I Order you, Suzaku Kururugi",
       "files": [
         {
           "name": "HD-1",
@@ -494,8 +520,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "Island of the Gods",
       "files": [
         {
           "name": "HD-1",
@@ -520,8 +546,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "Battle at Kyushu",
       "files": [
         {
           "name": "HD-1",
@@ -546,8 +572,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "The School Festival Declaration",
       "files": [
         {
           "name": "HD-1",
@@ -572,8 +598,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "Bloodstained Euphy",
       "files": [
         {
           "name": "HD-1",
@@ -598,8 +624,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "At Least with Sorrow",
       "files": [
         {
           "name": "HD-1",
@@ -624,8 +650,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "The Collapsing Stage",
       "files": [
         {
           "name": "HD-1",
@@ -650,8 +676,8 @@
       ]
     },
     {
+      "title": "Episode 25",
       "episode": "25",
-      "title": "Zero",
       "files": [
         {
           "name": "HD-1",
@@ -677,8 +703,7 @@
     }
   ],
   "streamingId": "1575",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2006-10-06",
-  "malId": "1575",
-  "_forceSyncTime": 1778770117258
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

@@ -1,12 +1,12 @@
 {
   "title": "Monogatari Series Second Season",
-  "synopsis": "Second season of the Monogatari Series, part 1/2. Contains the arcs Tsubasa Tiger, Mayoi Jiangshi, Nadeko Medusa, Shinobu Time, and Hitagi End, from the Nekomonogatari White, Kabukimonogatari, Otorimonogatari, Onimonogatari and Koimonogatari light novels, respectively.\n\nThese stories take place after the end of the summer vacation when the apparition of the bee had left and the apparition of the phoenix avoided any consequences… Now that Koyomi Araragi and the girls were entering their new school terms, they were once again about to encounter supernatural beings…but this time, they may not be so easy to deal with.\n\nTsubasa Hanekawa, Mayoi Hachikuji, Nadeko Sengoku, Shinobu Oshino, and finally Hitagi Senjougahara. The girls’ loneliness, their confessions, and their departures… 5 new “stories” begin now.\n\n(Source: Aniplex)\n\nNotes:\n\n Includes 3 recap episodes from the TV version (Ep. 6, 11, 16).\n\nThe recap episodes were not included in the Blu-Ray version of the anime.",
+  "synopsis": "Second season of the Monogatari Series, part 1/2. Contains the arcs Tsubasa Tiger, Mayoi Jiangshi, Nadeko Medusa, Shinobu Time, and Hitagi End, from the Nekomonogatari White, Kabukimonogatari, Otorimonogatari, Onimonogatari and Koimonogatari light novels, respectively.\n\\n\\n\nThese stories take place after the end of the summer vacation when the apparition of the bee had left and the apparition of the phoenix avoided any consequences… Now that Koyomi Araragi and the girls were entering their new school terms, they were once again about to encounter supernatural beings…but this time, they may not be so easy to deal with.\n\\n\\n\nTsubasa Hanekawa, Mayoi Hachikuji, Nadeko Sengoku, Shinobu Oshino, and finally Hitagi Senjougahara. The girls’ loneliness, their confessions, and their departures… 5 new “stories” begin now.\n\\n\\n\n(Source: Aniplex)\\n\n\\n\nNotes:\n\\n\n Includes 3 recap episodes from the TV version (Ep. 6, 11, 16).\n\\n\nThe recap episodes were not included in the Blu-Ray version of the anime.",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17074-xMhVAZsEDH66.png",
-  "synonym": "Monogatari Series: Second Season",
-  "native": "〈物語〉シリーズ セカンドシーズン",
-  "aired": "7/7/2013",
-  "premiered": "SUMMER 2013",
-  "duration": "26m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "26",
   "genres": [
     "Comedy",
@@ -16,20 +16,45 @@
     "Romance",
     "Supernatural"
   ],
-  "rating": "8.8",
-  "type": "TV",
-  "status": "FINISHED",
+  "rating": "",
+  "type": "TV Series",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Shaft",
+  "studios": [
+    "Shaft"
+  ],
   "producers": [],
-  "seasons": [],
-  "malId": "17074",
-  "streamingId": "17074",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "seasons": [
+    {
+      "title": "[TV Series] Monogatari Series Second Season",
+      "link": "/2013/07/17074.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17074-xMhVAZsEDH66.png"
+    },
+    {
+      "title": "[TV Series] Nisemonogatari",
+      "link": "/2012/01/11597.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11597-x2vd4KSHcI1S.jpg"
+    },
+    {
+      "title": "[ONA] Koyomimonogatari",
+      "link": "/2016/01/21520.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21520-nZKCr7PZrv7e.png"
+    },
+    {
+      "title": "[OVA] Koyomi History",
+      "link": "/2016/09/104434.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104434-6Pbe0XxAZp2S.png"
+    },
+    {
+      "title": "[TV Series] Owarimonogatari",
+      "link": "/2015/10/21262.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21262-jfbv9hvjymMW.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Tsubasa Tiger, Part One",
       "files": [
         {
           "name": "HD-1",
@@ -54,8 +79,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Tsubasa Tiger, Part Two",
       "files": [
         {
           "name": "HD-1",
@@ -80,8 +105,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Tsubasa Tiger, Part Three",
       "files": [
         {
           "name": "HD-1",
@@ -106,8 +131,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Tsubasa Tiger, Part Four",
       "files": [
         {
           "name": "HD-1",
@@ -132,8 +157,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Tsubasa Tiger, Part Five",
       "files": [
         {
           "name": "HD-1",
@@ -158,8 +183,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Summary One",
       "files": [
         {
           "name": "HD-1",
@@ -184,8 +209,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Mayoi Jiangshi, Part One",
       "files": [
         {
           "name": "HD-1",
@@ -210,8 +235,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Mayoi Jiangshi, Part Two",
       "files": [
         {
           "name": "HD-1",
@@ -236,8 +261,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Mayoi Jiangshi, Part Three",
       "files": [
         {
           "name": "HD-1",
@@ -262,8 +287,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Mayoi Jiangshi, Part Four",
       "files": [
         {
           "name": "HD-1",
@@ -288,8 +313,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Summary Two",
       "files": [
         {
           "name": "HD-1",
@@ -314,8 +339,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Nadeko Medusa, Part One",
       "files": [
         {
           "name": "HD-1",
@@ -340,8 +365,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "Nadeko Medusa, Part Two",
       "files": [
         {
           "name": "HD-1",
@@ -366,8 +391,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "Nadeko Medusa, Part Three",
       "files": [
         {
           "name": "HD-1",
@@ -392,8 +417,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "Nadeko Medusa, Part Four",
       "files": [
         {
           "name": "HD-1",
@@ -418,8 +443,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "Summary Three",
       "files": [
         {
           "name": "HD-1",
@@ -444,8 +469,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "Shinobu Time, Part One",
       "files": [
         {
           "name": "HD-1",
@@ -470,8 +495,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "Shinobu Time, Part Two",
       "files": [
         {
           "name": "HD-1",
@@ -496,8 +521,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "Shinobu Time, Part Three",
       "files": [
         {
           "name": "HD-1",
@@ -522,8 +547,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "Shinobu Time, Part Four",
       "files": [
         {
           "name": "HD-1",
@@ -548,8 +573,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "Hitagi End, Part One",
       "files": [
         {
           "name": "HD-1",
@@ -574,8 +599,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "Hitagi End, Part Two",
       "files": [
         {
           "name": "HD-1",
@@ -600,8 +625,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "Hitagi End, Part Three",
       "files": [
         {
           "name": "HD-1",
@@ -626,8 +651,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "Hitagi End, Part Four",
       "files": [
         {
           "name": "HD-1",
@@ -652,8 +677,8 @@
       ]
     },
     {
+      "title": "Episode 25",
       "episode": "25",
-      "title": "Hitagi End, Part Five",
       "files": [
         {
           "name": "HD-1",
@@ -678,8 +703,8 @@
       ]
     },
     {
+      "title": "Episode 26",
       "episode": "26",
-      "title": "Hitagi End, Part Six",
       "files": [
         {
           "name": "HD-1",
@@ -703,5 +728,9 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "17074",
+  "releaseDate": "2013-07-07",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

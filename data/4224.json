@@ -1,12 +1,12 @@
 {
   "title": "Toradora!",
-  "synopsis": "Ryuuji Takasu is a gentle high school student with a love for housework; but in contrast to his kind nature, he has an intimidating face that often gets him labeled as a delinquent. On the other hand is Taiga Aisaka, a small, doll-like student, who is anything but a cute and fragile girl. Equipped with a wooden katana and feisty personality, Taiga is known throughout the school as the \"Palmtop Tiger.\"\n\n\n\nOne day, an embarrassing mistake causes the two students to cross paths. Ryuuji discovers that Taiga actually has a sweet side: she has a crush on the popular vice president, Yuusaku Kitamura, who happens to be his best friend. But things only get crazier when Ryuuji reveals that he has a crush on Minori Kushieda—Taiga's best friend!\n\n\n\nToradora! is a romantic comedy that follows this odd duo as they embark on a quest to help each other with their respective crushes, forming an unlikely alliance in the process.\n",
+  "synopsis": "Ryuuji Takasu is a gentle high school student with a love for housework; but in contrast to his kind nature, he has an intimidating face that often gets him labeled as a delinquent. On the other hand is Taiga Aisaka, a small, doll-like student, who is anything but a cute and fragile girl. Equipped with a wooden katana and feisty personality, Taiga is known throughout the school as the \"Palmtop Tiger.\"\n\\n\\n\nOne day, an embarrassing mistake causes the two students to cross paths. Ryuuji discovers that Taiga actually has a sweet side: she has a crush on the popular vice president, Yuusaku Kitamura, who happens to be his best friend. But things only get crazier when Ryuuji reveals that he has a crush on Minori Kushieda—Taiga's best friend!\n\\n\\n\nToradora! is a romantic comedy that follows this odd duo as they embark on a quest to help each other with their respective crushes, forming an unlikely alliance in the process.\n",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-PXVMBLNwy2aF.jpg",
-  "synonym": "Toradora!",
-  "native": "とらドラ！",
-  "aired": "10/02/2008",
-  "premiered": "FALL 2008",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "25",
   "genres": [
     "Comedy",
@@ -14,19 +14,40 @@
     "Romance",
     "Slice of Life"
   ],
-  "rating": "7.8",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "J.C.STAFF"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Toradora!",
+      "link": "/2008/10/4224.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-PXVMBLNwy2aF.jpg"
+    },
+    {
+      "title": "[Special] Toradora!: SOS! Hurray for Foodies",
+      "link": "/2009/02/6127.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6127-OFqTxnTmBOM2.png"
+    },
+    {
+      "title": "[OVA] Toradora!: Bento Battle",
+      "link": "/2011/12/11553.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11553-wj42fK4eFcvZ.jpg"
+    },
+    {
+      "title": "[Special] Toradora!: Ami no Monomane 150 Renpatsu!!",
+      "link": "/2009/04/206729.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b206729-Eyos8ItNqeN1.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Tiger and Dragon",
       "files": [
         {
           "name": "HD-1",
@@ -51,8 +72,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Ryuuji and Taiga",
       "files": [
         {
           "name": "HD-1",
@@ -77,8 +98,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Your Song",
       "files": [
         {
           "name": "HD-1",
@@ -103,8 +124,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "That Moment's Expression",
       "files": [
         {
           "name": "HD-1",
@@ -129,8 +150,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Ami Kawashima",
       "files": [
         {
           "name": "HD-1",
@@ -155,8 +176,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "True Self",
       "files": [
         {
           "name": "HD-1",
@@ -181,8 +202,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Pool Opening",
       "files": [
         {
           "name": "HD-1",
@@ -207,8 +228,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "For Whose Sake?",
       "files": [
         {
           "name": "HD-1",
@@ -233,8 +254,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Let's Go to the Ocean, You Say",
       "files": [
         {
           "name": "HD-1",
@@ -259,8 +280,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Fireworks",
       "files": [
         {
           "name": "HD-1",
@@ -285,8 +306,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Ohashi High School Cultural Festival - Part I",
       "files": [
         {
           "name": "HD-1",
@@ -311,8 +332,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Ohashi High School Cultural Festival - Part II",
       "files": [
         {
           "name": "HD-1",
@@ -337,8 +358,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "Ohashi High School Cultural Festival - Part III",
       "files": [
         {
           "name": "HD-1",
@@ -363,8 +384,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "The Palmtop Tiger of Happiness",
       "files": [
         {
           "name": "HD-1",
@@ -389,8 +410,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "The Stars are Far",
       "files": [
         {
           "name": "HD-1",
@@ -415,8 +436,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "One Step Forward",
       "files": [
         {
           "name": "HD-1",
@@ -441,8 +462,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "Mercury Retrogrades at Christmas",
       "files": [
         {
           "name": "HD-1",
@@ -467,8 +488,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "Under the Fir Tree",
       "files": [
         {
           "name": "HD-1",
@@ -493,8 +514,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "Christmas Eve Festival",
       "files": [
         {
           "name": "HD-1",
@@ -519,8 +540,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "Forever Like This",
       "files": [
         {
           "name": "HD-1",
@@ -545,8 +566,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "No Matter What",
       "files": [
         {
           "name": "HD-1",
@@ -571,8 +592,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "The Scene With You",
       "files": [
         {
           "name": "HD-1",
@@ -597,8 +618,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "The Road That We Must Advance On",
       "files": [
         {
           "name": "HD-1",
@@ -623,8 +644,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "Confession",
       "files": [
         {
           "name": "HD-1",
@@ -649,8 +670,8 @@
       ]
     },
     {
+      "title": "Episode 25",
       "episode": "25",
-      "title": "Toradora!",
       "files": [
         {
           "name": "HD-1",
@@ -676,8 +697,7 @@
     }
   ],
   "streamingId": "4224",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2008-10-02",
-  "malId": "4224",
-  "_forceSyncTime": 1778769879210
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

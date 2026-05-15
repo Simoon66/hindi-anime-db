@@ -1,12 +1,12 @@
 {
   "title": "KONOSUBA -God's blessing on this wonderful world!",
-  "synopsis": "Kazuma Satou decides that today is the day to get out of the house for a bit. Since he dies, pointlessly, it's clearly a bad choice. The goddess who greets him in the afterlife, however, offers him a chance to be reborn in a world not unlike that of a video game, and as a bonus she'll even throw in a cool item or power! Can't possibly be a bad choice, right? Except he arrives with no money at all, dead average skills, and his \"bonus\" isn't useful at all--since he picked the goddess, Aqua, herself. How are the two of them supposed to defeat the evil Devil King and live happily ever after? Well, for them, it probably starts with day laboring rather than adventuring. And it's only going to get more disappointing from there!\n\n\n\n(Source: Crunchyroll)",
+  "synopsis": "Kazuma Satou decides that today is the day to get out of the house for a bit. Since he dies, pointlessly, it's clearly a bad choice. The goddess who greets him in the afterlife, however, offers him a chance to be reborn in a world not unlike that of a video game, and as a bonus she'll even throw in a cool item or power! Can't possibly be a bad choice, right? Except he arrives with no money at all, dead average skills, and his \"bonus\" isn't useful at all--since he picked the goddess, Aqua, herself. How are the two of them supposed to defeat the evil Devil King and live happily ever after? Well, for them, it probably starts with day laboring rather than adventuring. And it's only going to get more disappointing from there!\\n\n\\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21202-mPOr80AEjUcZ.png",
-  "synonym": "Kono Subarashii Sekai ni Shukufuku wo!",
-  "native": "この素晴らしい世界に祝福を！",
-  "aired": "01/14/2016",
-  "premiered": "WINTER 2016",
-  "duration": "23m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "10",
   "genres": [
     "Adventure",
@@ -14,19 +14,40 @@
     "Ecchi",
     "Fantasy"
   ],
-  "rating": "7.9",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "Studio DEEN"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] KONOSUBA -God's blessing on this wonderful world!",
+      "link": "/2016/01/21202.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21202-mPOr80AEjUcZ.png"
+    },
+    {
+      "title": "[OVA] KONOSUBA -God's blessing on this wonderful world!: God's Blessings On This Wonderful Choker!",
+      "link": "/2016/06/21574.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21574-CTRsdAGe4mDp.png"
+    },
+    {
+      "title": "[TV Series] KONOSUBA -God's blessing on this wonderful world! 2",
+      "link": "/2017/01/21699.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21699-Fkbnkl9ZC6fW.png"
+    },
+    {
+      "title": "[TV Series] KONOSUBA -An Explosion on This Wonderful World!",
+      "link": "/2023/04/150075.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150075-QIGcA7oVyO6l.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "This Self-Proclaimed Goddess and Reincarnation in Another World!",
       "files": [
         {
           "name": "HD-1",
@@ -51,8 +72,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "An Explosion for This Chunibyo!",
       "files": [
         {
           "name": "HD-1",
@@ -77,8 +98,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "A Panty Treasure in This Right Hand!",
       "files": [
         {
           "name": "HD-1",
@@ -103,8 +124,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Explosion Magic for This Formidable Enemy!",
       "files": [
         {
           "name": "HD-1",
@@ -129,8 +150,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "A Price for This Cursed Sword!",
       "files": [
         {
           "name": "HD-1",
@@ -155,8 +176,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "A Conclusion to This Worthless Fight!",
       "files": [
         {
           "name": "HD-1",
@@ -181,8 +202,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "A Second Death in This Freezing Season!",
       "files": [
         {
           "name": "HD-1",
@@ -207,8 +228,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "A Loving Hand for Our Party When We Can't Make It Through Winter!",
       "files": [
         {
           "name": "HD-1",
@@ -233,8 +254,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "God's Blessing on This Wonderful Shop!",
       "files": [
         {
           "name": "HD-1",
@@ -259,8 +280,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Final Flame for This Over-the-Top Fortress!",
       "files": [
         {
           "name": "HD-1",
@@ -286,8 +307,7 @@
     }
   ],
   "streamingId": "21202",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2016-01-14",
-  "malId": "30831",
-  "_forceSyncTime": 1778770001931
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

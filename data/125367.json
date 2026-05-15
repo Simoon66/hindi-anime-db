@@ -1,12 +1,12 @@
 {
   "title": "Kaguya-sama: Love is War -Ultra Romantic-",
-  "synopsis": "The elite members of Shuchiin Academy's student council continue their competitive day-to-day antics. Council president Miyuki Shirogane clashes daily against vice-president Kaguya Shinomiya, each fighting tooth and nail to trick the other into confessing their romantic love. Kaguya struggles within the strict confines of her wealthy, uptight family, rebelling against her cold default demeanor as she warms to Shirogane and the rest of her friends.\n\n\n\nMeanwhile, council treasurer Yuu Ishigami suffers under the weight of his hopeless crush on Tsubame Koyasu, a popular upperclassman who helps to instill a new confidence in him. Miko Iino, the newest student council member, grows closer to the rule-breaking Ishigami while striving to overcome her own authoritarian moral code.\n\n\n\nAs love further blooms at Shuchiin Academy, the student council officers drag their outsider friends into increasingly comedic conflicts.\n\n\n\n(Source: MAL Rewrite)\n\n\n\nNote: The first episode had an advanced screening on April 2, in both New York & Los Angeles.\n",
+  "synopsis": "The elite members of Shuchiin Academy's student council continue their competitive day-to-day antics. Council president Miyuki Shirogane clashes daily against vice-president Kaguya Shinomiya, each fighting tooth and nail to trick the other into confessing their romantic love. Kaguya struggles within the strict confines of her wealthy, uptight family, rebelling against her cold default demeanor as she warms to Shirogane and the rest of her friends.\\n\n\\n\nMeanwhile, council treasurer Yuu Ishigami suffers under the weight of his hopeless crush on Tsubame Koyasu, a popular upperclassman who helps to instill a new confidence in him. Miko Iino, the newest student council member, grows closer to the rule-breaking Ishigami while striving to overcome her own authoritarian moral code.\\n\n\\n\nAs love further blooms at Shuchiin Academy, the student council officers drag their outsider friends into increasingly comedic conflicts.\\n\n\\n\n(Source: MAL Rewrite)\\n\n\\n\nNote: The first episode had an advanced screening on April 2, in both New York & Los Angeles.\\n",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125367-1yuq9NFcQuLI.png",
-  "synonym": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
-  "native": "かぐや様は告らせたい-ウルトラロマンティック-",
-  "aired": "04/09/2022",
-  "premiered": "SPRING 2022",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "13",
   "genres": [
     "Comedy",
@@ -14,19 +14,40 @@
     "Romance",
     "Slice of Life"
   ],
-  "rating": "8.9",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "A-1 Pictures"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Kaguya-sama: Love is War -Ultra Romantic-",
+      "link": "/2022/04/125367.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125367-1yuq9NFcQuLI.png"
+    },
+    {
+      "title": "[TV Series] Kaguya-sama: Love is War?",
+      "link": "/2020/04/112641.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112641-zoGC8d6FaPXU.jpg"
+    },
+    {
+      "title": "[TV Series] Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+      "link": "/2023/04/151384.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151384-gv0q8wOE6D58.jpg"
+    },
+    {
+      "title": "[ONA] Kaguya-sama: Love is War -Ultra Romantic- \"Yu Ishigami Wants to Chat\"",
+      "link": "/2021/10/165557.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b165557-q7A6HcZD0CHs.png"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Miko Iino Wants to Be Soothed / Kaguya Doesn't Realize / Chika Fujiwara Wants to Battle",
       "files": [
         {
           "name": "HD-1",
@@ -51,8 +72,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Miyuki Shirogane Wants to Mediate / Kaguya Wants to Distract Him / Kaguya Preemptively Strikes",
       "files": [
         {
           "name": "HD-1",
@@ -77,8 +98,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Nagisa Kashiwagi Wants to Kill / Maki Shijo Wants to Take Action / Miyuki Shirogane Wants to Be Believed",
       "files": [
         {
           "name": "HD-1",
@@ -103,8 +124,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Kaguya Shinomiya's Impossible Demand: \"A Cowrie a Swallow Gave Birth To\" Part 1 / Yu Ishigami Wants to Prove Himself Worthy / Chika Fujiwara Wants to Stay Over",
       "files": [
         {
           "name": "HD-1",
@@ -129,8 +150,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Chika Fujiwara Wants to Beat a Rhythm / Ai Hayasaka Wants to Talk / Maki Shijo Wants Some Help",
       "files": [
         {
           "name": "HD-1",
@@ -155,8 +176,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "The Student Council Wants to Move Forward / Miyuki Shirogane Wants to Make Her Confess, Part 2 / Miyuki Shirogane Wants to Make Her Confess, Part 3",
       "files": [
         {
           "name": "HD-1",
@@ -181,8 +202,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Miko Iino Can't Love, Part 1 / Students Wish to Discuss the Culture Festival / Miyuki Shirogane Wants to Blow It Up",
       "files": [
         {
           "name": "HD-1",
@@ -207,8 +228,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Kei Shirogane Wants to Show Off / About Kaguya Shinomiya, Part 2 / Kaguya Wants to Confess",
       "files": [
         {
           "name": "HD-1",
@@ -233,8 +254,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Spring of First Year / Kaguya's Culture Festival / Yu Ishigami's Culture Festival",
       "files": [
         {
           "name": "HD-1",
@@ -259,8 +280,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Kozue Makihara Wants to Have Fun / Chika Fujiwara Wants to Unmask / Miyuki Shirogane's Culture Festival",
       "files": [
         {
           "name": "HD-1",
@@ -285,8 +306,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Miyuki Shirogane Wants to Make Her Confess, Part 4 / Tsubame Koyasu Wants to Say No / Miyuki Shirogane Wants to Make Her Confess, Part 5",
       "files": [
         {
           "name": "HD-1",
@@ -311,8 +332,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Kaguya Wants to Confess, Part 2 / Kaguya Wants to Confess, Part 3 / Dual Confessions, Part 1",
       "files": [
         {
           "name": "HD-1",
@@ -337,8 +358,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "Dual Confessions, Part 2 / The Shuchiin Afterparty",
       "files": [
         {
           "name": "HD-1",
@@ -364,8 +385,7 @@
     }
   ],
   "streamingId": "125367",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2022-04-09",
-  "malId": "43608",
-  "_forceSyncTime": 1778772096448
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

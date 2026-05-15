@@ -1,12 +1,12 @@
 {
   "title": "Gintama Season 2",
-  "synopsis": "After a one-year hiatus, Shinpachi Shimura returns to Edo, only to stumble upon a shocking surprise: Gintoki and Kagura, his fellow Yorozuya members, have become completely different characters! Fleeing from the Yorozuya headquarters in confusion, Shinpachi finds that all the denizens of Edo have undergone impossibly extreme changes, in both appearance and personality. Most unbelievably, his sister Otae has married the Shinsengumi chief and shameless stalker Isao Kondou and is pregnant with their first child.\n\nBewildered, Shinpachi agrees to join the Shinsengumi at Otae and Kondou's request and finds even more startling transformations afoot both in and out of the ranks of the the organization. However, discovering that Vice Chief Toushirou Hijikata has remained unchanged, Shinpachi and his unlikely Shinsengumi ally set out to return the city of Edo to how they remember it.\n\nWith even more dirty jokes, tongue-in-cheek parodies, and shameless references, Gintama' follows the Yorozuya team through more of their misadventures in the vibrant, alien-filled world of Edo.\n\n(Source: MAL Rewrite)",
+  "synopsis": "After a one-year hiatus, Shinpachi Shimura returns to Edo, only to stumble upon a shocking surprise: Gintoki and Kagura, his fellow Yorozuya members, have become completely different characters! Fleeing from the Yorozuya headquarters in confusion, Shinpachi finds that all the denizens of Edo have undergone impossibly extreme changes, in both appearance and personality. Most unbelievably, his sister Otae has married the Shinsengumi chief and shameless stalker Isao Kondou and is pregnant with their first child.\n\\n\\n\nBewildered, Shinpachi agrees to join the Shinsengumi at Otae and Kondou's request and finds even more startling transformations afoot both in and out of the ranks of the the organization. However, discovering that Vice Chief Toushirou Hijikata has remained unchanged, Shinpachi and his unlikely Shinsengumi ally set out to return the city of Edo to how they remember it.\n\\n\\n\nWith even more dirty jokes, tongue-in-cheek parodies, and shameless references, Gintama' follows the Yorozuya team through more of their misadventures in the vibrant, alien-filled world of Edo.\n\\n\\n\n(Source: MAL Rewrite)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9969-0GaRABYVdUcH.png",
-  "synonym": "Gintama'",
-  "native": "銀魂’",
-  "aired": "4/4/2011",
-  "premiered": "SPRING 2011",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "51",
   "genres": [
     "Action",
@@ -14,20 +14,45 @@
     "Drama",
     "Sci-Fi"
   ],
-  "rating": "8.9",
-  "type": "TV",
-  "status": "FINISHED",
+  "rating": "",
+  "type": "TV Series",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Sunrise",
+  "studios": [
+    "Sunrise"
+  ],
   "producers": [],
-  "seasons": [],
-  "malId": "9969",
-  "streamingId": "9969",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "seasons": [
+    {
+      "title": "[TV Series] Gintama Season 2",
+      "link": "/2011/04/9969.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9969-0GaRABYVdUcH.png"
+    },
+    {
+      "title": "[TV Series] Gintama",
+      "link": "/2006/04/918.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx918-iOaeBVUn4uK7.jpg"
+    },
+    {
+      "title": "[TV Series] Gintama Season 2 Part 2",
+      "link": "/2012/10/15417.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15417-Uc2uNdWEixwi.jpg"
+    },
+    {
+      "title": "[Movie] Gintama: Yorinuki Gintama-san on Theater 2D",
+      "link": "/2012/08/20760.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20760-6JlxgXfJh92a.jpg"
+    },
+    {
+      "title": "[Movie] Gintama on Theater 2D: Baragaki-hen",
+      "link": "/2023/11/169000.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169000-LR5Cg0WPsZoj.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Everyone Looks a Little Grown up after Spring Break",
       "files": [
         {
           "name": "HD-1",
@@ -52,8 +77,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Everyone Looks Pretty Grown up after Summer Break",
       "files": [
         {
           "name": "HD-1",
@@ -78,8 +103,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Use a Calligraphy Pen for New Year Cards / The Heart Comes Before Chocolate",
       "files": [
         {
           "name": "HD-1",
@@ -104,8 +129,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Meals Should Be Balanced / We Are All Warriors in the Battle Against Fate",
       "files": [
         {
           "name": "HD-1",
@@ -130,8 +155,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "It's Too Confusing When Talking About the Poster Girl for a Poster Store, So Call Her a Sandwich Board",
       "files": [
         {
           "name": "HD-1",
@@ -156,8 +181,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Glasses Are Part of the Soul",
       "files": [
         {
           "name": "HD-1",
@@ -182,8 +207,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Glasses Prevent You From Seeing Certain Things",
       "files": [
         {
           "name": "HD-1",
@@ -208,8 +233,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Nothing Lasts Forever, Including Parents, Money, Youth, Your Room, Dress Shirts, Me, You, and the Gintama Anime",
       "files": [
         {
           "name": "HD-1",
@@ -234,8 +259,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "A Lawless Town Tends to Attract a Bunch of Whoohooey Folk",
       "files": [
         {
           "name": "HD-1",
@@ -260,8 +285,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Ghosts Aren't the Only Ones Who Run Wild Around Graveyards",
       "files": [
         {
           "name": "HD-1",
@@ -286,8 +311,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Chains of a Warrior",
       "files": [
         {
           "name": "HD-1",
@@ -312,8 +337,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Iron Town",
       "files": [
         {
           "name": "HD-1",
@@ -338,8 +363,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "'Tis An Honor!",
       "files": [
         {
           "name": "HD-1",
@@ -364,8 +389,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "Odds or Evens",
       "files": [
         {
           "name": "HD-1",
@@ -390,8 +415,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "I Can't Remember a Damn Thing About the Factory Tour",
       "files": [
         {
           "name": "HD-1",
@@ -416,8 +441,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "What Happens Twice Can Happen Thrice",
       "files": [
         {
           "name": "HD-1",
@@ -442,8 +467,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "The Pincers of a Crab Can Snip Through a Friendship",
       "files": [
         {
           "name": "HD-1",
@@ -468,8 +493,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "People Forget to Return Stuff All the Time Without Even Realizing It",
       "files": [
         {
           "name": "HD-1",
@@ -494,8 +519,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "The Bathhouse, Where You're Naked in Body and Soul",
       "files": [
         {
           "name": "HD-1",
@@ -520,8 +545,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "Jugem",
       "files": [
         {
           "name": "HD-1",
@@ -546,8 +571,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "The Name Reveals the Person",
       "files": [
         {
           "name": "HD-1",
@@ -572,8 +597,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "The Man's Household Situation is Hard, His Heart is Soft",
       "files": [
         {
           "name": "HD-1",
@@ -598,8 +623,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "Blue and Red Ecstasy",
       "files": [
         {
           "name": "HD-1",
@@ -624,8 +649,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "So in the second season of Prison Break, they're already broken out of prison, but the name works once you realize that society is a prison",
       "files": [
         {
           "name": "HD-1",
@@ -650,8 +675,8 @@
       ]
     },
     {
+      "title": "Episode 25",
       "episode": "25",
-      "title": "Everybody loves pajamas",
       "files": [
         {
           "name": "HD-1",
@@ -676,8 +701,8 @@
       ]
     },
     {
+      "title": "Episode 26",
       "episode": "26",
-      "title": "Speaking of crossovers, don't forget about Alien vs. Predator",
       "files": [
         {
           "name": "HD-1",
@@ -702,8 +727,8 @@
       ]
     },
     {
+      "title": "Episode 27",
       "episode": "27",
-      "title": "Love is neither plus nor minus",
       "files": [
         {
           "name": "HD-1",
@@ -728,8 +753,8 @@
       ]
     },
     {
+      "title": "Episode 28",
       "episode": "28",
-      "title": "Making It Through Love",
       "files": [
         {
           "name": "HD-1",
@@ -754,8 +779,8 @@
       ]
     },
     {
+      "title": "Episode 29",
       "episode": "29",
-      "title": "It would take too much effort to make this title sound like a text message subject",
       "files": [
         {
           "name": "HD-1",
@@ -780,8 +805,8 @@
       ]
     },
     {
+      "title": "Episode 30",
       "episode": "30",
-      "title": "When you go to a funeral for the first time, you're surprised by how happy the people are",
       "files": [
         {
           "name": "HD-1",
@@ -806,8 +831,8 @@
       ]
     },
     {
+      "title": "Episode 31",
       "episode": "31",
-      "title": "The people you tend to forget tend to show up after you forget them",
       "files": [
         {
           "name": "HD-1",
@@ -832,8 +857,8 @@
       ]
     },
     {
+      "title": "Episode 32",
       "episode": "32",
-      "title": "Space Ururun Homestay",
       "files": [
         {
           "name": "HD-1",
@@ -858,8 +883,8 @@
       ]
     },
     {
+      "title": "Episode 33",
       "episode": "33",
-      "title": "Piggy banks and trash cans",
       "files": [
         {
           "name": "HD-1",
@@ -884,8 +909,8 @@
       ]
     },
     {
+      "title": "Episode 34",
       "episode": "34",
-      "title": "Empty planet",
       "files": [
         {
           "name": "HD-1",
@@ -910,8 +935,8 @@
       ]
     },
     {
+      "title": "Episode 35",
       "episode": "35",
-      "title": "Don't say good-bye Lionel",
       "files": [
         {
           "name": "HD-1",
@@ -936,8 +961,8 @@
       ]
     },
     {
+      "title": "Episode 36",
       "episode": "36",
-      "title": "Please take me skiing",
       "files": [
         {
           "name": "HD-1",
@@ -962,8 +987,8 @@
       ]
     },
     {
+      "title": "Episode 37",
       "episode": "37",
-      "title": "A vacation in disorientation",
       "files": [
         {
           "name": "HD-1",
@@ -988,8 +1013,8 @@
       ]
     },
     {
+      "title": "Episode 38",
       "episode": "38",
-      "title": "You know those year-end parties where you keep drinking until you've forgotten everything that happened the past year? There are a few things you're not supposed to forget",
       "files": [
         {
           "name": "HD-1",
@@ -1014,8 +1039,8 @@
       ]
     },
     {
+      "title": "Episode 39",
       "episode": "39",
-      "title": "People can only live by forgetting the bad",
       "files": [
         {
           "name": "HD-1",
@@ -1040,8 +1065,8 @@
       ]
     },
     {
+      "title": "Episode 40",
       "episode": "40",
-      "title": "We are all hosts, in capital letters",
       "files": [
         {
           "name": "HD-1",
@@ -1066,8 +1091,8 @@
       ]
     },
     {
+      "title": "Episode 41",
       "episode": "41",
-      "title": "Girls like Vegeta, guys like Piccolo",
       "files": [
         {
           "name": "HD-1",
@@ -1092,8 +1117,8 @@
       ]
     },
     {
+      "title": "Episode 42",
       "episode": "42",
-      "title": "Draw your life on the canvas we call manga",
       "files": [
         {
           "name": "HD-1",
@@ -1118,8 +1143,8 @@
       ]
     },
     {
+      "title": "Episode 43",
       "episode": "43",
-      "title": "Check it out!!",
       "files": [
         {
           "name": "HD-1",
@@ -1144,8 +1169,8 @@
       ]
     },
     {
+      "title": "Episode 44",
       "episode": "44",
-      "title": "Thorny and Rosy",
       "files": [
         {
           "name": "HD-1",
@@ -1170,8 +1195,8 @@
       ]
     },
     {
+      "title": "Episode 45",
       "episode": "45",
-      "title": "Festival of Thornys",
       "files": [
         {
           "name": "HD-1",
@@ -1196,8 +1221,8 @@
       ]
     },
     {
+      "title": "Episode 46",
       "episode": "46",
-      "title": "Letter From Thorny",
       "files": [
         {
           "name": "HD-1",
@@ -1222,8 +1247,8 @@
       ]
     },
     {
+      "title": "Episode 47",
       "episode": "47",
-      "title": "Madaodog Madaonaire",
       "files": [
         {
           "name": "HD-1",
@@ -1248,8 +1273,8 @@
       ]
     },
     {
+      "title": "Episode 48",
       "episode": "48",
-      "title": "Presents Are Meant To Be Given Early",
       "files": [
         {
           "name": "HD-1",
@@ -1274,8 +1299,8 @@
       ]
     },
     {
+      "title": "Episode 49",
       "episode": "49",
-      "title": "New Year's Envelopes Are Perfect for Dirty Jokes",
       "files": [
         {
           "name": "HD-1",
@@ -1300,8 +1325,8 @@
       ]
     },
     {
+      "title": "Episode 50",
       "episode": "50",
-      "title": "When Sleeping Under a Kotatsu, Make Sure You Don't Burn Your Balls",
       "files": [
         {
           "name": "HD-1",
@@ -1326,8 +1351,8 @@
       ]
     },
     {
+      "title": "Episode 51",
       "episode": "51",
-      "title": "We're Sorry",
       "files": [
         {
           "name": "HD-1",
@@ -1351,5 +1376,9 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "9969",
+  "releaseDate": "2011-04-04",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

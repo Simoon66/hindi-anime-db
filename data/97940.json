@@ -1,12 +1,12 @@
 {
   "title": "Black Clover",
-  "synopsis": "In a world where magic is everything, Asta and Yuno are both found abandoned at a church on the same day. While Yuno is gifted with exceptional magical powers, Asta is the only one in this world without any. At the age of fifteen, both receive grimoires, magic books that amplify their holder’s magic. Asta’s is a rare Grimoire of Anti-Magic that negates and repels his opponent’s spells. Being opposite but good rivals, Yuno and Asta are ready for the hardest of challenges to achieve their common dream: to be the Wizard King. Giving up is never an option!\n\n\n\n(Source: Crunchyroll)",
+  "synopsis": "In a world where magic is everything, Asta and Yuno are both found abandoned at a church on the same day. While Yuno is gifted with exceptional magical powers, Asta is the only one in this world without any. At the age of fifteen, both receive grimoires, magic books that amplify their holder’s magic. Asta’s is a rare Grimoire of Anti-Magic that negates and repels his opponent’s spells. Being opposite but good rivals, Yuno and Asta are ready for the hardest of challenges to achieve their common dream: to be the Wizard King. Giving up is never an option!\\n\n\\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
-  "synonym": "Black Clover",
-  "native": "ブラッククローバー",
-  "aired": "10/03/2017",
-  "premiered": "FALL 2017",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "170",
   "genres": [
     "Action",
@@ -14,19 +14,45 @@
     "Comedy",
     "Fantasy"
   ],
-  "rating": "7.9",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "Studio Pierrot"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Black Clover",
+      "link": "/2017/10/97940.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png"
+    },
+    {
+      "title": "[ONA] Squishy! Black Clover",
+      "link": "/2019/07/110318.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110318-woH5gOEK638l.jpg"
+    },
+    {
+      "title": "[Special] Black Clover: Jump Festa 2016 Special",
+      "link": "/2016/11/87528.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx87528-parADBBGJOVP.png"
+    },
+    {
+      "title": "[Movie] Black Clover: Sword of the Wizard King",
+      "link": "/2023/06/131680.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131680-gjs8mMQPmkOQ.png"
+    },
+    {
+      "title": "[TV Series] Black Clover Season 2",
+      "link": "/2026/00/195604.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195604-qcFZ1o24WUF8.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Asta and Yuno",
       "files": [
         {
           "name": "HD-1",
@@ -51,8 +77,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "The Boys' Promise",
       "files": [
         {
           "name": "HD-1",
@@ -77,8 +103,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "To the Royal Capital of the Clover Kingdom!",
       "files": [
         {
           "name": "HD-1",
@@ -103,8 +129,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "The Magic Knights Entrance Exam",
       "files": [
         {
           "name": "HD-1",
@@ -129,8 +155,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "The Path to the Wizard King",
       "files": [
         {
           "name": "HD-1",
@@ -155,8 +181,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "The Black Bulls",
       "files": [
         {
           "name": "HD-1",
@@ -181,8 +207,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "The Other New Recruit",
       "files": [
         {
           "name": "HD-1",
@@ -207,8 +233,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Go! Go! First Mission",
       "files": [
         {
           "name": "HD-1",
@@ -233,8 +259,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Beasts",
       "files": [
         {
           "name": "HD-1",
@@ -259,8 +285,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Those Who Protect",
       "files": [
         {
           "name": "HD-1",
@@ -285,8 +311,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "What Happened on a Certain Day in the Castle Town",
       "files": [
         {
           "name": "HD-1",
@@ -311,8 +337,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "The Wizard King Saw",
       "files": [
         {
           "name": "HD-1",
@@ -337,8 +363,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "The Wizard King Saw, Continued",
       "files": [
         {
           "name": "HD-1",
@@ -363,8 +389,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "Dungeon",
       "files": [
         {
           "name": "HD-1",
@@ -389,8 +415,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "The Diamond Mage",
       "files": [
         {
           "name": "HD-1",
@@ -415,8 +441,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "Friends",
       "files": [
         {
           "name": "HD-1",
@@ -441,8 +467,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "Destroyer",
       "files": [
         {
           "name": "HD-1",
@@ -467,8 +493,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "Memories of You",
       "files": [
         {
           "name": "HD-1",
@@ -493,8 +519,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "Destruction and Salvation",
       "files": [
         {
           "name": "HD-1",
@@ -519,8 +545,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "Assembly at the Royal Capital",
       "files": [
         {
           "name": "HD-1",
@@ -545,8 +571,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "Capital Riot",
       "files": [
         {
           "name": "HD-1",
@@ -571,8 +597,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "Wild Magic Dance",
       "files": [
         {
           "name": "HD-1",
@@ -597,8 +623,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "The Crimson Lion King",
       "files": [
         {
           "name": "HD-1",
@@ -623,8 +649,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "Blackout",
       "files": [
         {
           "name": "HD-1",
@@ -649,8 +675,8 @@
       ]
     },
     {
+      "title": "Episode 25",
       "episode": "25",
-      "title": "Adversity",
       "files": [
         {
           "name": "HD-1",
@@ -675,8 +701,8 @@
       ]
     },
     {
+      "title": "Episode 26",
       "episode": "26",
-      "title": "Wounded Beasts",
       "files": [
         {
           "name": "HD-1",
@@ -701,8 +727,8 @@
       ]
     },
     {
+      "title": "Episode 27",
       "episode": "27",
-      "title": "Light",
       "files": [
         {
           "name": "HD-1",
@@ -727,8 +753,8 @@
       ]
     },
     {
+      "title": "Episode 28",
       "episode": "28",
-      "title": "The One I've Set My Heart On",
       "files": [
         {
           "name": "HD-1",
@@ -753,8 +779,8 @@
       ]
     },
     {
+      "title": "Episode 29",
       "episode": "29",
-      "title": "Path",
       "files": [
         {
           "name": "HD-1",
@@ -779,8 +805,8 @@
       ]
     },
     {
+      "title": "Episode 30",
       "episode": "30",
-      "title": "The Mirror Mage",
       "files": [
         {
           "name": "HD-1",
@@ -805,8 +831,8 @@
       ]
     },
     {
+      "title": "Episode 31",
       "episode": "31",
-      "title": "Pursuit Over the Snow",
       "files": [
         {
           "name": "HD-1",
@@ -831,8 +857,8 @@
       ]
     },
     {
+      "title": "Episode 32",
       "episode": "32",
-      "title": "Three-Leaf Sprouts",
       "files": [
         {
           "name": "HD-1",
@@ -857,8 +883,8 @@
       ]
     },
     {
+      "title": "Episode 33",
       "episode": "33",
-      "title": "To Help Somebody Someday",
       "files": [
         {
           "name": "HD-1",
@@ -883,8 +909,8 @@
       ]
     },
     {
+      "title": "Episode 34",
       "episode": "34",
-      "title": "Light Magic vs. Dark Magic",
       "files": [
         {
           "name": "HD-1",
@@ -909,8 +935,8 @@
       ]
     },
     {
+      "title": "Episode 35",
       "episode": "35",
-      "title": "The Light of Judgment",
       "files": [
         {
           "name": "HD-1",
@@ -935,8 +961,8 @@
       ]
     },
     {
+      "title": "Episode 36",
       "episode": "36",
-      "title": "Three Eyes",
       "files": [
         {
           "name": "HD-1",
@@ -961,8 +987,8 @@
       ]
     },
     {
+      "title": "Episode 37",
       "episode": "37",
-      "title": "The One With No Magic",
       "files": [
         {
           "name": "HD-1",
@@ -987,8 +1013,8 @@
       ]
     },
     {
+      "title": "Episode 38",
       "episode": "38",
-      "title": "The Magic Knights Captain Conference",
       "files": [
         {
           "name": "HD-1",
@@ -1013,8 +1039,8 @@
       ]
     },
     {
+      "title": "Episode 39",
       "episode": "39",
-      "title": "Three-Leaf Salute",
       "files": [
         {
           "name": "HD-1",
@@ -1039,8 +1065,8 @@
       ]
     },
     {
+      "title": "Episode 40",
       "episode": "40",
-      "title": "A Black Beach Story",
       "files": [
         {
           "name": "HD-1",
@@ -1065,8 +1091,8 @@
       ]
     },
     {
+      "title": "Episode 41",
       "episode": "41",
-      "title": "The Water Girl Grows Up",
       "files": [
         {
           "name": "HD-1",
@@ -1091,8 +1117,8 @@
       ]
     },
     {
+      "title": "Episode 42",
       "episode": "42",
-      "title": "The Underwater Temple",
       "files": [
         {
           "name": "HD-1",
@@ -1117,8 +1143,8 @@
       ]
     },
     {
+      "title": "Episode 43",
       "episode": "43",
-      "title": "Temple Battle Royale",
       "files": [
         {
           "name": "HD-1",
@@ -1143,8 +1169,8 @@
       ]
     },
     {
+      "title": "Episode 44",
       "episode": "44",
-      "title": "The Pointlessly Direct Fireball and the Wild Lightning",
       "files": [
         {
           "name": "HD-1",
@@ -1169,8 +1195,8 @@
       ]
     },
     {
+      "title": "Episode 45",
       "episode": "45",
-      "title": "The Guy Who Doesn't Know When to Quit",
       "files": [
         {
           "name": "HD-1",
@@ -1195,8 +1221,8 @@
       ]
     },
     {
+      "title": "Episode 46",
       "episode": "46",
-      "title": "Awakening",
       "files": [
         {
           "name": "HD-1",
@@ -1221,8 +1247,8 @@
       ]
     },
     {
+      "title": "Episode 47",
       "episode": "47",
-      "title": "The Only Weapon",
       "files": [
         {
           "name": "HD-1",
@@ -1247,8 +1273,8 @@
       ]
     },
     {
+      "title": "Episode 48",
       "episode": "48",
-      "title": "Despair vs. Hope",
       "files": [
         {
           "name": "HD-1",
@@ -1273,8 +1299,8 @@
       ]
     },
     {
+      "title": "Episode 49",
       "episode": "49",
-      "title": "Beyond Limits",
       "files": [
         {
           "name": "HD-1",
@@ -1299,8 +1325,8 @@
       ]
     },
     {
+      "title": "Episode 50",
       "episode": "50",
-      "title": "End of the Battle, End of Despair",
       "files": [
         {
           "name": "HD-1",
@@ -1325,8 +1351,8 @@
       ]
     },
     {
+      "title": "Episode 51",
       "episode": "51",
-      "title": "Proof of Rightness",
       "files": [
         {
           "name": "HD-1",
@@ -1351,8 +1377,8 @@
       ]
     },
     {
+      "title": "Episode 52",
       "episode": "52",
-      "title": "Whoever's Strongest Wins",
       "files": [
         {
           "name": "HD-1",
@@ -1377,8 +1403,8 @@
       ]
     },
     {
+      "title": "Episode 53",
       "episode": "53",
-      "title": "Behind the Mask",
       "files": [
         {
           "name": "HD-1",
@@ -1403,8 +1429,8 @@
       ]
     },
     {
+      "title": "Episode 54",
       "episode": "54",
-      "title": "Never Again",
       "files": [
         {
           "name": "HD-1",
@@ -1429,8 +1455,8 @@
       ]
     },
     {
+      "title": "Episode 55",
       "episode": "55",
-      "title": "The Man Named Fanzell",
       "files": [
         {
           "name": "HD-1",
@@ -1455,8 +1481,8 @@
       ]
     },
     {
+      "title": "Episode 56",
       "episode": "56",
-      "title": "The Man Named Fanzell Continued",
       "files": [
         {
           "name": "HD-1",
@@ -1481,8 +1507,8 @@
       ]
     },
     {
+      "title": "Episode 57",
       "episode": "57",
-      "title": "Infiltration",
       "files": [
         {
           "name": "HD-1",
@@ -1507,8 +1533,8 @@
       ]
     },
     {
+      "title": "Episode 58",
       "episode": "58",
-      "title": "Battlefield Decision",
       "files": [
         {
           "name": "HD-1",
@@ -1533,8 +1559,8 @@
       ]
     },
     {
+      "title": "Episode 59",
       "episode": "59",
-      "title": "Flames of Hatred",
       "files": [
         {
           "name": "HD-1",
@@ -1559,8 +1585,8 @@
       ]
     },
     {
+      "title": "Episode 60",
       "episode": "60",
-      "title": "Defectors' Atonement",
       "files": [
         {
           "name": "HD-1",
@@ -1585,8 +1611,8 @@
       ]
     },
     {
+      "title": "Episode 61",
       "episode": "61",
-      "title": "The Promised World",
       "files": [
         {
           "name": "HD-1",
@@ -1611,8 +1637,8 @@
       ]
     },
     {
+      "title": "Episode 62",
       "episode": "62",
-      "title": "Those Who Boost Each Other Up",
       "files": [
         {
           "name": "HD-1",
@@ -1637,8 +1663,8 @@
       ]
     },
     {
+      "title": "Episode 63",
       "episode": "63",
-      "title": "Not in the Slightest",
       "files": [
         {
           "name": "HD-1",
@@ -1663,8 +1689,8 @@
       ]
     },
     {
+      "title": "Episode 64",
       "episode": "64",
-      "title": "The Red Thread of Fate",
       "files": [
         {
           "name": "HD-1",
@@ -1689,8 +1715,8 @@
       ]
     },
     {
+      "title": "Episode 65",
       "episode": "65",
-      "title": "I'm Home",
       "files": [
         {
           "name": "HD-1",
@@ -1715,8 +1741,8 @@
       ]
     },
     {
+      "title": "Episode 66",
       "episode": "66",
-      "title": "The Eye of the Midnight Sun's Secret",
       "files": [
         {
           "name": "HD-1",
@@ -1741,8 +1767,8 @@
       ]
     },
     {
+      "title": "Episode 67",
       "episode": "67",
-      "title": "A Fun Festival Double Date",
       "files": [
         {
           "name": "HD-1",
@@ -1767,8 +1793,8 @@
       ]
     },
     {
+      "title": "Episode 68",
       "episode": "68",
-      "title": "Battle to the Death?! Yami VS Jack",
       "files": [
         {
           "name": "HD-1",
@@ -1793,8 +1819,8 @@
       ]
     },
     {
+      "title": "Episode 69",
       "episode": "69",
-      "title": "The Briar Maiden’s Melancholy",
       "files": [
         {
           "name": "HD-1",
@@ -1819,8 +1845,8 @@
       ]
     },
     {
+      "title": "Episode 70",
       "episode": "70",
-      "title": "Two New Stars",
       "files": [
         {
           "name": "HD-1",
@@ -1845,8 +1871,8 @@
       ]
     },
     {
+      "title": "Episode 71",
       "episode": "71",
-      "title": "The Uncrowned, Undefeated Lioness",
       "files": [
         {
           "name": "HD-1",
@@ -1871,8 +1897,8 @@
       ]
     },
     {
+      "title": "Episode 72",
       "episode": "72",
-      "title": "Saint Elmo's Fire",
       "files": [
         {
           "name": "HD-1",
@@ -1897,8 +1923,8 @@
       ]
     },
     {
+      "title": "Episode 73",
       "episode": "73",
-      "title": "The Royal Knights Selection Test",
       "files": [
         {
           "name": "HD-1",
@@ -1923,8 +1949,8 @@
       ]
     },
     {
+      "title": "Episode 74",
       "episode": "74",
-      "title": "Flower of Resolution",
       "files": [
         {
           "name": "HD-1",
@@ -1949,8 +1975,8 @@
       ]
     },
     {
+      "title": "Episode 75",
       "episode": "75",
-      "title": "Fierce Battle",
       "files": [
         {
           "name": "HD-1",
@@ -1975,8 +2001,8 @@
       ]
     },
     {
+      "title": "Episode 76",
       "episode": "76",
-      "title": "Mage X",
       "files": [
         {
           "name": "HD-1",
@@ -2001,8 +2027,8 @@
       ]
     },
     {
+      "title": "Episode 77",
       "episode": "77",
-      "title": "Bad Blood",
       "files": [
         {
           "name": "HD-1",
@@ -2027,8 +2053,8 @@
       ]
     },
     {
+      "title": "Episode 78",
       "episode": "78",
-      "title": "Peasant Trap",
       "files": [
         {
           "name": "HD-1",
@@ -2053,8 +2079,8 @@
       ]
     },
     {
+      "title": "Episode 79",
       "episode": "79",
-      "title": "Mister Delinquent vs. Muscle Brains",
       "files": [
         {
           "name": "HD-1",
@@ -2079,8 +2105,8 @@
       ]
     },
     {
+      "title": "Episode 80",
       "episode": "80",
-      "title": "Special Little Brother vs. Failed Big Brother",
       "files": [
         {
           "name": "HD-1",
@@ -2105,8 +2131,8 @@
       ]
     },
     {
+      "title": "Episode 81",
       "episode": "81",
-      "title": "The Life of a Certain Man",
       "files": [
         {
           "name": "HD-1",
@@ -2131,8 +2157,8 @@
       ]
     },
     {
+      "title": "Episode 82",
       "episode": "82",
-      "title": "Petit Clover! The Nightmarish Charmy SP!",
       "files": [
         {
           "name": "HD-1",
@@ -2157,8 +2183,8 @@
       ]
     },
     {
+      "title": "Episode 83",
       "episode": "83",
-      "title": "Burn It Into You",
       "files": [
         {
           "name": "HD-1",
@@ -2183,8 +2209,8 @@
       ]
     },
     {
+      "title": "Episode 84",
       "episode": "84",
-      "title": "The Victors",
       "files": [
         {
           "name": "HD-1",
@@ -2209,8 +2235,8 @@
       ]
     },
     {
+      "title": "Episode 85",
       "episode": "85",
-      "title": "Together in the Bath",
       "files": [
         {
           "name": "HD-1",
@@ -2235,8 +2261,8 @@
       ]
     },
     {
+      "title": "Episode 86",
       "episode": "86",
-      "title": "Yami and Vangeance",
       "files": [
         {
           "name": "HD-1",
@@ -2261,8 +2287,8 @@
       ]
     },
     {
+      "title": "Episode 87",
       "episode": "87",
-      "title": "Formation of the Royal Knights",
       "files": [
         {
           "name": "HD-1",
@@ -2287,8 +2313,8 @@
       ]
     },
     {
+      "title": "Episode 88",
       "episode": "88",
-      "title": "Storming the Eye of the Midnight Sun's Hideout!!!",
       "files": [
         {
           "name": "HD-1",
@@ -2313,8 +2339,8 @@
       ]
     },
     {
+      "title": "Episode 89",
       "episode": "89",
-      "title": "The Black Bulls' Hideout",
       "files": [
         {
           "name": "HD-1",
@@ -2339,8 +2365,8 @@
       ]
     },
     {
+      "title": "Episode 90",
       "episode": "90",
-      "title": "Crazy Magic Battle",
       "files": [
         {
           "name": "HD-1",
@@ -2365,8 +2391,8 @@
       ]
     },
     {
+      "title": "Episode 91",
       "episode": "91",
-      "title": "Mereoleona vs. Raia the Disloyal",
       "files": [
         {
           "name": "HD-1",
@@ -2391,8 +2417,8 @@
       ]
     },
     {
+      "title": "Episode 92",
       "episode": "92",
-      "title": "The Wizard King vs. The Leader of the Eye of the Midnight Sun",
       "files": [
         {
           "name": "HD-1",
@@ -2417,8 +2443,8 @@
       ]
     },
     {
+      "title": "Episode 93",
       "episode": "93",
-      "title": "Julius Novachrono",
       "files": [
         {
           "name": "HD-1",
@@ -2443,8 +2469,8 @@
       ]
     },
     {
+      "title": "Episode 94",
       "episode": "94",
-      "title": "New Future",
       "files": [
         {
           "name": "HD-1",
@@ -2469,8 +2495,8 @@
       ]
     },
     {
+      "title": "Episode 95",
       "episode": "95",
-      "title": "Reincarnation",
       "files": [
         {
           "name": "HD-1",
@@ -2495,8 +2521,8 @@
       ]
     },
     {
+      "title": "Episode 96",
       "episode": "96",
-      "title": "The Black Bulls Captain vs the Crimson Wild Rose",
       "files": [
         {
           "name": "HD-1",
@@ -2521,8 +2547,8 @@
       ]
     },
     {
+      "title": "Episode 97",
       "episode": "97",
-      "title": "Overwhelming Disadvantage",
       "files": [
         {
           "name": "HD-1",
@@ -2547,8 +2573,8 @@
       ]
     },
     {
+      "title": "Episode 98",
       "episode": "98",
-      "title": "The Sleeping Lion",
       "files": [
         {
           "name": "HD-1",
@@ -2573,8 +2599,8 @@
       ]
     },
     {
+      "title": "Episode 99",
       "episode": "99",
-      "title": "The Desperate Path Toward Survival",
       "files": [
         {
           "name": "HD-1",
@@ -2599,8 +2625,8 @@
       ]
     },
     {
+      "title": "Episode 100",
       "episode": "100",
-      "title": "We Won't Lose to You",
       "files": [
         {
           "name": "HD-1",
@@ -2625,8 +2651,8 @@
       ]
     },
     {
+      "title": "Episode 101",
       "episode": "101",
-      "title": "The Lives of the Village in the Sticks",
       "files": [
         {
           "name": "HD-1",
@@ -2651,8 +2677,8 @@
       ]
     },
     {
+      "title": "Episode 102",
       "episode": "102",
-      "title": "Two Miracles",
       "files": [
         {
           "name": "HD-1",
@@ -2677,8 +2703,8 @@
       ]
     },
     {
+      "title": "Episode 103",
       "episode": "103",
-      "title": "Release from Misfortune",
       "files": [
         {
           "name": "HD-1",
@@ -2703,8 +2729,8 @@
       ]
     },
     {
+      "title": "Episode 104",
       "episode": "104",
-      "title": "Lightning of Rage vs. Friends",
       "files": [
         {
           "name": "HD-1",
@@ -2729,8 +2755,8 @@
       ]
     },
     {
+      "title": "Episode 105",
       "episode": "105",
-      "title": "Smiles, Tears",
       "files": [
         {
           "name": "HD-1",
@@ -2755,8 +2781,8 @@
       ]
     },
     {
+      "title": "Episode 106",
       "episode": "106",
-      "title": "Path of Revenge, Path of Atonement",
       "files": [
         {
           "name": "HD-1",
@@ -2781,8 +2807,8 @@
       ]
     },
     {
+      "title": "Episode 107",
       "episode": "107",
-      "title": "The Battle for Clover Castle",
       "files": [
         {
           "name": "HD-1",
@@ -2807,8 +2833,8 @@
       ]
     },
     {
+      "title": "Episode 108",
       "episode": "108",
-      "title": "Battlefield Dancer",
       "files": [
         {
           "name": "HD-1",
@@ -2833,8 +2859,8 @@
       ]
     },
     {
+      "title": "Episode 109",
       "episode": "109",
-      "title": "Spatial Mage Brothers",
       "files": [
         {
           "name": "HD-1",
@@ -2859,8 +2885,8 @@
       ]
     },
     {
+      "title": "Episode 110",
       "episode": "110",
-      "title": "The Raging Bull Joins the Showdown!!",
       "files": [
         {
           "name": "HD-1",
@@ -2885,8 +2911,8 @@
       ]
     },
     {
+      "title": "Episode 111",
       "episode": "111",
-      "title": "The Eyes in the Mirror",
       "files": [
         {
           "name": "HD-1",
@@ -2911,8 +2937,8 @@
       ]
     },
     {
+      "title": "Episode 112",
       "episode": "112",
-      "title": "Humans Who Can Be Trusted",
       "files": [
         {
           "name": "HD-1",
@@ -2937,8 +2963,8 @@
       ]
     },
     {
+      "title": "Episode 113",
       "episode": "113",
-      "title": "Storming the Shadow Palace",
       "files": [
         {
           "name": "HD-1",
@@ -2963,8 +2989,8 @@
       ]
     },
     {
+      "title": "Episode 114",
       "episode": "114",
-      "title": "The Final Invaders",
       "files": [
         {
           "name": "HD-1",
@@ -2989,8 +3015,8 @@
       ]
     },
     {
+      "title": "Episode 115",
       "episode": "115",
-      "title": "Mastermind",
       "files": [
         {
           "name": "HD-1",
@@ -3015,8 +3041,8 @@
       ]
     },
     {
+      "title": "Episode 116",
       "episode": "116",
-      "title": "The Ultimate Natural Enemy",
       "files": [
         {
           "name": "HD-1",
@@ -3041,8 +3067,8 @@
       ]
     },
     {
+      "title": "Episode 117",
       "episode": "117",
-      "title": "Breaking the Seal",
       "files": [
         {
           "name": "HD-1",
@@ -3067,8 +3093,8 @@
       ]
     },
     {
+      "title": "Episode 118",
       "episode": "118",
-      "title": "A Reunion Across Time and Space",
       "files": [
         {
           "name": "HD-1",
@@ -3093,8 +3119,8 @@
       ]
     },
     {
+      "title": "Episode 119",
       "episode": "119",
-      "title": "The Final Attack",
       "files": [
         {
           "name": "HD-1",
@@ -3119,8 +3145,8 @@
       ]
     },
     {
+      "title": "Episode 120",
       "episode": "120",
-      "title": "Dawn",
       "files": [
         {
           "name": "HD-1",
@@ -3145,8 +3171,8 @@
       ]
     },
     {
+      "title": "Episode 121",
       "episode": "121",
-      "title": "Three Problems",
       "files": [
         {
           "name": "HD-1",
@@ -3171,8 +3197,8 @@
       ]
     },
     {
+      "title": "Episode 122",
       "episode": "122",
-      "title": "As Pitch Black as It Gets",
       "files": [
         {
           "name": "HD-1",
@@ -3197,8 +3223,8 @@
       ]
     },
     {
+      "title": "Episode 123",
       "episode": "123",
-      "title": "Nero Reminisces... Part One",
       "files": [
         {
           "name": "HD-1",
@@ -3223,8 +3249,8 @@
       ]
     },
     {
+      "title": "Episode 124",
       "episode": "124",
-      "title": "Nero Reminisces... Part Two",
       "files": [
         {
           "name": "HD-1",
@@ -3249,8 +3275,8 @@
       ]
     },
     {
+      "title": "Episode 125",
       "episode": "125",
-      "title": "Return",
       "files": [
         {
           "name": "HD-1",
@@ -3275,8 +3301,8 @@
       ]
     },
     {
+      "title": "Episode 126",
       "episode": "126",
-      "title": "The Blue Rose's Confession",
       "files": [
         {
           "name": "HD-1",
@@ -3301,8 +3327,8 @@
       ]
     },
     {
+      "title": "Episode 127",
       "episode": "127",
-      "title": "Clues",
       "files": [
         {
           "name": "HD-1",
@@ -3327,8 +3353,8 @@
       ]
     },
     {
+      "title": "Episode 128",
       "episode": "128",
-      "title": "To the Heart Kingdom!",
       "files": [
         {
           "name": "HD-1",
@@ -3353,8 +3379,8 @@
       ]
     },
     {
+      "title": "Episode 129",
       "episode": "129",
-      "title": "The Devil Megicula",
       "files": [
         {
           "name": "HD-1",
@@ -3379,8 +3405,8 @@
       ]
     },
     {
+      "title": "Episode 130",
       "episode": "130",
-      "title": "The New Magic Knight Squad Captains' Meeting",
       "files": [
         {
           "name": "HD-1",
@@ -3405,8 +3431,8 @@
       ]
     },
     {
+      "title": "Episode 131",
       "episode": "131",
-      "title": "A New Resolve",
       "files": [
         {
           "name": "HD-1",
@@ -3431,8 +3457,8 @@
       ]
     },
     {
+      "title": "Episode 132",
       "episode": "132",
-      "title": "The Lion Awakens",
       "files": [
         {
           "name": "HD-1",
@@ -3457,8 +3483,8 @@
       ]
     },
     {
+      "title": "Episode 133",
       "episode": "133",
-      "title": "The Lion Awakens, Continued",
       "files": [
         {
           "name": "HD-1",
@@ -3483,8 +3509,8 @@
       ]
     },
     {
+      "title": "Episode 134",
       "episode": "134",
-      "title": "Those Who Have Been Gathered",
       "files": [
         {
           "name": "HD-1",
@@ -3509,8 +3535,8 @@
       ]
     },
     {
+      "title": "Episode 135",
       "episode": "135",
-      "title": "The One Who Has My Heart, My Mind, And Soul",
       "files": [
         {
           "name": "HD-1",
@@ -3535,8 +3561,8 @@
       ]
     },
     {
+      "title": "Episode 136",
       "episode": "136",
-      "title": "A Black Deep-Sea Story",
       "files": [
         {
           "name": "HD-1",
@@ -3561,8 +3587,8 @@
       ]
     },
     {
+      "title": "Episode 137",
       "episode": "137",
-      "title": "Charmy's Century of Hunger, Gordon's Millennium of Loneliness",
       "files": [
         {
           "name": "HD-1",
@@ -3587,8 +3613,8 @@
       ]
     },
     {
+      "title": "Episode 138",
       "episode": "138",
-      "title": "In Zara's Footsteps",
       "files": [
         {
           "name": "HD-1",
@@ -3613,8 +3639,8 @@
       ]
     },
     {
+      "title": "Episode 139",
       "episode": "139",
-      "title": "A Witch's Homecoming",
       "files": [
         {
           "name": "HD-1",
@@ -3639,8 +3665,8 @@
       ]
     },
     {
+      "title": "Episode 140",
       "episode": "140",
-      "title": "A Favor For Julius",
       "files": [
         {
           "name": "HD-1",
@@ -3665,8 +3691,8 @@
       ]
     },
     {
+      "title": "Episode 141",
       "episode": "141",
-      "title": "The Golden Family",
       "files": [
         {
           "name": "HD-1",
@@ -3691,8 +3717,8 @@
       ]
     },
     {
+      "title": "Episode 142",
       "episode": "142",
-      "title": "Those Remaining",
       "files": [
         {
           "name": "HD-1",
@@ -3717,8 +3743,8 @@
       ]
     },
     {
+      "title": "Episode 143",
       "episode": "143",
-      "title": "The Tilted Scale",
       "files": [
         {
           "name": "HD-1",
@@ -3743,8 +3769,8 @@
       ]
     },
     {
+      "title": "Episode 144",
       "episode": "144",
-      "title": "Those Who Wish to Destroy Devils",
       "files": [
         {
           "name": "HD-1",
@@ -3769,8 +3795,8 @@
       ]
     },
     {
+      "title": "Episode 145",
       "episode": "145",
-      "title": "Rescue",
       "files": [
         {
           "name": "HD-1",
@@ -3795,8 +3821,8 @@
       ]
     },
     {
+      "title": "Episode 146",
       "episode": "146",
-      "title": "Those Who Worship The Devil",
       "files": [
         {
           "name": "HD-1",
@@ -3821,8 +3847,8 @@
       ]
     },
     {
+      "title": "Episode 147",
       "episode": "147",
-      "title": "Prepared to Die",
       "files": [
         {
           "name": "HD-1",
@@ -3847,8 +3873,8 @@
       ]
     },
     {
+      "title": "Episode 148",
       "episode": "148",
-      "title": "Becoming the Light That Shines Through the Darkness",
       "files": [
         {
           "name": "HD-1",
@@ -3873,8 +3899,8 @@
       ]
     },
     {
+      "title": "Episode 149",
       "episode": "149",
-      "title": "Two Things We Need to Find",
       "files": [
         {
           "name": "HD-1",
@@ -3899,8 +3925,8 @@
       ]
     },
     {
+      "title": "Episode 150",
       "episode": "150",
-      "title": "The Maidens' Challenge",
       "files": [
         {
           "name": "HD-1",
@@ -3925,8 +3951,8 @@
       ]
     },
     {
+      "title": "Episode 151",
       "episode": "151",
-      "title": "Clash! The Battle of the Magic Knights Squad Captains",
       "files": [
         {
           "name": "HD-1",
@@ -3951,8 +3977,8 @@
       ]
     },
     {
+      "title": "Episode 152",
       "episode": "152",
-      "title": "To Tomorrow!",
       "files": [
         {
           "name": "HD-1",
@@ -3977,8 +4003,8 @@
       ]
     },
     {
+      "title": "Episode 153",
       "episode": "153",
-      "title": "The Chosen Ones",
       "files": [
         {
           "name": "HD-1",
@@ -4003,8 +4029,8 @@
       ]
     },
     {
+      "title": "Episode 154",
       "episode": "154",
-      "title": "Vice Captain Langris Vaude",
       "files": [
         {
           "name": "HD-1",
@@ -4029,8 +4055,8 @@
       ]
     },
     {
+      "title": "Episode 155",
       "episode": "155",
-      "title": "The 5 Spirit Guardians",
       "files": [
         {
           "name": "HD-1",
@@ -4055,8 +4081,8 @@
       ]
     },
     {
+      "title": "Episode 156",
       "episode": "156",
-      "title": "Awakening Powers",
       "files": [
         {
           "name": "HD-1",
@@ -4081,8 +4107,8 @@
       ]
     },
     {
+      "title": "Episode 157",
       "episode": "157",
-      "title": "Five-Leaf Clover",
       "files": [
         {
           "name": "HD-1",
@@ -4107,8 +4133,8 @@
       ]
     },
     {
+      "title": "Episode 158",
       "episode": "158",
-      "title": "The Beginning of Hope and Despair",
       "files": [
         {
           "name": "HD-1",
@@ -4133,8 +4159,8 @@
       ]
     },
     {
+      "title": "Episode 159",
       "episode": "159",
-      "title": "Quiet Lakes and Forest Shadows",
       "files": [
         {
           "name": "HD-1",
@@ -4159,8 +4185,8 @@
       ]
     },
     {
+      "title": "Episode 160",
       "episode": "160",
-      "title": "The Messenger from the Spade Kingdom",
       "files": [
         {
           "name": "HD-1",
@@ -4185,8 +4211,8 @@
       ]
     },
     {
+      "title": "Episode 161",
       "episode": "161",
-      "title": "Zenon's Power",
       "files": [
         {
           "name": "HD-1",
@@ -4211,8 +4237,8 @@
       ]
     },
     {
+      "title": "Episode 162",
       "episode": "162",
-      "title": "The Great War Breaks Out",
       "files": [
         {
           "name": "HD-1",
@@ -4237,8 +4263,8 @@
       ]
     },
     {
+      "title": "Episode 163",
       "episode": "163",
-      "title": "Dante VS The Captain of the Black Bulls",
       "files": [
         {
           "name": "HD-1",
@@ -4263,8 +4289,8 @@
       ]
     },
     {
+      "title": "Episode 164",
       "episode": "164",
-      "title": "Battlefield: Heart Kingdom",
       "files": [
         {
           "name": "HD-1",
@@ -4289,8 +4315,8 @@
       ]
     },
     {
+      "title": "Episode 165",
       "episode": "165",
-      "title": "Water Crusade",
       "files": [
         {
           "name": "HD-1",
@@ -4315,8 +4341,8 @@
       ]
     },
     {
+      "title": "Episode 166",
       "episode": "166",
-      "title": "Captain: Yami Sukehiro",
       "files": [
         {
           "name": "HD-1",
@@ -4341,8 +4367,8 @@
       ]
     },
     {
+      "title": "Episode 167",
       "episode": "167",
-      "title": "Black Oath",
       "files": [
         {
           "name": "HD-1",
@@ -4367,8 +4393,8 @@
       ]
     },
     {
+      "title": "Episode 168",
       "episode": "168",
-      "title": "Stirrings of the Strongest",
       "files": [
         {
           "name": "HD-1",
@@ -4393,8 +4419,8 @@
       ]
     },
     {
+      "title": "Episode 169",
       "episode": "169",
-      "title": "The Devil-Binding Ritual",
       "files": [
         {
           "name": "HD-1",
@@ -4419,8 +4445,8 @@
       ]
     },
     {
+      "title": "Episode 170",
       "episode": "170",
-      "title": "Faraway Future",
       "files": [
         {
           "name": "HD-1",
@@ -4446,8 +4472,7 @@
     }
   ],
   "streamingId": "97940",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2017-10-03",
-  "malId": "34572",
-  "_forceSyncTime": 1778769741459
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

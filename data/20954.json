@@ -1,19 +1,19 @@
 {
   "title": "A Silent Voice",
-  "synopsis": "After transferring into a new school, a deaf girl, Shouko Nishimiya, is bullied by the popular Shouya Ishida. As Shouya continues to bully Shouko, the class turns its back on him. Shouko transfers and Shouya grows up as an outcast. Alone and depressed, the regretful Shouya finds Shouko to make amends.\n\n\n\n(Source: Eleven Arts)",
+  "synopsis": "After transferring into a new school, a deaf girl, Shouko Nishimiya, is bullied by the popular Shouya Ishida. As Shouya continues to bully Shouko, the class turns its back on him. Shouko transfers and Shouya grows up as an outcast. Alone and depressed, the regretful Shouya finds Shouko to make amends.\n\\n\\n\n(Source: Eleven Arts)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-sYRfE5jQRtSB.jpg",
-  "synonym": "Koe no Katachi",
-  "native": "聲の形",
-  "aired": "09/17/2016",
-  "premiered": "SUMMER 2016",
-  "duration": "130m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "1",
   "genres": [
     "Drama",
     "Romance",
     "Slice of Life"
   ],
-  "rating": "8.8",
+  "rating": "",
   "type": "Movie",
   "status": "Completed",
   "country": "JP",
@@ -21,11 +21,17 @@
     "Kyoto Animation"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[Movie] A Silent Voice",
+      "link": "/2016/09/20954.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-sYRfE5jQRtSB.jpg"
+    }
+  ],
   "episodes": [
     {
-      "episode": "1",
       "title": "Episode 1",
+      "episode": "1",
       "files": [
         {
           "name": "HD-1",
@@ -51,8 +57,7 @@
     }
   ],
   "streamingId": "20954",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2016-09-17",
-  "malId": "28851",
-  "_forceSyncTime": 1778769363274
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

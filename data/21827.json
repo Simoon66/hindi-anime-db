@@ -1,31 +1,47 @@
 {
   "title": "Violet Evergarden",
-  "synopsis": "A certain point in time, in the continent of Telesis. The great war which divided the continent into North and South has ended after four years, and the people are welcoming a new generation. Violet Evergarden, a young girl formerly known as “the weapon”, has left the battlefield to start a new life at CH Postal Service. There, she is deeply moved by the work of “Auto Memories Dolls”, who carry people's thoughts and convert them into words. Violet begins her journey as an Auto Memories Doll, and comes face to face with various people's emotions and differing shapes of love. There are words Violet heard on the battlefield, which she cannot forget. These words were given to her by someone she holds dear, more than anyone else. She does not yet know their meaning but she searches to find it.\n\n\n\n(Source: Anime News Network)",
+  "synopsis": "A certain point in time, in the continent of Telesis. The great war which divided the continent into North and South has ended after four years, and the people are welcoming a new generation. Violet Evergarden, a young girl formerly known as “the weapon”, has left the battlefield to start a new life at CH Postal Service. There, she is deeply moved by the work of “Auto Memories Dolls”, who carry people's thoughts and convert them into words. Violet begins her journey as an Auto Memories Doll, and comes face to face with various people's emotions and differing shapes of love. There are words Violet heard on the battlefield, which she cannot forget. These words were given to her by someone she holds dear, more than anyone else. She does not yet know their meaning but she searches to find it.\\n\n\\n\n(Source: Anime News Network)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21827-ubzq619ZA2E9.png",
-  "synonym": "Violet Evergarden",
-  "native": "ヴァイオレット・エヴァーガーデン",
-  "aired": "01/11/2018",
-  "premiered": "WINTER 2018",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "13",
   "genres": [
     "Drama",
     "Fantasy",
     "Slice of Life"
   ],
-  "rating": "8.5",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "Kyoto Animation"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Violet Evergarden",
+      "link": "/2018/01/21827.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21827-ubzq619ZA2E9.png"
+    },
+    {
+      "title": "[OVA] Violet Evergarden: Special",
+      "link": "/2018/07/101432.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101432-NQSedsCDQ6dP.png"
+    },
+    {
+      "title": "[Movie] Violet Evergarden: Eternity and the Auto Memory Doll",
+      "link": "/2019/09/109190.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109190-e8mv1qdmpjLW.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "'I Love You' and Auto Memoir Doll",
       "files": [
         {
           "name": "HD-1",
@@ -50,8 +66,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "'Never Coming Back'",
       "files": [
         {
           "name": "HD-1",
@@ -76,8 +92,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "'May You Be an Exemplary Auto Memoir Doll'",
       "files": [
         {
           "name": "HD-1",
@@ -102,8 +118,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "'You Won't be a Tool, but a Person Worthy of that Name'",
       "files": [
         {
           "name": "HD-1",
@@ -128,8 +144,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "'You Write Letters That Bring People Together?'",
       "files": [
         {
           "name": "HD-1",
@@ -154,8 +170,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "'Somewhere Under the Starry Sky'",
       "files": [
         {
           "name": "HD-1",
@@ -180,8 +196,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "'　　　　　　　　'",
       "files": [
         {
           "name": "HD-1",
@@ -206,8 +222,8 @@
       ]
     },
     {
-      "episode": "8",
       "title": "Episode 8",
+      "episode": "8",
       "files": [
         {
           "name": "HD-1",
@@ -232,8 +248,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "'Violet Evergarden'",
       "files": [
         {
           "name": "HD-1",
@@ -258,8 +274,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "'A Loved One Will Always Watch Over You'",
       "files": [
         {
           "name": "HD-1",
@@ -284,8 +300,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "'I Don't Want Anybody Else to Die'",
       "files": [
         {
           "name": "HD-1",
@@ -310,8 +326,8 @@
       ]
     },
     {
-      "episode": "12",
       "title": "Episode 12",
+      "episode": "12",
       "files": [
         {
           "name": "HD-1",
@@ -336,8 +352,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "Auto Memoir Doll and 'I Love You'",
       "files": [
         {
           "name": "HD-1",
@@ -363,8 +379,7 @@
     }
   ],
   "streamingId": "21827",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2018-01-11",
-  "malId": "33352",
-  "_forceSyncTime": 1778769818720
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

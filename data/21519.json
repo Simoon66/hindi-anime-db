@@ -1,19 +1,19 @@
 {
   "title": "Your Name.",
-  "synopsis": "Mitsuha Miyamizu, a high school girl, yearns to live the life of a boy in the bustling city of Tokyo—a dream that stands in stark contrast to her present life in the countryside. Meanwhile in the city, Taki Tachibana lives a busy life as a high school student while juggling his part-time job and hopes for a future in architecture.\n\n\n\nOne day, Mitsuha awakens in a room that is not her own and suddenly finds herself living the dream life in Tokyo—but in Taki's body! Elsewhere, Taki finds himself living Mitsuha's life in the humble countryside. In pursuit of an answer to this strange phenomenon, they begin to search for one another.\n\n\n\nKimi no Na wa. revolves around Mitsuha and Taki's actions, which begin to have a dramatic impact on each other's lives, weaving them into a fabric held together by fate and circumstance.\n\n\n\n(Source: MAL Rewrite)",
+  "synopsis": "Mitsuha Miyamizu, a high school girl, yearns to live the life of a boy in the bustling city of Tokyo—a dream that stands in stark contrast to her present life in the countryside. Meanwhile in the city, Taki Tachibana lives a busy life as a high school student while juggling his part-time job and hopes for a future in architecture.\\n\n\\n\nOne day, Mitsuha awakens in a room that is not her own and suddenly finds herself living the dream life in Tokyo—but in Taki's body! Elsewhere, Taki finds himself living Mitsuha's life in the humble countryside. In pursuit of an answer to this strange phenomenon, they begin to search for one another.\\n\n\\n\nKimi no Na wa. revolves around Mitsuha and Taki's actions, which begin to have a dramatic impact on each other's lives, weaving them into a fabric held together by fate and circumstance.\\n\n\\n\n(Source: MAL Rewrite)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21519-SUo3ZQuCbYhJ.png",
-  "synonym": "Kimi no Na wa.",
-  "native": "君の名は。",
-  "aired": "08/26/2016",
-  "premiered": "SUMMER 2016",
-  "duration": "107m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "1",
   "genres": [
     "Drama",
     "Romance",
     "Supernatural"
   ],
-  "rating": "8.6",
+  "rating": "",
   "type": "Movie",
   "status": "Completed",
   "country": "JP",
@@ -21,11 +21,17 @@
     "CoMix Wave"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[Movie] Your Name.",
+      "link": "/2016/08/21519.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21519-SUo3ZQuCbYhJ.png"
+    }
+  ],
   "episodes": [
     {
-      "episode": "1",
       "title": "Episode 1",
+      "episode": "1",
       "files": [
         {
           "name": "HD-1",
@@ -51,8 +57,7 @@
     }
   ],
   "streamingId": "21519",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2016-08-26",
-  "malId": "32281",
-  "_forceSyncTime": 1778769350593
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

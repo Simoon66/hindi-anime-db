@@ -1,49 +1,51 @@
 {
   "title": "Frieren: Beyond Journey’s End Season 2",
   "synopsis": "The second season of Sousou no Frieren.",
-  "thumbnail": "https://image.tmdb.org/t/p/original/cHhJzdUGcEBq6av4wr9jsIvUITH.jpg",
-  "synonym": "Провожающая в последний путь Фрирен 2",
-  "native": "葬送のフリーレン 第2期",
-  "aired": "Jan 16, 2026 to Mar 27, 2026",
-  "premiered": "WINTER 2026",
-  "duration": "24m",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182255-butzrqd4I0aC.jpg",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "10",
   "genres": [
     "Adventure",
     "Drama",
     "Fantasy"
   ],
-  "rating": "8.8",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
-    "MADHOUSE",
     "MADHOUSE"
   ],
-  "producers": [
-    "Toho",
-    "Shogakukan",
-    "Nippon Television Network",
-    "Shogakukan-Shueisha Productions",
-    "Aniplex",
-    "Dentsu"
-  ],
+  "producers": [],
   "seasons": [
     {
-      "title": "Season 1",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154587-qQTzQnEJJ3oB.jpg",
-      "link": "/2023/09/154587.html"
+      "title": "[TV Series] Frieren: Beyond Journey’s End Season 2",
+      "link": "/2026/01/182255.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182255-butzrqd4I0aC.jpg"
     },
     {
-      "title": "Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182255-butzrqd4I0aC.jpg",
-      "link": "/2026/01/182255.html"
+      "title": "[TV Series] Frieren: Beyond Journey’s End",
+      "link": "/2023/09/154587.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154587-qQTzQnEJJ3oB.jpg"
+    },
+    {
+      "title": "[ONA] Sousou no Frieren: ●● no Mahou Part 3",
+      "link": "/2026/01/206425.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b206425-WOwXsfDbHZwb.jpg"
+    },
+    {
+      "title": "[TV Series] Sousou no Frieren 3rd Season",
+      "link": "/2027/10/209939.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209939-g2Njkml1rheG.jpg"
     }
   ],
   "episodes": [
     {
-      "title": "Shall We Go, Then?",
+      "title": "Episode 1",
       "episode": "1",
       "files": [
         {
@@ -65,16 +67,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59978/1/dub",
           "type": "dub"
-        },
-        {
-          "name": "VidStream",
-          "url": "https://as-cdn21.top/video/5ca41065040d65b60926927b35d8bae8",
-          "type": "multi"
         }
       ]
     },
     {
-      "title": "The Hero of the South",
+      "title": "Episode 2",
       "episode": "2",
       "files": [
         {
@@ -96,16 +93,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59978/2/dub",
           "type": "dub"
-        },
-        {
-          "name": "VidStream",
-          "url": "https://as-cdn21.top/video/94f311c1d065e993d81c1cdc9f658bb1",
-          "type": "multi"
         }
       ]
     },
     {
-      "title": "Somewhere She'd Like",
+      "title": "Episode 3",
       "episode": "3",
       "files": [
         {
@@ -127,16 +119,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59978/3/dub",
           "type": "dub"
-        },
-        {
-          "name": "VidStream",
-          "url": "https://as-cdn21.top/video/f3af38a9500cfc72614a7cb788e5a56b",
-          "type": "multi"
         }
       ]
     },
     {
-      "title": "Other People's Homes",
+      "title": "Episode 4",
       "episode": "4",
       "files": [
         {
@@ -158,16 +145,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59978/4/dub",
           "type": "dub"
-        },
-        {
-          "name": "VidStream",
-          "url": "https://as-cdn21.top/video/3ac44bdb7fb0bbd5c8b3f4db0218d05e",
-          "type": "multi"
         }
       ]
     },
     {
-      "title": "Logistics in the Northern Plateau",
+      "title": "Episode 5",
       "episode": "5",
       "files": [
         {
@@ -189,16 +171,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59978/5/dub",
           "type": "dub"
-        },
-        {
-          "name": "VidStream",
-          "url": "https://as-cdn21.top/video/c2fe9a007bc6d74f028178c5bb912476",
-          "type": "multi"
         }
       ]
     },
     {
-      "title": "A Demon-Slaying Request",
+      "title": "Episode 6",
       "episode": "6",
       "files": [
         {
@@ -220,16 +197,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59978/6/dub",
           "type": "dub"
-        },
-        {
-          "name": "VidStream",
-          "url": "https://as-cdn21.top/video/f9d8a11e28de83af2f210a46dd624a64",
-          "type": "multi"
         }
       ]
     },
     {
-      "title": "The Divine Revolte",
+      "title": "Episode 7",
       "episode": "7",
       "files": [
         {
@@ -251,16 +223,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59978/7/dub",
           "type": "dub"
-        },
-        {
-          "name": "VidStream",
-          "url": "https://as-cdn21.top/video/1cf33fc29c5a7f169cb51d7afe381553",
-          "type": "multi"
         }
       ]
     },
     {
-      "title": "A Magnificent End",
+      "title": "Episode 8",
       "episode": "8",
       "files": [
         {
@@ -282,16 +249,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59978/8/dub",
           "type": "dub"
-        },
-        {
-          "name": "VidStream",
-          "url": "https://as-cdn21.top/video/d264b72ca33f79489e025913eadcdc3a",
-          "type": "multi"
         }
       ]
     },
     {
-      "title": "Himmel's Memoirs",
+      "title": "Episode 9",
       "episode": "9",
       "files": [
         {
@@ -313,16 +275,11 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59978/9/dub",
           "type": "dub"
-        },
-        {
-          "name": "VidStream",
-          "url": "https://as-cdn21.top/video/ada216e157757c965a766aae6e21423a",
-          "type": "multi"
         }
       ]
     },
     {
-      "title": "A Beautiful Sight",
+      "title": "Episode 10",
       "episode": "10",
       "files": [
         {
@@ -344,17 +301,12 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/59978/10/dub",
           "type": "dub"
-        },
-        {
-          "name": "VidStream",
-          "url": "https://as-cdn21.top/video/860b432652504fa60f8da945398e20de",
-          "type": "multi"
         }
       ]
     }
   ],
   "streamingId": "182255",
-  "hostUrl": "",
-  "releaseDate": "Jan 16, 2026",
-  "malId": "59978"
+  "releaseDate": "2026-01-16",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

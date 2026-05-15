@@ -1,12 +1,12 @@
 {
   "title": "Attack on Titan",
-  "synopsis": "Several hundred years ago, humans were nearly exterminated by titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest of titans.\n\n\r\nFlash forward to the present and the city has not seen a titan in over 100 years. Teenage boy Eren and his foster sister Mikasa witness something horrific as the city walls are destroyed by a colossal titan that appears out of thin air. As the smaller titans flood the city, the two kids watch in horror as their mother is eaten alive. Eren vows that he will murder every single titan and take revenge for all of mankind.\n\n\r\n(Source: MangaHelpers) ",
+  "synopsis": "Several hundred years ago, humans were nearly exterminated by titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest of titans.\\n\\n\r\nFlash forward to the present and the city has not seen a titan in over 100 years. Teenage boy Eren and his foster sister Mikasa witness something horrific as the city walls are destroyed by a colossal titan that appears out of thin air. As the smaller titans flood the city, the two kids watch in horror as their mother is eaten alive. Eren vows that he will murder every single titan and take revenge for all of mankind.\\n\\n\r\n(Source: MangaHelpers) ",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
-  "synonym": "Shingeki no Kyojin",
-  "native": "進撃の巨人",
-  "aired": "04/07/2013",
-  "premiered": "SPRING 2013",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "25",
   "genres": [
     "Action",
@@ -14,19 +14,65 @@
     "Fantasy",
     "Mystery"
   ],
-  "rating": "8.5",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "WIT STUDIO"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Attack on Titan",
+      "link": "/2013/04/16498.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg"
+    },
+    {
+      "title": "[Movie] Attack on Titan Part I: Crimson Bow and Arrow",
+      "link": "/2014/11/20691.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20691-dnv0rkpbgBDJ.png"
+    },
+    {
+      "title": "[Movie] Attack on Titan Part II: Wings of Freedom",
+      "link": "/2015/06/20692.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20692-fSDEpfDtDg9u.png"
+    },
+    {
+      "title": "[TV Series] Attack on Titan Season 2",
+      "link": "/2017/04/20958.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20958-HuFJyr54Mmir.jpg"
+    },
+    {
+      "title": "[TV Series] Attack on Titan: Junior High",
+      "link": "/2015/10/21281.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21281-GwCKcZii6fVf.jpg"
+    },
+    {
+      "title": "[OVA] Attack on Titan OVA",
+      "link": "/2013/12/18397.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18397-AnpwhLkSjYL1.jpg"
+    },
+    {
+      "title": "[Movie] Attack on Titan ~Chronicle~",
+      "link": "/2020/07/119113.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119113-IzVI5oZ0og8O.jpg"
+    },
+    {
+      "title": "[OVA] Attack on Titan: No Regrets",
+      "link": "/2014/12/20811.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20811-IvXLdxZkYNcP.jpg"
+    },
+    {
+      "title": "[OVA] Attack on Titan: Lost Girls",
+      "link": "/2017/12/99634.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99634-9u4hdvWwmC2s.png"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "To You, 2,000 Years in the Future: The Fall of Shiganshina (1)",
       "files": [
         {
           "name": "HD-1",
@@ -51,8 +97,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "That Day: The Fall of Shiganshina (2)",
       "files": [
         {
           "name": "HD-1",
@@ -77,8 +123,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "A Dim Light in the Darkness of Despair: Humanity Rises Again (1)",
       "files": [
         {
           "name": "HD-1",
@@ -103,8 +149,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Night of the Graduation Ceremony: Humanity Rises Again (2)",
       "files": [
         {
           "name": "HD-1",
@@ -129,8 +175,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "First Battle: Battle of Trost (1)",
       "files": [
         {
           "name": "HD-1",
@@ -155,8 +201,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "The World the Girl Saw: Battle for Trost (2)",
       "files": [
         {
           "name": "HD-1",
@@ -181,8 +227,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "The Small Blade: The Battle for Trost (3)",
       "files": [
         {
           "name": "HD-1",
@@ -207,8 +253,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Hearing the Heartbeat: The Battle for Trost (4)",
       "files": [
         {
           "name": "HD-1",
@@ -233,8 +279,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Where the Left Arm Went: The Battle for Trost (5)",
       "files": [
         {
           "name": "HD-1",
@@ -259,8 +305,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Response: The Battle for Trost (6)",
       "files": [
         {
           "name": "HD-1",
@@ -285,8 +331,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Icon: The Battle for Trost (7)",
       "files": [
         {
           "name": "HD-1",
@@ -311,8 +357,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Wound: The Battle for Trost (8)",
       "files": [
         {
           "name": "HD-1",
@@ -337,8 +383,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "Primal Desires: The Battle for Trost (9)",
       "files": [
         {
           "name": "HD-1",
@@ -363,8 +409,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "Still Can't See: Night Before the Counteroffensive (1)",
       "files": [
         {
           "name": "HD-1",
@@ -389,8 +435,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "Special Ops Squad: Night Before the Counteroffensive (2)",
       "files": [
         {
           "name": "HD-1",
@@ -415,8 +461,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "What Should Be Done: Night Before the Counteroffensive (3)",
       "files": [
         {
           "name": "HD-1",
@@ -441,8 +487,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "Female Titan: 57th Expedition Beyond the Walls (1)",
       "files": [
         {
           "name": "HD-1",
@@ -467,8 +513,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "Forest of Giant Trees: 57th Expedition Beyond the Walls (2)",
       "files": [
         {
           "name": "HD-1",
@@ -493,8 +539,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "Bite: 57th Expedition Beyond the Walls (3)",
       "files": [
         {
           "name": "HD-1",
@@ -519,8 +565,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "Erwin Smith: 57th Expedition Beyond the Walls (4)",
       "files": [
         {
           "name": "HD-1",
@@ -545,8 +591,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "Crushing Blow: 57th Expedition Beyond the Walls (5)",
       "files": [
         {
           "name": "HD-1",
@@ -571,8 +617,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "The Defeated: 57th Expedition Beyond the Walls (6)",
       "files": [
         {
           "name": "HD-1",
@@ -597,8 +643,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "Smile: Raid on Stohess District (1)",
       "files": [
         {
           "name": "HD-1",
@@ -623,8 +669,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "Mercy: Raid on Stohess District (2)",
       "files": [
         {
           "name": "HD-1",
@@ -649,8 +695,8 @@
       ]
     },
     {
+      "title": "Episode 25",
       "episode": "25",
-      "title": "The Wall: Raid on Stohess District (3)",
       "files": [
         {
           "name": "HD-1",
@@ -676,8 +722,7 @@
     }
   ],
   "streamingId": "16498",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2013-04-07",
-  "malId": "16498",
-  "_forceSyncTime": 1778768961587
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

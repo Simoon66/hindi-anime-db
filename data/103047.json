@@ -1,19 +1,19 @@
 {
   "title": "Violet Evergarden: the Movie",
-  "synopsis": "While writing other people’s emotions, she may have neglected her own. Violet Evergarden, the child soldier turned Auto Memory Doll, writes letters that evoke the words her clients can’t. But when a terminally ill boy requests her services for his family, her own feelings about love and loss resurface. Now she must confront her past and the death of the Major.\n\n\n\n(Source: Funimation)",
+  "synopsis": "While writing other people’s emotions, she may have neglected her own. Violet Evergarden, the child soldier turned Auto Memory Doll, writes letters that evoke the words her clients can’t. But when a terminally ill boy requests her services for his family, her own feelings about love and loss resurface. Now she must confront her past and the death of the Major.\\n\n\\n\n(Source: Funimation)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103047-odblDHHEdehK.jpg",
-  "synonym": "Violet Evergarden Movie",
-  "native": "劇場版 ヴァイオレット・エヴァーガーデン",
-  "aired": "09/18/2020",
-  "premiered": "SUMMER 2020",
-  "duration": "140m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "1",
   "genres": [
     "Drama",
     "Fantasy",
     "Slice of Life"
   ],
-  "rating": "8.7",
+  "rating": "",
   "type": "Movie",
   "status": "Completed",
   "country": "JP",
@@ -21,11 +21,22 @@
     "Kyoto Animation"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[Movie] Violet Evergarden: the Movie",
+      "link": "/2020/09/103047.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103047-odblDHHEdehK.jpg"
+    },
+    {
+      "title": "[Movie] Violet Evergarden: Eternity and the Auto Memory Doll",
+      "link": "/2019/09/109190.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109190-e8mv1qdmpjLW.jpg"
+    }
+  ],
   "episodes": [
     {
-      "episode": "1",
       "title": "Episode 1",
+      "episode": "1",
       "files": [
         {
           "name": "HD-1",
@@ -51,8 +62,7 @@
     }
   ],
   "streamingId": "103047",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2020-09-18",
-  "malId": "37987",
-  "_forceSyncTime": 1778784166227
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

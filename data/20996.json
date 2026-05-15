@@ -1,12 +1,12 @@
 {
   "title": "Gintama Season 3",
-  "synopsis": "Gintoki, Shinpachi, and Kagura return as the fun-loving but broke members of the Yorozuya team! Living in an alternate-reality Edo, where swords are prohibited and alien overlords have conquered Japan, they try to thrive on doing whatever work they can get their hands on. However, Shinpachi and Kagura still haven't been paid... Does Gin-chan really spend all that cash playing pachinko?\n\nMeanwhile, when Gintoki drunkenly staggers home one night, an alien spaceship crashes nearby. A fatally injured crew member emerges from the ship and gives Gintoki a strange, clock-shaped device, warning him that it is incredibly powerful and must be safeguarded. Mistaking it for his alarm clock, Gintoki proceeds to smash the device the next morning and suddenly discovers that the world outside his apartment has come to a standstill. With Kagura and Shinpachi at his side, he sets off to get the device fixed; though, as usual, nothing is ever that simple for the Yorozuya team.\n\nFilled with tongue-in-cheek humor and moments of heartfelt emotion, Gintama's fourth season finds Gintoki and his friends facing both their most hilarious misadventures and most dangerous crises yet.\n\n(Source: MAL Rewrite)",
+  "synopsis": "Gintoki, Shinpachi, and Kagura return as the fun-loving but broke members of the Yorozuya team! Living in an alternate-reality Edo, where swords are prohibited and alien overlords have conquered Japan, they try to thrive on doing whatever work they can get their hands on. However, Shinpachi and Kagura still haven't been paid... Does Gin-chan really spend all that cash playing pachinko?\n\nMeanwhile, when Gintoki drunkenly staggers home one night, an alien spaceship crashes nearby. A fatally injured crew member emerges from the ship and gives Gintoki a strange, clock-shaped device, warning him that it is incredibly powerful and must be safeguarded. Mistaking it for his alarm clock, Gintoki proceeds to smash the device the next morning and suddenly discovers that the world outside his apartment has come to a standstill. With Kagura and Shinpachi at his side, he sets off to get the device fixed; though, as usual, nothing is ever that simple for the Yorozuya team.\n\nFilled with tongue-in-cheek humor and moments of heartfelt emotion, Gintama's fourth season finds Gintoki and his friends facing both their most hilarious misadventures and most dangerous crises yet.\n\n\\n(Source: MAL Rewrite)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20996-kBEGEGdeK1r7.jpg",
-  "synonym": "Gintama°",
-  "native": "銀魂゜",
-  "aired": "4/8/2015",
-  "premiered": "SPRING 2015",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "51",
   "genres": [
     "Action",
@@ -14,20 +14,50 @@
     "Drama",
     "Sci-Fi"
   ],
-  "rating": "9.0",
-  "type": "TV",
-  "status": "FINISHED",
+  "rating": "",
+  "type": "TV Series",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Bandai Namco Pictures",
+  "studios": [
+    "Bandai Namco Pictures"
+  ],
   "producers": [],
-  "seasons": [],
-  "malId": "28977",
-  "streamingId": "20996",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "seasons": [
+    {
+      "title": "[TV Series] Gintama Season 3",
+      "link": "/2015/04/20996.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20996-kBEGEGdeK1r7.jpg"
+    },
+    {
+      "title": "[TV Series] Gintama Season 2 Part 2",
+      "link": "/2012/10/15417.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15417-Uc2uNdWEixwi.jpg"
+    },
+    {
+      "title": "[Special] Gintama: Jump Festa 2015 Special",
+      "link": "/2015/11/21501.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21501-4fZ2GVRjYCYc.jpg"
+    },
+    {
+      "title": "[OVA] Gintama: Love Incense Arc",
+      "link": "/2016/08/21588.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21588-4stDE0RbC9jL.jpg"
+    },
+    {
+      "title": "[TV Series] Gintama Season 4",
+      "link": "/2017/01/97889.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97889-ytqHdmus9wQi.jpg"
+    },
+    {
+      "title": "[Movie] Gintama: The Final Chapter - Be Forever Yorozuya",
+      "link": "/2013/07/15335.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15335-QjijwChGTBs0.png"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "You can never Pause at the Perfect Time",
       "files": [
         {
           "name": "HD-1",
@@ -52,8 +82,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Even a Matsui Stick Can't Handle Some Kinds of Dirt",
       "files": [
         {
           "name": "HD-1",
@@ -78,8 +108,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "An Inspector's Love begins with an Inspection",
       "files": [
         {
           "name": "HD-1",
@@ -104,8 +134,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Forget Dates, Remember People / You Can Hide Your Porn Mags but You Can't Hide Your ***",
       "files": [
         {
           "name": "HD-1",
@@ -130,8 +160,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "A Mirror Provides a Frozen Reflection of Both Your Beautiful and Ugly Sides / Nobody Likes the Photo on Their License",
       "files": [
         {
           "name": "HD-1",
@@ -156,8 +186,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Arriving Late to a Reunion Makes it Hard to Enter",
       "files": [
         {
           "name": "HD-1",
@@ -182,8 +212,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "A Reunion Also Brings to the Surface Things You Don't Want to Remember",
       "files": [
         {
           "name": "HD-1",
@@ -208,8 +238,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "When Compared to Time in the Heavens, Fifty Years of Human Life Resembles Naught but Dreams and Lottery Tickets",
       "files": [
         {
           "name": "HD-1",
@@ -234,8 +264,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Guys with Big Nostrils Also Have Big Imaginations / You Never Accept a New Sentai Series at the Start, but by the Final Episode, You Don't Want It to End",
       "files": [
         {
           "name": "HD-1",
@@ -260,8 +290,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "9 + 1 = Yagyu Jyubei",
       "files": [
         {
           "name": "HD-1",
@@ -286,8 +316,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Calories Come Back to Bite You Just When You've Forgotten About Them",
       "files": [
         {
           "name": "HD-1",
@@ -312,8 +342,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "10 - 1 =",
       "files": [
         {
           "name": "HD-1",
@@ -338,8 +368,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "All Mothers Pack Too Much Food Into a Lunch Box and Ruin the Shape",
       "files": [
         {
           "name": "HD-1",
@@ -364,8 +394,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "The Reaper by Day and the Reaper by Night",
       "files": [
         {
           "name": "HD-1",
@@ -390,8 +420,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "Human or Demon?",
       "files": [
         {
           "name": "HD-1",
@@ -416,8 +446,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "Farewell, Reaper",
       "files": [
         {
           "name": "HD-1",
@@ -442,8 +472,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "A Phoenix Rises from the Ashes Over and Over",
       "files": [
         {
           "name": "HD-1",
@@ -468,8 +498,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "Amen",
       "files": [
         {
           "name": "HD-1",
@@ -494,8 +524,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "Being a Leader Is Tough",
       "files": [
         {
           "name": "HD-1",
@@ -520,8 +550,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "Love Is a Roach Motel",
       "files": [
         {
           "name": "HD-1",
@@ -546,8 +576,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "A Sizzle Summer",
       "files": [
         {
           "name": "HD-1",
@@ -572,8 +602,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "I'm the Mayo Guy, and He's the Sweet Tooth",
       "files": [
         {
           "name": "HD-1",
@@ -598,8 +628,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "I'm a Failure as a Leader, and He's Also a Failure as a Leader",
       "files": [
         {
           "name": "HD-1",
@@ -624,8 +654,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "I'm Odd Jobs, and He's Shinsengumi",
       "files": [
         {
           "name": "HD-1",
@@ -650,8 +680,8 @@
       ]
     },
     {
+      "title": "Episode 25",
       "episode": "25",
-      "title": "Always Leave Enough Room for Fifty Million in Your Bag",
       "files": [
         {
           "name": "HD-1",
@@ -676,8 +706,8 @@
       ]
     },
     {
+      "title": "Episode 26",
       "episode": "26",
-      "title": "Always Leave Enough Room for Pebbles in Your Bag",
       "files": [
         {
           "name": "HD-1",
@@ -702,8 +732,8 @@
       ]
     },
     {
+      "title": "Episode 27",
       "episode": "27",
-      "title": "Style Goes Out of Fashion the Moment It's Put Into Words / There Are Two Types of People In This World: Those Who Yell Out Their Attack Names, and Those Who Don't",
       "files": [
         {
           "name": "HD-1",
@@ -728,8 +758,8 @@
       ]
     },
     {
+      "title": "Episode 28",
       "episode": "28",
-      "title": "The Two Apes",
       "files": [
         {
           "name": "HD-1",
@@ -754,8 +784,8 @@
       ]
     },
     {
+      "title": "Episode 29",
       "episode": "29",
-      "title": "Afros of Life and Death",
       "files": [
         {
           "name": "HD-1",
@@ -780,8 +810,8 @@
       ]
     },
     {
+      "title": "Episode 30",
       "episode": "30",
-      "title": "Afuro and Wolfro",
       "files": [
         {
           "name": "HD-1",
@@ -806,8 +836,8 @@
       ]
     },
     {
+      "title": "Episode 31",
       "episode": "31",
-      "title": "Take the Initial Premise Lightly, and It'll Cost You",
       "files": [
         {
           "name": "HD-1",
@@ -832,8 +862,8 @@
       ]
     },
     {
+      "title": "Episode 32",
       "episode": "32",
-      "title": "Keep Your Farewells Short",
       "files": [
         {
           "name": "HD-1",
@@ -858,8 +888,8 @@
       ]
     },
     {
+      "title": "Episode 33",
       "episode": "33",
-      "title": "One Editor Is Enough / The G-Pen Is Capricious, and the Maru Pen Is Stubborn",
       "files": [
         {
           "name": "HD-1",
@@ -884,8 +914,8 @@
       ]
     },
     {
+      "title": "Episode 34",
       "episode": "34",
-      "title": "Strike When the Sword and Overlord are Hot / Oil Rain",
       "files": [
         {
           "name": "HD-1",
@@ -910,8 +940,8 @@
       ]
     },
     {
+      "title": "Episode 35",
       "episode": "35",
-      "title": "Shogun of Light and Shadow",
       "files": [
         {
           "name": "HD-1",
@@ -936,8 +966,8 @@
       ]
     },
     {
+      "title": "Episode 36",
       "episode": "36",
-      "title": "Ninja Village",
       "files": [
         {
           "name": "HD-1",
@@ -962,8 +992,8 @@
       ]
     },
     {
+      "title": "Episode 37",
       "episode": "37",
-      "title": "Ninja Soul",
       "files": [
         {
           "name": "HD-1",
@@ -988,8 +1018,8 @@
       ]
     },
     {
+      "title": "Episode 38",
       "episode": "38",
-      "title": "And Then There Were Five",
       "files": [
         {
           "name": "HD-1",
@@ -1014,8 +1044,8 @@
       ]
     },
     {
+      "title": "Episode 39",
       "episode": "39",
-      "title": "Those Who Protect Against All Odds",
       "files": [
         {
           "name": "HD-1",
@@ -1040,8 +1070,8 @@
       ]
     },
     {
+      "title": "Episode 40",
       "episode": "40",
-      "title": "Sworn Enemy",
       "files": [
         {
           "name": "HD-1",
@@ -1066,8 +1096,8 @@
       ]
     },
     {
+      "title": "Episode 41",
       "episode": "41",
-      "title": "The Crows Caw After The Battle Ends",
       "files": [
         {
           "name": "HD-1",
@@ -1092,8 +1122,8 @@
       ]
     },
     {
+      "title": "Episode 42",
       "episode": "42",
-      "title": "Farewell, Buddy",
       "files": [
         {
           "name": "HD-1",
@@ -1118,8 +1148,8 @@
       ]
     },
     {
+      "title": "Episode 43",
       "episode": "43",
-      "title": "The Day the Demon Cried",
       "files": [
         {
           "name": "HD-1",
@@ -1144,8 +1174,8 @@
       ]
     },
     {
+      "title": "Episode 44",
       "episode": "44",
-      "title": "Heroes Always Arrive Fashionably Late",
       "files": [
         {
           "name": "HD-1",
@@ -1170,8 +1200,8 @@
       ]
     },
     {
+      "title": "Episode 45",
       "episode": "45",
-      "title": "Lost and Found",
       "files": [
         {
           "name": "HD-1",
@@ -1196,8 +1226,8 @@
       ]
     },
     {
+      "title": "Episode 46",
       "episode": "46",
-      "title": "Prison Break / Essay Manga Are Easy to Animate",
       "files": [
         {
           "name": "HD-1",
@@ -1222,8 +1252,8 @@
       ]
     },
     {
+      "title": "Episode 47",
       "episode": "47",
-      "title": "Stray Dogs",
       "files": [
         {
           "name": "HD-1",
@@ -1248,8 +1278,8 @@
       ]
     },
     {
+      "title": "Episode 48",
       "episode": "48",
-      "title": "Undelivered Mail",
       "files": [
         {
           "name": "HD-1",
@@ -1274,8 +1304,8 @@
       ]
     },
     {
+      "title": "Episode 49",
       "episode": "49",
-      "title": "Karma",
       "files": [
         {
           "name": "HD-1",
@@ -1300,8 +1330,8 @@
       ]
     },
     {
+      "title": "Episode 50",
       "episode": "50",
-      "title": "Nobume",
       "files": [
         {
           "name": "HD-1",
@@ -1326,8 +1356,8 @@
       ]
     },
     {
+      "title": "Episode 51",
       "episode": "51",
-      "title": "Farewell Shinsengumi",
       "files": [
         {
           "name": "HD-1",
@@ -1351,5 +1381,9 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "20996",
+  "releaseDate": "2015-04-08",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

@@ -1,31 +1,57 @@
 {
   "title": "HAIKYU!! 3rd Season",
-  "synopsis": "After the victory against Aoba Jousai High, Karasuno High School, once called “a fallen powerhouse, a crow that can’t fly,” has finally reached the climax of the heated Spring tournament. Now, to advance to nationals, the Karasuno team has to defeat the powerhouse Shiratorizawa Academy. Karasuno’s greatest hurdle is their adversary’s ace, Wakatoshi Ushijima, the number one player in the Miyagi Prefecture, and one of the country’s top three aces.\n\n\n\nOnly the strongest team will make it to the national tournament. Since this match is the third-year players’ last chance to qualify for nationals, Karasuno has to use everything they learned during the training camp and prior matches to attain victory. Filled with restlessness and excitement, both teams are determined to come out on top in the third season of Haikyuu!!.\n\n\n\n[Written by MAL Rewrite]",
+  "synopsis": "After the victory against Aoba Jousai High, Karasuno High School, once called “a fallen powerhouse, a crow that can’t fly,” has finally reached the climax of the heated Spring tournament. Now, to advance to nationals, the Karasuno team has to defeat the powerhouse Shiratorizawa Academy. Karasuno’s greatest hurdle is their adversary’s ace, Wakatoshi Ushijima, the number one player in the Miyagi Prefecture, and one of the country’s top three aces.\n\\n\\n\nOnly the strongest team will make it to the national tournament. Since this match is the third-year players’ last chance to qualify for nationals, Karasuno has to use everything they learned during the training camp and prior matches to attain victory. Filled with restlessness and excitement, both teams are determined to come out on top in the third season of Haikyuu!!.\n\\n\\n\n[Written by MAL Rewrite]",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21698-RL71mr1YU5Io.png",
-  "synonym": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
-  "native": "ハイキュー!! 烏野高校 VS 白鳥沢学園高校",
-  "aired": "10/08/2016",
-  "premiered": "FALL 2016",
-  "duration": "25m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "10",
   "genres": [
     "Comedy",
     "Drama",
     "Sports"
   ],
-  "rating": "8.7",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "Production I.G"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] HAIKYU!! 3rd Season",
+      "link": "/2016/10/21698.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21698-RL71mr1YU5Io.png"
+    },
+    {
+      "title": "[TV Series] HAIKYU!! 2nd Season",
+      "link": "/2015/10/20992.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20992-aHgNbcalVEqk.png"
+    },
+    {
+      "title": "[Movie] Haikyu!! The Movie: Battle of Concepts",
+      "link": "/2017/09/98885.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98885-xzHYFUr0keBT.jpg"
+    },
+    {
+      "title": "[OVA] HAIKYU!! - Special Feature! The Spring Tournament of Their Youth",
+      "link": "/2017/08/107351.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107351-JJTbN2fjotHK.jpg"
+    },
+    {
+      "title": "[OVA] HAIKYU!! LAND VS. AIR",
+      "link": "/2020/01/111790.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111790-MrEJLRJxjPja.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Greetings",
       "files": [
         {
           "name": "HD-1",
@@ -50,8 +76,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "The Threat of the \"Left\"",
       "files": [
         {
           "name": "HD-1",
@@ -76,8 +102,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "GUESS-MONSTER",
       "files": [
         {
           "name": "HD-1",
@@ -102,8 +128,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "The Halo Around the Moon",
       "files": [
         {
           "name": "HD-1",
@@ -128,8 +154,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Individual VS Numbers",
       "files": [
         {
           "name": "HD-1",
@@ -154,8 +180,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "The Chemical Change of Encounters",
       "files": [
         {
           "name": "HD-1",
@@ -180,8 +206,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Obsession",
       "files": [
         {
           "name": "HD-1",
@@ -206,8 +232,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "An Annoying Guy",
       "files": [
         {
           "name": "HD-1",
@@ -232,8 +258,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "The Volleyball Idiots",
       "files": [
         {
           "name": "HD-1",
@@ -258,8 +284,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "The Battle of Concepts",
       "files": [
         {
           "name": "HD-1",
@@ -285,8 +311,7 @@
     }
   ],
   "streamingId": "21698",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2016-10-08",
-  "malId": "32935",
-  "_forceSyncTime": 1778771054378
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

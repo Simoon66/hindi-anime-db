@@ -1,31 +1,47 @@
 {
   "title": "Solo Leveling",
-  "synopsis": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Seong Jin-U. After being brutally slaughtered by monsters in a high-ranking dungeon, Jin-U came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.\n\n\n\n(Source: Crunchyroll) \n\n",
+  "synopsis": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Seong Jin-U. After being brutally slaughtered by monsters in a high-ranking dungeon, Jin-U came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.\\n\n\\n\n(Source: Crunchyroll) \\n\\n",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png",
-  "synonym": "Ore dake Level Up na Ken",
-  "native": "俺だけレベルアップな件",
-  "aired": "01/07/2024",
-  "premiered": "WINTER 2024",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "12",
   "genres": [
     "Action",
     "Adventure",
     "Fantasy"
   ],
-  "rating": "8.1",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "A-1 Pictures"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Solo Leveling",
+      "link": "/2024/01/151807.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png"
+    },
+    {
+      "title": "[TV Series] Solo Leveling Season 2 -Arise from the Shadow-",
+      "link": "/2025/01/176496.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176496-9BDMjAZGEbq4.png"
+    },
+    {
+      "title": "[Movie] Solo Leveling -ReAwakening-",
+      "link": "/2024/11/184694.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184694-EmVoCuV4uAGv.png"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "I’m Used to It",
       "files": [
         {
           "name": "HD-1",
@@ -50,8 +66,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "If I Had One More Chance",
       "files": [
         {
           "name": "HD-1",
@@ -76,8 +92,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "It's Like a Game",
       "files": [
         {
           "name": "HD-1",
@@ -102,8 +118,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "I've Gotta Get Stronger",
       "files": [
         {
           "name": "HD-1",
@@ -128,8 +144,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "A Pretty Good Deal",
       "files": [
         {
           "name": "HD-1",
@@ -154,8 +170,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "The Real Hunt Begins",
       "files": [
         {
           "name": "HD-1",
@@ -180,8 +196,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Let's See How Far I Can Go",
       "files": [
         {
           "name": "HD-1",
@@ -206,8 +222,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "This Is Frustrating",
       "files": [
         {
           "name": "HD-1",
@@ -232,8 +248,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "You've Been Hiding Your Skills",
       "files": [
         {
           "name": "HD-1",
@@ -258,8 +274,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "What Is This, a Picnic?",
       "files": [
         {
           "name": "HD-1",
@@ -284,8 +300,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "A Knight Who Defends an Empty Throne",
       "files": [
         {
           "name": "HD-1",
@@ -310,8 +326,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Arise",
       "files": [
         {
           "name": "HD-1",
@@ -337,8 +353,7 @@
     }
   ],
   "streamingId": "151807",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2024-01-07",
-  "malId": "52299",
-  "_forceSyncTime": 1778770626242
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

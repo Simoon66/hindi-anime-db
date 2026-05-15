@@ -1,12 +1,12 @@
 {
   "title": "My Hero Academia Season 4",
-  "synopsis": "The villain world teeters on the brink of war now that All For One is out of the picture. Shigaraki of the League of Villains squares off with Overhaul of the yakuza, vying for total control of the shadows. Meanwhile, Deku gets tangled in another dangerous internship as he struggles to keep pace with his upperclassman—Mirio.\n\n(Source: Crunchyroll)",
+  "synopsis": "The villain world teeters on the brink of war now that All For One is out of the picture. Shigaraki of the League of Villains squares off with Overhaul of the yakuza, vying for total control of the shadows. Meanwhile, Deku gets tangled in another dangerous internship as he struggles to keep pace with his upperclassman—Mirio.\\n\\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104276-SnEowMvesWIE.png",
-  "synonym": "Boku no Hero Academia 4",
-  "native": "僕のヒーローアカデミア４",
-  "aired": "10/12/2019",
-  "premiered": "FALL 2019",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "25",
   "genres": [
     "Action",
@@ -15,20 +15,56 @@
     "Drama",
     "Sci-Fi"
   ],
-  "rating": "7.9",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "bones"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] My Hero Academia Season 4",
+      "link": "/2019/10/104276.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104276-SnEowMvesWIE.png"
+    },
+    {
+      "title": "[TV Series] My Hero Academia Season 3",
+      "link": "/2018/04/100166.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100166-jUCZYbzn2XLw.jpg"
+    },
+    {
+      "title": "[Movie] My Hero Academia: Heroes Rising",
+      "link": "/2019/12/108553.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108553-yOLfFogpWnTF.jpg"
+    },
+    {
+      "title": "[TV Series] My Hero Academia Season 5",
+      "link": "/2021/03/117193.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117193-E75BlZmDh1aB.jpg"
+    },
+    {
+      "title": "[ONA] My Hero Academia: Make It! Do-or-Die Survival Training",
+      "link": "/2020/08/122349.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122349-DkEdG7N1231n.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "The Scoop on U.A. Class 1-A",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/104276/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/104276/1/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38408/1/sub",
@@ -42,9 +78,19 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Overhaul",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/104276/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/104276/2/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38408/2/sub",
@@ -58,9 +104,19 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Boy Meets...",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/104276/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/104276/3/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38408/3/sub",
@@ -74,9 +130,19 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Fighting Fate",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/104276/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/104276/4/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38408/4/sub",
@@ -90,9 +156,19 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Let's Go, Gutsy Red Riot",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/104276/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/104276/5/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38408/5/sub",
@@ -106,9 +182,19 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "An Unpleasant Talk",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/104276/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/104276/6/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38408/6/sub",
@@ -122,9 +208,19 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "GO!!",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/104276/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/104276/7/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38408/7/sub",
@@ -138,9 +234,19 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Suneater of the Big Three",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/104276/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/104276/8/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38408/8/sub",
@@ -154,9 +260,19 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Red Riot",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/104276/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/104276/9/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38408/9/sub",
@@ -170,9 +286,19 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Temp Squad",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/104276/10/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/104276/10/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/38408/10/sub",
@@ -186,8 +312,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Lemillion",
       "files": [
         {
           "name": "HD-1",
@@ -212,8 +338,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Unforeseen Hope",
       "files": [
         {
           "name": "HD-1",
@@ -238,8 +364,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "Infinite 100%",
       "files": [
         {
           "name": "HD-1",
@@ -264,8 +390,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "Bright Future",
       "files": [
         {
           "name": "HD-1",
@@ -290,8 +416,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "Smoldering Flames",
       "files": [
         {
           "name": "HD-1",
@@ -316,8 +442,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "Win Those Kids' Hearts",
       "files": [
         {
           "name": "HD-1",
@@ -342,8 +468,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "Relief for License Trainees",
       "files": [
         {
           "name": "HD-1",
@@ -368,8 +494,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "School Festival",
       "files": [
         {
           "name": "HD-1",
@@ -394,8 +520,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "Prepping for the School Festival Is the Funnest Part",
       "files": [
         {
           "name": "HD-1",
@@ -420,8 +546,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "Gold Tips Imperial",
       "files": [
         {
           "name": "HD-1",
@@ -446,8 +572,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "Deku vs. Gentle Criminal",
       "files": [
         {
           "name": "HD-1",
@@ -472,8 +598,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "School Festival Start!!",
       "files": [
         {
           "name": "HD-1",
@@ -498,8 +624,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "Let It Flow! School Festival!",
       "files": [
         {
           "name": "HD-1",
@@ -524,8 +650,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "Japanese Hero Billboard Chart",
       "files": [
         {
           "name": "HD-1",
@@ -550,8 +676,8 @@
       ]
     },
     {
+      "title": "Episode 25",
       "episode": "25",
-      "title": "His Start",
       "files": [
         {
           "name": "HD-1",
@@ -577,8 +703,7 @@
     }
   ],
   "streamingId": "104276",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2019-10-12",
-  "malId": "38408",
-  "_forceSyncTime": 1778769924502
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

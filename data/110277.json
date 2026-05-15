@@ -1,12 +1,12 @@
 {
   "title": "Attack on Titan Final Season",
-  "synopsis": "It’s been four years since the Scout Regiment reached the shoreline, and the world looks different now. Things are heating up as the fate of the Scout Regiment—and the people of Paradis—are determined at last. However, Eren is missing. Will he reappear before age-old tensions between Marleyans and Eldians result in the war of all wars?\n\n\n\n(Source: Crunchyroll)",
+  "synopsis": "It’s been four years since the Scout Regiment reached the shoreline, and the world looks different now. Things are heating up as the fate of the Scout Regiment—and the people of Paradis—are determined at last. However, Eren is missing. Will he reappear before age-old tensions between Marleyans and Eldians result in the war of all wars?\\n\n\\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-sKUNXAsWMNFw.jpg",
-  "synonym": "Shingeki no Kyojin: The Final Season",
-  "native": "進撃の巨人 The Final Season",
-  "aired": "12/07/2020",
-  "premiered": "WINTER 2021",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "16",
   "genres": [
     "Action",
@@ -14,19 +14,35 @@
     "Fantasy",
     "Mystery"
   ],
-  "rating": "8.7",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "MAPPA"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Attack on Titan Final Season",
+      "link": "/2020/12/110277.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-sKUNXAsWMNFw.jpg"
+    },
+    {
+      "title": "[TV Series] Attack on Titan Season 3 Part 2",
+      "link": "/2019/04/104578.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104578-k61nx3LPjvgd.jpg"
+    },
+    {
+      "title": "[TV Series] Attack on Titan Final Season Part 2",
+      "link": "/2022/01/131681.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131681-5ooUqvqNtee1.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "The Other Side of the Sea",
       "files": [
         {
           "name": "HD-1",
@@ -51,8 +67,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Midnight Train",
       "files": [
         {
           "name": "HD-1",
@@ -77,8 +93,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "The Door of Hope",
       "files": [
         {
           "name": "HD-1",
@@ -103,8 +119,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "From One Hand to Another",
       "files": [
         {
           "name": "HD-1",
@@ -129,8 +145,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Declaration of War",
       "files": [
         {
           "name": "HD-1",
@@ -155,8 +171,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "The War Hammer Titan",
       "files": [
         {
           "name": "HD-1",
@@ -181,8 +197,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Assault",
       "files": [
         {
           "name": "HD-1",
@@ -207,8 +223,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Assassin's Bullet",
       "files": [
         {
           "name": "HD-1",
@@ -233,8 +249,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Brave Volunteers",
       "files": [
         {
           "name": "HD-1",
@@ -259,8 +275,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "A Sound Argument",
       "files": [
         {
           "name": "HD-1",
@@ -285,8 +301,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Deceiver",
       "files": [
         {
           "name": "HD-1",
@@ -311,8 +327,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Guides",
       "files": [
         {
           "name": "HD-1",
@@ -337,8 +353,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "Children of the Forest",
       "files": [
         {
           "name": "HD-1",
@@ -363,8 +379,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "Savagery",
       "files": [
         {
           "name": "HD-1",
@@ -389,8 +405,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "Sole Salvation",
       "files": [
         {
           "name": "HD-1",
@@ -415,8 +431,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "Above and Below",
       "files": [
         {
           "name": "HD-1",
@@ -442,8 +458,7 @@
     }
   ],
   "streamingId": "110277",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2020-12-07",
-  "malId": "40028",
-  "_forceSyncTime": 1778769416008
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

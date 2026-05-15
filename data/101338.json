@@ -1,12 +1,12 @@
 {
   "title": "Mob Psycho 100 II",
-  "synopsis": "The second season of Mob Psycho 100. \n\n\nKageyama is an ordinary 8th grader who just wants to live a normal life. Although he can disappear in the crowd in a flash, he was actually the most powerful psychic. The lives of those around Mob and his numerous feelings that softly piles up for the eventual explosion. The mysterious group \"Claw\" stands before him once again. In the midst of his youthful days, where will his roaring heart take him!?\n\n\n\n\n(Source: Crunchyroll)",
+  "synopsis": "The second season of Mob Psycho 100. \\n\n\\nKageyama is an ordinary 8th grader who just wants to live a normal life. Although he can disappear in the crowd in a flash, he was actually the most powerful psychic. The lives of those around Mob and his numerous feelings that softly piles up for the eventual explosion. The mysterious group \"Claw\" stands before him once again. In the midst of his youthful days, where will his roaring heart take him!?\n\\n\n\\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101338-rokVscjRYzdP.jpg",
-  "synonym": "Mob Psycho 100 II",
-  "native": "モブサイコ100 II",
-  "aired": "01/07/2019",
-  "premiered": "WINTER 2019",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "13",
   "genres": [
     "Action",
@@ -16,19 +16,40 @@
     "Slice of Life",
     "Supernatural"
   ],
-  "rating": "8.7",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "bones"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Mob Psycho 100 II",
+      "link": "/2019/01/101338.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101338-rokVscjRYzdP.jpg"
+    },
+    {
+      "title": "[TV Series] Mob Psycho 100",
+      "link": "/2016/07/21507.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21507-6YUSbh2m0N1p.jpg"
+    },
+    {
+      "title": "[OVA] Mob Psycho 100 II: The First Spirits and Such Company Trip ~A Journey that Mends the Heart and Heals the Soul~",
+      "link": "/2019/09/109819.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109819-71ZeBjJuU3da.png"
+    },
+    {
+      "title": "[TV Series] Mob Psycho 100 III",
+      "link": "/2022/10/140439.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140439-bPKmhe1wNxc9.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Ripped Apart: Someone Is Watching",
       "files": [
         {
           "name": "HD-1",
@@ -53,8 +74,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Urban Legends: Encountering Rumors",
       "files": [
         {
           "name": "HD-1",
@@ -79,8 +100,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "One Danger After Another: Degeneration",
       "files": [
         {
           "name": "HD-1",
@@ -105,8 +126,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Inside: Evil Spirit",
       "files": [
         {
           "name": "HD-1",
@@ -131,8 +152,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Discord: Choices",
       "files": [
         {
           "name": "HD-1",
@@ -157,8 +178,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Poor, Lonely, Whitey",
       "files": [
         {
           "name": "HD-1",
@@ -183,8 +204,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Cornered: True Identity",
       "files": [
         {
           "name": "HD-1",
@@ -209,8 +230,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Even Then: Continue Forward",
       "files": [
         {
           "name": "HD-1",
@@ -235,8 +256,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Show Me What You've Got: Band Together",
       "files": [
         {
           "name": "HD-1",
@@ -261,8 +282,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Collision: Power Type",
       "files": [
         {
           "name": "HD-1",
@@ -287,8 +308,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Guidance: Psychic Sensor",
       "files": [
         {
           "name": "HD-1",
@@ -313,8 +334,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "The Battle for Social Rehabilitation: Friendship",
       "files": [
         {
           "name": "HD-1",
@@ -339,8 +360,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "Boss Fight ~The Final Light~",
       "files": [
         {
           "name": "HD-1",
@@ -366,8 +387,7 @@
     }
   ],
   "streamingId": "101338",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2019-01-07",
-  "malId": "37510",
-  "_forceSyncTime": 1778771595762
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

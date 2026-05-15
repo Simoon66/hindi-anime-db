@@ -1,31 +1,57 @@
 {
   "title": "HAIKYU!!",
-  "synopsis": "Inspired after watching a volleyball ace nicknamed \"Little Giant\" in action, small-statured Shouyou Hinata revives the volleyball club at his middle school. The newly-formed team even makes it to a tournament; however, their first match turns out to be their last when they are brutally squashed by the \"King of the Court,\" Tobio Kageyama. Hinata vows to surpass Kageyama, and so after graduating from middle school, he joins Karasuno High School's volleyball team—only to find that his sworn rival, Kageyama, is now his teammate.\n\n\n\nThanks to his short height, Hinata struggles to find his role on the team, even with his superior jumping power. Surprisingly, Kageyama has his own problems that only Hinata can help with, and learning to work together appears to be the only way for the team to be successful. Based on Haruichi Furudate's popular shounen manga of the same name, Haikyuu!! is an exhilarating and emotional sports comedy following two determined athletes as they attempt to patch a heated rivalry in order to make their high school volleyball team the best in Japan.\n\n\n\n[Written by MAL Rewrite]",
+  "synopsis": "Inspired after watching a volleyball ace nicknamed \"Little Giant\" in action, small-statured Shouyou Hinata revives the volleyball club at his middle school. The newly-formed team even makes it to a tournament; however, their first match turns out to be their last when they are brutally squashed by the \"King of the Court,\" Tobio Kageyama. Hinata vows to surpass Kageyama, and so after graduating from middle school, he joins Karasuno High School's volleyball team—only to find that his sworn rival, Kageyama, is now his teammate.\n\\n\\n\nThanks to his short height, Hinata struggles to find his role on the team, even with his superior jumping power. Surprisingly, Kageyama has his own problems that only Hinata can help with, and learning to work together appears to be the only way for the team to be successful. Based on Haruichi Furudate's popular shounen manga of the same name, Haikyuu!! is an exhilarating and emotional sports comedy following two determined athletes as they attempt to patch a heated rivalry in order to make their high school volleyball team the best in Japan.\n\\n\\n\n[Written by MAL Rewrite]",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-ooZUyBe4ptp9.png",
-  "synonym": "Haikyuu!!",
-  "native": "ハイキュー!!",
-  "aired": "04/06/2014",
-  "premiered": "SPRING 2014",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "25",
   "genres": [
     "Comedy",
     "Drama",
     "Sports"
   ],
-  "rating": "8.4",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "Production I.G"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] HAIKYU!!",
+      "link": "/2014/04/20464.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-ooZUyBe4ptp9.png"
+    },
+    {
+      "title": "[Movie] Haikyu!! the Movie: The End and the Beginning",
+      "link": "/2015/07/21120.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21120-x1TAu6HfHnyr.jpg"
+    },
+    {
+      "title": "[Movie] Haikyuu!! the Movie: The Winner and the Loser",
+      "link": "/2015/09/21244.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21244-xvjWi4fV0qkw.png"
+    },
+    {
+      "title": "[TV Series] HAIKYU!! 2nd Season",
+      "link": "/2015/10/20992.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20992-aHgNbcalVEqk.png"
+    },
+    {
+      "title": "[OVA] HAIKYU!!: Lev Appears!",
+      "link": "/2014/11/20884.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20884-5U9SNWxDJBeT.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "The End and the Beginning",
       "files": [
         {
           "name": "HD-1",
@@ -50,8 +76,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Karasuno High School Volleyball Club",
       "files": [
         {
           "name": "HD-1",
@@ -76,8 +102,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "The Formidable Ally",
       "files": [
         {
           "name": "HD-1",
@@ -102,8 +128,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "The View From the Summit",
       "files": [
         {
           "name": "HD-1",
@@ -128,8 +154,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "A Coward's Anxiety",
       "files": [
         {
           "name": "HD-1",
@@ -154,8 +180,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "An Interesting Team",
       "files": [
         {
           "name": "HD-1",
@@ -180,8 +206,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Versus the Great King",
       "files": [
         {
           "name": "HD-1",
@@ -206,8 +232,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "He Who Is Called Ace",
       "files": [
         {
           "name": "HD-1",
@@ -232,8 +258,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "A Toss to the Ace",
       "files": [
         {
           "name": "HD-1",
@@ -258,8 +284,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Yearning",
       "files": [
         {
           "name": "HD-1",
@@ -284,8 +310,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Decision",
       "files": [
         {
           "name": "HD-1",
@@ -310,8 +336,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "The Neko-Karasu Reunion",
       "files": [
         {
           "name": "HD-1",
@@ -336,8 +362,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "Rival",
       "files": [
         {
           "name": "HD-1",
@@ -362,8 +388,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "Formidable Opponents",
       "files": [
         {
           "name": "HD-1",
@@ -388,8 +414,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "Revival",
       "files": [
         {
           "name": "HD-1",
@@ -414,8 +440,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "Winners and Losers",
       "files": [
         {
           "name": "HD-1",
@@ -440,8 +466,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "The Iron Wall",
       "files": [
         {
           "name": "HD-1",
@@ -466,8 +492,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "Guarding Your Back",
       "files": [
         {
           "name": "HD-1",
@@ -492,8 +518,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "Conductors",
       "files": [
         {
           "name": "HD-1",
@@ -518,8 +544,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "Oikawa Toru is not a Genius",
       "files": [
         {
           "name": "HD-1",
@@ -544,8 +570,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "Senpai's True Abilities",
       "files": [
         {
           "name": "HD-1",
@@ -570,8 +596,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "Evolution",
       "files": [
         {
           "name": "HD-1",
@@ -596,8 +622,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "The Point that Changes the Momentum",
       "files": [
         {
           "name": "HD-1",
@@ -622,8 +648,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "Removing the Solitary King",
       "files": [
         {
           "name": "HD-1",
@@ -648,8 +674,8 @@
       ]
     },
     {
+      "title": "Episode 25",
       "episode": "25",
-      "title": "The Third Day",
       "files": [
         {
           "name": "HD-1",
@@ -675,8 +701,7 @@
     }
   ],
   "streamingId": "20464",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2014-04-06",
-  "malId": "20583",
-  "_forceSyncTime": 1778769695867
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

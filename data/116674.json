@@ -1,32 +1,47 @@
 {
   "title": "BLEACH: Thousand-Year Blood War",
-  "synopsis": "Was it all just a coincidence, or was it inevitable?\n\nIchigo Kurosaki gained the powers of a Soul Reaper through a chance encounter. As a Substitute\nSoul Reaper, Ichigo became caught in the turmoil of the Soul Society, a place where deceased\nsouls gather. But with help from his friends, Ichigo overcame every challenge to become even\nstronger.\n\nWhen new Soul Reapers and a new enemy appear in his hometown of Karakura, Ichigo jumps\nback into the battlefield with his Zanpakuto to help those in need. Meanwhile, the Soul Society\nis observing a sudden surge in the number of Hollows being destroyed in the World of the Living.\nThey also receive separate reports of residents in the Rukon District having gone missing. Finally,\nthe Seireitei, home of the Soul Reapers, comes under attack by a group calling themselves the\nWandenreich.\n\nLed by Yhwach, the father of all Quincies, the Wandenreich declare war against the Soul Reapers\nwith the following message: \"Five days from now, the Soul Society will be annihilated by the\nWandenreich.\"\n\nThe history and truth kept hidden by the Soul Reapers for a thousand long years is finally brought\nto light.\n\nAll things must come to an end as Ichigo Kurosaki's final battle begins!",
+  "synopsis": "Was it all just a coincidence, or was it inevitable?\n\\n\\n\nIchigo Kurosaki gained the powers of a Soul Reaper through a chance encounter. As a Substitute\nSoul Reaper, Ichigo became caught in the turmoil of the Soul Society, a place where deceased\nsouls gather. But with help from his friends, Ichigo overcame every challenge to become even\nstronger.\n\\n\\n\nWhen new Soul Reapers and a new enemy appear in his hometown of Karakura, Ichigo jumps\nback into the battlefield with his Zanpakuto to help those in need. Meanwhile, the Soul Society\nis observing a sudden surge in the number of Hollows being destroyed in the World of the Living.\nThey also receive separate reports of residents in the Rukon District having gone missing. Finally,\nthe Seireitei, home of the Soul Reapers, comes under attack by a group calling themselves the\nWandenreich.\n\\n\\n\nLed by Yhwach, the father of all Quincies, the Wandenreich declare war against the Soul Reapers\nwith the following message: \"Five days from now, the Soul Society will be annihilated by the\nWandenreich.\"\n\\n\\n\nThe history and truth kept hidden by the Soul Reapers for a thousand long years is finally brought\nto light.\n\\n\\n\nAll things must come to an end as Ichigo Kurosaki's final battle begins!",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116674-p3zK4PUX2Aag.jpg",
-  "synonym": "BLEACH: Sennen Kessen-hen",
-  "native": "BLEACH 千年血戦篇",
-  "aired": "10/11/2022",
-  "premiered": "FALL 2022",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "13",
   "genres": [
     "Action",
     "Adventure",
     "Supernatural"
   ],
-  "rating": "8.8",
-  "type": "TV",
-  "status": "FINISHED",
+  "rating": "",
+  "type": "TV Series",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Studio Pierrot",
+  "studios": [
+    "Studio Pierrot"
+  ],
   "producers": [],
-  "seasons": [],
-  "malId": "41467",
-  "streamingId": "116674",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "seasons": [
+    {
+      "title": "[TV Series] BLEACH: Thousand-Year Blood War",
+      "link": "/2022/10/116674.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116674-p3zK4PUX2Aag.jpg"
+    },
+    {
+      "title": "[TV Series] Bleach",
+      "link": "/2004/10/269.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx269-d2GmRkJbMopq.png"
+    },
+    {
+      "title": "[TV Series] BLEACH: Thousand-Year Blood War - The Separation",
+      "link": "/2023/07/159322.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159322-Sp1GflRhE6Po.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "The Blood Warfare",
       "files": [
         {
           "name": "HD-1",
@@ -51,8 +66,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Foundation Stones",
       "files": [
         {
           "name": "HD-1",
@@ -77,8 +92,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "March of the StarCross",
       "files": [
         {
           "name": "HD-1",
@@ -103,8 +118,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Kill the Shadow",
       "files": [
         {
           "name": "HD-1",
@@ -129,8 +144,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Wrath as a Lightning",
       "files": [
         {
           "name": "HD-1",
@@ -155,8 +170,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "The Fire",
       "files": [
         {
           "name": "HD-1",
@@ -181,8 +196,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Born in the Dark",
       "files": [
         {
           "name": "HD-1",
@@ -207,8 +222,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "The Shooting Star Project (Zero Mix)",
       "files": [
         {
           "name": "HD-1",
@@ -233,8 +248,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "The Drop",
       "files": [
         {
           "name": "HD-1",
@@ -259,8 +274,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "The Battle",
       "files": [
         {
           "name": "HD-1",
@@ -285,8 +300,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Everything But the Rain",
       "files": [
         {
           "name": "HD-1",
@@ -311,8 +326,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Everything But the Rain \"June Truth\"",
       "files": [
         {
           "name": "HD-1",
@@ -337,8 +352,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "The Blade Is Me",
       "files": [
         {
           "name": "HD-1",
@@ -362,5 +377,9 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "116674",
+  "releaseDate": "2022-10-11",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }
