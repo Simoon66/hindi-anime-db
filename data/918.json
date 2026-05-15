@@ -55,14 +55,19 @@
       "title": "You Jerks! And You Claim To Have Gintama?! (part 2)",
       "files": [
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/918/2/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/918/2/dub",
           "type": "dub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/918/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/918/2/sub",
+          "type": "sub"
         }
       ]
     },
@@ -1584,11 +1589,6 @@
           "type": "sub"
         },
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/918/61/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/918/61/sub",
           "type": "sub"
@@ -1604,11 +1604,6 @@
       "episode": "62",
       "title": "Even Mummy Hunters Sometimes Turn into Mummys",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/918/62/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/918/62/dub",
@@ -1630,11 +1625,6 @@
       "episode": "63",
       "title": "The Preview Section in JUMP is Always Unreliable",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/918/63/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/918/63/dub",
@@ -3950,11 +3940,6 @@
           "type": "sub"
         },
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/918/152/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/918/152/sub",
           "type": "sub"
@@ -4648,11 +4633,6 @@
       "files": [
         {
           "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/918/179/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/918/179/dub",
           "type": "dub"
         },
@@ -4678,11 +4658,6 @@
           "type": "sub"
         },
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/918/180/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/918/180/sub",
           "type": "sub"
@@ -4698,11 +4673,6 @@
       "episode": "181",
       "title": "Watch Out For A Set Of Women And A Drink",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/918/181/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/918/181/dub",
@@ -4726,11 +4696,6 @@
       "files": [
         {
           "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/918/182/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/918/182/dub",
           "type": "dub"
         },
@@ -4752,11 +4717,6 @@
       "files": [
         {
           "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/918/183/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/918/183/dub",
           "type": "dub"
         },
@@ -4776,11 +4736,6 @@
       "episode": "184",
       "title": "Popularity Polls Can...",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/918/184/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/918/184/dub",
@@ -4808,11 +4763,6 @@
           "type": "sub"
         },
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/918/185/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/918/185/sub",
           "type": "sub"
@@ -4828,11 +4778,6 @@
       "episode": "186",
       "title": "Beware Of Foreshadows",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/918/186/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/918/186/dub",
@@ -4854,11 +4799,6 @@
       "episode": "187",
       "title": "It's Goodbye Once A Flag Is Set",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/918/187/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/918/187/dub",
@@ -5245,5 +5185,5 @@
   "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2006-04-04",
   "malId": "918",
-  "_forceSyncTime": 1778772016607
+  "_forceSyncTime": 1778864456893
 }
