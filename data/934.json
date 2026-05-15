@@ -4,7 +4,7 @@
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx934-wjMlVEl4CWwg.jpg",
   "synonym": "Higurashi no Naku Koro ni",
   "native": "ひぐらしのなく頃に",
-  "aired": "4/5/2006",
+  "aired": "04/05/2006",
   "premiered": "SPRING 2006",
   "duration": "24m",
   "episodesCount": "26",
@@ -17,14 +17,13 @@
   ],
   "rating": "7.5",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Studio DEEN",
+  "studios": [
+    "Studio DEEN"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "934",
-  "streamingId": "934",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -702,5 +701,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "934",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2006-04-05",
+  "malId": "934",
+  "_forceSyncTime": 1778864730166
 }
