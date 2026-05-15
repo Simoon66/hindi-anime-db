@@ -1,10 +1,10 @@
 {
   "title": "Perfect Blue",
-  "synopsis": "Rising pop star Mima has quit singing to pursue a career as an actress and model, but her fans aren’t ready to see her go... Encouraged by her managers, Mima takes on a recurring role on a popular TV show, when suddenly her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima’s reality and fantasy meld into a frenzied paranoia. As her stalker closes in, in person and online, the threat he poses is more real than even Mima knows, in this iconic psychological thriller that has frequently been hailed as one of the most important animated films of all time.\n\n(Source: Shout! Factory)\n\nNote: The film received an early premiere at the Fantasia Film Festival on August 5, 1997.",
+  "synopsis": "Rising pop star Mima has quit singing to pursue a career as an actress and model, but her fans aren’t ready to see her go... Encouraged by her managers, Mima takes on a recurring role on a popular TV show, when suddenly her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima’s reality and fantasy meld into a frenzied paranoia. As her stalker closes in, in person and online, the threat he poses is more real than even Mima knows, in this iconic psychological thriller that has frequently been hailed as one of the most important animated films of all time.\n\n\n\n(Source: Shout! Factory)\n\n\n\nNote: The film received an early premiere at the Fantasia Film Festival on August 5, 1997.",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx437-69NMlXKFeuse.jpg",
   "synonym": "PERFECT BLUE",
   "native": "PERFECT BLUE",
-  "aired": "2/28/1998",
+  "aired": "02/28/1998",
   "premiered": "WINTER 1998",
   "duration": "82m",
   "episodesCount": "1",
@@ -15,15 +15,14 @@
     "Thriller"
   ],
   "rating": "8.5",
-  "type": "MOVIE",
-  "status": "FINISHED",
+  "type": "Movie",
+  "status": "Completed",
   "country": "JP",
-  "studios": "MADHOUSE",
+  "studios": [
+    "MADHOUSE"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "437",
-  "streamingId": "437",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -51,5 +50,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "437",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "1998-02-28",
+  "malId": "437",
+  "_forceSyncTime": 1778862320326
 }
