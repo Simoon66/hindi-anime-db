@@ -1,10 +1,10 @@
 {
   "title": "REBORN!",
-  "synopsis": "Nowadays, the mafia world is ruled by Italy's strongest family, the Vongola. Vongola's current head, ninth in the row, is an old man ready for retirement. But before he can hand down his position, he needs help from a professional Hitman to prepare the next generation Boss for ruling over Vongola and the mafia world itself.\nSawada Tsunayoshi is just your ordinary teenage boy who attends Junior High and sucks at it. He is unpopular, has no friends, and is desperately in love with a girl from his class. But his life takes an extraordinary turn when Tsunayoshi meets Reborn, an infamous hitman, who the ninth boss of Vongola has sent to train Tsunayoshi for his upcoming title.\n(Source: Katekyo Hitman Reborn! FC)",
+  "synopsis": "Nowadays, the mafia world is ruled by Italy's strongest family, the Vongola. Vongola's current head, ninth in the row, is an old man ready for retirement. But before he can hand down his position, he needs help from a professional Hitman to prepare the next generation Boss for ruling over Vongola and the mafia world itself.\n\n\nSawada Tsunayoshi is just your ordinary teenage boy who attends Junior High and sucks at it. He is unpopular, has no friends, and is desperately in love with a girl from his class. But his life takes an extraordinary turn when Tsunayoshi meets Reborn, an infamous hitman, who the ninth boss of Vongola has sent to train Tsunayoshi for his upcoming title.\n\n\n(Source: Katekyo Hitman Reborn! FC)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1604-W2q38L4OCGLI.png",
   "synonym": "Katekyou Hitman REBORN!",
   "native": "家庭教師ヒットマンREBORN!",
-  "aired": "10/7/2006",
+  "aired": "10/07/2006",
   "premiered": "FALL 2006",
   "duration": "24m",
   "episodesCount": "203",
@@ -17,18 +17,17 @@
   ],
   "rating": "7.7",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Artland",
+  "studios": [
+    "Artland"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "1604",
-  "streamingId": "1604",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
-      "title": "What? I'm a Tenth Generation Mafia Boss?!",
+      "title": "Episode 1",
       "files": [
         {
           "name": "HD-1",
@@ -54,7 +53,7 @@
     },
     {
       "episode": "2",
-      "title": "The End of School!?",
+      "title": "Episode 2",
       "files": [
         {
           "name": "HD-1",
@@ -80,7 +79,7 @@
     },
     {
       "episode": "3",
-      "title": "Shocking! Cooking with Love and Horror!",
+      "title": "Episode 3",
       "files": [
         {
           "name": "HD-1",
@@ -106,7 +105,7 @@
     },
     {
       "episode": "4",
-      "title": "Hahii! Destroy Girl's Hearts!",
+      "title": "Episode 4",
       "files": [
         {
           "name": "HD-1",
@@ -132,7 +131,7 @@
     },
     {
       "episode": "5",
-      "title": "The Director of the Discipline Committee's Avoidance of Boredom",
+      "title": "Episode 5",
       "files": [
         {
           "name": "HD-1",
@@ -158,7 +157,7 @@
     },
     {
       "episode": "6",
-      "title": "Ni-Hao Gyoza Fist!",
+      "title": "Episode 6",
       "files": [
         {
           "name": "HD-1",
@@ -184,7 +183,7 @@
     },
     {
       "episode": "7",
-      "title": "The Limit! Passionate Brother!",
+      "title": "Episode 7",
       "files": [
         {
           "name": "HD-1",
@@ -210,7 +209,7 @@
     },
     {
       "episode": "8",
-      "title": "The Senior Boss Thinks of his Family",
+      "title": "Episode 8",
       "files": [
         {
           "name": "HD-1",
@@ -236,7 +235,7 @@
     },
     {
       "episode": "9",
-      "title": "Short Life Skull Disease",
+      "title": "Episode 9",
       "files": [
         {
           "name": "HD-1",
@@ -262,7 +261,7 @@
     },
     {
       "episode": "10",
-      "title": "Gahaha! The Exploding Lunch Box!",
+      "title": "Episode 10",
       "files": [
         {
           "name": "HD-1",
@@ -288,7 +287,7 @@
     },
     {
       "episode": "11",
-      "title": "The Gyoza Dumpling of Love and Death",
+      "title": "Episode 11",
       "files": [
         {
           "name": "HD-1",
@@ -314,7 +313,7 @@
     },
     {
       "episode": "12",
-      "title": "Teacher`s Special Training! Strengthening Program",
+      "title": "Episode 12",
       "files": [
         {
           "name": "HD-1",
@@ -340,7 +339,7 @@
     },
     {
       "episode": "13",
-      "title": "New Year! Great Match of 100,000,000 Yen",
+      "title": "Episode 13",
       "files": [
         {
           "name": "HD-1",
@@ -366,7 +365,7 @@
     },
     {
       "episode": "14",
-      "title": "First Date!? Zoo of Hell",
+      "title": "Episode 14",
       "files": [
         {
           "name": "HD-1",
@@ -392,7 +391,7 @@
     },
     {
       "episode": "15",
-      "title": "Clash! Survival Snowball Fight",
+      "title": "Episode 15",
       "files": [
         {
           "name": "HD-1",
@@ -418,7 +417,7 @@
     },
     {
       "episode": "16",
-      "title": "Escape from the Mountain of Death!",
+      "title": "Episode 16",
       "files": [
         {
           "name": "HD-1",
@@ -444,7 +443,7 @@
     },
     {
       "episode": "17",
-      "title": "Hospitalized, Don't Make any Sound",
+      "title": "Episode 17",
       "files": [
         {
           "name": "HD-1",
@@ -470,7 +469,7 @@
     },
     {
       "episode": "18",
-      "title": "The Love Chocolate has Poison",
+      "title": "Episode 18",
       "files": [
         {
           "name": "HD-1",
@@ -496,7 +495,7 @@
     },
     {
       "episode": "19",
-      "title": "Infallible? The Ranking of anything!",
+      "title": "Episode 19",
       "files": [
         {
           "name": "HD-1",
@@ -522,7 +521,7 @@
     },
     {
       "episode": "20",
-      "title": "Sudden Attack",
+      "title": "Episode 20",
       "files": [
         {
           "name": "HD-1",
@@ -548,7 +547,7 @@
     },
     {
       "episode": "21",
-      "title": "Wounded Friends",
+      "title": "Episode 21",
       "files": [
         {
           "name": "HD-1",
@@ -574,7 +573,7 @@
     },
     {
       "episode": "22",
-      "title": "Foresawn Evil Influence",
+      "title": "Episode 22",
       "files": [
         {
           "name": "HD-1",
@@ -600,7 +599,7 @@
     },
     {
       "episode": "23",
-      "title": "The Last Dying Will Bullet",
+      "title": "Episode 23",
       "files": [
         {
           "name": "HD-1",
@@ -626,7 +625,7 @@
     },
     {
       "episode": "24",
-      "title": "The Counterattack",
+      "title": "Episode 24",
       "files": [
         {
           "name": "HD-1",
@@ -652,7 +651,7 @@
     },
     {
       "episode": "25",
-      "title": "I Want to Win! The Awakening Time",
+      "title": "Episode 25",
       "files": [
         {
           "name": "HD-1",
@@ -678,7 +677,7 @@
     },
     {
       "episode": "26",
-      "title": "The End and From Now on...",
+      "title": "Episode 26",
       "files": [
         {
           "name": "HD-1",
@@ -704,7 +703,7 @@
     },
     {
       "episode": "27",
-      "title": "Eat Sushi to Celebrate Promotion",
+      "title": "Episode 27",
       "files": [
         {
           "name": "HD-1",
@@ -730,7 +729,7 @@
     },
     {
       "episode": "28",
-      "title": "It's a Lie! We killed?",
+      "title": "Episode 28",
       "files": [
         {
           "name": "HD-1",
@@ -756,7 +755,7 @@
     },
     {
       "episode": "29",
-      "title": "Broccoli's Sweetheart?",
+      "title": "Episode 29",
       "files": [
         {
           "name": "HD-1",
@@ -782,7 +781,7 @@
     },
     {
       "episode": "30",
-      "title": "Hide and Seek on a Cruise Ship",
+      "title": "Episode 30",
       "files": [
         {
           "name": "HD-1",
@@ -808,7 +807,7 @@
     },
     {
       "episode": "31",
-      "title": "Welcoming at Mafia Land",
+      "title": "Episode 31",
       "files": [
         {
           "name": "HD-1",
@@ -834,7 +833,7 @@
     },
     {
       "episode": "32",
-      "title": "A Shark in the Public Pool",
+      "title": "Episode 32",
       "files": [
         {
           "name": "HD-1",
@@ -860,7 +859,7 @@
     },
     {
       "episode": "33",
-      "title": "Summer Vacation Ruined by Loans?",
+      "title": "Episode 33",
       "files": [
         {
           "name": "HD-1",
@@ -886,7 +885,7 @@
     },
     {
       "episode": "34",
-      "title": "The Varia Comes!",
+      "title": "Episode 34",
       "files": [
         {
           "name": "HD-1",
@@ -912,7 +911,7 @@
     },
     {
       "episode": "35",
-      "title": "The 7 Vongola Rings",
+      "title": "Episode 35",
       "files": [
         {
           "name": "HD-1",
@@ -938,7 +937,7 @@
     },
     {
       "episode": "36",
-      "title": "Katekyo, Start",
+      "title": "Episode 36",
       "files": [
         {
           "name": "HD-1",
@@ -964,7 +963,7 @@
     },
     {
       "episode": "37",
-      "title": "Master and Disciple Combi, Set",
+      "title": "Episode 37",
       "files": [
         {
           "name": "HD-1",
@@ -990,7 +989,7 @@
     },
     {
       "episode": "38",
-      "title": "The Disapperance of the Stubborn Fawn",
+      "title": "Episode 38",
       "files": [
         {
           "name": "HD-1",
@@ -1016,7 +1015,7 @@
     },
     {
       "episode": "39",
-      "title": "The Unseen Enemy's Motive",
+      "title": "Episode 39",
       "files": [
         {
           "name": "HD-1",
@@ -1042,7 +1041,7 @@
     },
     {
       "episode": "40",
-      "title": "Fight for the Ring Begins!",
+      "title": "Episode 40",
       "files": [
         {
           "name": "HD-1",
@@ -1068,7 +1067,7 @@
     },
     {
       "episode": "41",
-      "title": "Feelings of the Protector",
+      "title": "Episode 41",
       "files": [
         {
           "name": "HD-1",
@@ -1094,7 +1093,7 @@
     },
     {
       "episode": "42",
-      "title": "The Power to Rebound Adversity",
+      "title": "Episode 42",
       "files": [
         {
           "name": "HD-1",
@@ -1120,7 +1119,7 @@
     },
     {
       "episode": "43",
-      "title": "Thunder Strike of 20 Years Later",
+      "title": "Episode 43",
       "files": [
         {
           "name": "HD-1",
@@ -1146,7 +1145,7 @@
     },
     {
       "episode": "44",
-      "title": "The Stolen Sky Ring",
+      "title": "Episode 44",
       "files": [
         {
           "name": "HD-1",
@@ -1172,7 +1171,7 @@
     },
     {
       "episode": "45",
-      "title": "Storm Brewed by Angry Waves",
+      "title": "Episode 45",
       "files": [
         {
           "name": "HD-1",
@@ -1198,7 +1197,7 @@
     },
     {
       "episode": "46",
-      "title": "Reason to Fight",
+      "title": "Episode 46",
       "files": [
         {
           "name": "HD-1",
@@ -1224,7 +1223,7 @@
     },
     {
       "episode": "47",
-      "title": "The Strongest Invincible School",
+      "title": "Episode 47",
       "files": [
         {
           "name": "HD-1",
@@ -1250,7 +1249,7 @@
     },
     {
       "episode": "48",
-      "title": "Namegata's Game",
+      "title": "Episode 48",
       "files": [
         {
           "name": "HD-1",
@@ -1276,7 +1275,7 @@
     },
     {
       "episode": "49",
-      "title": "Requiem of the Rain",
+      "title": "Episode 49",
       "files": [
         {
           "name": "HD-1",
@@ -1302,7 +1301,7 @@
     },
     {
       "episode": "50",
-      "title": "Guardian of the Mist is Coming?!",
+      "title": "Episode 50",
       "files": [
         {
           "name": "HD-1",
@@ -1328,7 +1327,7 @@
     },
     {
       "episode": "51",
-      "title": "Illusion VS Illusion",
+      "title": "Episode 51",
       "files": [
         {
           "name": "HD-1",
@@ -1354,7 +1353,7 @@
     },
     {
       "episode": "52",
-      "title": "The Truth of the Mist",
+      "title": "Episode 52",
       "files": [
         {
           "name": "HD-1",
@@ -1380,7 +1379,7 @@
     },
     {
       "episode": "53",
-      "title": "A Touch of Uneasiness",
+      "title": "Episode 53",
       "files": [
         {
           "name": "HD-1",
@@ -1406,7 +1405,7 @@
     },
     {
       "episode": "54",
-      "title": "The Guardian of Cloud's Rampage",
+      "title": "Episode 54",
       "files": [
         {
           "name": "HD-1",
@@ -1432,7 +1431,7 @@
     },
     {
       "episode": "55",
-      "title": "Resolution",
+      "title": "Episode 55",
       "files": [
         {
           "name": "HD-1",
@@ -1458,7 +1457,7 @@
     },
     {
       "episode": "56",
-      "title": "Gokudera's Story",
+      "title": "Episode 56",
       "files": [
         {
           "name": "HD-1",
@@ -1484,7 +1483,7 @@
     },
     {
       "episode": "57",
-      "title": "The Battle of the Sky, Begins!",
+      "title": "Episode 57",
       "files": [
         {
           "name": "HD-1",
@@ -1510,7 +1509,7 @@
     },
     {
       "episode": "58",
-      "title": "Flame of Wrath",
+      "title": "Episode 58",
       "files": [
         {
           "name": "HD-1",
@@ -1536,7 +1535,7 @@
     },
     {
       "episode": "59",
-      "title": "Relieving Everyone",
+      "title": "Episode 59",
       "files": [
         {
           "name": "HD-1",
@@ -1562,7 +1561,7 @@
     },
     {
       "episode": "60",
-      "title": "Dying Will Zero Point Breakthrough",
+      "title": "Episode 60",
       "files": [
         {
           "name": "HD-1",
@@ -1588,7 +1587,7 @@
     },
     {
       "episode": "61",
-      "title": "Zero Point Breakthrough: Revised",
+      "title": "Episode 61",
       "files": [
         {
           "name": "HD-1",
@@ -1614,7 +1613,7 @@
     },
     {
       "episode": "62",
-      "title": "Strategy",
+      "title": "Episode 62",
       "files": [
         {
           "name": "HD-1",
@@ -1640,7 +1639,7 @@
     },
     {
       "episode": "63",
-      "title": "Freezing Flame",
+      "title": "Episode 63",
       "files": [
         {
           "name": "HD-1",
@@ -1666,7 +1665,7 @@
     },
     {
       "episode": "64",
-      "title": "The Rage's Truth",
+      "title": "Episode 64",
       "files": [
         {
           "name": "HD-1",
@@ -1692,7 +1691,7 @@
     },
     {
       "episode": "65",
-      "title": "Conclusion!",
+      "title": "Episode 65",
       "files": [
         {
           "name": "HD-1",
@@ -1718,7 +1717,7 @@
     },
     {
       "episode": "66",
-      "title": "The Shivering Ghost",
+      "title": "Episode 66",
       "files": [
         {
           "name": "HD-1",
@@ -1744,7 +1743,7 @@
     },
     {
       "episode": "67",
-      "title": "Vongola style Parent's Day",
+      "title": "Episode 67",
       "files": [
         {
           "name": "HD-1",
@@ -1770,7 +1769,7 @@
     },
     {
       "episode": "68",
-      "title": "Happy? Wedding",
+      "title": "Episode 68",
       "files": [
         {
           "name": "HD-1",
@@ -1796,7 +1795,7 @@
     },
     {
       "episode": "69",
-      "title": "Unthinkable Crime of Three Siblings",
+      "title": "Episode 69",
       "files": [
         {
           "name": "HD-1",
@@ -1822,7 +1821,7 @@
     },
     {
       "episode": "70",
-      "title": "Shoichi Irie's Calamity",
+      "title": "Episode 70",
       "files": [
         {
           "name": "HD-1",
@@ -1848,7 +1847,7 @@
     },
     {
       "episode": "71",
-      "title": "Spirit Battle! Absolute Evil Fist",
+      "title": "Episode 71",
       "files": [
         {
           "name": "HD-1",
@@ -1874,7 +1873,7 @@
     },
     {
       "episode": "72",
-      "title": "Expulsion Crisis",
+      "title": "Episode 72",
       "files": [
         {
           "name": "HD-1",
@@ -1900,7 +1899,7 @@
     },
     {
       "episode": "73",
-      "title": "Mom's Day of Thanks",
+      "title": "Episode 73",
       "files": [
         {
           "name": "HD-1",
@@ -1926,7 +1925,7 @@
     },
     {
       "episode": "74",
-      "title": "World Of Ten Years Later",
+      "title": "Episode 74",
       "files": [
         {
           "name": "HD-1",
@@ -1952,7 +1951,7 @@
     },
     {
       "episode": "75",
-      "title": "Hideout",
+      "title": "Episode 75",
       "files": [
         {
           "name": "HD-1",
@@ -1978,7 +1977,7 @@
     },
     {
       "episode": "76",
-      "title": "Search for the Guardian",
+      "title": "Episode 76",
       "files": [
         {
           "name": "HD-1",
@@ -2004,7 +2003,7 @@
     },
     {
       "episode": "77",
-      "title": "The Resolution's Flame",
+      "title": "Episode 77",
       "files": [
         {
           "name": "HD-1",
@@ -2030,7 +2029,7 @@
     },
     {
       "episode": "78",
-      "title": "The Clue to the Past",
+      "title": "Episode 78",
       "files": [
         {
           "name": "HD-1",
@@ -2056,7 +2055,7 @@
     },
     {
       "episode": "79",
-      "title": "First Trial",
+      "title": "Episode 79",
       "files": [
         {
           "name": "HD-1",
@@ -2082,7 +2081,7 @@
     },
     {
       "episode": "80",
-      "title": "Dissonance",
+      "title": "Episode 80",
       "files": [
         {
           "name": "HD-1",
@@ -2108,7 +2107,7 @@
     },
     {
       "episode": "81",
-      "title": "Combination",
+      "title": "Episode 81",
       "files": [
         {
           "name": "HD-1",
@@ -2134,7 +2133,7 @@
     },
     {
       "episode": "82",
-      "title": "The Strongest Guardian",
+      "title": "Episode 82",
       "files": [
         {
           "name": "HD-1",
@@ -2160,7 +2159,7 @@
     },
     {
       "episode": "83",
-      "title": "Information Divulged",
+      "title": "Episode 83",
       "files": [
         {
           "name": "HD-1",
@@ -2186,7 +2185,7 @@
     },
     {
       "episode": "84",
-      "title": "Be Too Distant Way Home",
+      "title": "Episode 84",
       "files": [
         {
           "name": "HD-1",
@@ -2212,7 +2211,7 @@
     },
     {
       "episode": "85",
-      "title": "Where's the Hideout?",
+      "title": "Episode 85",
       "files": [
         {
           "name": "HD-1",
@@ -2238,7 +2237,7 @@
     },
     {
       "episode": "86",
-      "title": "The Most Fearful Tutor",
+      "title": "Episode 86",
       "files": [
         {
           "name": "HD-1",
@@ -2264,7 +2263,7 @@
     },
     {
       "episode": "87",
-      "title": "Succession",
+      "title": "Episode 87",
       "files": [
         {
           "name": "HD-1",
@@ -2290,7 +2289,7 @@
     },
     {
       "episode": "88",
-      "title": "Trinisette",
+      "title": "Episode 88",
       "files": [
         {
           "name": "HD-1",
@@ -2316,7 +2315,7 @@
     },
     {
       "episode": "89",
-      "title": "Piano of Sorrow",
+      "title": "Episode 89",
       "files": [
         {
           "name": "HD-1",
@@ -2342,7 +2341,7 @@
     },
     {
       "episode": "90",
-      "title": "Rain Owl",
+      "title": "Episode 90",
       "files": [
         {
           "name": "HD-1",
@@ -2368,7 +2367,7 @@
     },
     {
       "episode": "91",
-      "title": "Those Who Believe",
+      "title": "Episode 91",
       "files": [
         {
           "name": "HD-1",
@@ -2394,7 +2393,7 @@
     },
     {
       "episode": "92",
-      "title": "The Entrusted Decision",
+      "title": "Episode 92",
       "files": [
         {
           "name": "HD-1",
@@ -2420,7 +2419,7 @@
     },
     {
       "episode": "93",
-      "title": "Emergency Warning Level D",
+      "title": "Episode 93",
       "files": [
         {
           "name": "HD-1",
@@ -2446,7 +2445,7 @@
     },
     {
       "episode": "94",
-      "title": "True Natures Revealed",
+      "title": "Episode 94",
       "files": [
         {
           "name": "HD-1",
@@ -2472,7 +2471,7 @@
     },
     {
       "episode": "95",
-      "title": "Determination",
+      "title": "Episode 95",
       "files": [
         {
           "name": "HD-1",
@@ -2498,7 +2497,7 @@
     },
     {
       "episode": "96",
-      "title": "X Burner",
+      "title": "Episode 96",
       "files": [
         {
           "name": "HD-1",
@@ -2524,7 +2523,7 @@
     },
     {
       "episode": "97",
-      "title": "Large pursuit",
+      "title": "Episode 97",
       "files": [
         {
           "name": "HD-1",
@@ -2550,7 +2549,7 @@
     },
     {
       "episode": "98",
-      "title": "Declaration",
+      "title": "Episode 98",
       "files": [
         {
           "name": "HD-1",
@@ -2576,7 +2575,7 @@
     },
     {
       "episode": "99",
-      "title": "Last Ordeal",
+      "title": "Episode 99",
       "files": [
         {
           "name": "HD-1",
@@ -2602,7 +2601,7 @@
     },
     {
       "episode": "100",
-      "title": "Rushing Into The Last Night",
+      "title": "Episode 100",
       "files": [
         {
           "name": "HD-1",
@@ -2628,7 +2627,7 @@
     },
     {
       "episode": "101",
-      "title": "Night Raid",
+      "title": "Episode 101",
       "files": [
         {
           "name": "HD-1",
@@ -2654,7 +2653,7 @@
     },
     {
       "episode": "102",
-      "title": "Operation Start",
+      "title": "Episode 102",
       "files": [
         {
           "name": "HD-1",
@@ -2680,7 +2679,7 @@
     },
     {
       "episode": "103",
-      "title": "The First Obstacle...",
+      "title": "Episode 103",
       "files": [
         {
           "name": "HD-1",
@@ -2706,7 +2705,7 @@
     },
     {
       "episode": "104",
-      "title": "The Fateful Magician",
+      "title": "Episode 104",
       "files": [
         {
           "name": "HD-1",
@@ -2732,7 +2731,7 @@
     },
     {
       "episode": "105",
-      "title": "Regret",
+      "title": "Episode 105",
       "files": [
         {
           "name": "HD-1",
@@ -2758,7 +2757,7 @@
     },
     {
       "episode": "106",
-      "title": "Student's Growth",
+      "title": "Episode 106",
       "files": [
         {
           "name": "HD-1",
@@ -2784,7 +2783,7 @@
     },
     {
       "episode": "107",
-      "title": "Desperate Situation",
+      "title": "Episode 107",
       "files": [
         {
           "name": "HD-1",
@@ -2810,7 +2809,7 @@
     },
     {
       "episode": "108",
-      "title": "A Man's Box Weapon",
+      "title": "Episode 108",
       "files": [
         {
           "name": "HD-1",
@@ -2836,7 +2835,7 @@
     },
     {
       "episode": "109",
-      "title": "Captive",
+      "title": "Episode 109",
       "files": [
         {
           "name": "HD-1",
@@ -2862,7 +2861,7 @@
     },
     {
       "episode": "110",
-      "title": "The Secret of Melone Base",
+      "title": "Episode 110",
       "files": [
         {
           "name": "HD-1",
@@ -2888,7 +2887,7 @@
     },
     {
       "episode": "111",
-      "title": "The Enemy is Octopus-Head",
+      "title": "Episode 111",
       "files": [
         {
           "name": "HD-1",
@@ -2914,7 +2913,7 @@
     },
     {
       "episode": "112",
-      "title": "Boomerang's Trap",
+      "title": "Episode 112",
       "files": [
         {
           "name": "HD-1",
@@ -2940,7 +2939,7 @@
     },
     {
       "episode": "113",
-      "title": "Electric, Again",
+      "title": "Episode 113",
       "files": [
         {
           "name": "HD-1",
@@ -2966,7 +2965,7 @@
     },
     {
       "episode": "114",
-      "title": "Guardian of the Storm, Stand Up",
+      "title": "Episode 114",
       "files": [
         {
           "name": "HD-1",
@@ -2992,7 +2991,7 @@
     },
     {
       "episode": "115",
-      "title": "System C.A.I.",
+      "title": "Episode 115",
       "files": [
         {
           "name": "HD-1",
@@ -3018,7 +3017,7 @@
     },
     {
       "episode": "116",
-      "title": "Difference of Resolution",
+      "title": "Episode 116",
       "files": [
         {
           "name": "HD-1",
@@ -3044,7 +3043,7 @@
     },
     {
       "episode": "117",
-      "title": "Storm's Counterattack",
+      "title": "Episode 117",
       "files": [
         {
           "name": "HD-1",
@@ -3070,7 +3069,7 @@
     },
     {
       "episode": "118",
-      "title": "The Princess' Conviction",
+      "title": "Episode 118",
       "files": [
         {
           "name": "HD-1",
@@ -3096,7 +3095,7 @@
     },
     {
       "episode": "119",
-      "title": "Interval Between the Fights",
+      "title": "Episode 119",
       "files": [
         {
           "name": "HD-1",
@@ -3122,7 +3121,7 @@
     },
     {
       "episode": "120",
-      "title": "Virtual Space",
+      "title": "Episode 120",
       "files": [
         {
           "name": "HD-1",
@@ -3148,7 +3147,7 @@
     },
     {
       "episode": "121",
-      "title": "The Two Fights",
+      "title": "Episode 121",
       "files": [
         {
           "name": "HD-1",
@@ -3174,7 +3173,7 @@
     },
     {
       "episode": "122",
-      "title": "The Strongest Swordsman",
+      "title": "Episode 122",
       "files": [
         {
           "name": "HD-1",
@@ -3200,7 +3199,7 @@
     },
     {
       "episode": "123",
-      "title": "Doctrine of the Sword Emperor",
+      "title": "Episode 123",
       "files": [
         {
           "name": "HD-1",
@@ -3226,7 +3225,7 @@
     },
     {
       "episode": "124",
-      "title": "The Blocking Mist",
+      "title": "Episode 124",
       "files": [
         {
           "name": "HD-1",
@@ -3252,7 +3251,7 @@
     },
     {
       "episode": "125",
-      "title": "More Intruders",
+      "title": "Episode 125",
       "files": [
         {
           "name": "HD-1",
@@ -3278,7 +3277,7 @@
     },
     {
       "episode": "126",
-      "title": "The Strongest versus The Strongest",
+      "title": "Episode 126",
       "files": [
         {
           "name": "HD-1",
@@ -3304,7 +3303,7 @@
     },
     {
       "episode": "127",
-      "title": "Mystic Flower",
+      "title": "Episode 127",
       "files": [
         {
           "name": "HD-1",
@@ -3330,7 +3329,7 @@
     },
     {
       "episode": "128",
-      "title": "Here comes the Leader of the Disciplinary Committee",
+      "title": "Episode 128",
       "files": [
         {
           "name": "HD-1",
@@ -3356,7 +3355,7 @@
     },
     {
       "episode": "129",
-      "title": "Operation X",
+      "title": "Episode 129",
       "files": [
         {
           "name": "HD-1",
@@ -3382,7 +3381,7 @@
     },
     {
       "episode": "130",
-      "title": "Resolve and Irritation",
+      "title": "Episode 130",
       "files": [
         {
           "name": "HD-1",
@@ -3408,7 +3407,7 @@
     },
     {
       "episode": "131",
-      "title": "Rampage",
+      "title": "Episode 131",
       "files": [
         {
           "name": "HD-1",
@@ -3434,7 +3433,7 @@
     },
     {
       "episode": "132",
-      "title": "Final Block of Defense",
+      "title": "Episode 132",
       "files": [
         {
           "name": "HD-1",
@@ -3460,7 +3459,7 @@
     },
     {
       "episode": "133",
-      "title": "A Game-Changing Move",
+      "title": "Episode 133",
       "files": [
         {
           "name": "HD-1",
@@ -3486,7 +3485,7 @@
     },
     {
       "episode": "134",
-      "title": "The Knight From Hell",
+      "title": "Episode 134",
       "files": [
         {
           "name": "HD-1",
@@ -3512,7 +3511,7 @@
     },
     {
       "episode": "135",
-      "title": "Arrival!",
+      "title": "Episode 135",
       "files": [
         {
           "name": "HD-1",
@@ -3538,7 +3537,7 @@
     },
     {
       "episode": "136",
-      "title": "Revealed Truth",
+      "title": "Episode 136",
       "files": [
         {
           "name": "HD-1",
@@ -3564,7 +3563,7 @@
     },
     {
       "episode": "137",
-      "title": "Main Battle in Italy",
+      "title": "Episode 137",
       "files": [
         {
           "name": "HD-1",
@@ -3590,7 +3589,7 @@
     },
     {
       "episode": "138",
-      "title": "Twin Princes",
+      "title": "Episode 138",
       "files": [
         {
           "name": "HD-1",
@@ -3616,7 +3615,7 @@
     },
     {
       "episode": "139",
-      "title": "Furious Roar",
+      "title": "Episode 139",
       "files": [
         {
           "name": "HD-1",
@@ -3642,7 +3641,7 @@
     },
     {
       "episode": "140",
-      "title": "Another Sky",
+      "title": "Episode 140",
       "files": [
         {
           "name": "HD-1",
@@ -3668,7 +3667,7 @@
     },
     {
       "episode": "141",
-      "title": "Reunion",
+      "title": "Episode 141",
       "files": [
         {
           "name": "HD-1",
@@ -3694,7 +3693,7 @@
     },
     {
       "episode": "142",
-      "title": "The Strongest Seven",
+      "title": "Episode 142",
       "files": [
         {
           "name": "HD-1",
@@ -3720,7 +3719,7 @@
     },
     {
       "episode": "143",
-      "title": "Trial #1",
+      "title": "Episode 143",
       "files": [
         {
           "name": "HD-1",
@@ -3746,7 +3745,7 @@
     },
     {
       "episode": "144",
-      "title": "The Arcobaleno Seals",
+      "title": "Episode 144",
       "files": [
         {
           "name": "HD-1",
@@ -3772,7 +3771,7 @@
     },
     {
       "episode": "145",
-      "title": "Guardian Showdown! Cloud and Mist",
+      "title": "Episode 145",
       "files": [
         {
           "name": "HD-1",
@@ -3798,7 +3797,7 @@
     },
     {
       "episode": "146",
-      "title": "Box Weapon Prototype",
+      "title": "Episode 146",
       "files": [
         {
           "name": "HD-1",
@@ -3824,7 +3823,7 @@
     },
     {
       "episode": "147",
-      "title": "Catching the Wind",
+      "title": "Episode 147",
       "files": [
         {
           "name": "HD-1",
@@ -3850,7 +3849,7 @@
     },
     {
       "episode": "148",
-      "title": "The Two who Inherit the Heavens",
+      "title": "Episode 148",
       "files": [
         {
           "name": "HD-1",
@@ -3876,7 +3875,7 @@
     },
     {
       "episode": "149",
-      "title": "Reborn's Examination",
+      "title": "Episode 149",
       "files": [
         {
           "name": "HD-1",
@@ -3902,7 +3901,7 @@
     },
     {
       "episode": "150",
-      "title": "Closed Path",
+      "title": "Episode 150",
       "files": [
         {
           "name": "HD-1",
@@ -3928,7 +3927,7 @@
     },
     {
       "episode": "151",
-      "title": "When a Rainbow Forms",
+      "title": "Episode 151",
       "files": [
         {
           "name": "HD-1",
@@ -3954,7 +3953,7 @@
     },
     {
       "episode": "152",
-      "title": "The Boss` Resolution",
+      "title": "Episode 152",
       "files": [
         {
           "name": "HD-1",
@@ -3980,7 +3979,7 @@
     },
     {
       "episode": "153",
-      "title": "The Last Mark",
+      "title": "Episode 153",
       "files": [
         {
           "name": "HD-1",
@@ -4006,7 +4005,7 @@
     },
     {
       "episode": "154",
-      "title": "To the Next Battle",
+      "title": "Episode 154",
       "files": [
         {
           "name": "HD-1",
@@ -4032,7 +4031,7 @@
     },
     {
       "episode": "155",
-      "title": "The Real 6 Funeral Wreaths",
+      "title": "Episode 155",
       "files": [
         {
           "name": "HD-1",
@@ -4058,7 +4057,7 @@
     },
     {
       "episode": "156",
-      "title": "Inspiring Allies",
+      "title": "Episode 156",
       "files": [
         {
           "name": "HD-1",
@@ -4084,7 +4083,7 @@
     },
     {
       "episode": "157",
-      "title": "Namimori Holiday",
+      "title": "Episode 157",
       "files": [
         {
           "name": "HD-1",
@@ -4110,7 +4109,7 @@
     },
     {
       "episode": "158",
-      "title": "A Warm Place",
+      "title": "Episode 158",
       "files": [
         {
           "name": "HD-1",
@@ -4136,7 +4135,7 @@
     },
     {
       "episode": "159",
-      "title": "For My Friends",
+      "title": "Episode 159",
       "files": [
         {
           "name": "HD-1",
@@ -4162,7 +4161,7 @@
     },
     {
       "episode": "160",
-      "title": "Gaining Mobility",
+      "title": "Episode 160",
       "files": [
         {
           "name": "HD-1",
@@ -4188,7 +4187,7 @@
     },
     {
       "episode": "161",
-      "title": "Airbike",
+      "title": "Episode 161",
       "files": [
         {
           "name": "HD-1",
@@ -4214,7 +4213,7 @@
     },
     {
       "episode": "162",
-      "title": "The Sky Vongola Box",
+      "title": "Episode 162",
       "files": [
         {
           "name": "HD-1",
@@ -4240,7 +4239,7 @@
     },
     {
       "episode": "163",
-      "title": "Terror! Turmoil on Base",
+      "title": "Episode 163",
       "files": [
         {
           "name": "HD-1",
@@ -4266,7 +4265,7 @@
     },
     {
       "episode": "164",
-      "title": "Vongola Box, Training Begins",
+      "title": "Episode 164",
       "files": [
         {
           "name": "HD-1",
@@ -4292,7 +4291,7 @@
     },
     {
       "episode": "165",
-      "title": "Boycott Declared",
+      "title": "Episode 165",
       "files": [
         {
           "name": "HD-1",
@@ -4318,7 +4317,7 @@
     },
     {
       "episode": "166",
-      "title": "With the Same Heart",
+      "title": "Episode 166",
       "files": [
         {
           "name": "HD-1",
@@ -4344,7 +4343,7 @@
     },
     {
       "episode": "167",
-      "title": "Day Of The Battle",
+      "title": "Episode 167",
       "files": [
         {
           "name": "HD-1",
@@ -4370,7 +4369,7 @@
     },
     {
       "episode": "168",
-      "title": "Choice Begins",
+      "title": "Episode 168",
       "files": [
         {
           "name": "HD-1",
@@ -4396,7 +4395,7 @@
     },
     {
       "episode": "169",
-      "title": "Sky Lion: Leone di Cielo ver. Vongola",
+      "title": "Episode 169",
       "files": [
         {
           "name": "HD-1",
@@ -4422,7 +4421,7 @@
     },
     {
       "episode": "170",
-      "title": "Fateful Showdown",
+      "title": "Episode 170",
       "files": [
         {
           "name": "HD-1",
@@ -4448,7 +4447,7 @@
     },
     {
       "episode": "171",
-      "title": "Revenge",
+      "title": "Episode 171",
       "files": [
         {
           "name": "HD-1",
@@ -4474,7 +4473,7 @@
     },
     {
       "episode": "172",
-      "title": "Kikyo's Assault",
+      "title": "Episode 172",
       "files": [
         {
           "name": "HD-1",
@@ -4500,7 +4499,7 @@
     },
     {
       "episode": "173",
-      "title": "Choice Ends",
+      "title": "Episode 173",
       "files": [
         {
           "name": "HD-1",
@@ -4526,7 +4525,7 @@
     },
     {
       "episode": "174",
-      "title": "The Truth About the Future",
+      "title": "Episode 174",
       "files": [
         {
           "name": "HD-1",
@@ -4552,7 +4551,7 @@
     },
     {
       "episode": "175",
-      "title": "Yuni Comes",
+      "title": "Episode 175",
       "files": [
         {
           "name": "HD-1",
@@ -4578,7 +4577,7 @@
     },
     {
       "episode": "176",
-      "title": "Escape",
+      "title": "Episode 176",
       "files": [
         {
           "name": "HD-1",
@@ -4604,7 +4603,7 @@
     },
     {
       "episode": "177",
-      "title": "After the Battle",
+      "title": "Episode 177",
       "files": [
         {
           "name": "HD-1",
@@ -4630,7 +4629,7 @@
     },
     {
       "episode": "178",
-      "title": "The Primo Family Arrives!",
+      "title": "Episode 178",
       "files": [
         {
           "name": "HD-1",
@@ -4656,7 +4655,7 @@
     },
     {
       "episode": "179",
-      "title": "Inheritance Begins",
+      "title": "Episode 179",
       "files": [
         {
           "name": "HD-1",
@@ -4682,7 +4681,7 @@
     },
     {
       "episode": "180",
-      "title": "The Duty of the Guardian of Rain",
+      "title": "Episode 180",
       "files": [
         {
           "name": "HD-1",
@@ -4708,7 +4707,7 @@
     },
     {
       "episode": "181",
-      "title": "Furious Bolt of Lightning",
+      "title": "Episode 181",
       "files": [
         {
           "name": "HD-1",
@@ -4734,7 +4733,7 @@
     },
     {
       "episode": "182",
-      "title": "Silent Storm",
+      "title": "Episode 182",
       "files": [
         {
           "name": "HD-1",
@@ -4760,7 +4759,7 @@
     },
     {
       "episode": "183",
-      "title": "Aloof Cloud",
+      "title": "Episode 183",
       "files": [
         {
           "name": "HD-1",
@@ -4786,7 +4785,7 @@
     },
     {
       "episode": "184",
-      "title": "Sunny Then Cloudy",
+      "title": "Episode 184",
       "files": [
         {
           "name": "HD-1",
@@ -4812,7 +4811,7 @@
     },
     {
       "episode": "185",
-      "title": "The Trap is Set",
+      "title": "Episode 185",
       "files": [
         {
           "name": "HD-1",
@@ -4838,7 +4837,7 @@
     },
     {
       "episode": "186",
-      "title": "Bewitching Mist",
+      "title": "Episode 186",
       "files": [
         {
           "name": "HD-1",
@@ -4864,7 +4863,7 @@
     },
     {
       "episode": "187",
-      "title": "Memories of Betrayal",
+      "title": "Episode 187",
       "files": [
         {
           "name": "HD-1",
@@ -4890,7 +4889,7 @@
     },
     {
       "episode": "188",
-      "title": "Primo's Will",
+      "title": "Episode 188",
       "files": [
         {
           "name": "HD-1",
@@ -4916,7 +4915,7 @@
     },
     {
       "episode": "189",
-      "title": "The Family's Resolve",
+      "title": "Episode 189",
       "files": [
         {
           "name": "HD-1",
@@ -4942,7 +4941,7 @@
     },
     {
       "episode": "190",
-      "title": "The Real 6 Funeral Wreaths Attack!",
+      "title": "Episode 190",
       "files": [
         {
           "name": "HD-1",
@@ -4968,7 +4967,7 @@
     },
     {
       "episode": "191",
-      "title": "Open Carnage Box",
+      "title": "Episode 191",
       "files": [
         {
           "name": "HD-1",
@@ -4994,7 +4993,7 @@
     },
     {
       "episode": "192",
-      "title": "Alaude's Handcuffs",
+      "title": "Episode 192",
       "files": [
         {
           "name": "HD-1",
@@ -5020,7 +5019,7 @@
     },
     {
       "episode": "193",
-      "title": "Daemon Spade's Devil Lens",
+      "title": "Episode 193",
       "files": [
         {
           "name": "HD-1",
@@ -5046,7 +5045,7 @@
     },
     {
       "episode": "194",
-      "title": "The Final Battle Begins",
+      "title": "Episode 194",
       "files": [
         {
           "name": "HD-1",
@@ -5072,7 +5071,7 @@
     },
     {
       "episode": "195",
-      "title": "G´s Archery",
+      "title": "Episode 195",
       "files": [
         {
           "name": "HD-1",
@@ -5098,7 +5097,7 @@
     },
     {
       "episode": "196",
-      "title": "Lampo's Shield",
+      "title": "Episode 196",
       "files": [
         {
           "name": "HD-1",
@@ -5124,7 +5123,7 @@
     },
     {
       "episode": "197",
-      "title": "Knuckle's Maximum Break",
+      "title": "Episode 197",
       "files": [
         {
           "name": "HD-1",
@@ -5150,7 +5149,7 @@
     },
     {
       "episode": "198",
-      "title": "The Last Real Funeral Wreath",
+      "title": "Episode 198",
       "files": [
         {
           "name": "HD-1",
@@ -5176,7 +5175,7 @@
     },
     {
       "episode": "199",
-      "title": "Ghost Awakens",
+      "title": "Episode 199",
       "files": [
         {
           "name": "HD-1",
@@ -5202,7 +5201,7 @@
     },
     {
       "episode": "200",
-      "title": "Sky Full of Desire",
+      "title": "Episode 200",
       "files": [
         {
           "name": "HD-1",
@@ -5228,7 +5227,7 @@
     },
     {
       "episode": "201",
-      "title": "Precious Moments in Time",
+      "title": "Episode 201",
       "files": [
         {
           "name": "HD-1",
@@ -5254,7 +5253,7 @@
     },
     {
       "episode": "202",
-      "title": "Sea. Clam. Rainbow.",
+      "title": "Episode 202",
       "files": [
         {
           "name": "HD-1",
@@ -5280,7 +5279,7 @@
     },
     {
       "episode": "203",
-      "title": "To a New Future",
+      "title": "Episode 203",
       "files": [
         {
           "name": "HD-1",
@@ -5304,5 +5303,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "1604",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2006-10-07",
+  "malId": "1604",
+  "_forceSyncTime": 1778867008898
 }
