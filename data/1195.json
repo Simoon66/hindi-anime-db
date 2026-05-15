@@ -4,7 +4,7 @@
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1195-odpKgDQ7A1fV.png",
   "synonym": "Zero no Tsukaima",
   "native": "ゼロの使い魔",
-  "aired": "7/3/2006",
+  "aired": "07/03/2006",
   "premiered": "SUMMER 2006",
   "duration": "23m",
   "episodesCount": "13",
@@ -18,14 +18,13 @@
   ],
   "rating": "6.8",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "J.C.STAFF",
+  "studios": [
+    "J.C.STAFF"
+  ],
   "producers": [],
   "seasons": [],
-  "malId": "1195",
-  "streamingId": "1195",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
   "episodes": [
     {
       "episode": "1",
@@ -365,5 +364,10 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "1195",
+  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
+  "releaseDate": "2006-07-03",
+  "malId": "1195",
+  "_forceSyncTime": 1778864896156
 }
