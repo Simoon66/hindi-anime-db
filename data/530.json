@@ -1,10 +1,10 @@
 {
   "title": "Sailor Moon",
-  "synopsis": "Usagi Tsukino is an average student and crybaby klutz who constantly scores low on her tests. Unexpectedly, her humdrum life is turned upside down when she saves a cat with a crescent moon on its head from danger. The cat, named Luna, later reveals that their meeting was not an accident: Usagi is destined to become Sailor Moon, a planetary guardian with the power to protect the Earth. Given a special brooch that allows her to transform, she must use her new powers to save the city from evil energy-stealing monsters sent by the malevolent Queen Beryl of the Dark Kingdom.\n\nBut getting accustomed to her powers and fighting villains are not the only things she has to worry about. She must find the lost princess of the Moon Kingdom, the other Sailor Guardians, and the Legendary Silver Crystal in order to save the planet from destruction.\n\n(Source: MAL Rewrite)",
+  "synopsis": "Usagi Tsukino is an average student and crybaby klutz who constantly scores low on her tests. Unexpectedly, her humdrum life is turned upside down when she saves a cat with a crescent moon on its head from danger. The cat, named Luna, later reveals that their meeting was not an accident: Usagi is destined to become Sailor Moon, a planetary guardian with the power to protect the Earth. Given a special brooch that allows her to transform, she must use her new powers to save the city from evil energy-stealing monsters sent by the malevolent Queen Beryl of the Dark Kingdom.\n\n\n\nBut getting accustomed to her powers and fighting villains are not the only things she has to worry about. She must find the lost princess of the Moon Kingdom, the other Sailor Guardians, and the Legendary Silver Crystal in order to save the planet from destruction.\n\n\n\n(Source: MAL Rewrite)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx530-O8q6KpJ244Qk.jpg",
   "synonym": "Bishoujo Senshi Sailor Moon",
   "native": "美少女戦士セーラームーン",
-  "aired": "3/7/1992",
+  "aired": "03/07/1992",
   "premiered": "WINTER 1992",
   "duration": "24m",
   "episodesCount": "46",
@@ -15,20 +15,169 @@
     "Mahou Shoujo",
     "Romance"
   ],
-  "rating": "7.6",
   "type": "TV",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Toei Animation",
+  "studios": [
+    "Toei Animation"
+  ],
   "producers": [],
-  "seasons": [],
-  "malId": "530",
-  "streamingId": "530",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "seasons": [
+    {
+      "title": "Season 1",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+      "link": "/search/label/id_21"
+    },
+    {
+      "title": "Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx530-O8q6KpJ244Qk.jpg",
+      "link": "/search/label/id_530"
+    },
+    {
+      "title": "Movie - ONE PIECE (Movie)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx459-Ivw65mUXackh.png",
+      "link": "/search/label/id_459"
+    },
+    {
+      "title": "Movie - ONE PIECE: Nejimaki-jima no Bouken",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx460-p9HObfGUhWn0.jpg",
+      "link": "/search/label/id_460"
+    },
+    {
+      "title": "Movie - Bishoujo Senshi Sailor Moon R: THE MOVIE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx531-FCc5IMkzRlrU.jpg",
+      "link": "/search/label/id_531"
+    },
+    {
+      "title": "Movie - ONE PIECE: Chinjuu-jima no Chopper Oukoku",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx461-DC9fMDl3AaK1.jpg",
+      "link": "/search/label/id_461"
+    },
+    {
+      "title": "Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx532-D6yrPcsSxhSE.jpg",
+      "link": "/search/label/id_532"
+    },
+    {
+      "title": "Movie - ONE PIECE THE MOVIE: Dead End no Bouken",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx462-Ig8zfdsFWcql.png",
+      "link": "/search/label/id_462"
+    },
+    {
+      "title": "Movie - ONE PIECE: Norowareta Seiken",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx463-QDnETPoHp9oD.jpg",
+      "link": "/search/label/id_463"
+    },
+    {
+      "title": "Season 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b533-cG0KLVl1Ejrh.jpg",
+      "link": "/search/label/id_533"
+    },
+    {
+      "title": "Movie - ONE PIECE THE MOVIE: Omatsuri Danshaku to Himitsu no Shima",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx464-g4wcZPjbhY5j.png",
+      "link": "/search/label/id_464"
+    },
+    {
+      "title": "Movie - ONE PIECE THE MOVIE: Karakuri-jou no Mecha Kyohei",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx465-qSRr0MKYhS0I.jpg",
+      "link": "/search/label/id_465"
+    },
+    {
+      "title": "OVA",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx466-bVP54I7dCB2F.jpg",
+      "link": "/search/label/id_466"
+    },
+    {
+      "title": "Season 5",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx534-BPGH9zsSFPm3.png",
+      "link": "/search/label/id_534"
+    },
+    {
+      "title": "Season 6",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx467-mBTtIoR13qs2.jpg",
+      "link": "/search/label/id_467"
+    },
+    {
+      "title": "Season 7",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx535-xCRCSK8YG89S.png",
+      "link": "/search/label/id_535"
+    },
+    {
+      "title": "Season 8",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5680-r3AI3Cwfv0Aq.png",
+      "link": "/search/label/id_5680"
+    },
+    {
+      "title": "Movie - Slayers Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx536-j3i5b9EgIA1a.png",
+      "link": "/search/label/id_536"
+    },
+    {
+      "title": "OVA 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9130-QkSQHOTK1uEH.jpg",
+      "link": "/search/label/id_9130"
+    },
+    {
+      "title": "Special",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17313.jpg",
+      "link": "/search/label/id_17313"
+    },
+    {
+      "title": "Season 9",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17315.jpg",
+      "link": "/search/label/id_17315"
+    },
+    {
+      "title": "Special 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20752-P5EpEJXWGroz.jpg",
+      "link": "/search/label/id_20752"
+    },
+    {
+      "title": "Movie - Kizumonogatari II: Nekketsu-hen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21399-VTAdAqc8u5AE.png",
+      "link": "/search/label/id_21399"
+    },
+    {
+      "title": "OVA 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21401-OJlgpIta1HOM.jpg",
+      "link": "/search/label/id_21401"
+    },
+    {
+      "title": "OVA 4",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21402-QwYPGqQbNNcq.png",
+      "link": "/search/label/id_21402"
+    },
+    {
+      "title": "Movie - Sword Art Online: Ordinal Scale",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21403-k8DZhZ3x1BCO.png",
+      "link": "/search/label/id_21403"
+    },
+    {
+      "title": "Movie - Accel World: Infinite∞Burst",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21404-2jkb1Gidfb18.jpg",
+      "link": "/search/label/id_21404"
+    },
+    {
+      "title": "Special 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21405-owvZIGnhzmFO.jpg",
+      "link": "/search/label/id_21405"
+    },
+    {
+      "title": "Season 10",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21406-WRfuVlpbpvlY.png",
+      "link": "/search/label/id_21406"
+    },
+    {
+      "title": "OVA 5",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10863-V6oW2kN8bBYf.png",
+      "link": "/search/label/id_10863"
+    }
+  ],
   "episodes": [
     {
-      "episode": "1",
       "title": "The Crybaby: Usagi's Beautiful Transformation",
+      "episode": "1",
       "files": [
         {
           "name": "HD-1",
@@ -53,8 +202,8 @@
       ]
     },
     {
-      "episode": "2",
       "title": "Punishment Awaits! The House of Fortune Is the Monster Mansion",
+      "episode": "2",
       "files": [
         {
           "name": "HD-1",
@@ -79,8 +228,8 @@
       ]
     },
     {
-      "episode": "3",
       "title": "The Mysterious Sleeping Sickness: Protect the Girls in Love",
+      "episode": "3",
       "files": [
         {
           "name": "HD-1",
@@ -105,8 +254,8 @@
       ]
     },
     {
-      "episode": "4",
       "title": "Learn How to Be Skinny From Usagi",
+      "episode": "4",
       "files": [
         {
           "name": "HD-1",
@@ -131,8 +280,8 @@
       ]
     },
     {
-      "episode": "5",
       "title": "Scent of a Monster! Chanela Will Steal Your Love",
+      "episode": "5",
       "files": [
         {
           "name": "HD-1",
@@ -157,8 +306,8 @@
       ]
     },
     {
-      "episode": "6",
       "title": "Protect the Melody of Love: Usagi Plays Cupid",
+      "episode": "6",
       "files": [
         {
           "name": "HD-1",
@@ -183,8 +332,8 @@
       ]
     },
     {
-      "episode": "7",
       "title": "Usagi Learns Her Lesson: Becoming a Star Is Hard Work",
+      "episode": "7",
       "files": [
         {
           "name": "HD-1",
@@ -209,8 +358,8 @@
       ]
     },
     {
-      "episode": "8",
       "title": "The Girl Genius Is a Monster: The Brainwashing Cram School of Horror",
+      "episode": "8",
       "files": [
         {
           "name": "HD-1",
@@ -235,8 +384,8 @@
       ]
     },
     {
-      "episode": "9",
       "title": "Usagi's Disaster: Beware of the Clock of Confusion",
+      "episode": "9",
       "files": [
         {
           "name": "HD-1",
@@ -261,19 +410,9 @@
       ]
     },
     {
-      "episode": "10",
       "title": "The Cursed Bus: Enter Mars, the Guardian of Fire",
+      "episode": "10",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/10/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/10/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/530/10/sub",
@@ -287,14 +426,9 @@
       ]
     },
     {
-      "episode": "11",
       "title": "Usagi vs. Rei: Nightmare in Dream Land",
+      "episode": "11",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/11/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/530/11/dub",
@@ -313,14 +447,9 @@
       ]
     },
     {
-      "episode": "12",
       "title": "I Want a Boyfriend: The Luxury Cruise Ship Is a Trap",
+      "episode": "12",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/12/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/530/12/dub",
@@ -339,14 +468,9 @@
       ]
     },
     {
-      "episode": "13",
       "title": "Girls Unite: The End of Jadeite",
+      "episode": "13",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/13/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/530/13/dub",
@@ -365,14 +489,9 @@
       ]
     },
     {
-      "episode": "14",
       "title": "A New Enemy Appears: Nephrite's Evil Crest",
+      "episode": "14",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/14/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/530/14/dub",
@@ -391,14 +510,9 @@
       ]
     },
     {
-      "episode": "15",
       "title": "Usagi's Panic: Rei's First Date",
+      "episode": "15",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/15/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/530/15/dub",
@@ -417,8 +531,8 @@
       ]
     },
     {
-      "episode": "16",
       "title": "A Girl's Dream: Usagi Becomes a Bride",
+      "episode": "16",
       "files": [
         {
           "name": "HD-1",
@@ -443,8 +557,8 @@
       ]
     },
     {
-      "episode": "17",
       "title": "Usagi's a Model: The Flash of the Monster Camera",
+      "episode": "17",
       "files": [
         {
           "name": "HD-1",
@@ -469,8 +583,8 @@
       ]
     },
     {
-      "episode": "18",
       "title": "Shingo's Love: The Grieving Doll",
+      "episode": "18",
       "files": [
         {
           "name": "HD-1",
@@ -495,8 +609,8 @@
       ]
     },
     {
-      "episode": "19",
       "title": "Usagi's Joy: A Love Letter From Tuxedo Mask",
+      "episode": "19",
       "files": [
         {
           "name": "HD-1",
@@ -521,8 +635,8 @@
       ]
     },
     {
-      "episode": "20",
       "title": "The Summer, the Beach, Youth and Ghosts",
+      "episode": "20",
       "files": [
         {
           "name": "HD-1",
@@ -547,8 +661,8 @@
       ]
     },
     {
-      "episode": "21",
       "title": "Protect the Children's Dreams: Friendship Through Anime",
+      "episode": "21",
       "files": [
         {
           "name": "HD-1",
@@ -573,8 +687,8 @@
       ]
     },
     {
-      "episode": "22",
       "title": "Romance Under the Moon: Usagi's First Kiss",
+      "episode": "22",
       "files": [
         {
           "name": "HD-1",
@@ -599,8 +713,8 @@
       ]
     },
     {
-      "episode": "23",
       "title": "Wish Upon a Star: Naru's First Love",
+      "episode": "23",
       "files": [
         {
           "name": "HD-1",
@@ -625,8 +739,8 @@
       ]
     },
     {
-      "episode": "24",
       "title": "Naru's Tears: Nephrite Dies for Love",
+      "episode": "24",
       "files": [
         {
           "name": "HD-1",
@@ -651,18 +765,13 @@
       ]
     },
     {
-      "episode": "25",
       "title": "Jupiter, the Powerful Girl in Love",
+      "episode": "25",
       "files": [
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/530/25/sub",
           "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/25/dub",
-          "type": "dub"
         },
         {
           "name": "HD-2",
@@ -677,14 +786,9 @@
       ]
     },
     {
-      "episode": "26",
       "title": "Restore Naru's Smile: Usagi's Friendship",
+      "episode": "26",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/26/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/530/26/dub",
@@ -703,14 +807,9 @@
       ]
     },
     {
-      "episode": "27",
       "title": "Crushing on Ami: The Boy Who Can See The Future",
+      "episode": "27",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/27/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/530/27/dub",
@@ -729,14 +828,9 @@
       ]
     },
     {
-      "episode": "28",
       "title": "The Painting of Love: Usagi and Mamoru Get Closer",
+      "episode": "28",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/28/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/530/28/dub",
@@ -755,14 +849,9 @@
       ]
     },
     {
-      "episode": "29",
       "title": "Total Chaos: The Messy Love Rectangle",
+      "episode": "29",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/29/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/530/29/dub",
@@ -781,8 +870,8 @@
       ]
     },
     {
-      "episode": "30",
       "title": "Grandpa Loses Control: Rei in Danger",
+      "episode": "30",
       "files": [
         {
           "name": "HD-1",
@@ -807,8 +896,8 @@
       ]
     },
     {
-      "episode": "31",
       "title": "Love and Chased: Luna's Worst Day Ever",
+      "episode": "31",
       "files": [
         {
           "name": "HD-1",
@@ -833,8 +922,8 @@
       ]
     },
     {
-      "episode": "32",
       "title": "Umino's Resolve: I'll Protect Naru",
+      "episode": "32",
       "files": [
         {
           "name": "HD-1",
@@ -859,8 +948,8 @@
       ]
     },
     {
-      "episode": "33",
       "title": "Enter Venus, the Last Sailor Guardian",
+      "episode": "33",
       "files": [
         {
           "name": "HD-1",
@@ -885,8 +974,8 @@
       ]
     },
     {
-      "episode": "34",
       "title": "The Shining Silver Crystal: The Moon Princess Appears",
+      "episode": "34",
       "files": [
         {
           "name": "HD-1",
@@ -911,8 +1000,8 @@
       ]
     },
     {
-      "episode": "35",
       "title": "Returning Memories: Usagi and Mamoru's Past",
+      "episode": "35",
       "files": [
         {
           "name": "HD-1",
@@ -937,8 +1026,8 @@
       ]
     },
     {
-      "episode": "36",
       "title": "Usagi's Confusion: Is Tuxedo Mask Evil?",
+      "episode": "36",
       "files": [
         {
           "name": "HD-1",
@@ -963,8 +1052,8 @@
       ]
     },
     {
-      "episode": "37",
       "title": "Let's Become a Princess: Usagi's Bizarre Training",
+      "episode": "37",
       "files": [
         {
           "name": "HD-1",
@@ -989,8 +1078,8 @@
       ]
     },
     {
-      "episode": "38",
       "title": "The Snow, the Mountains, Friendship and Monsters",
+      "episode": "38",
       "files": [
         {
           "name": "HD-1",
@@ -1015,8 +1104,8 @@
       ]
     },
     {
-      "episode": "39",
       "title": "Paired with a Monster: Mako, the Ice Skating Queen",
+      "episode": "39",
       "files": [
         {
           "name": "HD-1",
@@ -1041,8 +1130,8 @@
       ]
     },
     {
-      "episode": "40",
       "title": "The Legendary Lake Yokai: The Bond of Usagi's Family",
+      "episode": "40",
       "files": [
         {
           "name": "HD-1",
@@ -1067,8 +1156,8 @@
       ]
     },
     {
-      "episode": "41",
       "title": "I Won't Run Away from Love Anymore: Ami vs. Mamoru",
+      "episode": "41",
       "files": [
         {
           "name": "HD-1",
@@ -1093,8 +1182,8 @@
       ]
     },
     {
-      "episode": "42",
       "title": "Sailor Venus' Past: Minako's Tragic Love",
+      "episode": "42",
       "files": [
         {
           "name": "HD-1",
@@ -1119,8 +1208,8 @@
       ]
     },
     {
-      "episode": "43",
       "title": "Usagi Abandoned: The Falling-Out of the Sailor Guardians",
+      "episode": "43",
       "files": [
         {
           "name": "HD-1",
@@ -1145,8 +1234,8 @@
       ]
     },
     {
-      "episode": "44",
       "title": "Usagi's Awakening: A Message from the Distant Past",
+      "episode": "44",
       "files": [
         {
           "name": "HD-1",
@@ -1171,8 +1260,8 @@
       ]
     },
     {
-      "episode": "45",
       "title": "Death of the Sailor Guardians: The Tragic Final Battle",
+      "episode": "45",
       "files": [
         {
           "name": "HD-1",
@@ -1197,8 +1286,8 @@
       ]
     },
     {
-      "episode": "46",
       "title": "Usagi's Eternal Wish: A Brand New Life",
+      "episode": "46",
       "files": [
         {
           "name": "HD-1",
@@ -1222,5 +1311,9 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "530",
+  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "releaseDate": "1992-03-07",
+  "malId": "530"
 }
