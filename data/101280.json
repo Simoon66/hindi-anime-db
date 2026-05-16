@@ -1,12 +1,12 @@
 {
   "title": "That Time I Got Reincarnated as a Slime",
-  "synopsis": "Lonely thirty-seven-year-old Satoru Mikami is stuck in a dead-end job, unhappy with his mundane life, but after dying at the hands of a robber, he awakens to a fresh start in a fantasy realm...as a slime monster! As he acclimates to his goopy new existence, his exploits with the other monsters set off a chain of events that will change his new world forever!\n\n\n\n(Source: Yen Press)",
+  "synopsis": "Lonely thirty-seven-year-old Satoru Mikami is stuck in a dead-end job, unhappy with his mundane life, but after dying at the hands of a robber, he awakens to a fresh start in a fantasy realm...as a slime monster! As he acclimates to his goopy new existence, his exploits with the other monsters set off a chain of events that will change his new world forever!\\n\\n\n\n(Source: Yen Press)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101280-tDxCVJm714nt.jpg",
-  "synonym": "Tensei Shitara Slime Datta Ken",
-  "native": "転生したらスライムだった件",
-  "aired": "10/02/2018",
-  "premiered": "FALL 2018",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "24",
   "genres": [
     "Action",
@@ -14,19 +14,45 @@
     "Comedy",
     "Fantasy"
   ],
-  "rating": "8.0",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "8-bit"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] That Time I Got Reincarnated as a Slime",
+      "link": "/2018/10/101280.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101280-tDxCVJm714nt.jpg"
+    },
+    {
+      "title": "[OVA] That Time I Got Reincarnated as a Slime OAD",
+      "link": "/2019/07/106509.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106509-nTJyMJKbvRFn.jpg"
+    },
+    {
+      "title": "[TV Series] The Slime Diaries",
+      "link": "/2021/04/116741.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116741-MI9aI2ikNyAP.jpg"
+    },
+    {
+      "title": "[ONA] Tensei Shitara Slime Datta Ken: Sukuwareru Ramiris",
+      "link": "/2022/03/146503.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b146503-7YahVCQ9T039.png"
+    },
+    {
+      "title": "[OVA] That Time I Got Reincarnated as a Slime: Visions of Coleus",
+      "link": "/2023/11/161802.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161802-Ra8acfv0cSov.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "The Storm Dragon, Veldora",
       "files": [
         {
           "name": "HD-1",
@@ -51,8 +77,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Meeting the Goblins",
       "files": [
         {
           "name": "HD-1",
@@ -77,8 +103,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Battle at the Goblin Village",
       "files": [
         {
           "name": "HD-1",
@@ -103,8 +129,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "In the Kingdom of the Dwarves",
       "files": [
         {
           "name": "HD-1",
@@ -129,8 +155,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Hero King, Gazel Dwargo",
       "files": [
         {
           "name": "HD-1",
@@ -155,8 +181,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Shizu",
       "files": [
         {
           "name": "HD-1",
@@ -181,8 +207,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Conqueror of Flames",
       "files": [
         {
           "name": "HD-1",
@@ -207,8 +233,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Inherited Will",
       "files": [
         {
           "name": "HD-1",
@@ -233,8 +259,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Attack of the Ogres",
       "files": [
         {
           "name": "HD-1",
@@ -259,8 +285,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "The Orc Lord",
       "files": [
         {
           "name": "HD-1",
@@ -285,8 +311,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Gabiru Is Here!",
       "files": [
         {
           "name": "HD-1",
@@ -311,8 +337,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "The Gears Spin Out of Control",
       "files": [
         {
           "name": "HD-1",
@@ -337,8 +363,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "The Great Clash",
       "files": [
         {
           "name": "HD-1",
@@ -363,8 +389,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "The One Who Devours All",
       "files": [
         {
           "name": "HD-1",
@@ -389,8 +415,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "The Jura Forest Alliance",
       "files": [
         {
           "name": "HD-1",
@@ -415,8 +441,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "Demon Lord Milim Attacks",
       "files": [
         {
           "name": "HD-1",
@@ -441,8 +467,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "The Gathering",
       "files": [
         {
           "name": "HD-1",
@@ -467,8 +493,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "Evil Creeps Closer",
       "files": [
         {
           "name": "HD-1",
@@ -493,8 +519,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "Charybdis",
       "files": [
         {
           "name": "HD-1",
@@ -519,8 +545,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "Yuuki Kagurazaka",
       "files": [
         {
           "name": "HD-1",
@@ -545,8 +571,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "Shizu-san's Students",
       "files": [
         {
           "name": "HD-1",
@@ -571,8 +597,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "Conquering the Labyrinth",
       "files": [
         {
           "name": "HD-1",
@@ -597,8 +623,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "Saved Souls",
       "files": [
         {
           "name": "HD-1",
@@ -623,8 +649,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "Black and a Mask",
       "files": [
         {
           "name": "HD-1",
@@ -650,8 +676,7 @@
     }
   ],
   "streamingId": "101280",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2018-10-02",
-  "malId": "37430",
-  "_forceSyncTime": 1778770768537
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

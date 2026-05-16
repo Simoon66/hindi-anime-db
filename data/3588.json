@@ -1,12 +1,12 @@
 {
   "title": "Soul Eater",
-  "synopsis": "Set in the Shinigami technical school for weapon meisters, the series revolves around 3 groups of each a weapon meister and a human weapon. Trying to make the latter a \"Death Scythe\" which is the highest title for a weapon and thus fit for use by the Shinigami, they must collect the souls of 99 evil humans and 1 witch.\n\n\nMaka &amp; Soul Eater, Black Star &amp; Tsubaki, and Death the Kid with Patty and Liz Thompson are the characters Soul Eater revolves around. Besides taking the time to gather souls, these students of Shibusen defend Death City from some of the most powerful of creatures while still attending school and trying to become stronger.",
+  "synopsis": "Set in the Shinigami technical school for weapon meisters, the series revolves around 3 groups of each a weapon meister and a human weapon. Trying to make the latter a \"Death Scythe\" which is the highest title for a weapon and thus fit for use by the Shinigami, they must collect the souls of 99 evil humans and 1 witch.\\n\\n\nMaka &amp; Soul Eater, Black Star &amp; Tsubaki, and Death the Kid with Patty and Liz Thompson are the characters Soul Eater revolves around. Besides taking the time to gather souls, these students of Shibusen defend Death City from some of the most powerful of creatures while still attending school and trying to become stronger.",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3588-fSMggQoFSbUI.png",
-  "synonym": "Soul Eater",
-  "native": "ソウルイーター",
-  "aired": "04/07/2008",
-  "premiered": "SPRING 2008",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "51",
   "genres": [
     "Action",
@@ -15,19 +15,35 @@
     "Fantasy",
     "Supernatural"
   ],
-  "rating": "7.7",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "bones"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Soul Eater",
+      "link": "/2008/04/3588.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3588-fSMggQoFSbUI.png"
+    },
+    {
+      "title": "[TV Series] Soul Eater Not!",
+      "link": "/2014/04/20547.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20547-w5Gp0a2E4YCe.png"
+    },
+    {
+      "title": "[Special] Soul Eater Late Show",
+      "link": "/2008/04/21687.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21687-UCt418ZNhBMu.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Resonance of the Soul: Will Soul Eater Become a Death Scythe?",
       "files": [
         {
           "name": "HD-1",
@@ -52,8 +68,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "I Am the Star!: The Big Man Is Showing Up Here?",
       "files": [
         {
           "name": "HD-1",
@@ -78,8 +94,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "The Perfect Boy: Death the Kid's Magnificent Mission?",
       "files": [
         {
           "name": "HD-1",
@@ -104,8 +120,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Engage the Witch Hunter! A Remedial Lesson in the Graveyard?",
       "files": [
         {
           "name": "HD-1",
@@ -130,8 +146,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Shape of the Soul: Enter the Ultimate Meister Stein?",
       "files": [
         {
           "name": "HD-1",
@@ -156,8 +172,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "The New Student: Kid's First Day at the Academy - Will it be an Entrance to Remember?",
       "files": [
         {
           "name": "HD-1",
@@ -182,8 +198,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Black-blooded Terror: There's a Weapon Inside Crona?",
       "files": [
         {
           "name": "HD-1",
@@ -208,8 +224,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "The Witch Medusa: Bearer of the Great Terrible Soul?",
       "files": [
         {
           "name": "HD-1",
@@ -234,8 +250,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Legend of the Holy Sword: Kid and Black☆Star's Great Adventure?",
       "files": [
         {
           "name": "HD-1",
@@ -260,8 +276,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "The Enchanted Sword Masamune - Break the Soul Possession: A Heart Sings in the Rain?",
       "files": [
         {
           "name": "HD-1",
@@ -286,8 +302,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Tsubaki, the Camellia Blossom: What Lies Beyond the Grief?",
       "files": [
         {
           "name": "HD-1",
@@ -312,8 +328,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Courage That Beats Out Fear: Maka Albarn's Great Resolution?",
       "files": [
         {
           "name": "HD-1",
@@ -338,8 +354,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "The Man with the Magic Eye: Soul and Maka's Diverging Soul Wavelength?",
       "files": [
         {
           "name": "HD-1",
@@ -364,8 +380,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "The Super Written Exam: Heart-pounding, Reeling, and Restless. You're Kidding!?",
       "files": [
         {
           "name": "HD-1",
@@ -390,8 +406,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "The Soul Eating Black Dragon: Scaredy-cat Liz and Her Merry Friends?",
       "files": [
         {
           "name": "HD-1",
@@ -416,8 +432,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "Fierce Battle Aboard the Ghost Ship: The Hell Inside My Head?",
       "files": [
         {
           "name": "HD-1",
@@ -442,8 +458,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "Legend of the Holy Sword 2: Wanna Go Drinking, Gambling, and Playing?",
       "files": [
         {
           "name": "HD-1",
@@ -468,8 +484,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "The Eve Party Nightmare: And So the Curtain Rises?",
       "files": [
         {
           "name": "HD-1",
@@ -494,8 +510,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "The Underground Battle Commences: Break Through Medusa's Vector Arrow?",
       "files": [
         {
           "name": "HD-1",
@@ -520,8 +536,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "The Black Blood Resonance Battle! A Small Soul's Grand Struggle against Fear?",
       "files": [
         {
           "name": "HD-1",
@@ -546,8 +562,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "May My Soul Reach You: A Dry Heart Inside Unbearable Isolation?",
       "files": [
         {
           "name": "HD-1",
@@ -572,8 +588,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "The Seal Shrine: The Immortal Man's Tricks?",
       "files": [
         {
           "name": "HD-1",
@@ -598,8 +614,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "Dead or Alive: In the Rift between Revival and Dazzlement?",
       "files": [
         {
           "name": "HD-1",
@@ -624,8 +640,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "The Battle of the Gods: Death City on the Verge of Collapse?",
       "files": [
         {
           "name": "HD-1",
@@ -650,8 +666,8 @@
       ]
     },
     {
+      "title": "Episode 25",
       "episode": "25",
-      "title": "The Death Scythes Convene: Stop Dad's Staff Reassignment!?",
       "files": [
         {
           "name": "HD-1",
@@ -676,8 +692,8 @@
       ]
     },
     {
+      "title": "Episode 26",
       "episode": "26",
-      "title": "The Exciting and Embarrassing Trial Enrollment! The DWMA New Lifestyle Support Fair is Open?",
       "files": [
         {
           "name": "HD-1",
@@ -702,8 +718,8 @@
       ]
     },
     {
+      "title": "Episode 27",
       "episode": "27",
-      "title": "800 Years of Bloodlust: Advent of the Heretic Witch?",
       "files": [
         {
           "name": "HD-1",
@@ -728,8 +744,8 @@
       ]
     },
     {
+      "title": "Episode 28",
       "episode": "28",
-      "title": "The Sword God Rises: Does it Have a Sweet or Salty Taste?",
       "files": [
         {
           "name": "HD-1",
@@ -754,8 +770,8 @@
       ]
     },
     {
+      "title": "Episode 29",
       "episode": "29",
-      "title": "Medusa's Revival! A Spider and Snake's Fateful Reunion?",
       "files": [
         {
           "name": "HD-1",
@@ -780,8 +796,8 @@
       ]
     },
     {
+      "title": "Episode 30",
       "episode": "30",
-      "title": "The Red Hot Runaway Express: A Magic Tool Left Behind by the Great Wizard?",
       "files": [
         {
           "name": "HD-1",
@@ -806,8 +822,8 @@
       ]
     },
     {
+      "title": "Episode 31",
       "episode": "31",
-      "title": "Drying Happiness! Whose Tears Sparkle in the Moonlight?",
       "files": [
         {
           "name": "HD-1",
@@ -832,8 +848,8 @@
       ]
     },
     {
+      "title": "Episode 32",
       "episode": "32",
-      "title": "Legend of the Holy Sword 3: The Academy Gang Leader's Tale?",
       "files": [
         {
           "name": "HD-1",
@@ -858,8 +874,8 @@
       ]
     },
     {
+      "title": "Episode 33",
       "episode": "33",
-      "title": "Resonance Link: Play the Melody of the Souls?",
       "files": [
         {
           "name": "HD-1",
@@ -884,8 +900,8 @@
       ]
     },
     {
+      "title": "Episode 34",
       "episode": "34",
-      "title": "The Battle for Brew - Clash: the DWMA vs. Arachnophobia?",
       "files": [
         {
           "name": "HD-1",
@@ -910,8 +926,8 @@
       ]
     },
     {
+      "title": "Episode 35",
       "episode": "35",
-      "title": "Mosquito's Storm! Ten Minutes to Fight in the World of the Past?",
       "files": [
         {
           "name": "HD-1",
@@ -936,8 +952,8 @@
       ]
     },
     {
+      "title": "Episode 36",
       "episode": "36",
-      "title": "Unleash the Seven's Resonance Link! A Recital of Destruction and Creation?",
       "files": [
         {
           "name": "HD-1",
@@ -962,8 +978,8 @@
       ]
     },
     {
+      "title": "Episode 37",
       "episode": "37",
-      "title": "The Detective's First Case: Kid Exposes the DWMA's Secret?",
       "files": [
         {
           "name": "HD-1",
@@ -988,8 +1004,8 @@
       ]
     },
     {
+      "title": "Episode 38",
       "episode": "38",
-      "title": "Asura's Temptation: The Big Man's Uncontrollable Irritation?",
       "files": [
         {
           "name": "HD-1",
@@ -1014,8 +1030,8 @@
       ]
     },
     {
+      "title": "Episode 39",
       "episode": "39",
-      "title": "Crona's Escape: Show Me Your Smile, Please?",
       "files": [
         {
           "name": "HD-1",
@@ -1040,8 +1056,8 @@
       ]
     },
     {
+      "title": "Episode 40",
       "episode": "40",
-      "title": "The Cards are Cut: Medusa Surrenders to the DWMA?",
       "files": [
         {
           "name": "HD-1",
@@ -1066,8 +1082,8 @@
       ]
     },
     {
+      "title": "Episode 41",
       "episode": "41",
-      "title": "Twirl 'Round and 'Round - A New World in Which the Doc Dances?",
       "files": [
         {
           "name": "HD-1",
@@ -1092,8 +1108,8 @@
       ]
     },
     {
+      "title": "Episode 42",
       "episode": "42",
-      "title": "Charge Baba Yaga's Castle! Things are Kind of Gloomy?",
       "files": [
         {
           "name": "HD-1",
@@ -1118,8 +1134,8 @@
       ]
     },
     {
+      "title": "Episode 43",
       "episode": "43",
-      "title": "The Last Magic Tool: Mission Impossible for Unarmed Kid?",
       "files": [
         {
           "name": "HD-1",
@@ -1144,8 +1160,8 @@
       ]
     },
     {
+      "title": "Episode 44",
       "episode": "44",
-      "title": "Weakling Crona's Determination: For You, for Always Being by My Side?",
       "files": [
         {
           "name": "HD-1",
@@ -1170,8 +1186,8 @@
       ]
     },
     {
+      "title": "Episode 45",
       "episode": "45",
-      "title": "Anti-Magic Wavelength: Fierce Attack, the Anger-Filled Genie Hunter?",
       "files": [
         {
           "name": "HD-1",
@@ -1196,8 +1212,8 @@
       ]
     },
     {
+      "title": "Episode 46",
       "episode": "46",
-      "title": "Warrior or Slaughterer? Showdown: Mifune vs. Black☆Star?",
       "files": [
         {
           "name": "HD-1",
@@ -1222,8 +1238,8 @@
       ]
     },
     {
+      "title": "Episode 47",
       "episode": "47",
-      "title": "The Miraculous Coffee Table Flip: Fly, Our Death City Robot?",
       "files": [
         {
           "name": "HD-1",
@@ -1248,8 +1264,8 @@
       ]
     },
     {
+      "title": "Episode 48",
       "episode": "48",
-      "title": "Lord Death Wields a Death Scythe: Just One Step from Utter Darkness?",
       "files": [
         {
           "name": "HD-1",
@@ -1274,8 +1290,8 @@
       ]
     },
     {
+      "title": "Episode 49",
       "episode": "49",
-      "title": "Asura Wakes: To the End of the World?",
       "files": [
         {
           "name": "HD-1",
@@ -1300,8 +1316,8 @@
       ]
     },
     {
+      "title": "Episode 50",
       "episode": "50",
-      "title": "Sink or Swim?! The Men who Transcend the Gods?",
       "files": [
         {
           "name": "HD-1",
@@ -1326,8 +1342,8 @@
       ]
     },
     {
+      "title": "Episode 51",
       "episode": "51",
-      "title": "The Word is Bravery!",
       "files": [
         {
           "name": "HD-1",
@@ -1353,8 +1369,7 @@
     }
   ],
   "streamingId": "3588",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2008-04-07",
-  "malId": "3588",
-  "_forceSyncTime": 1778770874648
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }
