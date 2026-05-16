@@ -47,6 +47,16 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/199/1/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/ef0917ea498b1665ad6c701057155abe",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9UeXBUTlRoYWIifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC85S29sYk1DUG4ifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvTDhBVF82aG8zIn1d",
+          "type": "multi"
         }
       ]
     }
