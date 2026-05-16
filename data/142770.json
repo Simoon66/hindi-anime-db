@@ -1,7 +1,7 @@
 {
   "title": "Suzume",
   "synopsis": "The story follows Suzume, a 17-year-old girl from a quiet Kyushu town who meets a young man looking for a door. They find a door within ruins in the mountain, and Suzume opens it. Soon, more doors begin to open around Japan, bringing disasters from the other side. The film depicts Suzume's liberation and growth, as she closes the doors that are causing disaster.\n\n(Source: Anime News Network)",
-  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142770-dDaDIRnsv5jN.jpg",
+  "thumbnail": "https://image.tmdb.org/t/p/original/yStW1TXF5s7Tbtu9KjIZEaWl6HL.jpg",
   "synonym": "Suzume no Tojimari",
   "native": "すずめの戸締まり",
   "aired": "11/11/2022",
@@ -27,7 +27,7 @@
   "episodes": [
     {
       "episode": "1",
-      "title": "Episode 1",
+      "title": "Suzume",
       "files": [
         {
           "name": "HD-1",
@@ -48,8 +48,19 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/50594/1/dub",
           "type": "dub"
+        },
+        {
+          "name": "VidStream",
+          "url": "https://as-cdn21.top/video/d0231cd3ec12768a73c40062ca8eda79",
+          "type": "multi"
+        },
+        {
+          "name": "Abyss",
+          "url": "https://animesalt.ac/multi-lang-plyr/player.php?data=W3sibGFuZ3VhZ2UiOiJIaW5kaSIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC90bkVUVHNZUlUifSx7Imxhbmd1YWdlIjoiRW5nbGlzaCIsImxpbmsiOiJodHRwczpcL1wvc2hvcnQuaWN1XC9uTkJpclk4bDIifSx7Imxhbmd1YWdlIjoiSmFwYW5lc2UiLCJsaW5rIjoiaHR0cHM6XC9cL3Nob3J0LmljdVwvRko2Sms5T2cwIn1d",
+          "type": "multi"
         }
       ]
     }
-  ]
+  ],
+  "releaseDate": "2022"
 }
