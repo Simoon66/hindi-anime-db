@@ -337,11 +337,6 @@
       "files": [
         {
           "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/7/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/530/7/dub",
           "type": "dub"
         },
@@ -361,11 +356,6 @@
       "title": "The Girl Genius Is a Monster: The Brainwashing Cram School of Horror",
       "episode": "8",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/8/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/530/8/dub",
@@ -388,16 +378,6 @@
       "episode": "9",
       "files": [
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/9/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/9/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/530/9/sub",
           "type": "sub"
@@ -412,33 +392,12 @@
     {
       "title": "The Cursed Bus: Enter Mars, the Guardian of Fire",
       "episode": "10",
-      "files": [
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/530/10/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/530/10/dub",
-          "type": "dub"
-        }
-      ]
+      "files": []
     },
     {
       "title": "Usagi vs. Rei: Nightmare in Dream Land",
       "episode": "11",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/11/dub",
-          "type": "dub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/530/11/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/530/11/dub",
@@ -478,11 +437,6 @@
         },
         {
           "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/530/13/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/530/13/dub",
           "type": "dub"
         }
@@ -492,11 +446,6 @@
       "title": "A New Enemy Appears: Nephrite's Evil Crest",
       "episode": "14",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/14/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/530/14/sub",
@@ -614,11 +563,6 @@
       "files": [
         {
           "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/19/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/530/19/dub",
           "type": "dub"
         },
@@ -626,11 +570,6 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/530/19/sub",
           "type": "sub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/530/19/dub",
-          "type": "dub"
         }
       ]
     },
@@ -638,16 +577,6 @@
       "title": "The Summer, the Beach, Youth and Ghosts",
       "episode": "20",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/20/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/20/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/530/20/sub",
@@ -790,11 +719,6 @@
       "episode": "26",
       "files": [
         {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/26/dub",
-          "type": "dub"
-        },
-        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/530/26/sub",
           "type": "sub"
@@ -810,11 +734,6 @@
       "title": "Crushing on Ami: The Boy Who Can See The Future",
       "episode": "27",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/27/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/530/27/sub",
@@ -927,11 +846,6 @@
       "files": [
         {
           "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/32/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/530/32/dub",
           "type": "dub"
         },
@@ -951,11 +865,6 @@
       "title": "Enter Venus, the Last Sailor Guardian",
       "episode": "33",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/33/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/530/33/dub",
@@ -979,11 +888,6 @@
       "files": [
         {
           "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/34/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/530/34/dub",
           "type": "dub"
         },
@@ -1003,11 +907,6 @@
       "title": "Returning Memories: Usagi and Mamoru's Past",
       "episode": "35",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/35/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/530/35/dub",
@@ -1031,11 +930,6 @@
       "files": [
         {
           "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/36/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/530/36/dub",
           "type": "dub"
         },
@@ -1055,11 +949,6 @@
       "title": "Let's Become a Princess: Usagi's Bizarre Training",
       "episode": "37",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/37/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/530/37/dub",
@@ -1083,11 +972,6 @@
       "files": [
         {
           "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/38/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/530/38/dub",
           "type": "dub"
         },
@@ -1107,11 +991,6 @@
       "title": "Paired with a Monster: Mako, the Ice Skating Queen",
       "episode": "39",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/39/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/530/39/dub",
@@ -1135,11 +1014,6 @@
       "files": [
         {
           "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/40/sub",
-          "type": "sub"
-        },
-        {
-          "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/530/40/dub",
           "type": "dub"
         },
@@ -1159,11 +1033,6 @@
       "title": "I Won't Run Away from Love Anymore: Ami vs. Mamoru",
       "episode": "41",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/41/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/530/41/dub",
@@ -1263,11 +1132,6 @@
       "title": "Death of the Sailor Guardians: The Tragic Final Battle",
       "episode": "45",
       "files": [
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/530/45/sub",
-          "type": "sub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/530/45/dub",
