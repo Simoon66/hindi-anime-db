@@ -143,47 +143,236 @@
     {
       "title": "I'm Luffy! The Man Who's Gonna Be King of the Pirates!",
       "episode": "1",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Enter the Great Swordsman! Pirate Hunter Roronoa Zoro!",
       "episode": "2",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/2/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/2/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Morgan versus Luffy! Who's the Mysterious Pretty Girl?",
       "episode": "3",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/3/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/3/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Luffy's Past! Enter Red-Haired Shanks!",
       "episode": "4",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/4/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/4/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Terrifying Mysterious Power! Captain Buggy, the Clown Pirate!",
       "episode": "5",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/5/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/5/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Desperate Situation! Beast Tamer Mohji vs. Luffy!",
       "episode": "6",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/6/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/6/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Epic Showdown! Swordsman Zoro vs. Acrobat Cabaji!",
       "episode": "7",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/7/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/7/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Who is the Victor? Devil Fruit Power Showdown!",
       "episode": "8",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/8/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/8/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Honorable Liar? Captain Usopp!",
       "episode": "9",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/9/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/9/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Weirdest Guy Ever! Jango the Hypnotist!",
@@ -1748,42 +1937,210 @@
     {
       "title": "An Ancient Island! The Shadow Hiding in Little Garden!",
       "episode": "70",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/70/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/70/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/70/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/70/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Huge Duel! The Giants Dorry and Brogy!",
       "episode": "71",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/71/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/71/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/71/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/71/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Luffy Gets Angry! A Dirty Trick Violates the Sacred Duel!",
       "episode": "72",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/72/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/72/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/72/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/72/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Broggy's Bitter Tears of Victory! The Conclusion of Elbaf!",
       "episode": "73",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/73/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/73/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/73/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/73/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Devilish Candle! Tears of Regret and Tears of Anger!",
       "episode": "74",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/74/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/74/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/74/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/74/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Hex on Luffy! Colors Trap!",
       "episode": "75",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/75/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/75/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/75/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/75/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Time to Fight Back! Usopp's Quick Thinking and Fire Star!",
       "episode": "76",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/76/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/76/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/76/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/76/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Farewell Giant Island! Head for Alabasta!",
       "episode": "77",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/77/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/77/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/77/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/77/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Nami's Sick? Beyond the Snow Falling on the Sea!",
@@ -3478,42 +3835,210 @@
     {
       "title": "And so, the Legend Begins! To the Other Side of the Rainbow!",
       "episode": "143",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/143/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/143/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/143/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/143/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Caught Log! The King of Salvagers, Masira!",
       "episode": "144",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/144/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/144/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/144/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/144/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Monsters Appear! Don't Mess with the Whitebeard Pirates!",
       "episode": "145",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/145/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/145/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/145/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/145/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Quit Dreaming! Mock Town, the Town of Ridicule!",
       "episode": "146",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/146/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/146/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/146/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/146/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Distinguished Pirates! A Man Who Talks of Dreams and the King of Undersea Search!",
       "episode": "147",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/147/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/147/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/147/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/147/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Legendary Family! Noland, the Liar!",
       "episode": "148",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/148/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/148/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/148/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/148/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Steer for the Clouds! Capture the South Bird!",
       "episode": "149",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/149/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/149/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/149/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/149/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Dreams Don't Come True?! Bellamy vs. the Saruyama Alliance!",
       "episode": "150",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/150/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/150/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/150/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/150/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "100 Million Man! World's Greatest Power and Pirate Black Beard!",
@@ -4953,43 +5478,205 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/21/206/sub",
           "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/206/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/206/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/206/dub",
+          "type": "dub"
         }
       ]
     },
     {
       "title": "Great Adventure in Long Ring Long Land!",
       "episode": "207",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/207/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/207/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/207/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/207/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Davy Back with the Foxy Pirates!",
       "episode": "208",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/208/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/208/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/208/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/208/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Round 1! One Lap of the Donut Race!",
       "episode": "209",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/209/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/209/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/209/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/209/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Silver Fox Foxy! The Merciless Interference!",
       "episode": "210",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/210/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/210/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/210/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/210/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Round 2! Shoot It into the Groggy Ring!",
       "episode": "211",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/211/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/211/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/211/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/211/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Barrage of Red Cards in Groggy Ring!",
       "episode": "212",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/212/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/212/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/212/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/212/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Round 3! The Round-and-Round Roller Race!",
       "episode": "213",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/213/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/213/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/213/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/213/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Seriously Heated Race! Into the Final Round!",
@@ -6840,47 +7527,236 @@
     {
       "title": "Obtain the 5 Keys! The Straw Hat Pirates vs. CP9!",
       "episode": "285",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/285/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/285/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/285/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/285/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Devil Fruit Powers! Kaku and Jabra Transform!",
       "episode": "286",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/286/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/286/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/286/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/286/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "I Won't Kick Even If It Costs Me My Life! Sanji's Chivalry!",
       "episode": "287",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/287/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/287/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/287/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/287/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Fukurou's Miscalculation! My Cola is the Water of Life!",
       "episode": "288",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/288/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/288/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/288/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/288/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Zoro Busts Out a New Technique! The Sword's Name is Sniperking?",
       "episode": "289",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/289/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/289/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/289/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/289/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Uncontrollable! Chopper's Forbidden Rumble!",
       "episode": "290",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/290/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/290/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/290/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/290/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Boss Luffy Returns! Is It a Dream or Reality? Lottery Ruckus!",
       "episode": "291",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/291/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/291/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/291/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/291/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Big Rice Cake Tossing Race at the Castle! Red Nose's Plot!",
       "episode": "292",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/292/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/292/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/292/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/292/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Bubble Master Kalifa! The Soap Trap Closes in on Nami!",
       "episode": "293",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/293/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/293/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/293/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/293/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Resounding Bad News! The Buster Call Invoked!",
@@ -8263,47 +9139,236 @@
     {
       "title": "Chivalry Remains! The Traitorous Zombie Protects Nami!",
       "episode": "347",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/347/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/347/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/347/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/347/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Appearing from the Sky! That Man Is the Humming Swordsman!",
       "episode": "348",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/348/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/348/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/348/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/348/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Luffy's Emergency Situation! The Ultimate Shadow's Destination!",
       "episode": "349",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/349/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/349/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/349/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/349/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Warrior Known As the Devil!! The Moment of Oars' Revival",
       "episode": "350",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/350/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/350/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/350/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/350/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Awakening After 500 Years!! Oars Opens His Eyes!!",
       "episode": "351",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/351/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/351/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/351/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/351/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Belief Worth Begging to Live for!! Brook Defends His Afro",
       "episode": "352",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/352/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/352/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/352/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/352/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Man's Promise Never Dies!! To the Friend Waiting Under the Distant Sky",
       "episode": "353",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/353/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/353/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/353/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/353/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "I Swear to Go See Him! Brook and the Cape of Promise",
       "episode": "354",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/354/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/354/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/354/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/354/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Food, Nami and Shadows!! Luffy's Enraged Counterattack",
       "episode": "355",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/355/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/355/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/355/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/355/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Usopp's the Strongest? Leave Anything Negative to Him",
@@ -10076,37 +11141,184 @@
     {
       "title": "Break Through the Crimson Hell! Buggy's Chaos-Inducing Plan!",
       "episode": "424",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/424/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/424/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/424/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/424/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Strongest Man in the Prison! Poison Man Magellan Appears!",
       "episode": "425",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/425/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/425/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/425/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/425/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Special Presentation Related to the Movie! A Gold Lion's Ambition on the Move!",
       "episode": "426",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/426/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/426/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/426/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/426/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Special Presentation Related to the Movie! Little East Blue in Danger!",
       "episode": "427",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/427/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/427/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/427/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/427/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Special Presentation Related to the Movie! The Fierce Onslaught of the Amigo Pirates!",
       "episode": "428",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/428/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/428/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/428/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/428/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Special Presentation Related to the Movie! Decisive battle! Luffy vs. Largo",
       "episode": "429",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/429/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/429/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/429/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/429/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Imprisoned Warlord! Jinbei, Knight of the Sea!",
       "episode": "430",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/430/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/430/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/430/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/430/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Chief Jailer Saldeath's Trap! Level 3 - Starvation Hell!",
@@ -11723,47 +12935,236 @@
     {
       "title": "Luffy and Ace! The Story of How the Brothers Met!",
       "episode": "493",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/493/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/493/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/493/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/493/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Here Comes Sabo! The Boy at the Gray Terminal!",
       "episode": "494",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/494/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/494/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/494/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/494/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "I Won't Run! Ace's Desperate Rescue Operation!",
       "episode": "495",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/495/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/495/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/495/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/495/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "To The Sea Someday! The Pledge of the Three Brats!",
       "episode": "496",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/496/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/496/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/496/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/496/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Leaving the Dadan Family for Good?! The Kids' Hideout Has Been Built!",
       "episode": "497",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/497/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/497/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/497/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/497/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Luffy Becoming an Apprentice?! A Man Who Fought Against the King of the Pirates!",
       "episode": "498",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/498/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/498/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/498/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/498/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Battle against the Big Tiger! Who is Going to be Captain?!",
       "episode": "499",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/499/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/499/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/499/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/499/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Freedom Taken Away! The Nobles' Plot Closing in on the Brothers!",
       "episode": "500",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/500/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/500/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/500/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/500/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Fire Has Been Set! The Gray Terminal in Crisis!",
       "episode": "501",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/501/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/501/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/501/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/501/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Where can freedom be found? A Sad Departure of a Boy!",
@@ -13146,47 +14547,236 @@
     {
       "title": "Deadly Attacks One After Another! Zoro and Sanji Join The Battle!",
       "episode": "555",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/555/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/555/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/555/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/555/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Unveiled! The Secret Weapons of the Sunny!",
       "episode": "556",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/556/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/556/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/556/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/556/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Iron Pirate! Here Comes General Franky!",
       "episode": "557",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/557/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/557/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/557/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/557/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Noah Closing in! The Fish-Man Island Facing Destruction!",
       "episode": "558",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/558/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/558/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/558/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/558/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Hurry up, Luffy! Shirahoshi's Life in Jeopardy!",
       "episode": "559",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/559/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/559/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/559/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/559/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Fierce Fight Begins! Luffy vs. Hordy!",
       "episode": "560",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/560/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/560/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/560/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/560/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Massive Confused Fight! The Straw Hats vs. the New Fish-Man Pirates!",
       "episode": "561",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/561/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/561/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/561/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/561/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Luffy Loses the Fight?! Hordy's Long Awaited Revenge!",
       "episode": "562",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/562/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/562/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/562/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/562/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Shocking Fact! The True Identity of Hordy!",
       "episode": "563",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/563/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/563/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/563/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/563/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Back to Zero! Earnest Wishes for Luffy!",
@@ -14803,47 +16393,236 @@
     {
       "title": "Caesar Goes Missing! The Pirate Alliance Makes a Sortie!",
       "episode": "626",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/626/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/626/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/626/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/626/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Luffy Dies at Sea!? The Pirate Alliance Comes Apart!",
       "episode": "627",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/627/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/627/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/627/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/627/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Major Turnaround! Luffy's Angry Iron Fist Strikes!",
       "episode": "628",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/628/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/628/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/628/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/628/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Startling! The Big News Shakes Up The New World!",
       "episode": "629",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/629/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/629/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/629/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/629/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Explore! A Kingdom of Love and Passion Dressrosa!",
       "episode": "630",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/630/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/630/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/630/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/630/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Full of Enthusiasm! The Corrida Colosseum!",
       "episode": "631",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/631/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/631/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/631/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/631/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Dangerous Love! The Dancer Girl - Violet!",
       "episode": "632",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/632/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/632/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/632/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/632/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Formidable, Unknown Warrior! Here Comes Lucy!",
       "episode": "633",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/633/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/633/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/633/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/633/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Pirate Noble! Cavendish!",
       "episode": "634",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/634/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/634/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/634/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/634/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Fateful Reunion! Bellamy the Hyena!",
@@ -16408,42 +18187,210 @@
     {
       "title": "Risking Their Lives! Luffy is the Trump Card for Victory!",
       "episode": "695",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/695/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/695/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/695/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/695/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Tearful Reunion! Rebecca and Kyros!",
       "episode": "696",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/696/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/696/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/696/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/696/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "One Shot One Kill! The Man Who Will Save Dressrosa!",
       "episode": "697",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/697/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/697/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/697/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/697/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Anger Erupts! Luffy and Law's Ultimate Stratagem!",
       "episode": "698",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/698/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/698/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/698/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/698/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Noble Family! The True Identity of Doflamingo!",
       "episode": "699",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/699/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/699/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/699/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/699/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Ultimate Power! The Secret of the Op-Op Fruit!",
       "episode": "700",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/700/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/700/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/700/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/700/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Sad Memories! Law, the Boy from the White Town!",
       "episode": "701",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/701/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/701/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/701/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/701/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Celestial Dragon! Doffy's Stormy Past!",
       "episode": "702",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/702/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/702/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/702/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/702/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Rocky Road! Law and Corazon's Journey of Life!",
@@ -18216,42 +20163,210 @@
     {
       "title": "A Vow Between Two Men! Luffy and Kozuki Momonosuke!",
       "episode": "771",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/771/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/771/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/771/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/771/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Legendary Journey! The Dog and the Cat and the Pirate King!",
       "episode": "772",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/772/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/772/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/772/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/772/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Nightmare Returns! The Invincible Jack's Fierce Attack!",
       "episode": "773",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/773/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/773/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/773/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/773/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Battle to Defend Zou! Luffy and Zunesha!",
       "episode": "774",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/774/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/774/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/774/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/774/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Save Zunesha! The Straw Hat's Rescue Operation!",
       "episode": "775",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/775/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/775/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/775/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/775/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Saying Goodbye and Descending from the Elephant! Setting Out to Take Back Sanji!",
       "episode": "776",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/776/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/776/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/776/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/776/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "To the Reverie! Princess Vivi and Princess Shirahoshi!",
       "episode": "777",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/777/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/777/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/777/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/777/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "To the Reverie! Rebecca and the Sakura Kingdom!",
       "episode": "778",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/778/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/778/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/778/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/778/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Kaido Returns! An Imminent Threat to the Worst Generation!",
@@ -19842,47 +21957,236 @@
     {
       "title": "Cutting the Father-Son Relationship! Sanji and Judge!",
       "episode": "840",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/840/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/840/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/840/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/840/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Escape From the Tea Party! Luffy vs. Big Mom!",
       "episode": "841",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/841/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/841/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/841/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/841/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Execution Begins! Luffy's Allied Forces Are Annihilated?!",
       "episode": "842",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/842/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/842/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/842/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/842/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Castle Collapses! The Straw Hat's Great Escape Begins!",
       "episode": "843",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/843/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/843/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/843/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/843/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Spear of Elbaph! Onslaught! The Flying Big Mom!",
       "episode": "844",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/844/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/844/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/844/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/844/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Pudding's Determination! Ablaze! The Seducing Woods!",
       "episode": "845",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/845/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/845/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/845/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/845/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Lightning Counterattack! Nami and Zeus the Thundercloud!",
       "episode": "846",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/846/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/846/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/846/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/846/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Coincidental Reunion! Sanji and the Lovestruck Evil Pudding!",
       "episode": "847",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/847/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/847/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/847/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/847/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Save the Sunny! Fighting Bravely! Chopper and Brook!",
       "episode": "848",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/848/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/848/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/848/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/848/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Before the Dawn! Pedro, the Captain of the Guardians!",
@@ -21213,37 +23517,184 @@
     {
       "title": "The Greatest Day of My Life! Otama and Her Sweet Red-bean Soup!",
       "episode": "900",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/900/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/900/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/900/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/900/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Charging into the Enemy's Territory! Bakura Town - Where Officials Thrive!",
       "episode": "901",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/901/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/901/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/901/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/901/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Yokozuna Appears! The Invincible Urashima Goes After Okiku!",
       "episode": "902",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/902/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/902/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/902/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/902/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Climactic Sumo Battle! Straw Hat vs. the Strongest Ever Yokozuna!",
       "episode": "903",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/903/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/903/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/903/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/903/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Luffy Rages! Rescue Otama from Danger!",
       "episode": "904",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/904/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/904/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/904/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/904/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Taking Back Otama! A Fierce Fight Against Holdem!",
       "episode": "905",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/905/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/905/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/905/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/905/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Duel! The Magician and the Surgeon of Death!",
       "episode": "906",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/906/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/906/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/906/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/906/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Romance Dawn",
@@ -23042,42 +25493,210 @@
     {
       "title": "Back to the Present Day! 20 Years Later!",
       "episode": "976",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/976/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/976/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/976/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/976/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Sea Is For Pirates! Raid! To Onigashima!",
       "episode": "977",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/977/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/977/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/977/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/977/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Worst Generation Charges in! The Battle of the Stormy Sea!",
       "episode": "978",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/978/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/978/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/978/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/978/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Good Luck?! Leader Kin'emon's Plot!",
       "episode": "979",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/979/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/979/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/979/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/979/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Tearful Promise! The Kidnapped Momonosuke",
       "episode": "980",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/980/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/980/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/980/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/980/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A New Member! 'First Son of the Sea' Jimbei!",
       "episode": "981",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/981/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/981/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/981/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/981/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Kaidou's Trump Card: The Tobi Roppo Appear",
       "episode": "982",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/982/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/982/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/982/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/982/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Samurai Warriors' Earnestness! The Straw Hats Land at Onigashima!",
       "episode": "983",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/983/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/983/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/983/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/983/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Luffy Goes Out of Control?! Sneaking into Kaido's Banquet!",
@@ -24798,47 +27417,236 @@
     {
       "title": "Two Dragons Face Off! Momonosuke's Determination!",
       "episode": "1050",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1050/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1050/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1050/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1050/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Legend All over again! Luffy's fist roars in the sky",
       "episode": "1051",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1051/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1051/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1051/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1051/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Situation Has Grown Tense! The End of Onigashima!",
       "episode": "1052",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1052/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1052/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1052/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1052/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Sanji's Mutation? The Two Arms in Crisis!",
       "episode": "1053",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1053/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1053/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1053/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1053/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Death to Your Partner! Killer's Deadly Gamble!",
       "episode": "1054",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1054/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1054/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1054/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1054/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Shadowy Figure Pulls the Strings! Onigashima in Flames",
       "episode": "1055",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1055/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1055/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1055/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1055/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "A Countercharge! Law and Kid's Return-Attack Combination",
       "episode": "1056",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1056/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1056/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1056/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1056/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "For Luffy: Sanji and Zoro's Oath",
       "episode": "1057",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1057/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1057/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1057/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1057/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Onslaught of Kazenbo: Orochi's Evil Clutches Close in",
       "episode": "1058",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1058/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1058/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1058/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1058/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Zoro Faces Adversity: A Monster! King the Wildfire",
@@ -26221,47 +29029,236 @@
     {
       "title": "Clash! Shanks vs. Eustass Kid",
       "episode": "1112",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1112/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1112/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1112/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1112/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Run, Koby! A Desperate Escape Strategy!",
       "episode": "1113",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1113/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1113/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1113/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1113/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "For the Beloved Pupil: The Fist of Vice Admiral Garp",
       "episode": "1114",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1114/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1114/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1114/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1114/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Marines Surprised! Marine Headquarters' Former Admiral, Kuzan",
       "episode": "1115",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1115/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1115/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1115/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1115/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Let's Go Get It! Buggy's Big Declaration",
       "episode": "1116",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1116/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1116/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1116/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1116/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Sabo Returns: The Shocking Truth to Be Told!",
       "episode": "1117",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1117/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1117/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1117/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1117/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Holy Land in Tumult! Sai and Leo's Full-Power Blow!",
       "episode": "1118",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1118/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1118/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1118/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1118/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The Entrusted Message! King Cobra's Resolve",
       "episode": "1119",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1119/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1119/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1119/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1119/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "The World Is Shaken! The Ruler's Judgment and the Five Elders' Actions",
       "episode": "1120",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1120/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/21/1120/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1120/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/21/1120/dub",
+          "type": "dub"
+        }
+      ]
     },
     {
       "title": "Garp and Kuzan - A Master and a Pupil's Beliefs Clash",
