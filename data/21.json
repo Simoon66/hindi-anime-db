@@ -24,164 +24,69 @@
   "producers": [],
   "seasons": [
     {
-      "title": "[TV Series] ONE PIECE",
-      "link": "/1999/10/21.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg"
-    },
-    {
-      "title": "[OVA] One Piece: Defeat the Pirate Ganzack!",
+      "title": "[OVA] ONE PIECE: Taose! Kaizoku Ganzack",
       "link": "/1998/07/466.html",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx466-bVP54I7dCB2F.jpg"
     },
     {
-      "title": "[Special] One Piece: Umi no Heso no Daibouken-hen",
-      "link": "/2000/12/1094.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1094-H3YFJ1TR0ZZi.jpg"
+      "title": "ONE PIECE",
+      "link": "/1999/10/21.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg"
     },
     {
-      "title": "[Special] One Piece Special: Open Upon the Great Sea! A Father's Huge, HUGE Dream!",
-      "link": "/2003/04/1237.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1237.jpg"
-    },
-    {
-      "title": "[Special] One Piece Special: Protect! The Last Great Performance",
-      "link": "/2003/12/1238.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1238-Rf2wqBrCwgvO.jpg"
-    },
-    {
-      "title": "[Special] One Piece Special: The Detective Memoirs of Chief Straw Hat Luffy",
-      "link": "/2005/12/2020.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2020.jpg"
-    },
-    {
-      "title": "[Special] ONE PIECE: Yume no Soccer Ou!",
-      "link": "/2002/03/2386.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2386-NQQkq1taHJ08.jpg"
-    },
-    {
-      "title": "[Special] ONE PIECE: Mezase! Kaizoku Yakyuu Ou",
-      "link": "/2004/03/2490.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2490-AL4WmnCJ5zvE.jpg"
-    },
-    {
-      "title": "[Movie] ONE PIECE 3D: Gekisou! Trap Coaster",
-      "link": "/2011/12/12001.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx12001-XX0NNNfaKZ3e.jpg"
-    },
-    {
-      "title": "[Special] One Piece: Episode of Luffy - Hand Island Adventure",
-      "link": "/2012/12/16239.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b16239-XzoVjd7JK8xJ.png"
-    },
-    {
-      "title": "[Special] ONE PIECE FILM: Z - GLORIOUS ISLAND",
-      "link": "/2012/12/16468.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b16468-pMKFwfY8lYZX.png"
-    },
-    {
-      "title": "[Special] ONE PIECE: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna",
-      "link": "/2012/08/15323.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15323.jpg"
-    },
-    {
-      "title": "[Special] One Piece: Episode of Merry - The Tale of One More Friend",
-      "link": "/2013/08/19123.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx19123-leET1CrSJknT.jpg"
-    },
-    {
-      "title": "[Special] One Piece 3D2Y: Overcome Ace’s Death! Luffy’s Vow to his Friends",
-      "link": "/2014/08/20835.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20835-QVV6LpJlqe1A.jpg"
-    },
-    {
-      "title": "[Special] One Piece - Episode of Sabo: Bond of Three Brothers - A Miraculous Reunion and an Inherited Will",
-      "link": "/2015/08/21230.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21230-rfoUZud1Jn0L.png"
-    },
-    {
-      "title": "[Special] One Piece: Adventure of Nebulandia",
-      "link": "/2015/12/21485.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21485-KR1sv4rYSe6V.jpg"
-    },
-    {
-      "title": "[Special] One Piece: Heart of Gold",
-      "link": "/2016/07/21831.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21831-qj5IKYiPOupF.jpg"
-    },
-    {
-      "title": "[Special] One Piece: Episode of East Blue",
-      "link": "/2017/08/99302.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99302-b40WIhc5dylo.jpg"
-    },
-    {
-      "title": "[Movie] ONE PIECE: The Movie",
+      "title": "One Piece Movie 01",
       "link": "/2000/03/459.html",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx459-Ivw65mUXackh.png"
     },
     {
-      "title": "[Movie] One Piece: Clockwork Island Adventure",
+      "title": "[Special] ONE PIECE: Nejimaki-jima no Bouken - Jango no Dance Carnival",
+      "link": "/2001/03/2385.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2385-06iBj9aNIadt.jpg"
+    },
+    {
+      "title": "One Piece Movie 02: Nejimaki-jima no Daibouken",
       "link": "/2001/03/460.html",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx460-p9HObfGUhWn0.jpg"
     },
     {
-      "title": "[Movie] One Piece: Chopper’s Kingdom on the Island of Strange Animals",
+      "title": "One Piece Movie 03: Chinjuu-jima no Chopper Oukoku",
       "link": "/2002/03/461.html",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx461-DC9fMDl3AaK1.jpg"
     },
     {
-      "title": "[Movie] One Piece The Movie: The Dead End Adventure",
+      "title": "One Piece Movie 04: Dead End no Bouken",
       "link": "/2003/03/462.html",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx462-Ig8zfdsFWcql.png"
     },
     {
-      "title": "[Movie] One Piece: The Curse of the Sacred Sword",
+      "title": "One Piece Movie 05: Norowareta Seiken",
       "link": "/2004/03/463.html",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx463-QDnETPoHp9oD.jpg"
     },
     {
-      "title": "[Movie] One Piece: Baron Omatsuri and the Secret Island",
+      "title": "One Piece Movie 06: Omatsuri Danshaku to Himitsu no Shima",
       "link": "/2005/03/464.html",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx464-g4wcZPjbhY5j.png"
     },
     {
-      "title": "[Movie] One Piece: Mega Mecha Soldier of Karakuri Castle",
+      "title": "One Piece Movie 07: Karakuri-jou no Mecha Kyohei",
       "link": "/2006/03/465.html",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx465-qSRr0MKYhS0I.jpg"
     },
     {
-      "title": "[Movie] One Piece: The Desert Princess and the Pirates, Adventures in Alabasta",
+      "title": "One Piece Movie 08: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi",
       "link": "/2007/03/2107.html",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2107-H8bRuRRbhCIJ.jpg"
     },
     {
-      "title": "[Movie] One Piece: Episode Of Chopper +: The Miracle Winter Cherry Blossom",
+      "title": "One Piece Movie 09: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
       "link": "/2008/03/3848.html",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3848-SCnYGTn34Llt.jpg"
     },
     {
-      "title": "[Movie] One Piece Film: Strong World",
+      "title": "[Movie] ONE PIECE FILM: STRONG WORLD",
       "link": "/2009/12/4155.html",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4155-P5TDf6t6qFwX.png"
-    },
-    {
-      "title": "[Movie] One Piece 3D: Mugiwara Chase",
-      "link": "/2011/03/9999.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9999.jpg"
-    },
-    {
-      "title": "[Movie] One Piece Film: Z",
-      "link": "/2012/12/12859.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12859-uQFENDPzMWz6.jpg"
-    },
-    {
-      "title": "[Movie] One Piece Film: Gold",
-      "link": "/2016/07/21335.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21335-XsXdE0AeOkkZ.jpg"
-    },
-    {
-      "title": "[Special] One Piece: Episode of Skypiea",
-      "link": "/2018/08/101918.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101918-3uyCYHw1syki.png"
     },
     {
       "title": "[OVA] ONE PIECE FILM: STRONG WORLD - EPISODE:0",
@@ -189,79 +94,49 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8740-oZajT3brPn7b.jpg"
     },
     {
-      "title": "[Movie] One Piece: Stampede",
-      "link": "/2019/08/105143.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105143-5uBDmhvMr6At.png"
+      "title": "[Movie] ONE PIECE 3D: Mugiwara Chase",
+      "link": "/2011/03/9999.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9999.jpg"
     },
     {
-      "title": "[Special] ONE PIECE: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi",
-      "link": "/2011/08/106572.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n106572-k1gqIsDcqGaV.jpg"
+      "title": "[Movie] ONE PIECE 3D: Gekisou! Trap Coaster",
+      "link": "/2011/12/12001.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx12001-XX0NNNfaKZ3e.jpg"
     },
     {
-      "title": "[Special] One Piece: Django's Dance Carnival",
-      "link": "/2001/03/2385.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2385-06iBj9aNIadt.jpg"
+      "title": "[Movie] ONE PIECE FILM: Z",
+      "link": "/2012/12/12859.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12859-uQFENDPzMWz6.jpg"
     },
     {
-      "title": "[Special] ONE PIECE FILM: GOLD - episode 0 711ver.",
+      "title": "[ONA] ONE PIECE FILM: Z - GLORIOUS ISLAND",
+      "link": "/2012/12/16468.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b16468-pMKFwfY8lYZX.png"
+    },
+    {
+      "title": "[ONA] ONE PIECE FILM: GOLD - episode 0 711ver.",
       "link": "/2016/07/21880.html",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21880-uxsZ880LXSdY.jpg"
     },
     {
-      "title": "[OVA] One Piece: Romance Dawn Story",
-      "link": "/2008/11/5252.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5252.jpg"
+      "title": "[Special] ONE PIECE: Heart of Gold",
+      "link": "/2016/07/21831.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21831-qj5IKYiPOupF.jpg"
     },
     {
-      "title": "[Movie] The Great Tongari Island Treasure Hunting Adventure",
-      "link": "/2016/11/126649.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126649-sbuKTAghtsln.jpg"
+      "title": "[Movie] ONE PIECE FILM: GOLD",
+      "link": "/2016/07/21335.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21335-XsXdE0AeOkkZ.jpg"
     },
     {
-      "title": "[Movie] One Piece Film: Red",
+      "title": "[Movie] ONE PIECE STAMPEDE",
+      "link": "/2019/08/105143.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105143-5uBDmhvMr6At.png"
+    },
+    {
+      "title": "[Movie] ONE PIECE FILM: RED",
       "link": "/2022/08/141902.html",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141902-fTyoTk8F8qOl.jpg"
-    },
-    {
-      "title": "[ONA] MONSTERS: 103 Mercies Dragon Damnation",
-      "link": "/2024/01/167404.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167404-QMZJVARntkbv.jpg"
-    },
-    {
-      "title": "[TV Series] THE ONE PIECE",
-      "link": "/2027/02/171630.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171630-CW3kbduXmmUE.jpg"
-    },
-    {
-      "title": "[Special] ONE PIECE FAN LETTER",
-      "link": "/2024/10/182469.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182469-JQ808NBPxmgn.jpg"
-    },
-    {
-      "title": "[TV Series] One Piece Log: Fish-Man Island Saga",
-      "link": "/2024/11/183423.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183423-6Iiu194UDxD0.jpg"
-    },
-    {
-      "title": "[ONA] Koisuru ONE PIECE",
-      "link": "/2025/04/188668.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188668-rOB7rkgOz89w.jpg"
-    },
-    {
-      "title": "[Special] ONE PIECE HEROINES",
-      "link": "/2026/07/197178.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197178-Ui8PY9HQbNgu.jpg"
-    },
-    {
-      "title": "[Special] ONE PIECE: Original Episode/Luffy, Law",
-      "link": "/2025/01/187380.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187380-RZmxpJyB3A6Y.jpg"
-    },
-    {
-      "title": "[TV_SHORT] CHOPPER's",
-      "link": "/2026/01/204432.html",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204432-h8U4bVnSU6bM.png"
     }
   ],
   "episodes": [
@@ -28866,7 +28741,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "The Strongest Form of Humanity! The Seraphim's Powers!",
       "episode": "1101",
       "files": [
         {
@@ -28892,7 +28767,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Sinister Schemes! The Operation to Escape Egghead",
       "episode": "1102",
       "files": [
         {
@@ -28918,7 +28793,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Turn Back My Father! Bonney's Futile Wish!",
       "episode": "1103",
       "files": [
         {
@@ -28944,7 +28819,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "A Desperate Situation! The Seraphim's All-out Attack!",
       "episode": "1104",
       "files": [
         {
@@ -28970,7 +28845,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "A Beautiful Act of Treason! The Spy, Stussy!",
       "episode": "1105",
       "files": [
         {
@@ -28996,7 +28871,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Trouble Occurs! Seek Dr. Vegapunk!",
       "episode": "1106",
       "files": [
         {
@@ -29022,7 +28897,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "A Shudder! The Evil Hand Creeping Up on the Laboratory",
       "episode": "1107",
       "files": [
         {
@@ -29048,7 +28923,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Incomprehensible! The Seraphim's Rebellion!",
       "episode": "1108",
       "files": [
         {
@@ -29074,7 +28949,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "A Tough Decision! An Unusual United Front!",
       "episode": "1109",
       "files": [
         {
@@ -29100,7 +28975,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Survive! Deadly Combat with the Strongest Form of Humanity!",
       "episode": "1110",
       "files": [
         {
@@ -29126,7 +29001,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "The Second Ohara! The Mastermind's Ambition!",
       "episode": "1111",
       "files": [
         {
@@ -29152,7 +29027,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Clash! Shanks vs. Eustass Kid",
       "episode": "1112",
       "files": [
         {
@@ -29178,7 +29053,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Run, Koby! A Desperate Escape Strategy!",
       "episode": "1113",
       "files": [
         {
@@ -29204,7 +29079,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "For the Beloved Pupil: The Fist of Vice Admiral Garp",
       "episode": "1114",
       "files": [
         {
@@ -29230,7 +29105,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "The Marines Surprised! Marine Headquarters' Former Admiral, Kuzan",
       "episode": "1115",
       "files": [
         {
@@ -29256,7 +29131,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Let's Go Get It! Buggy's Big Declaration",
       "episode": "1116",
       "files": [
         {
@@ -29282,7 +29157,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Sabo Returns: The Shocking Truth to Be Told!",
       "episode": "1117",
       "files": [
         {
@@ -29308,7 +29183,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "The Holy Land in Tumult! Sai and Leo's Full-Power Blow!",
       "episode": "1118",
       "files": [
         {
@@ -29334,7 +29209,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "The Entrusted Message! King Cobra's Resolve",
       "episode": "1119",
       "files": [
         {
@@ -29360,7 +29235,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "The World Is Shaken! The Ruler's Judgment and the Five Elders' Actions",
       "episode": "1120",
       "files": [
         {
@@ -29386,7 +29261,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Garp and Kuzan - A Master and a Pupil's Beliefs Clash",
       "episode": "1121",
       "files": [
         {
@@ -29412,7 +29287,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "The Last Lesson! Impact Inherited",
       "episode": "1122",
       "files": [
         {
@@ -29438,7 +29313,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "The World Shakes! The Straw Hats' Hostage Situation",
       "episode": "1123",
       "files": [
         {
@@ -29464,7 +29339,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Completely Surrounded! The Operation to Escape Egghead",
       "episode": "1124",
       "files": [
         {
@@ -29490,7 +29365,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "A Clash of Two Men's Determination! Kizaru and Sentomaru",
       "episode": "1125",
       "files": [
         {
@@ -29516,7 +29391,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Looming Despair! Admiral Kizaru's Depressing Mission",
       "episode": "1126",
       "files": [
         {
@@ -29542,7 +29417,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Luffy vs. Kizaru! A Fierce Kaleidoscopic Battle",
       "episode": "1127",
       "files": [
         {
@@ -29568,7 +29443,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "The Nightmare Strikes - Godhead of Science & Defense, St. Saturn",
       "episode": "1128",
       "files": [
         {
@@ -29594,7 +29469,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Kuma's Past: Better Off Dead in This World",
       "episode": "1129",
       "files": [
         {
@@ -29620,7 +29495,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "A History Erased! God Valley of Despair",
       "episode": "1130",
       "files": [
         {
@@ -29646,7 +29521,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "A Fleeting Moment of Happiness: Kumachi and Ginny",
       "episode": "1131",
       "files": [
         {
@@ -29672,7 +29547,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "A Pledge to Ginny: Kuma Becomes a Father",
       "episode": "1132",
       "files": [
         {
@@ -29698,7 +29573,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "To Save His Daughter: Kuma the Timid Pacifist",
       "episode": "1133",
       "files": [
         {
@@ -29724,7 +29599,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Cruel Fate: Kuma's Decision as a Father",
       "episode": "1134",
       "files": [
         {
@@ -29750,7 +29625,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "To the Sea Where My Father is! The Future Bonney Chooses",
       "episode": "1135",
       "files": [
         {
@@ -29776,7 +29651,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Kuma's Life",
       "episode": "1136",
       "files": [
         {
@@ -29802,7 +29677,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "I'm Sorry, Dad: Bonney's Tears and Kuma's Fist",
       "episode": "1137",
       "files": [
         {
@@ -29828,7 +29703,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Thank You, Dad: Bonney and Kuma's Warm Embrace",
       "episode": "1138",
       "files": [
         {
@@ -29854,7 +29729,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Destroy Egghead: The Buster Call is Invoked",
       "episode": "1139",
       "files": [
         {
@@ -29880,7 +29755,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "An Admired Hero: The Warrior of Liberation Who Saves Bonney",
       "episode": "1140",
       "files": [
         {
@@ -29906,7 +29781,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Reliable Reinforcements! Dorry and Brogy Arrive!",
       "episode": "1141",
       "files": [
         {
@@ -29932,7 +29807,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Come In, World: Vegapunk's Message",
       "episode": "1142",
       "files": [
         {
@@ -29958,7 +29833,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Vegapunk's Secret Plan: A Tense Worldwide Broadcast",
       "episode": "1143",
       "files": [
         {
@@ -29984,7 +29859,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "The Worst Nightmare: The Five Elders Come Together",
       "episode": "1144",
       "files": [
         {
@@ -30010,7 +29885,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Friends Fight Together! Luffy and the Warriors of Elbaph",
       "episode": "1145",
       "files": [
         {
@@ -30036,7 +29911,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "An Imminent Threat: Stussy and Edison's Resolve",
       "episode": "1146",
       "files": [
         {
@@ -30062,7 +29937,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "A Stunning Conclusion: Vegapunk's Great Prediction",
       "episode": "1147",
       "files": [
         {
@@ -30088,7 +29963,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "The Lost History - Joyboy, the First Pirate",
       "episode": "1148",
       "files": [
         {
@@ -30114,7 +29989,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "The Void Century - A Revelation About a Sinking World",
       "episode": "1149",
       "files": [
         {
@@ -30140,7 +30015,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Get the Ship Moving! The Iron Giant Activates",
       "episode": "1150",
       "files": [
         {
@@ -30166,7 +30041,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Her and Her Father's Dream! Bonney's Free Future",
       "episode": "1151",
       "files": [
         {
@@ -30192,7 +30067,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Her Father and Mother's Legacy! Bonney's Nika Punch",
       "episode": "1152",
       "files": [
         {
@@ -30218,7 +30093,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "The Upheaval of an Era! The Color of the Supreme King That Leads Luffy",
       "episode": "1153",
       "files": [
         {
@@ -30244,7 +30119,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "The Truth Behind the Secret Plan - Vegapunk Claims Victory",
       "episode": "1154",
       "files": [
         {
@@ -30270,7 +30145,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "The Promised Horizon - Off to the Long-Awaited Elbaph!",
       "episode": "1155",
       "files": [
         {
@@ -30296,7 +30171,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "The Long-sought Elbaph! The Big Reunion Banquet",
       "episode": "1156",
       "files": [
         {
