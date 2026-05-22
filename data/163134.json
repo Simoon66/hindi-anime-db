@@ -1,12 +1,12 @@
 {
   "title": "Re:ZERO -Starting Life in Another World- Season 3",
-  "synopsis": "The third season of Re:Zero kara Hajimeru Isekai Seikatsu. \n\nA year has passed since Subaru’s victory at the Sanctuary. He savors a life of fulfillment while Emilia’s camp stands united for the royal selection—until a fateful letter arrives. Anastasia, a royal selection candidate, has invited Emilia to the Watergate City of Priestella. But as the party begins its journey, crisis stirs beneath the surface and Subaru meets a cruel fate once again.\n(Source: Crunchyroll) \n\nNote: The first episode has an extended runtime of ~90 minutes, and received an early premiere at Anime Expo on July 5, 2024.",
+  "synopsis": "The third season of Re:Zero kara Hajimeru Isekai Seikatsu. \\n\\n\n\nA year has passed since Subaru’s victory at the Sanctuary. He savors a life of fulfillment while Emilia’s camp stands united for the royal selection—until a fateful letter arrives. Anastasia, a royal selection candidate, has invited Emilia to the Watergate City of Priestella. But as the party begins its journey, crisis stirs beneath the surface and Subaru meets a cruel fate once again.\\n\\n\n(Source: Crunchyroll) \\n\\n\n\nNote: The first episode has an extended runtime of ~90 minutes, and received an early premiere at Anime Expo on July 5, 2024.",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163134-yieRFbvUOH9a.jpg",
-  "synonym": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
-  "native": "Re:ゼロから始める異世界生活 3rd season",
-  "aired": "10/2/2024",
-  "premiered": "FALL 2024",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "16",
   "genres": [
     "Action",
@@ -17,20 +17,40 @@
     "Romance",
     "Thriller"
   ],
-  "rating": "8.4",
-  "type": "TV",
-  "status": "FINISHED",
+  "rating": "",
+  "type": "TV Series",
+  "status": "Completed",
   "country": "JP",
-  "studios": "WHITE FOX",
+  "studios": [
+    "WHITE FOX"
+  ],
   "producers": [],
-  "seasons": [],
-  "malId": "54857",
-  "streamingId": "163134",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "seasons": [
+    {
+      "title": "[TV Series] Re:ZERO -Starting Life in Another World- Season 3",
+      "link": "/2024/10/163134.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163134-yieRFbvUOH9a.jpg"
+    },
+    {
+      "title": "[TV Series] Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+      "link": "/2021/01/119661.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119661-GDbUZxrZMz01.png"
+    },
+    {
+      "title": "[ONA] Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season",
+      "link": "/2024/10/182417.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182417-zKlgy4KbGj1H.jpg"
+    },
+    {
+      "title": "[TV Series] Re:ZERO -Starting Life in Another World- Season 4",
+      "link": "/2026/04/189046.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Theatrical Malice",
       "files": [
         {
           "name": "HD-1",
@@ -55,8 +75,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "A Showdown of Fire and Ice",
       "files": [
         {
           "name": "HD-1",
@@ -81,8 +101,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Gorgeous Tiger",
       "files": [
         {
           "name": "HD-1",
@@ -107,8 +127,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Operation: Take Back the Government Office",
       "files": [
         {
           "name": "HD-1",
@@ -133,8 +153,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "A Dark Torrent",
       "files": [
         {
           "name": "HD-1",
@@ -159,8 +179,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Conditions of the Knight",
       "files": [
         {
           "name": "HD-1",
@@ -185,8 +205,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "The Newest of Heroes and the Most Ancient of Heroes",
       "files": [
         {
           "name": "HD-1",
@@ -211,8 +231,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "The One I'll Love Someday",
       "files": [
         {
           "name": "HD-1",
@@ -237,8 +257,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "City Scramble",
       "files": [
         {
           "name": "HD-1",
@@ -263,8 +283,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "The Plan to Conquer Greed",
       "files": [
         {
           "name": "HD-1",
@@ -289,8 +309,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Liliana Masquerade",
       "files": [
         {
           "name": "HD-1",
@@ -315,8 +335,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Regulus Corneas",
       "files": [
         {
           "name": "HD-1",
@@ -341,8 +361,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "The Warrior's Commendation",
       "files": [
         {
           "name": "HD-1",
@@ -367,8 +387,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "Theresia van Astrea",
       "files": [
         {
           "name": "HD-1",
@@ -393,8 +413,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "A Hideous Dinner Party",
       "files": [
         {
           "name": "HD-1",
@@ -419,8 +439,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "The Result of the Battle for Priestella",
       "files": [
         {
           "name": "HD-1",
@@ -444,5 +464,9 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "163134",
+  "releaseDate": "2024-10-02",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }
