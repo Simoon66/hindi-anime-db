@@ -1,12 +1,12 @@
 {
   "title": "Neon Genesis Evangelion",
-  "synopsis": "In the year 2015, the Angels, huge, tremendously powerful, alien war machines, appear in Tokyo for the second time. The only hope for Mankind's survival lies in the Evangelion, a humanoid fighting machine developed by NERV, a special United Nations agency. Capable of withstanding anything the Angels can dish out, the Evangelion's one drawback lies in the limited number of people able to pilot them. Only a handful of teenagers, all born fourteen years ago, nine months after the Angels first appeared, are able to interface with the Evangelion. One such teenager is Shinji Ikari, whose father heads the NERV team that developed and maintains the Evangelion. Thrust into a maelstrom of battle and events that he does not understand, Shinji is forced to plumb the depths of his own inner resources for the courage and strength to not only fight, but to survive, or risk losing everything. \n\n\n(Source: AniDB)\n\n\n\n Note: Later releases include edited versions of Episodes 21-24 called the \"Director's Cut\" with some visual editing and adding extra scenes that appeared in the theatrical recap 'Death'.",
+  "synopsis": "In the year 2015, the Angels, huge, tremendously powerful, alien war machines, appear in Tokyo for the second time. The only hope for Mankind's survival lies in the Evangelion, a humanoid fighting machine developed by NERV, a special United Nations agency. Capable of withstanding anything the Angels can dish out, the Evangelion's one drawback lies in the limited number of people able to pilot them. Only a handful of teenagers, all born fourteen years ago, nine months after the Angels first appeared, are able to interface with the Evangelion. One such teenager is Shinji Ikari, whose father heads the NERV team that developed and maintains the Evangelion. Thrust into a maelstrom of battle and events that he does not understand, Shinji is forced to plumb the depths of his own inner resources for the courage and strength to not only fight, but to survive, or risk losing everything. \\n\\n\n(Source: AniDB)\\n\n\\n\n Note: Later releases include edited versions of Episodes 21-24 called the \"Director's Cut\" with some visual editing and adding extra scenes that appeared in the theatrical recap 'Death'.",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx30-AI1zr74Dh4ye.jpg",
-  "synonym": "Shin Seiki Evangelion",
-  "native": "新世紀エヴァンゲリオン",
-  "aired": "10/03/1995",
-  "premiered": "FALL 1995",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "26",
   "genres": [
     "Action",
@@ -16,8 +16,8 @@
     "Psychological",
     "Sci-Fi"
   ],
-  "rating": "8.3",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
@@ -25,11 +25,32 @@
     "Tatsunoko Production"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Neon Genesis Evangelion",
+      "link": "/1995/10/30.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx30-AI1zr74Dh4ye.jpg"
+    },
+    {
+      "title": "[Movie] Neon Genesis Evangelion: The End of Evangelion",
+      "link": "/1997/07/32.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx32-5JYsv0wc122I.jpg"
+    },
+    {
+      "title": "[Movie] Neon Genesis Evangelion: Death & Rebirth",
+      "link": "/1997/03/31.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx31-3zRThtzQH62E.png"
+    },
+    {
+      "title": "[ONA] Petit Eva: Evangelion@School",
+      "link": "/2007/03/4130.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4130-cNTifeekohY6.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Angel Attack",
       "files": [
         {
           "name": "HD-1",
@@ -54,8 +75,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "The Beast",
       "files": [
         {
           "name": "HD-1",
@@ -80,8 +101,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "A Transfer",
       "files": [
         {
           "name": "HD-1",
@@ -106,8 +127,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Hedgehog's Dilemma",
       "files": [
         {
           "name": "HD-1",
@@ -132,8 +153,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Rei I",
       "files": [
         {
           "name": "HD-1",
@@ -158,8 +179,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Rei II",
       "files": [
         {
           "name": "HD-1",
@@ -184,8 +205,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "A Human Work",
       "files": [
         {
           "name": "HD-1",
@@ -210,8 +231,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Asuka Strikes!",
       "files": [
         {
           "name": "HD-1",
@@ -236,8 +257,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Both of You, Dance Like You Want to Win!",
       "files": [
         {
           "name": "HD-1",
@@ -262,8 +283,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Magma Diver",
       "files": [
         {
           "name": "HD-1",
@@ -288,8 +309,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "The Day Tokyo-3 Stood Still",
       "files": [
         {
           "name": "HD-1",
@@ -314,8 +335,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "She said, 'Don't make others suffer for your personal hatred.'",
       "files": [
         {
           "name": "HD-1",
@@ -340,8 +361,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "Lilliputian Hitcher",
       "files": [
         {
           "name": "HD-1",
@@ -366,8 +387,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "Weaving a Story",
       "files": [
         {
           "name": "HD-1",
@@ -392,8 +413,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "Those women longed for the touch of others' lips, and thus invited their kisses.",
       "files": [
         {
           "name": "HD-1",
@@ -418,8 +439,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "Splitting of the Breast",
       "files": [
         {
           "name": "HD-1",
@@ -444,8 +465,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "Fourth Child",
       "files": [
         {
           "name": "HD-1",
@@ -470,8 +491,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "Ambivalence",
       "files": [
         {
           "name": "HD-1",
@@ -496,8 +517,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "Introjection",
       "files": [
         {
           "name": "HD-1",
@@ -522,8 +543,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "WEAVING A STORY 2: oral stage",
       "files": [
         {
           "name": "HD-1",
@@ -548,8 +569,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "He was aware that he was still a child.",
       "files": [
         {
           "name": "HD-1",
@@ -574,8 +595,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "Don't Be.",
       "files": [
         {
           "name": "HD-1",
@@ -600,8 +621,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "Rei III",
       "files": [
         {
           "name": "HD-1",
@@ -626,8 +647,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "The Beginning and the End, or 'Knockin' on Heaven's Door'",
       "files": [
         {
           "name": "HD-1",
@@ -652,8 +673,8 @@
       ]
     },
     {
+      "title": "Episode 25",
       "episode": "25",
-      "title": "Do you love me?",
       "files": [
         {
           "name": "HD-1",
@@ -678,8 +699,8 @@
       ]
     },
     {
+      "title": "Episode 26",
       "episode": "26",
-      "title": "Take care of yourself.",
       "files": [
         {
           "name": "HD-1",
@@ -705,8 +726,7 @@
     }
   ],
   "streamingId": "30",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "1995-10-03",
-  "malId": "30",
-  "_forceSyncTime": 1778770134006
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }
