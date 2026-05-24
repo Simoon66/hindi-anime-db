@@ -143,7 +143,28 @@
     {
       "title": "Episode 1",
       "episode": "1",
-      "files": []
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/4155/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/4155/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/4155/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/4155/1/dub",
+          "type": "dub"
+        }
+      ]
     }
   ],
   "streamingId": "4155",
