@@ -152,16 +152,6 @@
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/460/1/sub",
           "type": "sub"
-        },
-        {
-          "name": "HD-1",
-          "url": "https://megaplay.buzz/stream/ani/460/1/dub",
-          "type": "dub"
-        },
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/460/1/dub",
-          "type": "dub"
         }
       ]
     }
