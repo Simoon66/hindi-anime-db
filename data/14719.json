@@ -1,31 +1,47 @@
 {
   "title": "JoJo's Bizarre Adventure (TV)",
-  "synopsis": "Beginning its tale in 19th century England, young aristocrat Jonathan Joestar finds himself locked in bitter rivalry with Dio Brando, a low-born boy who Jonathan's father took under his wing after the death of Dio's father. Discontent with his station in life, Dio's fathomless lust to reign over all eventually leads him to seek the supernatural powers of an ancient Aztec stone mask in the Joestar's possession—an artifact that will forever change the destiny of Dio and Jonathan for generations to come.\n\n\n\nFifty years later, in 1938 New York City, Jonathan's grandson Joseph Joestar must take up his grandfather's mission and master the abilities necessary to destroy the stone mask and its immensely powerful creators who threaten humanity's very existence, the Pillar Men.\n\n\n(Source: Anime News Network)",
+  "synopsis": "Beginning its tale in 19th century England, young aristocrat Jonathan Joestar finds himself locked in bitter rivalry with Dio Brando, a low-born boy who Jonathan's father took under his wing after the death of Dio's father. Discontent with his station in life, Dio's fathomless lust to reign over all eventually leads him to seek the supernatural powers of an ancient Aztec stone mask in the Joestar's possession—an artifact that will forever change the destiny of Dio and Jonathan for generations to come.\\n\n\\n\nFifty years later, in 1938 New York City, Jonathan's grandson Joseph Joestar must take up his grandfather's mission and master the abilities necessary to destroy the stone mask and its immensely powerful creators who threaten humanity's very existence, the Pillar Men.\\n\\n\n(Source: Anime News Network)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14719-VT5dRzTBSZ0w.jpg",
-  "synonym": "JoJo no Kimyou na Bouken (TV)",
-  "native": "ジョジョの奇妙な冒険 (TV)",
-  "aired": "10/06/2012",
-  "premiered": "FALL 2012",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "26",
   "genres": [
     "Action",
     "Adventure",
     "Supernatural"
   ],
-  "rating": "7.7",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "david production"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] JoJo's Bizarre Adventure (TV)",
+      "link": "/2012/10/14719.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14719-VT5dRzTBSZ0w.jpg"
+    },
+    {
+      "title": "[Movie] JoJo no Kimyou na Bouken: Phantom Blood",
+      "link": "/2007/02/3603.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3603-SlwsgQeC4fTg.png"
+    },
+    {
+      "title": "[TV Series] JoJo's Bizarre Adventure: Stardust Crusaders",
+      "link": "/2014/04/20474.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20474-xuqem5GBlBtb.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Dio the Invader",
       "files": [
         {
           "name": "HD-1",
@@ -50,8 +66,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "A Letter From the Past",
       "files": [
         {
           "name": "HD-1",
@@ -76,8 +92,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Youth With Dio",
       "files": [
         {
           "name": "HD-1",
@@ -102,8 +118,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Overdrive",
       "files": [
         {
           "name": "HD-1",
@@ -128,8 +144,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "The Dark Knights",
       "files": [
         {
           "name": "HD-1",
@@ -154,8 +170,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Tomorrow's Courage",
       "files": [
         {
           "name": "HD-1",
@@ -180,8 +196,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Sorrowful Successor",
       "files": [
         {
           "name": "HD-1",
@@ -206,8 +222,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Bloody Battle! JoJo & Dio",
       "files": [
         {
           "name": "HD-1",
@@ -232,8 +248,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "The Final Ripple!",
       "files": [
         {
           "name": "HD-1",
@@ -258,8 +274,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "New York's JoJo",
       "files": [
         {
           "name": "HD-1",
@@ -284,8 +300,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "The Game Master",
       "files": [
         {
           "name": "HD-1",
@@ -310,8 +326,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "The Pillar Man",
       "files": [
         {
           "name": "HD-1",
@@ -336,8 +352,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "JoJo vs. The Ultimate Lifeform",
       "files": [
         {
           "name": "HD-1",
@@ -362,8 +378,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "Ultimate Warriors from Ancient Times",
       "files": [
         {
           "name": "HD-1",
@@ -388,8 +404,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "A Hero's Proof",
       "files": [
         {
           "name": "HD-1",
@@ -414,8 +430,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "Lisa Lisa, Hamon Coach",
       "files": [
         {
           "name": "HD-1",
@@ -440,8 +456,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "The Deeper Plan",
       "files": [
         {
           "name": "HD-1",
@@ -466,8 +482,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "Von Stroheim's Revenge",
       "files": [
         {
           "name": "HD-1",
@@ -492,8 +508,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "A Race Toward the Brink",
       "files": [
         {
           "name": "HD-1",
@@ -518,8 +534,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "Young Caesar",
       "files": [
         {
           "name": "HD-1",
@@ -544,8 +560,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "A Hundred Against Two",
       "files": [
         {
           "name": "HD-1",
@@ -570,8 +586,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "A True Warrior",
       "files": [
         {
           "name": "HD-1",
@@ -596,8 +612,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "The Warrior of Wind",
       "files": [
         {
           "name": "HD-1",
@@ -622,8 +638,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "The Ties that Bind JoJo",
       "files": [
         {
           "name": "HD-1",
@@ -648,8 +664,8 @@
       ]
     },
     {
+      "title": "Episode 25",
       "episode": "25",
-      "title": "The Birth of a Superbeing",
       "files": [
         {
           "name": "HD-1",
@@ -674,8 +690,8 @@
       ]
     },
     {
+      "title": "Episode 26",
       "episode": "26",
-      "title": "The Ascendant One",
       "files": [
         {
           "name": "HD-1",
@@ -701,8 +717,7 @@
     }
   ],
   "streamingId": "14719",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2012-10-06",
-  "malId": "14719",
-  "_forceSyncTime": 1778770209308
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }
