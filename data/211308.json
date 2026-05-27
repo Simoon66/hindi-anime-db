@@ -1,0 +1,63 @@
+{
+  "title": "THE RIBBON HERO",
+  "synopsis": "Inspired by Osamu Tezuka's legendary manga \"Princess Knight,\" witness a lone hero attempt to overcome their harsh destiny in THE RIBBON HERO.\\n\\n\n(Source: Netflix)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211308-DHKjEEttkfkT.jpg",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
+  "episodesCount": "1",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Mahou Shoujo"
+  ],
+  "rating": "",
+  "type": "Movie",
+  "status": "Upcoming",
+  "country": "JP",
+  "studios": [
+    "OUTLINE"
+  ],
+  "producers": [],
+  "seasons": [
+    {
+      "title": "[Movie] THE RIBBON HERO",
+      "link": "/2026/08/211308.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211308-DHKjEEttkfkT.jpg"
+    }
+  ],
+  "episodes": [
+    {
+      "title": "Episode 1",
+      "episode": "1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/211308/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/211308/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/64012/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/64012/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ],
+  "streamingId": "211308",
+  "releaseDate": "2026-08-08",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
+}
