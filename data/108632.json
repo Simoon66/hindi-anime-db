@@ -1,12 +1,12 @@
 {
   "title": "Re:ZERO -Starting Life in Another World- Season 2",
-  "synopsis": "Even after dying countless times, Subaru finally ended the threat of the White Whale and defeated the Witch Cult's Sin Archbishop representing sloth, Petelgeuse Romaneeconti. But only shortly after overcoming a tragic ending and reuniting with his beloved Emilia, Subaru learns that Rem has been erased from this world, having fallen victim to the White Whale's Fog of Elimination in the midst of Subaru's death loop. With the White Whale now gone, Subaru and Emilia are forced to confront a reality they never dreamed would happen.\n\n(Source: Crunchyroll)",
+  "synopsis": "Even after dying countless times, Subaru finally ended the threat of the White Whale and defeated the Witch Cult's Sin Archbishop representing sloth, Petelgeuse Romaneeconti. But only shortly after overcoming a tragic ending and reuniting with his beloved Emilia, Subaru learns that Rem has been erased from this world, having fallen victim to the White Whale's Fog of Elimination in the midst of Subaru's death loop. With the White Whale now gone, Subaru and Emilia are forced to confront a reality they never dreamed would happen.\\n\\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108632-lQWnmw7XaNOK.jpg",
-  "synonym": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
-  "native": "Re:ゼロから始める異世界生活 2nd Season",
-  "aired": "07/08/2020",
-  "premiered": "SUMMER 2020",
-  "duration": "26m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "13",
   "genres": [
     "Action",
@@ -16,19 +16,40 @@
     "Psychological",
     "Thriller"
   ],
-  "rating": "8.3",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "WHITE FOX"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Re:ZERO -Starting Life in Another World- Season 2",
+      "link": "/2020/07/108632.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108632-lQWnmw7XaNOK.jpg"
+    },
+    {
+      "title": "[TV Series] Re:ZERO -Starting Life in Another World-",
+      "link": "/2016/04/21355.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21355-wRVUrGxpvIQQ.jpg"
+    },
+    {
+      "title": "[TV Series] Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+      "link": "/2021/01/119661.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119661-GDbUZxrZMz01.png"
+    },
+    {
+      "title": "[ONA] Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season",
+      "link": "/2020/07/120700.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120700-buuy9COgsBTa.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Each One's Promise",
       "files": [
         {
           "name": "HD-1",
@@ -53,8 +74,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "The Next Location",
       "files": [
         {
           "name": "HD-1",
@@ -79,8 +100,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "The Long-Awaited Reunion",
       "files": [
         {
           "name": "HD-1",
@@ -105,8 +126,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Parent and Child",
       "files": [
         {
           "name": "HD-1",
@@ -131,8 +152,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "A Step Forward",
       "files": [
         {
           "name": "HD-1",
@@ -157,8 +178,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "The Maiden's Gospel",
       "files": [
         {
           "name": "HD-1",
@@ -183,8 +204,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Friend",
       "files": [
         {
           "name": "HD-1",
@@ -209,8 +230,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "The Value of Life",
       "files": [
         {
           "name": "HD-1",
@@ -235,8 +256,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Love Love Love Love Love Love You",
       "files": [
         {
           "name": "HD-1",
@@ -261,8 +282,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "I Know Hell",
       "files": [
         {
           "name": "HD-1",
@@ -287,8 +308,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "The Taste of Death",
       "files": [
         {
           "name": "HD-1",
@@ -313,8 +334,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "The Witches' Tea Party",
       "files": [
         {
           "name": "HD-1",
@@ -339,8 +360,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "The Sounds That Make You Want to Cry",
       "files": [
         {
           "name": "HD-1",
@@ -366,8 +387,7 @@
     }
   ],
   "streamingId": "108632",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2020-07-08",
-  "malId": "39587",
-  "_forceSyncTime": 1778771026496
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }
