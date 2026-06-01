@@ -1,12 +1,12 @@
 {
   "title": "Code Geass: Lelouch of the Rebellion R2",
   "synopsis": "A year has passed since \"The Black Rebellion\" and the remaining Black Knights have vanished into the shadows, their leader and figurehead, Zero, executed by the Britannian Empire. Area 11 is once more squirming under the Emperor's oppressive heel as the Britannian armies concentrate their attacks on the European front. But for the Britannians living in Area 11, life is back to normal. On one such normal day, a Britannian student, skipping his classes in the Ashford Academy, sneaks out to gamble on his chess play. But unknown to this young man, several forces are eying him from the shadows, for soon, he will experience a shocking encounter with his own obscured past, and the masked rebel mastermind Zero will return.",
-  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2904-Fet9Q33suC7G.jpg",
-  "synonym": "Code Geass: Hangyaku no Lelouch 2nd Season",
-  "native": "コードギアス 反逆のルルーシュ R2",
-  "aired": "Apr 6, 2008 to Sep 28, 2008",
-  "premiered": "SPRING 2008",
-  "duration": "24m",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2904-Fet9Q33suC7G.jpg",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "25",
   "genres": [
     "Action",
@@ -15,59 +15,54 @@
     "Sci-Fi",
     "Thriller"
   ],
-  "rating": "8.7",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "Sunrise"
   ],
-  "producers": [
-    "Bandai Visual",
-    "Mainichi Broadcasting System",
-    "Bandai Entertainment",
-    "Funimation"
-  ],
+  "producers": [],
   "seasons": [
     {
-      "title": "[TV] Code Geass: Lelouch of the Rebellion",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1575-hsmWM2ydNm1m.jpg",
-      "link": "/2006/10/1575.html"
+      "title": "[TV Series] Code Geass: Lelouch of the Rebellion R2",
+      "link": "/2008/04/2904.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2904-Fet9Q33suC7G.jpg"
     },
     {
-      "title": "[TV] Code Geass: Lelouch of the Rebellion R2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2904-Fet9Q33suC7G.jpg",
-      "link": "/2008/04/2904.html"
+      "title": "[TV Series] Code Geass: Lelouch of the Rebellion",
+      "link": "/2006/10/1575.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1575-hsmWM2ydNm1m.jpg"
     },
     {
       "title": "[Special] Code Geass: Hangyaku no Lelouch R2 Picture Drama",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5163.jpg",
-      "link": "/2008/08/5163.html"
+      "link": "/2008/08/5163.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5163.jpg"
     },
     {
       "title": "[Special] Code Geass: Hangyaku no Lelouch - Kiseki no Birthday Picture Drama",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8728.jpg",
-      "link": "/2010/04/8728.html"
+      "link": "/2010/04/8728.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8728.jpg"
     },
     {
       "title": "[Special] Code Geass: Lelouch of the Rebellion R2: Flash Specials",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9591.jpg",
-      "link": "/2008/08/9591.html"
+      "link": "/2008/08/9591.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9591.jpg"
     },
     {
       "title": "[Special] Code Geass: Hangyaku no Lelouch Picture Drama - Kiseki no Anniversary",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b112900-w58lVXgdLx93.jpg",
-      "link": "/2017/04/112900.html"
+      "link": "/2017/04/112900.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b112900-w58lVXgdLx93.jpg"
     },
     {
       "title": "[Special] Code Geass: Hangyaku no Lelouch R2 Picture Drama TURN 12.06 - Last Moratorium",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b132317-pcgaBGS3O5Dj.jpg",
-      "link": "/2014/03/132317.html"
+      "link": "/2014/03/132317.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b132317-pcgaBGS3O5Dj.jpg"
     }
   ],
   "episodes": [
     {
-      "title": "The Day a Demon Awakens",
+      "title": "Episode 1",
       "episode": "1",
       "files": [
         {
@@ -93,7 +88,7 @@
       ]
     },
     {
-      "title": "Plan for Independent Japan",
+      "title": "Episode 2",
       "episode": "2",
       "files": [
         {
@@ -119,7 +114,7 @@
       ]
     },
     {
-      "title": "Imprisoned in Campus",
+      "title": "Episode 3",
       "episode": "3",
       "files": [
         {
@@ -145,7 +140,7 @@
       ]
     },
     {
-      "title": "Counterattack at the Gallows",
+      "title": "Episode 4",
       "episode": "4",
       "files": [
         {
@@ -171,7 +166,7 @@
       ]
     },
     {
-      "title": "Knights of the Round",
+      "title": "Episode 5",
       "episode": "5",
       "files": [
         {
@@ -197,7 +192,7 @@
       ]
     },
     {
-      "title": "Surprise Attack over the Pacific",
+      "title": "Episode 6",
       "episode": "6",
       "files": [
         {
@@ -223,7 +218,7 @@
       ]
     },
     {
-      "title": "The Abandoned Mask",
+      "title": "Episode 7",
       "episode": "7",
       "files": [
         {
@@ -249,7 +244,7 @@
       ]
     },
     {
-      "title": "One Million Miracles",
+      "title": "Episode 8",
       "episode": "8",
       "files": [
         {
@@ -275,7 +270,7 @@
       ]
     },
     {
-      "title": "A Bride in the Vermilion Forbidden City",
+      "title": "Episode 9",
       "episode": "9",
       "files": [
         {
@@ -301,7 +296,7 @@
       ]
     },
     {
-      "title": "When Shen Hu Wins Glory",
+      "title": "Episode 10",
       "episode": "10",
       "files": [
         {
@@ -327,7 +322,7 @@
       ]
     },
     {
-      "title": "Power of Passion",
+      "title": "Episode 11",
       "episode": "11",
       "files": [
         {
@@ -353,7 +348,7 @@
       ]
     },
     {
-      "title": "Love Attack!",
+      "title": "Episode 12",
       "episode": "12",
       "files": [
         {
@@ -379,7 +374,7 @@
       ]
     },
     {
-      "title": "Assassin from the Past",
+      "title": "Episode 13",
       "episode": "13",
       "files": [
         {
@@ -405,7 +400,7 @@
       ]
     },
     {
-      "title": "Geass Hunt",
+      "title": "Episode 14",
       "episode": "14",
       "files": [
         {
@@ -431,7 +426,7 @@
       ]
     },
     {
-      "title": "The C’s World",
+      "title": "Episode 15",
       "episode": "15",
       "files": [
         {
@@ -457,7 +452,7 @@
       ]
     },
     {
-      "title": "United Federation of Nations Resolution Number One",
+      "title": "Episode 16",
       "episode": "16",
       "files": [
         {
@@ -483,7 +478,7 @@
       ]
     },
     {
-      "title": "The Taste of Humiliation",
+      "title": "Episode 17",
       "episode": "17",
       "files": [
         {
@@ -509,7 +504,7 @@
       ]
     },
     {
-      "title": "Final Battle Tokyo II",
+      "title": "Episode 18",
       "episode": "18",
       "files": [
         {
@@ -535,7 +530,7 @@
       ]
     },
     {
-      "title": "Betrayal",
+      "title": "Episode 19",
       "episode": "19",
       "files": [
         {
@@ -561,7 +556,7 @@
       ]
     },
     {
-      "title": "Emperor Dismissed",
+      "title": "Episode 20",
       "episode": "20",
       "files": [
         {
@@ -587,7 +582,7 @@
       ]
     },
     {
-      "title": "The Ragnarök Connection",
+      "title": "Episode 21",
       "episode": "21",
       "files": [
         {
@@ -613,7 +608,7 @@
       ]
     },
     {
-      "title": "Emperor Lelouch",
+      "title": "Episode 22",
       "episode": "22",
       "files": [
         {
@@ -639,7 +634,7 @@
       ]
     },
     {
-      "title": "Schneizel's Guise",
+      "title": "Episode 23",
       "episode": "23",
       "files": [
         {
@@ -665,7 +660,7 @@
       ]
     },
     {
-      "title": "The Grip of Damocles",
+      "title": "Episode 24",
       "episode": "24",
       "files": [
         {
@@ -691,7 +686,7 @@
       ]
     },
     {
-      "title": "Re;",
+      "title": "Episode 25",
       "episode": "25",
       "files": [
         {
@@ -718,7 +713,7 @@
     }
   ],
   "streamingId": "2904",
-  "hostUrl": "",
-  "releaseDate": "Apr 6, 2008",
-  "malId": "2904"
+  "releaseDate": "2008-04-06",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }
