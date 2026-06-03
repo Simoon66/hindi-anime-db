@@ -1,12 +1,12 @@
 {
   "title": "Gintama",
-  "synopsis": "Life isn't easy in feudal Japan... especially since the aliens landed and conquered everything! Oh sure, the new health care is great, but the public ban on the use of swords has left a lot of defeated samurai with a difficult decision to make concerning their future career paths! This is especially true if, as in the case of Gintoki Sakata, they're not particularly inclined towards holding a day job, which is why Gintoki's opted for the freelance route, taking any job that's offered to him as long as the financial remuneration sounds right. Unfortunately, in a brave new world filled with stray bug-eyed monsters, upwardly mobile Yakuza and overly ambitious E.T. entrepreneurs, those jobs usually don't pay as well as they should for the pain, suffering and indignities endured!\n\n\n(Source: Sentai Filmworks)",
+  "synopsis": "Life isn't easy in feudal Japan... especially since the aliens landed and conquered everything! Oh sure, the new health care is great, but the public ban on the use of swords has left a lot of defeated samurai with a difficult decision to make concerning their future career paths! This is especially true if, as in the case of Gintoki Sakata, they're not particularly inclined towards holding a day job, which is why Gintoki's opted for the freelance route, taking any job that's offered to him as long as the financial remuneration sounds right. Unfortunately, in a brave new world filled with stray bug-eyed monsters, upwardly mobile Yakuza and overly ambitious E.T. entrepreneurs, those jobs usually don't pay as well as they should for the pain, suffering and indignities endured!\\n\\n\n(Source: Sentai Filmworks)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx918-iOaeBVUn4uK7.jpg",
-  "synonym": "Gintama",
-  "native": "銀魂",
-  "aired": "04/04/2006",
-  "premiered": "SPRING 2006",
-  "duration": "25m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "201",
   "genres": [
     "Action",
@@ -14,19 +14,65 @@
     "Drama",
     "Sci-Fi"
   ],
-  "rating": "8.5",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "Sunrise"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Gintama",
+      "link": "/2006/04/918.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx918-iOaeBVUn4uK7.jpg"
+    },
+    {
+      "title": "[TV Series] Gintama Season 2",
+      "link": "/2011/04/9969.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9969-0GaRABYVdUcH.png"
+    },
+    {
+      "title": "[Special] Gintama: Jump Festa 2005 Special",
+      "link": "/2005/09/2951.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2951-rl0US7OuMXbA.jpg"
+    },
+    {
+      "title": "[Special] Gintama: Jump Festa 2008 Special",
+      "link": "/2009/09/6945.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6945.jpg"
+    },
+    {
+      "title": "[Special] Gintama: Dai Hanseikai",
+      "link": "/2010/03/10643.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10643.jpg"
+    },
+    {
+      "title": "[Movie] Gintama - The Movie",
+      "link": "/2010/04/7472.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7472-RveDgQsIZUNG.jpg"
+    },
+    {
+      "title": "[Movie] Gintama: Yorinuki Gintama-san on Theater 2D",
+      "link": "/2012/08/20760.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20760-6JlxgXfJh92a.jpg"
+    },
+    {
+      "title": "[TV Series] GINTAMA - Mr. Ginpachi's Zany Class",
+      "link": "/2025/10/162890.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162890-vDRlo1KuRM6W.jpg"
+    },
+    {
+      "title": "[Movie] Gintama the Movie 2026: Yoshiwara in Flames",
+      "link": "/2026/02/197474.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197474-jTeY1G9gtD8i.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "You Jerks! And You Claim To Have Gintama?! (part 1)",
       "files": [
         {
           "name": "HD-1",
@@ -51,29 +97,34 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "You Jerks! And You Claim To Have Gintama?! (part 2)",
       "files": [
-        {
-          "name": "HD-2",
-          "url": "https://megaplay.buzz/stream/mal/918/2/dub",
-          "type": "dub"
-        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/918/2/sub",
           "type": "sub"
         },
         {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/918/2/dub",
+          "type": "dub"
+        },
+        {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/918/2/sub",
           "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/918/2/dub",
+          "type": "dub"
         }
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Nobody With Naturally Wavy Hair Can Be That Bad",
       "files": [
         {
           "name": "HD-1",
@@ -98,8 +149,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Watch Out! Weekly Shonen JUMP Sometimes Comes Out On Saturdays!",
       "files": [
         {
           "name": "HD-1",
@@ -124,8 +175,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Make Friends You Can Call By Their Nicknames, Even When You're An Old Fart",
       "files": [
         {
           "name": "HD-1",
@@ -150,8 +201,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Keep Your Promise Even If It Kills You",
       "files": [
         {
           "name": "HD-1",
@@ -176,8 +227,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Responsible Owners Should Clean Up After Their Pets",
       "files": [
         {
           "name": "HD-1",
@@ -202,8 +253,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "There Is Butt A Fine Line Between Persistence And Stubbornness",
       "files": [
         {
           "name": "HD-1",
@@ -228,8 +279,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Fighting Should Be Done With Fists",
       "files": [
         {
           "name": "HD-1",
@@ -254,8 +305,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Eat Something Sour When You're Tired",
       "files": [
         {
           "name": "HD-1",
@@ -280,8 +331,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Look, Overly Sticky Sweet Dumplings Are Not Real Dumplings, You Idiot!",
       "files": [
         {
           "name": "HD-1",
@@ -306,8 +357,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "People Who Make Good First Impressions Usually Suck",
       "files": [
         {
           "name": "HD-1",
@@ -332,8 +383,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "If You're Going To Cosplay, Go All Out",
       "files": [
         {
           "name": "HD-1",
@@ -358,8 +409,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "Boys Have A Weird Ritual That Makes Them Think They Turn Into Men When They Touch A Frog You Only Gotta Wash Under Your Armpits - Just The Armpits",
       "files": [
         {
           "name": "HD-1",
@@ -384,8 +435,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "Pets Resemble Their Owners",
       "files": [
         {
           "name": "HD-1",
@@ -410,8 +461,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "If You Stop And Think About It, Your Life's A Lot Longer As An Old Guy Than A Kid! Whoa, Scary!",
       "files": [
         {
           "name": "HD-1",
@@ -436,8 +487,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "Sons Only Take After Their Fathers' Negative Attributes",
       "files": [
         {
           "name": "HD-1",
@@ -462,8 +513,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "Oh, Yeah! Our Crib Is Number One!",
       "files": [
         {
           "name": "HD-1",
@@ -488,8 +539,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "Why Is The Sea So Salty? Because You City Folk Pee Whenever You Go Swimming!",
       "files": [
         {
           "name": "HD-1",
@@ -514,8 +565,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "Watch Out For Conveyor Belts!",
       "files": [
         {
           "name": "HD-1",
@@ -540,8 +591,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "If You're A Man, Try The Swordfish! If You Go To Sleep With The Fan On You'll Get A Stomachache, So Be Careful",
       "files": [
         {
           "name": "HD-1",
@@ -566,8 +617,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "Marriage Is Prolonging An Illusion For Your Whole Life",
       "files": [
         {
           "name": "HD-1",
@@ -592,8 +643,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "When You're In A Fix, Keep On Laughing, Laughing...",
       "files": [
         {
           "name": "HD-1",
@@ -618,8 +669,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "Cute Faces Are Always Hiding Something",
       "files": [
         {
           "name": "HD-1",
@@ -644,8 +695,8 @@
       ]
     },
     {
+      "title": "Episode 25",
       "episode": "25",
-      "title": "A Shared Soup Pot Is A Microcosm Of Life",
       "files": [
         {
           "name": "HD-1",
@@ -670,8 +721,8 @@
       ]
     },
     {
+      "title": "Episode 26",
       "episode": "26",
-      "title": "Don't Be Shy - Just Raise Your Hand And Say It",
       "files": [
         {
           "name": "HD-1",
@@ -696,8 +747,8 @@
       ]
     },
     {
+      "title": "Episode 27",
       "episode": "27",
-      "title": "Some Things Can't Be Cut With A Sword",
       "files": [
         {
           "name": "HD-1",
@@ -722,8 +773,8 @@
       ]
     },
     {
+      "title": "Episode 28",
       "episode": "28",
-      "title": "Good Things Never Come In Twos (But Bad Things Do)",
       "files": [
         {
           "name": "HD-1",
@@ -748,8 +799,8 @@
       ]
     },
     {
+      "title": "Episode 29",
       "episode": "29",
-      "title": "Don't Panic - There's A Return Policy! I Told You To Pay Attention To The News!",
       "files": [
         {
           "name": "HD-1",
@@ -774,8 +825,8 @@
       ]
     },
     {
+      "title": "Episode 30",
       "episode": "30",
-      "title": "Even Teen Idols Act Like You Guys",
       "files": [
         {
           "name": "HD-1",
@@ -800,8 +851,8 @@
       ]
     },
     {
+      "title": "Episode 31",
       "episode": "31",
-      "title": "You Always Remember The Things That Matter The Least",
       "files": [
         {
           "name": "HD-1",
@@ -826,8 +877,8 @@
       ]
     },
     {
+      "title": "Episode 32",
       "episode": "32",
-      "title": "Life Moves On Like A Conveyor Belt",
       "files": [
         {
           "name": "HD-1",
@@ -852,8 +903,8 @@
       ]
     },
     {
+      "title": "Episode 33",
       "episode": "33",
-      "title": "Mistaking Someone's Name Is Rude!",
       "files": [
         {
           "name": "HD-1",
@@ -878,8 +929,8 @@
       ]
     },
     {
+      "title": "Episode 34",
       "episode": "34",
-      "title": "Love Doesn't Require A Manual",
       "files": [
         {
           "name": "HD-1",
@@ -904,8 +955,8 @@
       ]
     },
     {
+      "title": "Episode 35",
       "episode": "35",
-      "title": "Love Doesn't Require A Manual (Continued) You Can't Judge A Person By His Appearance, Either",
       "files": [
         {
           "name": "HD-1",
@@ -930,8 +981,8 @@
       ]
     },
     {
+      "title": "Episode 36",
       "episode": "36",
-      "title": "People With Dark Pasts Can't Shut Up",
       "files": [
         {
           "name": "HD-1",
@@ -956,8 +1007,8 @@
       ]
     },
     {
+      "title": "Episode 37",
       "episode": "37",
-      "title": "People Who Say That Santa Doesn't Really Exist Actually Want To Believe In Him Prayer Won't Make Your Worldly Desires Go Away! Control Yourself",
       "files": [
         {
           "name": "HD-1",
@@ -982,8 +1033,8 @@
       ]
     },
     {
+      "title": "Episode 38",
       "episode": "38",
-      "title": "Only Children Play In The Snow Eating Ice Cream In Winter Is Awesome",
       "files": [
         {
           "name": "HD-1",
@@ -1008,8 +1059,8 @@
       ]
     },
     {
+      "title": "Episode 39",
       "episode": "39",
-      "title": "Ramen Shops With Long Menus Never Do Well",
       "files": [
         {
           "name": "HD-1",
@@ -1034,8 +1085,8 @@
       ]
     },
     {
+      "title": "Episode 40",
       "episode": "40",
-      "title": "Give A Thought To Planned Pregnancy",
       "files": [
         {
           "name": "HD-1",
@@ -1060,8 +1111,8 @@
       ]
     },
     {
+      "title": "Episode 41",
       "episode": "41",
-      "title": "You Can't Judge A Movie By Its Title",
       "files": [
         {
           "name": "HD-1",
@@ -1086,8 +1137,8 @@
       ]
     },
     {
+      "title": "Episode 42",
       "episode": "42",
-      "title": "You Know What Happens If You Pee On A Worm",
       "files": [
         {
           "name": "HD-1",
@@ -1112,8 +1163,8 @@
       ]
     },
     {
+      "title": "Episode 43",
       "episode": "43",
-      "title": "Make Characters So Anybody Can Tell Who They Are By Just Their Silhouettes Since It Ended A Bit Early, We're Starting The Next One",
       "files": [
         {
           "name": "HD-1",
@@ -1138,8 +1189,8 @@
       ]
     },
     {
+      "title": "Episode 44",
       "episode": "44",
-      "title": "Mom's Busy, Too, So Quit Complaining About What's For Dinner",
       "files": [
         {
           "name": "HD-1",
@@ -1164,8 +1215,8 @@
       ]
     },
     {
+      "title": "Episode 45",
       "episode": "45",
-      "title": "Walk Your Dog At An Appropriate Speed",
       "files": [
         {
           "name": "HD-1",
@@ -1190,8 +1241,8 @@
       ]
     },
     {
+      "title": "Episode 46",
       "episode": "46",
-      "title": "Adults Only. We Wouldn't Want Anyone Immature In Here...",
       "files": [
         {
           "name": "HD-1",
@@ -1216,8 +1267,8 @@
       ]
     },
     {
+      "title": "Episode 47",
       "episode": "47",
-      "title": "Do Cherries Come From Cherry Trees?",
       "files": [
         {
           "name": "HD-1",
@@ -1242,8 +1293,8 @@
       ]
     },
     {
+      "title": "Episode 48",
       "episode": "48",
-      "title": "The More You're Alike, The More You Fight Whatever You Play, Play To Win",
       "files": [
         {
           "name": "HD-1",
@@ -1268,8 +1319,8 @@
       ]
     },
     {
+      "title": "Episode 49",
       "episode": "49",
-      "title": "A Life Without Gambling Is Like Sushi Without Wasabi",
       "files": [
         {
           "name": "HD-1",
@@ -1294,8 +1345,8 @@
       ]
     },
     {
+      "title": "Episode 50",
       "episode": "50",
-      "title": "Pending Means Pending, It's Not Final",
       "files": [
         {
           "name": "HD-1",
@@ -1320,8 +1371,8 @@
       ]
     },
     {
+      "title": "Episode 51",
       "episode": "51",
-      "title": "Milk Should Be Served At Body Temperature",
       "files": [
         {
           "name": "HD-1",
@@ -1346,8 +1397,8 @@
       ]
     },
     {
+      "title": "Episode 52",
       "episode": "52",
-      "title": "If You Want To See Someone, Make An Appo First",
       "files": [
         {
           "name": "HD-1",
@@ -1372,8 +1423,8 @@
       ]
     },
     {
+      "title": "Episode 53",
       "episode": "53",
-      "title": "Stress Makes You Bald, But It's Stressful To Avoid Stress, So You End Up Stressed Out Anyway, So In The End There's Nothing You Can Do",
       "files": [
         {
           "name": "HD-1",
@@ -1398,8 +1449,8 @@
       ]
     },
     {
+      "title": "Episode 54",
       "episode": "54",
-      "title": "Mothers Everywhere Are All The Same",
       "files": [
         {
           "name": "HD-1",
@@ -1424,8 +1475,8 @@
       ]
     },
     {
+      "title": "Episode 55",
       "episode": "55",
-      "title": "Don't Make Munching Noises When You Eat",
       "files": [
         {
           "name": "HD-1",
@@ -1450,8 +1501,8 @@
       ]
     },
     {
+      "title": "Episode 56",
       "episode": "56",
-      "title": "Keep An Eye On The Chief For The Day",
       "files": [
         {
           "name": "HD-1",
@@ -1476,8 +1527,8 @@
       ]
     },
     {
+      "title": "Episode 57",
       "episode": "57",
-      "title": "When Looking For Things You've Lost, Remember What You Were Doing On The Day You Lost It",
       "files": [
         {
           "name": "HD-1",
@@ -1502,8 +1553,8 @@
       ]
     },
     {
+      "title": "Episode 58",
       "episode": "58",
-      "title": "Croquette Sandwiches Are Always The Most Popular Food Sold At The Stalls",
       "files": [
         {
           "name": "HD-1",
@@ -1528,8 +1579,8 @@
       ]
     },
     {
+      "title": "Episode 59",
       "episode": "59",
-      "title": "Be Careful Not To Leave Your Umbrella Somewhere",
       "files": [
         {
           "name": "HD-1",
@@ -1554,8 +1605,8 @@
       ]
     },
     {
+      "title": "Episode 60",
       "episode": "60",
-      "title": "The Sun Will Rise Again",
       "files": [
         {
           "name": "HD-1",
@@ -1580,13 +1631,18 @@
       ]
     },
     {
+      "title": "Episode 61",
       "episode": "61",
-      "title": "On A Moonless Night, Insects Are Drawn To The Light",
       "files": [
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/918/61/sub",
           "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/918/61/dub",
+          "type": "dub"
         },
         {
           "name": "HD-2",
@@ -1601,9 +1657,14 @@
       ]
     },
     {
+      "title": "Episode 62",
       "episode": "62",
-      "title": "Even Mummy Hunters Sometimes Turn into Mummys",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/918/62/sub",
+          "type": "sub"
+        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/918/62/dub",
@@ -1622,9 +1683,14 @@
       ]
     },
     {
+      "title": "Episode 63",
       "episode": "63",
-      "title": "The Preview Section in JUMP is Always Unreliable",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/918/63/sub",
+          "type": "sub"
+        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/918/63/dub",
@@ -1643,8 +1709,8 @@
       ]
     },
     {
+      "title": "Episode 64",
       "episode": "64",
-      "title": "Eating Nmaibo Can Make You Full in No Time!",
       "files": [
         {
           "name": "HD-1",
@@ -1669,8 +1735,8 @@
       ]
     },
     {
+      "title": "Episode 65",
       "episode": "65",
-      "title": "Rhinoceros Beetles Teach Boys that Life is Precious",
       "files": [
         {
           "name": "HD-1",
@@ -1695,8 +1761,8 @@
       ]
     },
     {
+      "title": "Episode 66",
       "episode": "66",
-      "title": "Dango Over Flowers",
       "files": [
         {
           "name": "HD-1",
@@ -1721,8 +1787,8 @@
       ]
     },
     {
+      "title": "Episode 67",
       "episode": "67",
-      "title": "For the Wind Is the Life",
       "files": [
         {
           "name": "HD-1",
@@ -1747,8 +1813,8 @@
       ]
     },
     {
+      "title": "Episode 68",
       "episode": "68",
-      "title": "Like a Haunted House, Life is Filled with Horrors",
       "files": [
         {
           "name": "HD-1",
@@ -1773,8 +1839,8 @@
       ]
     },
     {
+      "title": "Episode 69",
       "episode": "69",
-      "title": "Please Help by Separating Your Trash",
       "files": [
         {
           "name": "HD-1",
@@ -1799,8 +1865,8 @@
       ]
     },
     {
+      "title": "Episode 70",
       "episode": "70",
-      "title": "Too Many Cuties Can Make You Sick",
       "files": [
         {
           "name": "HD-1",
@@ -1825,8 +1891,8 @@
       ]
     },
     {
+      "title": "Episode 71",
       "episode": "71",
-      "title": "Some Data Cannot Be Erased",
       "files": [
         {
           "name": "HD-1",
@@ -1851,8 +1917,8 @@
       ]
     },
     {
+      "title": "Episode 72",
       "episode": "72",
-      "title": "A Dog's Paws Smell Fragrant Drive With A Might Attitude",
       "files": [
         {
           "name": "HD-1",
@@ -1877,8 +1943,8 @@
       ]
     },
     {
+      "title": "Episode 73",
       "episode": "73",
-      "title": "Think For A Minute Now, Do Matsutake Mushrooms Really Taste All That Good?",
       "files": [
         {
           "name": "HD-1",
@@ -1903,8 +1969,8 @@
       ]
     },
     {
+      "title": "Episode 74",
       "episode": "74",
-      "title": "The Manga Writer Becomes A Pro, After Doing A Stock Of Manuscripts",
       "files": [
         {
           "name": "HD-1",
@@ -1929,8 +1995,8 @@
       ]
     },
     {
+      "title": "Episode 75",
       "episode": "75",
-      "title": "Don't Complain About Your Job At Home, Do It Somewhere Else",
       "files": [
         {
           "name": "HD-1",
@@ -1955,8 +2021,8 @@
       ]
     },
     {
+      "title": "Episode 76",
       "episode": "76",
-      "title": "In Those Situations, Keep Quiet And Cook Red Rice With Beans",
       "files": [
         {
           "name": "HD-1",
@@ -1981,8 +2047,8 @@
       ]
     },
     {
+      "title": "Episode 77",
       "episode": "77",
-      "title": "Yesterday's Enemy, After All Is Said And Done, Is Still The Enemy",
       "files": [
         {
           "name": "HD-1",
@@ -2007,8 +2073,8 @@
       ]
     },
     {
+      "title": "Episode 78",
       "episode": "78",
-      "title": "People Who Are Picky About Food Are Also Picky About People, Too",
       "files": [
         {
           "name": "HD-1",
@@ -2033,8 +2099,8 @@
       ]
     },
     {
+      "title": "Episode 79",
       "episode": "79",
-      "title": "Four Heads Are Better Than One",
       "files": [
         {
           "name": "HD-1",
@@ -2059,8 +2125,8 @@
       ]
     },
     {
+      "title": "Episode 80",
       "episode": "80",
-      "title": "When Someone Who Wears Glasses Takes Them Off, It Looks Like Something's Missing",
       "files": [
         {
           "name": "HD-1",
@@ -2085,8 +2151,8 @@
       ]
     },
     {
+      "title": "Episode 81",
       "episode": "81",
-      "title": "A Woman's Best Make Up Is Her Smile",
       "files": [
         {
           "name": "HD-1",
@@ -2111,8 +2177,8 @@
       ]
     },
     {
+      "title": "Episode 82",
       "episode": "82",
-      "title": "You Don't Stand In Line For The Ramen, You Stand In Line For The Self Satisfaction You Say Kawaii So Often, You Must Really Think You're Cute Stuff",
       "files": [
         {
           "name": "HD-1",
@@ -2137,8 +2203,8 @@
       ]
     },
     {
+      "title": "Episode 83",
       "episode": "83",
-      "title": "Rank Has Nothing To Do With Luck",
       "files": [
         {
           "name": "HD-1",
@@ -2163,8 +2229,8 @@
       ]
     },
     {
+      "title": "Episode 84",
       "episode": "84",
-      "title": "Hard-Boiled Egg On A Man's Heart",
       "files": [
         {
           "name": "HD-1",
@@ -2189,8 +2255,8 @@
       ]
     },
     {
+      "title": "Episode 85",
       "episode": "85",
-      "title": "Hard-Boiled Eggs Don't Crack",
       "files": [
         {
           "name": "HD-1",
@@ -2215,8 +2281,8 @@
       ]
     },
     {
+      "title": "Episode 86",
       "episode": "86",
-      "title": "It's Often Difficult To Sleep When You're Engrossed With Counting Sheep",
       "files": [
         {
           "name": "HD-1",
@@ -2241,8 +2307,8 @@
       ]
     },
     {
+      "title": "Episode 87",
       "episode": "87",
-      "title": "Perform A German Suplex On A Woman Who Asks If She Or The Job Is More Important",
       "files": [
         {
           "name": "HD-1",
@@ -2267,8 +2333,8 @@
       ]
     },
     {
+      "title": "Episode 88",
       "episode": "88",
-      "title": "The Most Exciting Part Of A Group Date Is Before It Starts",
       "files": [
         {
           "name": "HD-1",
@@ -2293,8 +2359,8 @@
       ]
     },
     {
+      "title": "Episode 89",
       "episode": "89",
-      "title": "What Happens Twice, Happens Thrice",
       "files": [
         {
           "name": "HD-1",
@@ -2319,8 +2385,8 @@
       ]
     },
     {
+      "title": "Episode 90",
       "episode": "90",
-      "title": "The More Delicious The Food, The Nastier It Is When It Goes Bad",
       "files": [
         {
           "name": "HD-1",
@@ -2345,8 +2411,8 @@
       ]
     },
     {
+      "title": "Episode 91",
       "episode": "91",
-      "title": "If You Want To Lose Weight, Then Stop Eating And Start Moving",
       "files": [
         {
           "name": "HD-1",
@@ -2371,8 +2437,8 @@
       ]
     },
     {
+      "title": "Episode 92",
       "episode": "92",
-      "title": "Be A Person Who Can See People's Strong Points And Not Their Weak Points",
       "files": [
         {
           "name": "HD-1",
@@ -2397,8 +2463,8 @@
       ]
     },
     {
+      "title": "Episode 93",
       "episode": "93",
-      "title": "Even A Hero Has Issues",
       "files": [
         {
           "name": "HD-1",
@@ -2423,8 +2489,8 @@
       ]
     },
     {
+      "title": "Episode 94",
       "episode": "94",
-      "title": "When Riding A Train, Make Sure You Grab The Straps With Both Hands",
       "files": [
         {
           "name": "HD-1",
@@ -2449,8 +2515,8 @@
       ]
     },
     {
+      "title": "Episode 95",
       "episode": "95",
-      "title": "Men, Be A Madao",
       "files": [
         {
           "name": "HD-1",
@@ -2475,8 +2541,8 @@
       ]
     },
     {
+      "title": "Episode 96",
       "episode": "96",
-      "title": "If You're A Man, Don't Give Up",
       "files": [
         {
           "name": "HD-1",
@@ -2501,8 +2567,8 @@
       ]
     },
     {
+      "title": "Episode 97",
       "episode": "97",
-      "title": "Exaggerate The Tales Of Your Exploits By A Third, So Everyone Has A Good Time Men Have A Weakness For Girls Who Sell Flowers And Work In Pastry Shops",
       "files": [
         {
           "name": "HD-1",
@@ -2527,8 +2593,8 @@
       ]
     },
     {
+      "title": "Episode 98",
       "episode": "98",
-      "title": "Play Video Games For Only An Hour A Day",
       "files": [
         {
           "name": "HD-1",
@@ -2553,8 +2619,8 @@
       ]
     },
     {
+      "title": "Episode 99",
       "episode": "99",
-      "title": "Life And Video Games Are Full Of Bugs",
       "files": [
         {
           "name": "HD-1",
@@ -2579,8 +2645,8 @@
       ]
     },
     {
+      "title": "Episode 100",
       "episode": "100",
-      "title": "The More Something Is Disliked, The More Lovely It Is",
       "files": [
         {
           "name": "HD-1",
@@ -2605,8 +2671,8 @@
       ]
     },
     {
+      "title": "Episode 101",
       "episode": "101",
-      "title": "Rules Are Made To Be Broken",
       "files": [
         {
           "name": "HD-1",
@@ -2631,8 +2697,8 @@
       ]
     },
     {
+      "title": "Episode 102",
       "episode": "102",
-      "title": "Otaku Are Talkative",
       "files": [
         {
           "name": "HD-1",
@@ -2657,8 +2723,8 @@
       ]
     },
     {
+      "title": "Episode 103",
       "episode": "103",
-      "title": "There's A Thin Line Between Strengths And Weaknesses",
       "files": [
         {
           "name": "HD-1",
@@ -2683,8 +2749,8 @@
       ]
     },
     {
+      "title": "Episode 104",
       "episode": "104",
-      "title": "Important Things Are Hard To See",
       "files": [
         {
           "name": "HD-1",
@@ -2709,8 +2775,8 @@
       ]
     },
     {
+      "title": "Episode 105",
       "episode": "105",
-      "title": "It's All About The Beat And Timing",
       "files": [
         {
           "name": "HD-1",
@@ -2735,8 +2801,8 @@
       ]
     },
     {
+      "title": "Episode 106",
       "episode": "106",
-      "title": "Love Is Often Played Out In Sudden Death",
       "files": [
         {
           "name": "HD-1",
@@ -2761,8 +2827,8 @@
       ]
     },
     {
+      "title": "Episode 107",
       "episode": "107",
-      "title": "Kids Don't Understand How Their Parents Feel",
       "files": [
         {
           "name": "HD-1",
@@ -2787,8 +2853,8 @@
       ]
     },
     {
+      "title": "Episode 108",
       "episode": "108",
-      "title": "Some Things Are Better Left Unsaid",
       "files": [
         {
           "name": "HD-1",
@@ -2813,8 +2879,8 @@
       ]
     },
     {
+      "title": "Episode 109",
       "episode": "109",
-      "title": "Life Is A Test",
       "files": [
         {
           "name": "HD-1",
@@ -2839,8 +2905,8 @@
       ]
     },
     {
+      "title": "Episode 110",
       "episode": "110",
-      "title": "People Are All Escapees Of Their Own Inner Prisons",
       "files": [
         {
           "name": "HD-1",
@@ -2865,8 +2931,8 @@
       ]
     },
     {
+      "title": "Episode 111",
       "episode": "111",
-      "title": "Definitely Do Not Let Your Girlfriend See The Things You Use For Cross-Dressing There's Almost A 100% Chance You'll Forget Your Umbrella And Hate Yourself For It",
       "files": [
         {
           "name": "HD-1",
@@ -2891,8 +2957,8 @@
       ]
     },
     {
+      "title": "Episode 112",
       "episode": "112",
-      "title": "Lucky Is A Man Who Gets Up And Goes To Work",
       "files": [
         {
           "name": "HD-1",
@@ -2917,8 +2983,8 @@
       ]
     },
     {
+      "title": "Episode 113",
       "episode": "113",
-      "title": "The Act of Polishing a Urinal Is Like the Act of Polishing One`s Heart / Subtitle Undecided",
       "files": [
         {
           "name": "HD-1",
@@ -2943,8 +3009,8 @@
       ]
     },
     {
+      "title": "Episode 114",
       "episode": "114",
-      "title": "When Sweet and Spicy Things Are Switched... / They Say That Adding Soy Sauce to Pudding Gives the Taste of Sea Urchin, but Really, Adding Soy Sauce to Pudding Only Gives the Taste of Soy Sauce and Pudding",
       "files": [
         {
           "name": "HD-1",
@@ -2969,8 +3035,8 @@
       ]
     },
     {
+      "title": "Episode 115",
       "episode": "115",
-      "title": "Summer Vacation Is The Most Fun Right Before It Begins",
       "files": [
         {
           "name": "HD-1",
@@ -2995,8 +3061,8 @@
       ]
     },
     {
+      "title": "Episode 116",
       "episode": "116",
-      "title": "The Older, The Wiser",
       "files": [
         {
           "name": "HD-1",
@@ -3021,8 +3087,8 @@
       ]
     },
     {
+      "title": "Episode 117",
       "episode": "117",
-      "title": "Beauty Is Like A Summer Fruit",
       "files": [
         {
           "name": "HD-1",
@@ -3047,8 +3113,8 @@
       ]
     },
     {
+      "title": "Episode 118",
       "episode": "118",
-      "title": "Even If Your Back Is Bent, Go Straight Forward",
       "files": [
         {
           "name": "HD-1",
@@ -3073,8 +3139,8 @@
       ]
     },
     {
+      "title": "Episode 119",
       "episode": "119",
-      "title": "Within Each Box Of Cigarettes, Are One Or Two Cigarettes That Smell Like Horse Dung",
       "files": [
         {
           "name": "HD-1",
@@ -3099,8 +3165,8 @@
       ]
     },
     {
+      "title": "Episode 120",
       "episode": "120",
-      "title": "Japanese Restaurants Abroad Taste Pretty Much Like School Cafeteria Lunches Once You've Taken A Dish, You Can't Put It Back",
       "files": [
         {
           "name": "HD-1",
@@ -3125,8 +3191,8 @@
       ]
     },
     {
+      "title": "Episode 121",
       "episode": "121",
-      "title": "Novices Only Need A Flathead And A Phillips",
       "files": [
         {
           "name": "HD-1",
@@ -3151,8 +3217,8 @@
       ]
     },
     {
+      "title": "Episode 122",
       "episode": "122",
-      "title": "Imagination Is Nurtured In The 8th Grade",
       "files": [
         {
           "name": "HD-1",
@@ -3177,8 +3243,8 @@
       ]
     },
     {
+      "title": "Episode 123",
       "episode": "123",
-      "title": "Always Keep A Screwdriver In Your Heart",
       "files": [
         {
           "name": "HD-1",
@@ -3203,8 +3269,8 @@
       ]
     },
     {
+      "title": "Episode 124",
       "episode": "124",
-      "title": "When Nagging Goes Too Far It Becomes Intimidating",
       "files": [
         {
           "name": "HD-1",
@@ -3229,8 +3295,8 @@
       ]
     },
     {
+      "title": "Episode 125",
       "episode": "125",
-      "title": "Entering The Final Chapter!",
       "files": [
         {
           "name": "HD-1",
@@ -3255,8 +3321,8 @@
       ]
     },
     {
+      "title": "Episode 126",
       "episode": "126",
-      "title": "Some Things Can Only Be Conveyed Through The Written Word",
       "files": [
         {
           "name": "HD-1",
@@ -3281,8 +3347,8 @@
       ]
     },
     {
+      "title": "Episode 127",
       "episode": "127",
-      "title": "Sometimes You Must Meet To Understand",
       "files": [
         {
           "name": "HD-1",
@@ -3307,8 +3373,8 @@
       ]
     },
     {
+      "title": "Episode 128",
       "episode": "128",
-      "title": "Sometimes You Can't Tell Just By Meeting Someone",
       "files": [
         {
           "name": "HD-1",
@@ -3333,8 +3399,8 @@
       ]
     },
     {
+      "title": "Episode 129",
       "episode": "129",
-      "title": "Beware Of Food You Pick Up Off The Ground",
       "files": [
         {
           "name": "HD-1",
@@ -3359,8 +3425,8 @@
       ]
     },
     {
+      "title": "Episode 130",
       "episode": "130",
-      "title": "Cat Lovers And Dog Lovers Are Mutually Exclusive",
       "files": [
         {
           "name": "HD-1",
@@ -3385,8 +3451,8 @@
       ]
     },
     {
+      "title": "Episode 131",
       "episode": "131",
-      "title": "Fights Often Ensue During Trips",
       "files": [
         {
           "name": "HD-1",
@@ -3411,8 +3477,8 @@
       ]
     },
     {
+      "title": "Episode 132",
       "episode": "132",
-      "title": "Briefs Will Unavoidably Get Skidmarks",
       "files": [
         {
           "name": "HD-1",
@@ -3437,8 +3503,8 @@
       ]
     },
     {
+      "title": "Episode 133",
       "episode": "133",
-      "title": "Gin And His Excellency's Good-For-Nothings",
       "files": [
         {
           "name": "HD-1",
@@ -3463,8 +3529,8 @@
       ]
     },
     {
+      "title": "Episode 134",
       "episode": "134",
-      "title": "Be Very Careful When Using Ghost Stories",
       "files": [
         {
           "name": "HD-1",
@@ -3489,8 +3555,8 @@
       ]
     },
     {
+      "title": "Episode 135",
       "episode": "135",
-      "title": "Before Worrying About The Earth, Think About The Even More Endangered Future Of 'Gintaman'",
       "files": [
         {
           "name": "HD-1",
@@ -3515,8 +3581,8 @@
       ]
     },
     {
+      "title": "Episode 136",
       "episode": "136",
-      "title": "It's Your House, You Build It",
       "files": [
         {
           "name": "HD-1",
@@ -3541,8 +3607,8 @@
       ]
     },
     {
+      "title": "Episode 137",
       "episode": "137",
-      "title": "99% Of Men Aren't Confident In Confessing Their Love People Who Don't Believe In Santa Are The Very Ones Who Want To Believe, You Contentious Bastard",
       "files": [
         {
           "name": "HD-1",
@@ -3567,8 +3633,8 @@
       ]
     },
     {
+      "title": "Episode 138",
       "episode": "138",
-      "title": "Let's Talk About The Old Days Once In A While",
       "files": [
         {
           "name": "HD-1",
@@ -3593,8 +3659,8 @@
       ]
     },
     {
+      "title": "Episode 139",
       "episode": "139",
-      "title": "Don't Put Your Wallet In Your Back Pocket",
       "files": [
         {
           "name": "HD-1",
@@ -3619,8 +3685,8 @@
       ]
     },
     {
+      "title": "Episode 140",
       "episode": "140",
-      "title": "Beware Of Those Who Use An Umbrella On A Sunny Day!",
       "files": [
         {
           "name": "HD-1",
@@ -3645,8 +3711,8 @@
       ]
     },
     {
+      "title": "Episode 141",
       "episode": "141",
-      "title": "Butting Into A Fight Is Dangerous",
       "files": [
         {
           "name": "HD-1",
@@ -3671,8 +3737,8 @@
       ]
     },
     {
+      "title": "Episode 142",
       "episode": "142",
-      "title": "Life Is A Series Of Choices",
       "files": [
         {
           "name": "HD-1",
@@ -3697,8 +3763,8 @@
       ]
     },
     {
+      "title": "Episode 143",
       "episode": "143",
-      "title": "Those Who Stand On Four Legs Are Beasts. Those Who Stand On Two Legs, Guts, And Glory Are Men",
       "files": [
         {
           "name": "HD-1",
@@ -3723,8 +3789,8 @@
       ]
     },
     {
+      "title": "Episode 144",
       "episode": "144",
-      "title": "Don't Trust Bedtime Stories",
       "files": [
         {
           "name": "HD-1",
@@ -3749,8 +3815,8 @@
       ]
     },
     {
+      "title": "Episode 145",
       "episode": "145",
-      "title": "The Color For Each Person's Bond Comes In Various Colors",
       "files": [
         {
           "name": "HD-1",
@@ -3775,8 +3841,8 @@
       ]
     },
     {
+      "title": "Episode 146",
       "episode": "146",
-      "title": "The Taste Of Drinking Under Broad Daylight Is Something Special",
       "files": [
         {
           "name": "HD-1",
@@ -3801,8 +3867,8 @@
       ]
     },
     {
+      "title": "Episode 147",
       "episode": "147",
-      "title": "All Adults Are Instructors For All Children",
       "files": [
         {
           "name": "HD-1",
@@ -3827,8 +3893,8 @@
       ]
     },
     {
+      "title": "Episode 148",
       "episode": "148",
-      "title": "Zip Up Your Fly Nice And Slowly",
       "files": [
         {
           "name": "HD-1",
@@ -3853,8 +3919,8 @@
       ]
     },
     {
+      "title": "Episode 149",
       "episode": "149",
-      "title": "When Breaking A Chuubert In Half, The End With The Knob Should Be Better. It's Also Tasty To Drink From There",
       "files": [
         {
           "name": "HD-1",
@@ -3879,8 +3945,8 @@
       ]
     },
     {
+      "title": "Episode 150",
       "episode": "150",
-      "title": "If You Can't Beat Them, Join Them",
       "files": [
         {
           "name": "HD-1",
@@ -3905,8 +3971,8 @@
       ]
     },
     {
+      "title": "Episode 151",
       "episode": "151",
-      "title": "A Conversation With A Barber, During A Haircut, Is The Most Pointless Thing In The World",
       "files": [
         {
           "name": "HD-1",
@@ -3931,13 +3997,18 @@
       ]
     },
     {
+      "title": "Episode 152",
       "episode": "152",
-      "title": "The Heavens Created Chonmage Above Man Instead Of Another Man",
       "files": [
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/918/152/sub",
           "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/918/152/dub",
+          "type": "dub"
         },
         {
           "name": "HD-2",
@@ -3952,8 +4023,8 @@
       ]
     },
     {
+      "title": "Episode 153",
       "episode": "153",
-      "title": "Sleep Helps A Child Grow",
       "files": [
         {
           "name": "HD-1",
@@ -3978,8 +4049,8 @@
       ]
     },
     {
+      "title": "Episode 154",
       "episode": "154",
-      "title": "That Person Looks Different From Usual During A Birthday Party",
       "files": [
         {
           "name": "HD-1",
@@ -4004,8 +4075,8 @@
       ]
     },
     {
+      "title": "Episode 155",
       "episode": "155",
-      "title": "The Other Side Of The Other Side Of The Other Side Would Be The Other Side",
       "files": [
         {
           "name": "HD-1",
@@ -4030,8 +4101,8 @@
       ]
     },
     {
+      "title": "Episode 156",
       "episode": "156",
-      "title": "It Takes A Bit Of Courage To Enter A Street Vendor's Stand",
       "files": [
         {
           "name": "HD-1",
@@ -4056,8 +4127,8 @@
       ]
     },
     {
+      "title": "Episode 157",
       "episode": "157",
-      "title": "Any Place With A Bunch Of Men Gathered Around Will Turn Into A Battlefield",
       "files": [
         {
           "name": "HD-1",
@@ -4082,8 +4153,8 @@
       ]
     },
     {
+      "title": "Episode 158",
       "episode": "158",
-      "title": "If A Friend Gets Injured, Take Him To The Hospital, Stat!",
       "files": [
         {
           "name": "HD-1",
@@ -4108,8 +4179,8 @@
       ]
     },
     {
+      "title": "Episode 159",
       "episode": "159",
-      "title": "If One Orange In The Box Is Rotten, The Rest Of Them Will Become Rotten Before You Realize It",
       "files": [
         {
           "name": "HD-1",
@@ -4134,8 +4205,8 @@
       ]
     },
     {
+      "title": "Episode 160",
       "episode": "160",
-      "title": "From A Foreigner's Perspective, You're The Foreigner. From An Alien's Perspective, You're The Alien",
       "files": [
         {
           "name": "HD-1",
@@ -4160,8 +4231,8 @@
       ]
     },
     {
+      "title": "Episode 161",
       "episode": "161",
-      "title": "Laputa's Still Good After Seeing It So Many Times",
       "files": [
         {
           "name": "HD-1",
@@ -4186,8 +4257,8 @@
       ]
     },
     {
+      "title": "Episode 162",
       "episode": "162",
-      "title": "Love Is Unconditional",
       "files": [
         {
           "name": "HD-1",
@@ -4212,8 +4283,8 @@
       ]
     },
     {
+      "title": "Episode 163",
       "episode": "163",
-      "title": "The Black Ships Even Make A Scene When They Sink",
       "files": [
         {
           "name": "HD-1",
@@ -4238,8 +4309,8 @@
       ]
     },
     {
+      "title": "Episode 164",
       "episode": "164",
-      "title": "That Matsutake Soup Stuff Tastes Better Than The Real Deal People Who Die Stay Dead",
       "files": [
         {
           "name": "HD-1",
@@ -4264,8 +4335,8 @@
       ]
     },
     {
+      "title": "Episode 165",
       "episode": "165",
-      "title": "If It Works Once, It'll Work Over And Over Again",
       "files": [
         {
           "name": "HD-1",
@@ -4290,8 +4361,8 @@
       ]
     },
     {
+      "title": "Episode 166",
       "episode": "166",
-      "title": "Two Is Better Than One. Two People Are Better Than One",
       "files": [
         {
           "name": "HD-1",
@@ -4316,8 +4387,8 @@
       ]
     },
     {
+      "title": "Episode 167",
       "episode": "167",
-      "title": "Smooth Polygons Smooth Men's Hearts Too",
       "files": [
         {
           "name": "HD-1",
@@ -4342,8 +4413,8 @@
       ]
     },
     {
+      "title": "Episode 168",
       "episode": "168",
-      "title": "The Human Body Is Like A Little Universe",
       "files": [
         {
           "name": "HD-1",
@@ -4368,8 +4439,8 @@
       ]
     },
     {
+      "title": "Episode 169",
       "episode": "169",
-      "title": "The Chosen Idiots",
       "files": [
         {
           "name": "HD-1",
@@ -4394,8 +4465,8 @@
       ]
     },
     {
+      "title": "Episode 170",
       "episode": "170",
-      "title": "And Into The Legend...",
       "files": [
         {
           "name": "HD-1",
@@ -4420,8 +4491,8 @@
       ]
     },
     {
+      "title": "Episode 171",
       "episode": "171",
-      "title": "You'll Get Sued If All You Do Is Copy Others You Don't Know What You've Got Till It's Gone",
       "files": [
         {
           "name": "HD-1",
@@ -4446,8 +4517,8 @@
       ]
     },
     {
+      "title": "Episode 172",
       "episode": "172",
-      "title": "It All Depends On How You Use The 'Carrot And Stick' Method",
       "files": [
         {
           "name": "HD-1",
@@ -4472,8 +4543,8 @@
       ]
     },
     {
+      "title": "Episode 173",
       "episode": "173",
-      "title": "It's What's On The Inside That Counts It's What's On The Inside That Counts, But Only To A Certain Extent",
       "files": [
         {
           "name": "HD-1",
@@ -4498,8 +4569,8 @@
       ]
     },
     {
+      "title": "Episode 174",
       "episode": "174",
-      "title": "Are There Still People Who Go To The Ocean And Yell Out 'Bakayaro'? When A Person Is Trapped, Their Inner Door Opens",
       "files": [
         {
           "name": "HD-1",
@@ -4524,8 +4595,8 @@
       ]
     },
     {
+      "title": "Episode 175",
       "episode": "175",
-      "title": "People Of All Ages Hate The Dentist!",
       "files": [
         {
           "name": "HD-1",
@@ -4550,8 +4621,8 @@
       ]
     },
     {
+      "title": "Episode 176",
       "episode": "176",
-      "title": "Countdown Begins",
       "files": [
         {
           "name": "HD-1",
@@ -4576,8 +4647,8 @@
       ]
     },
     {
+      "title": "Episode 177",
       "episode": "177",
-      "title": "It's Bad Luck To See A Spider At Night",
       "files": [
         {
           "name": "HD-1",
@@ -4602,8 +4673,8 @@
       ]
     },
     {
+      "title": "Episode 178",
       "episode": "178",
-      "title": "Once You're Entangled In A Spiderweb, It's Hard To Get It Off",
       "files": [
         {
           "name": "HD-1",
@@ -4628,9 +4699,14 @@
       ]
     },
     {
+      "title": "Episode 179",
       "episode": "179",
-      "title": "It's The Irresponsible One Who's Scary When Pissed",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/918/179/sub",
+          "type": "sub"
+        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/918/179/dub",
@@ -4649,13 +4725,18 @@
       ]
     },
     {
+      "title": "Episode 180",
       "episode": "180",
-      "title": "The More Precious The Burden, The Heavier And More Difficult It Is To Shoulder It",
       "files": [
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/918/180/sub",
           "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/918/180/dub",
+          "type": "dub"
         },
         {
           "name": "HD-2",
@@ -4670,9 +4751,14 @@
       ]
     },
     {
+      "title": "Episode 181",
       "episode": "181",
-      "title": "Watch Out For A Set Of Women And A Drink",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/918/181/sub",
+          "type": "sub"
+        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/918/181/dub",
@@ -4691,9 +4777,14 @@
       ]
     },
     {
+      "title": "Episode 182",
       "episode": "182",
-      "title": "Screw Popularity Polls",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/918/182/sub",
+          "type": "sub"
+        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/918/182/dub",
@@ -4712,9 +4803,14 @@
       ]
     },
     {
+      "title": "Episode 183",
       "episode": "183",
-      "title": "Popularity Polls Can Burn In Hell",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/918/183/sub",
+          "type": "sub"
+        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/918/183/dub",
@@ -4733,9 +4829,14 @@
       ]
     },
     {
+      "title": "Episode 184",
       "episode": "184",
-      "title": "Popularity Polls Can...",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/918/184/sub",
+          "type": "sub"
+        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/918/184/dub",
@@ -4754,13 +4855,18 @@
       ]
     },
     {
+      "title": "Episode 185",
       "episode": "185",
-      "title": "Hometowns And Boobs Are Best Thought From Afar The Whole Peeing On A Bee Sting Is A Myth. You'll Get Germs, So Don't Do It!!",
       "files": [
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/918/185/sub",
           "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/918/185/dub",
+          "type": "dub"
         },
         {
           "name": "HD-2",
@@ -4775,9 +4881,14 @@
       ]
     },
     {
+      "title": "Episode 186",
       "episode": "186",
-      "title": "Beware Of Foreshadows",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/918/186/sub",
+          "type": "sub"
+        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/918/186/dub",
@@ -4796,9 +4907,14 @@
       ]
     },
     {
+      "title": "Episode 187",
       "episode": "187",
-      "title": "It's Goodbye Once A Flag Is Set",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/918/187/sub",
+          "type": "sub"
+        },
         {
           "name": "HD-1",
           "url": "https://megaplay.buzz/stream/ani/918/187/dub",
@@ -4817,8 +4933,8 @@
       ]
     },
     {
+      "title": "Episode 188",
       "episode": "188",
-      "title": "An Observation Journal Should Be Seen Through To The Very End",
       "files": [
         {
           "name": "HD-1",
@@ -4843,8 +4959,8 @@
       ]
     },
     {
+      "title": "Episode 189",
       "episode": "189",
-      "title": "It's Better To Take Care Of This Year's Business Within The Year, But Once The Year Is About To End, You Figure That You Might As Well Put It Off Till Next Year For A Fresh Start. That's How The End Of The Year Goes Radio Exercises Are Socials For Boys And Girls",
       "files": [
         {
           "name": "HD-1",
@@ -4869,8 +4985,8 @@
       ]
     },
     {
+      "title": "Episode 190",
       "episode": "190",
-      "title": "When Looking For Something, Try Using Its Perspective",
       "files": [
         {
           "name": "HD-1",
@@ -4895,8 +5011,8 @@
       ]
     },
     {
+      "title": "Episode 191",
       "episode": "191",
-      "title": "Freedom Means To Live True To Yourself, Not Without Law!",
       "files": [
         {
           "name": "HD-1",
@@ -4921,8 +5037,8 @@
       ]
     },
     {
+      "title": "Episode 192",
       "episode": "192",
-      "title": "Kabukicho Stray Cat Blues",
       "files": [
         {
           "name": "HD-1",
@@ -4947,8 +5063,8 @@
       ]
     },
     {
+      "title": "Episode 193",
       "episode": "193",
-      "title": "Cooking Is About Guts",
       "files": [
         {
           "name": "HD-1",
@@ -4973,8 +5089,8 @@
       ]
     },
     {
+      "title": "Episode 194",
       "episode": "194",
-      "title": "Whenever I Hear Leviathan, I Think Of Sazae-san. Stupid Me!!",
       "files": [
         {
           "name": "HD-1",
@@ -4999,8 +5115,8 @@
       ]
     },
     {
+      "title": "Episode 195",
       "episode": "195",
-      "title": "Not Losing To The Rain",
       "files": [
         {
           "name": "HD-1",
@@ -5025,8 +5141,8 @@
       ]
     },
     {
+      "title": "Episode 196",
       "episode": "196",
-      "title": "Not Losing To The Wind",
       "files": [
         {
           "name": "HD-1",
@@ -5051,8 +5167,8 @@
       ]
     },
     {
+      "title": "Episode 197",
       "episode": "197",
-      "title": "Not Losing To The Storm",
       "files": [
         {
           "name": "HD-1",
@@ -5077,8 +5193,8 @@
       ]
     },
     {
+      "title": "Episode 198",
       "episode": "198",
-      "title": "Never Losing That Smile",
       "files": [
         {
           "name": "HD-1",
@@ -5103,8 +5219,8 @@
       ]
     },
     {
+      "title": "Episode 199",
       "episode": "199",
-      "title": "That's How I Wish To Be, Beautiful And Strong",
       "files": [
         {
           "name": "HD-1",
@@ -5129,8 +5245,8 @@
       ]
     },
     {
+      "title": "Episode 200",
       "episode": "200",
-      "title": "Santa Claus Red Is Blood Red",
       "files": [
         {
           "name": "HD-1",
@@ -5155,8 +5271,8 @@
       ]
     },
     {
+      "title": "Episode 201",
       "episode": "201",
-      "title": "Everybody's A Santa",
       "files": [
         {
           "name": "HD-1",
@@ -5182,8 +5298,7 @@
     }
   ],
   "streamingId": "918",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2006-04-04",
-  "malId": "918",
-  "_forceSyncTime": 1778864456893
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }
