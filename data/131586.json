@@ -1,12 +1,12 @@
 {
   "title": "86 EIGHTY-SIX Part 2",
-  "synopsis": "The second cour of 86: Eighty Six.\n\nHaving bid Lena farewell, Shin and the surviving members of the Spearhead squadron continue into the heart of Legion territory. There, they endure countless hardships until they're rescued by the Federal Republic of Giad, a reformed nation that offers them a second chance at a peaceful life. But it isn't long before a sense of duty calls the Eighty-Six back to the battlefield. Choosing to enlist in the military, they willingly walk back through the gates of hell, this time joined by a peculiar new ally-Frederica Rosenfort: a haughty young girl with a rare ability and wisdom far beyond her years.\n\n(Source: Yen Press)\n\nNote: The last two episodes were originally set to air in the first two weeks of January 2022, but were postponed to the second and third week of March due to production issues.",
+  "synopsis": "The second cour of 86: Eighty Six.\\n\n\\n\nHaving bid Lena farewell, Shin and the surviving members of the Spearhead squadron continue into the heart of Legion territory. There, they endure countless hardships until they're rescued by the Federal Republic of Giad, a reformed nation that offers them a second chance at a peaceful life. But it isn't long before a sense of duty calls the Eighty-Six back to the battlefield. Choosing to enlist in the military, they willingly walk back through the gates of hell, this time joined by a peculiar new ally-Frederica Rosenfort: a haughty young girl with a rare ability and wisdom far beyond her years.\\n\n\\n\n(Source: Yen Press)\\n\n\\n\nNote: The last two episodes were originally set to air in the first two weeks of January 2022, but were postponed to the second and third week of March due to production issues.",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131586-JhC0wcBi09EZ.jpg",
-  "synonym": "86: Eighty Six Part 2",
-  "native": "86－エイティシックス－ 第2クール",
-  "aired": "10/3/2021",
-  "premiered": "FALL 2021",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "12",
   "genres": [
     "Action",
@@ -14,20 +14,30 @@
     "Mecha",
     "Sci-Fi"
   ],
-  "rating": "8.7",
-  "type": "TV",
-  "status": "FINISHED",
+  "rating": "",
+  "type": "TV Series",
+  "status": "Completed",
   "country": "JP",
-  "studios": "A-1 Pictures",
+  "studios": [
+    "A-1 Pictures"
+  ],
   "producers": [],
-  "seasons": [],
-  "malId": "48569",
-  "streamingId": "131586",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "seasons": [
+    {
+      "title": "[TV Series] 86 EIGHTY-SIX Part 2",
+      "link": "/2021/10/131586.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131586-JhC0wcBi09EZ.jpg"
+    },
+    {
+      "title": "[TV Series] 86 EIGHTY-SIX",
+      "link": "/2021/04/116589.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116589-KawXHB6sApFt.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Welcome",
       "files": [
         {
           "name": "HD-1",
@@ -52,8 +62,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "It's Too Late",
       "files": [
         {
           "name": "HD-1",
@@ -78,8 +88,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Glad to Be Here",
       "files": [
         {
           "name": "HD-1",
@@ -104,8 +114,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Welcome Back",
       "files": [
         {
           "name": "HD-1",
@@ -130,8 +140,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Even So",
       "files": [
         {
           "name": "HD-1",
@@ -156,8 +166,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "I Won't Forget",
       "files": [
         {
           "name": "HD-1",
@@ -182,8 +192,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "The Truth Is",
       "files": [
         {
           "name": "HD-1",
@@ -208,8 +218,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Stay This Way Forever",
       "files": [
         {
           "name": "HD-1",
@@ -234,8 +244,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Together Unto Death",
       "files": [
         {
           "name": "HD-1",
@@ -260,8 +270,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "All That's Left",
       "files": [
         {
           "name": "HD-1",
@@ -286,8 +296,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Shin",
       "files": [
         {
           "name": "HD-1",
@@ -312,8 +322,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Handler One",
       "files": [
         {
           "name": "HD-1",
@@ -337,5 +347,9 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "131586",
+  "releaseDate": "2021-10-03",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }
