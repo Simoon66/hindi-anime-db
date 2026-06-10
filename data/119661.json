@@ -1,12 +1,12 @@
 {
   "title": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
-  "synopsis": "After learning more behind the Death Loop and Witches of Sin, Subaru vows to save Emilia and his friends from further doom.\n\n\n\n(Source: Crunchyroll)",
+  "synopsis": "After learning more behind the Death Loop and Witches of Sin, Subaru vows to save Emilia and his friends from further doom.\\n\n\\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119661-GDbUZxrZMz01.png",
-  "synonym": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
-  "native": "Re:ゼロから始める異世界生活 2nd Season Part 2",
-  "aired": "01/06/2021",
-  "premiered": "WINTER 2021",
-  "duration": "30m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "12",
   "genres": [
     "Action",
@@ -17,19 +17,40 @@
     "Romance",
     "Thriller"
   ],
-  "rating": "8.4",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "WHITE FOX"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+      "link": "/2021/01/119661.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119661-GDbUZxrZMz01.png"
+    },
+    {
+      "title": "[TV Series] Re:ZERO -Starting Life in Another World- Season 2",
+      "link": "/2020/07/108632.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108632-lQWnmw7XaNOK.jpg"
+    },
+    {
+      "title": "[ONA] Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 2nd Season Part 2",
+      "link": "/2021/01/128306.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b128306-94Zyoqy2fA4X.png"
+    },
+    {
+      "title": "[TV Series] Re:ZERO -Starting Life in Another World- Season 3",
+      "link": "/2024/10/163134.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163134-yieRFbvUOH9a.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Straight Bet",
       "files": [
         {
           "name": "HD-1",
@@ -54,8 +75,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Otto Suwen / A Reason to Believe",
       "files": [
         {
           "name": "HD-1",
@@ -80,8 +101,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Nobody Can Lift a Quain Stone Alone",
       "files": [
         {
           "name": "HD-1",
@@ -106,8 +127,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "A Journey Through Memories",
       "files": [
         {
           "name": "HD-1",
@@ -132,8 +153,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "The Day Betelgeuse Laughed",
       "files": [
         {
           "name": "HD-1",
@@ -158,8 +179,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "The Permafrost of Elior Forest",
       "files": [
         {
           "name": "HD-1",
@@ -184,8 +205,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "The Beginning of the Sanctuary and the Beginning of the End",
       "files": [
         {
           "name": "HD-1",
@@ -210,8 +231,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Reunion of Roars",
       "files": [
         {
           "name": "HD-1",
@@ -236,8 +257,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Happiness Reflected on the Water's Surface",
       "files": [
         {
           "name": "HD-1",
@@ -262,8 +283,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Love Me Down to My Blood and Guts",
       "files": [
         {
           "name": "HD-1",
@@ -288,8 +309,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Choose Me",
       "files": [
         {
           "name": "HD-1",
@@ -314,8 +335,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Offbeat Steps Under the Moonlight",
       "files": [
         {
           "name": "HD-1",
@@ -341,8 +362,7 @@
     }
   ],
   "streamingId": "119661",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2021-01-06",
-  "malId": "42203",
-  "_forceSyncTime": 1778771951404
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }
