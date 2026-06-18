@@ -1,12 +1,12 @@
 {
   "title": "Fairy Tail",
-  "synopsis": "Across the Fiore kingdom, wizards join guilds and make their pay by filling magical needs—but one guild has a reputation as the roughest, rowdiest, most dangerous of all: Fairy Tail!\n\nWhen four young Fairy Tail members unite, their bond is forged by a power found in neither muscle nor magic and grows stronger with every mission. Whatever you do, don't mess with these friends or you'll get a taste of Natsu's flaming fist or Gray's ice hammer, suffer a painful blow from one of Lucy's celestial spirits or catch the edge of Erza's mighty blade! Whether they're stopping demons from devastating the world or wrestling in the mess hall, this mystical team manages to inflict as much damage to their rivals as they do to the surrounding area!\n\n\n\n(Source: Funimation)",
+  "synopsis": "Across the Fiore kingdom, wizards join guilds and make their pay by filling magical needs—but one guild has a reputation as the roughest, rowdiest, most dangerous of all: Fairy Tail!\\n\nWhen four young Fairy Tail members unite, their bond is forged by a power found in neither muscle nor magic and grows stronger with every mission. Whatever you do, don't mess with these friends or you'll get a taste of Natsu's flaming fist or Gray's ice hammer, suffer a painful blow from one of Lucy's celestial spirits or catch the edge of Erza's mighty blade! Whether they're stopping demons from devastating the world or wrestling in the mess hall, this mystical team manages to inflict as much damage to their rivals as they do to the surrounding area!\\n\n\\n\n(Source: Funimation)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-KI4qgSMyI8Pm.png",
-  "synonym": "FAIRY TAIL",
-  "native": "FAIRY TAIL",
-  "aired": "10/12/2009",
-  "premiered": "FALL 2009",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "175",
   "genres": [
     "Action",
@@ -14,8 +14,8 @@
     "Comedy",
     "Fantasy"
   ],
-  "rating": "7.2",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
@@ -23,11 +23,32 @@
     "A-1 Pictures"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Fairy Tail",
+      "link": "/2009/10/6702.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-KI4qgSMyI8Pm.png"
+    },
+    {
+      "title": "[OVA] FAIRY TAIL OVA",
+      "link": "/2011/04/9982.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9982.jpg"
+    },
+    {
+      "title": "[Movie] Fairy Tail: Phoenix Priestess",
+      "link": "/2012/08/12049.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12049-FIx0K2s81SPa.png"
+    },
+    {
+      "title": "[TV Series] Fairy Tail Series 2",
+      "link": "/2014/04/20626.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20626-9LTreIofBgnu.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "The Fairy Tail",
       "files": [
         {
           "name": "HD-1",
@@ -52,8 +73,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Fire Dragon, Monkey, and Bull",
       "files": [
         {
           "name": "HD-1",
@@ -78,8 +99,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Infiltrate the Everlue Mansion",
       "files": [
         {
           "name": "HD-1",
@@ -104,8 +125,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "DEAR KABY",
       "files": [
         {
           "name": "HD-1",
@@ -130,8 +151,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "The Wizard in Armor",
       "files": [
         {
           "name": "HD-1",
@@ -156,8 +177,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Fairies in the Wind",
       "files": [
         {
           "name": "HD-1",
@@ -182,8 +203,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Flame and Wind",
       "files": [
         {
           "name": "HD-1",
@@ -208,8 +229,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "The Strongest Team",
       "files": [
         {
           "name": "HD-1",
@@ -234,8 +255,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Natsu, Devours a Village",
       "files": [
         {
           "name": "HD-1",
@@ -260,8 +281,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Natsu vs. Erza",
       "files": [
         {
           "name": "HD-1",
@@ -286,8 +307,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "The Cursed Island",
       "files": [
         {
           "name": "HD-1",
@@ -312,8 +333,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Moon Drip",
       "files": [
         {
           "name": "HD-1",
@@ -338,8 +359,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "Natsu vs. Yuka the Wave User",
       "files": [
         {
           "name": "HD-1",
@@ -364,8 +385,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "Just Do Whatever!!",
       "files": [
         {
           "name": "HD-1",
@@ -390,8 +411,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "Eternal Magic",
       "files": [
         {
           "name": "HD-1",
@@ -416,8 +437,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "The Final Showdown on Galuna Island",
       "files": [
         {
           "name": "HD-1",
@@ -442,8 +463,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "Burst",
       "files": [
         {
           "name": "HD-1",
@@ -468,8 +489,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "Reach the Sky Above",
       "files": [
         {
           "name": "HD-1",
@@ -494,8 +515,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "Changeling",
       "files": [
         {
           "name": "HD-1",
@@ -520,8 +541,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "Natsu and the Dragon Egg",
       "files": [
         {
           "name": "HD-1",
@@ -546,8 +567,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "The Phantom Lord",
       "files": [
         {
           "name": "HD-1",
@@ -572,8 +593,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "Lucy Heartfilia",
       "files": [
         {
           "name": "HD-1",
@@ -598,8 +619,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "15 Minutes",
       "files": [
         {
           "name": "HD-1",
@@ -624,8 +645,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "To Keep From Seeing Those Tears",
       "files": [
         {
           "name": "HD-1",
@@ -650,8 +671,8 @@
       ]
     },
     {
+      "title": "Episode 25",
       "episode": "25",
-      "title": "A Flower Blooms in the Rain",
       "files": [
         {
           "name": "HD-1",
@@ -676,8 +697,8 @@
       ]
     },
     {
+      "title": "Episode 26",
       "episode": "26",
-      "title": "Wings of Flame",
       "files": [
         {
           "name": "HD-1",
@@ -702,8 +723,8 @@
       ]
     },
     {
+      "title": "Episode 27",
       "episode": "27",
-      "title": "The Two Dragon Slayers",
       "files": [
         {
           "name": "HD-1",
@@ -728,8 +749,8 @@
       ]
     },
     {
+      "title": "Episode 28",
       "episode": "28",
-      "title": "Fairy Law",
       "files": [
         {
           "name": "HD-1",
@@ -754,8 +775,8 @@
       ]
     },
     {
+      "title": "Episode 29",
       "episode": "29",
-      "title": "My Resolve",
       "files": [
         {
           "name": "HD-1",
@@ -780,8 +801,8 @@
       ]
     },
     {
+      "title": "Episode 30",
       "episode": "30",
-      "title": "Next Generation",
       "files": [
         {
           "name": "HD-1",
@@ -806,8 +827,8 @@
       ]
     },
     {
+      "title": "Episode 31",
       "episode": "31",
-      "title": "A Star Removed from the Sky",
       "files": [
         {
           "name": "HD-1",
@@ -832,8 +853,8 @@
       ]
     },
     {
+      "title": "Episode 32",
       "episode": "32",
-      "title": "Celestial Spirit King",
       "files": [
         {
           "name": "HD-1",
@@ -858,8 +879,8 @@
       ]
     },
     {
+      "title": "Episode 33",
       "episode": "33",
-      "title": "The Tower of Heaven",
       "files": [
         {
           "name": "HD-1",
@@ -884,8 +905,8 @@
       ]
     },
     {
+      "title": "Episode 34",
       "episode": "34",
-      "title": "Jellal",
       "files": [
         {
           "name": "HD-1",
@@ -910,8 +931,8 @@
       ]
     },
     {
+      "title": "Episode 35",
       "episode": "35",
-      "title": "Voice of Darkness",
       "files": [
         {
           "name": "HD-1",
@@ -936,8 +957,8 @@
       ]
     },
     {
+      "title": "Episode 36",
       "episode": "36",
-      "title": "Heaven's Game",
       "files": [
         {
           "name": "HD-1",
@@ -962,8 +983,8 @@
       ]
     },
     {
+      "title": "Episode 37",
       "episode": "37",
-      "title": "Armor of the Heart",
       "files": [
         {
           "name": "HD-1",
@@ -988,8 +1009,8 @@
       ]
     },
     {
+      "title": "Episode 38",
       "episode": "38",
-      "title": "Destiny",
       "files": [
         {
           "name": "HD-1",
@@ -1014,8 +1035,8 @@
       ]
     },
     {
+      "title": "Episode 39",
       "episode": "39",
-      "title": "Give Our Prayers to the Sacred Light",
       "files": [
         {
           "name": "HD-1",
@@ -1040,8 +1061,8 @@
       ]
     },
     {
+      "title": "Episode 40",
       "episode": "40",
-      "title": "Titania Falls",
       "files": [
         {
           "name": "HD-1",
@@ -1066,8 +1087,8 @@
       ]
     },
     {
+      "title": "Episode 41",
       "episode": "41",
-      "title": "Home",
       "files": [
         {
           "name": "HD-1",
@@ -1092,8 +1113,8 @@
       ]
     },
     {
+      "title": "Episode 42",
       "episode": "42",
-      "title": "Battle of Fairy Tail",
       "files": [
         {
           "name": "HD-1",
@@ -1118,8 +1139,8 @@
       ]
     },
     {
+      "title": "Episode 43",
       "episode": "43",
-      "title": "Defeat Your Friends to Save Your Friends",
       "files": [
         {
           "name": "HD-1",
@@ -1144,8 +1165,8 @@
       ]
     },
     {
+      "title": "Episode 44",
       "episode": "44",
-      "title": "Thunder Palace",
       "files": [
         {
           "name": "HD-1",
@@ -1170,8 +1191,8 @@
       ]
     },
     {
+      "title": "Episode 45",
       "episode": "45",
-      "title": "Advent of Satan",
       "files": [
         {
           "name": "HD-1",
@@ -1196,8 +1217,8 @@
       ]
     },
     {
+      "title": "Episode 46",
       "episode": "46",
-      "title": "Clash at Kardia Cathedral!",
       "files": [
         {
           "name": "HD-1",
@@ -1222,8 +1243,8 @@
       ]
     },
     {
+      "title": "Episode 47",
       "episode": "47",
-      "title": "Triple Dragons",
       "files": [
         {
           "name": "HD-1",
@@ -1248,8 +1269,8 @@
       ]
     },
     {
+      "title": "Episode 48",
       "episode": "48",
-      "title": "Fantasia",
       "files": [
         {
           "name": "HD-1",
@@ -1274,8 +1295,8 @@
       ]
     },
     {
+      "title": "Episode 49",
       "episode": "49",
-      "title": "The Day of the Fateful Encounter",
       "files": [
         {
           "name": "HD-1",
@@ -1300,8 +1321,8 @@
       ]
     },
     {
+      "title": "Episode 50",
       "episode": "50",
-      "title": "Special Request: Watch Out for the Guy You Like!",
       "files": [
         {
           "name": "HD-1",
@@ -1326,8 +1347,8 @@
       ]
     },
     {
+      "title": "Episode 51",
       "episode": "51",
-      "title": "Love & Lucky",
       "files": [
         {
           "name": "HD-1",
@@ -1352,8 +1373,8 @@
       ]
     },
     {
+      "title": "Episode 52",
       "episode": "52",
-      "title": "Allied Forces, Assemble!",
       "files": [
         {
           "name": "HD-1",
@@ -1378,8 +1399,8 @@
       ]
     },
     {
+      "title": "Episode 53",
       "episode": "53",
-      "title": "Enter the Oración Seis!",
       "files": [
         {
           "name": "HD-1",
@@ -1404,8 +1425,8 @@
       ]
     },
     {
+      "title": "Episode 54",
       "episode": "54",
-      "title": "Maiden of the Sky",
       "files": [
         {
           "name": "HD-1",
@@ -1430,8 +1451,8 @@
       ]
     },
     {
+      "title": "Episode 55",
       "episode": "55",
-      "title": "The Girl and the Ghost",
       "files": [
         {
           "name": "HD-1",
@@ -1456,8 +1477,8 @@
       ]
     },
     {
+      "title": "Episode 56",
       "episode": "56",
-      "title": "Dead Grand Prix",
       "files": [
         {
           "name": "HD-1",
@@ -1482,8 +1503,8 @@
       ]
     },
     {
+      "title": "Episode 57",
       "episode": "57",
-      "title": "Darkness",
       "files": [
         {
           "name": "HD-1",
@@ -1508,8 +1529,8 @@
       ]
     },
     {
+      "title": "Episode 58",
       "episode": "58",
-      "title": "Celestial Skirmish",
       "files": [
         {
           "name": "HD-1",
@@ -1534,8 +1555,8 @@
       ]
     },
     {
+      "title": "Episode 59",
       "episode": "59",
-      "title": "Jellal of Days Gone By",
       "files": [
         {
           "name": "HD-1",
@@ -1560,8 +1581,8 @@
       ]
     },
     {
+      "title": "Episode 60",
       "episode": "60",
-      "title": "March of Destruction",
       "files": [
         {
           "name": "HD-1",
@@ -1586,8 +1607,8 @@
       ]
     },
     {
+      "title": "Episode 61",
       "episode": "61",
-      "title": "Super Aerial Battle: Natsu vs. Cobra!",
       "files": [
         {
           "name": "HD-1",
@@ -1612,8 +1633,8 @@
       ]
     },
     {
+      "title": "Episode 62",
       "episode": "62",
-      "title": "Wizard Saint Jura",
       "files": [
         {
           "name": "HD-1",
@@ -1638,8 +1659,8 @@
       ]
     },
     {
+      "title": "Episode 63",
       "episode": "63",
-      "title": "Your Words",
       "files": [
         {
           "name": "HD-1",
@@ -1664,8 +1685,8 @@
       ]
     },
     {
+      "title": "Episode 64",
       "episode": "64",
-      "title": "Zero",
       "files": [
         {
           "name": "HD-1",
@@ -1690,8 +1711,8 @@
       ]
     },
     {
+      "title": "Episode 65",
       "episode": "65",
-      "title": "From Pegasus to Fairies",
       "files": [
         {
           "name": "HD-1",
@@ -1716,8 +1737,8 @@
       ]
     },
     {
+      "title": "Episode 66",
       "episode": "66",
-      "title": "The Power of Feelings",
       "files": [
         {
           "name": "HD-1",
@@ -1742,8 +1763,8 @@
       ]
     },
     {
+      "title": "Episode 67",
       "episode": "67",
-      "title": "I'm With You",
       "files": [
         {
           "name": "HD-1",
@@ -1768,8 +1789,8 @@
       ]
     },
     {
+      "title": "Episode 68",
       "episode": "68",
-      "title": "A Guild for One",
       "files": [
         {
           "name": "HD-1",
@@ -1794,8 +1815,8 @@
       ]
     },
     {
+      "title": "Episode 69",
       "episode": "69",
-      "title": "Call of the Dragon",
       "files": [
         {
           "name": "HD-1",
@@ -1820,8 +1841,8 @@
       ]
     },
     {
+      "title": "Episode 70",
       "episode": "70",
-      "title": "Natsu vs. Gray!!",
       "files": [
         {
           "name": "HD-1",
@@ -1846,8 +1867,8 @@
       ]
     },
     {
+      "title": "Episode 71",
       "episode": "71",
-      "title": "Friendship Overcomes the Dead",
       "files": [
         {
           "name": "HD-1",
@@ -1872,8 +1893,8 @@
       ]
     },
     {
+      "title": "Episode 72",
       "episode": "72",
-      "title": "A Fairy Tail Wizard",
       "files": [
         {
           "name": "HD-1",
@@ -1898,8 +1919,8 @@
       ]
     },
     {
+      "title": "Episode 73",
       "episode": "73",
-      "title": "Rainbow Cherry Blossoms",
       "files": [
         {
           "name": "HD-1",
@@ -1924,8 +1945,8 @@
       ]
     },
     {
+      "title": "Episode 74",
       "episode": "74",
-      "title": "Wendy's First Big Job!?",
       "files": [
         {
           "name": "HD-1",
@@ -1950,8 +1971,8 @@
       ]
     },
     {
+      "title": "Episode 75",
       "episode": "75",
-      "title": "24-Hour Endurance Road Race",
       "files": [
         {
           "name": "HD-1",
@@ -1976,8 +1997,8 @@
       ]
     },
     {
+      "title": "Episode 76",
       "episode": "76",
-      "title": "Gildarts",
       "files": [
         {
           "name": "HD-1",
@@ -2002,8 +2023,8 @@
       ]
     },
     {
+      "title": "Episode 77",
       "episode": "77",
-      "title": "Earth Land",
       "files": [
         {
           "name": "HD-1",
@@ -2028,8 +2049,8 @@
       ]
     },
     {
+      "title": "Episode 78",
       "episode": "78",
-      "title": "Edolas",
       "files": [
         {
           "name": "HD-1",
@@ -2054,8 +2075,8 @@
       ]
     },
     {
+      "title": "Episode 79",
       "episode": "79",
-      "title": "Fairy Hunter",
       "files": [
         {
           "name": "HD-1",
@@ -2080,8 +2101,8 @@
       ]
     },
     {
+      "title": "Episode 80",
       "episode": "80",
-      "title": "Key of Hope",
       "files": [
         {
           "name": "HD-1",
@@ -2106,8 +2127,8 @@
       ]
     },
     {
+      "title": "Episode 81",
       "episode": "81",
-      "title": "Fireball",
       "files": [
         {
           "name": "HD-1",
@@ -2132,8 +2153,8 @@
       ]
     },
     {
+      "title": "Episode 82",
       "episode": "82",
-      "title": "Welcome Home",
       "files": [
         {
           "name": "HD-1",
@@ -2158,8 +2179,8 @@
       ]
     },
     {
+      "title": "Episode 83",
       "episode": "83",
-      "title": "Extalia",
       "files": [
         {
           "name": "HD-1",
@@ -2184,8 +2205,8 @@
       ]
     },
     {
+      "title": "Episode 84",
       "episode": "84",
-      "title": "Fly, to Our Friends!",
       "files": [
         {
           "name": "HD-1",
@@ -2210,8 +2231,8 @@
       ]
     },
     {
+      "title": "Episode 85",
       "episode": "85",
-      "title": "Code ETD",
       "files": [
         {
           "name": "HD-1",
@@ -2236,8 +2257,8 @@
       ]
     },
     {
+      "title": "Episode 86",
       "episode": "86",
-      "title": "Erza vs. Erza",
       "files": [
         {
           "name": "HD-1",
@@ -2262,8 +2283,8 @@
       ]
     },
     {
+      "title": "Episode 87",
       "episode": "87",
-      "title": "We're Talking About Lives Here!!!!",
       "files": [
         {
           "name": "HD-1",
@@ -2288,8 +2309,8 @@
       ]
     },
     {
+      "title": "Episode 88",
       "episode": "88",
-      "title": "For Pride's Sake, the River of Stars",
       "files": [
         {
           "name": "HD-1",
@@ -2314,8 +2335,8 @@
       ]
     },
     {
+      "title": "Episode 89",
       "episode": "89",
-      "title": "The Apocalyptic Dragon Chain Cannon",
       "files": [
         {
           "name": "HD-1",
@@ -2340,8 +2361,8 @@
       ]
     },
     {
+      "title": "Episode 90",
       "episode": "90",
-      "title": "The Boy Back Then",
       "files": [
         {
           "name": "HD-1",
@@ -2366,8 +2387,8 @@
       ]
     },
     {
+      "title": "Episode 91",
       "episode": "91",
-      "title": "Dragon Sense",
       "files": [
         {
           "name": "HD-1",
@@ -2392,8 +2413,8 @@
       ]
     },
     {
+      "title": "Episode 92",
       "episode": "92",
-      "title": "O Living Ones",
       "files": [
         {
           "name": "HD-1",
@@ -2418,8 +2439,8 @@
       ]
     },
     {
+      "title": "Episode 93",
       "episode": "93",
-      "title": "I'm Standing Right Here",
       "files": [
         {
           "name": "HD-1",
@@ -2444,8 +2465,8 @@
       ]
     },
     {
+      "title": "Episode 94",
       "episode": "94",
-      "title": "Bye-Bye Edolas",
       "files": [
         {
           "name": "HD-1",
@@ -2470,8 +2491,8 @@
       ]
     },
     {
+      "title": "Episode 95",
       "episode": "95",
-      "title": "Lisanna",
       "files": [
         {
           "name": "HD-1",
@@ -2496,8 +2517,8 @@
       ]
     },
     {
+      "title": "Episode 96",
       "episode": "96",
-      "title": "He Who Extinguishes Life",
       "files": [
         {
           "name": "HD-1",
@@ -2522,8 +2543,8 @@
       ]
     },
     {
+      "title": "Episode 97",
       "episode": "97",
-      "title": "Best Partners",
       "files": [
         {
           "name": "HD-1",
@@ -2548,8 +2569,8 @@
       ]
     },
     {
+      "title": "Episode 98",
       "episode": "98",
-      "title": "Who's the Lucky One?",
       "files": [
         {
           "name": "HD-1",
@@ -2574,8 +2595,8 @@
       ]
     },
     {
+      "title": "Episode 99",
       "episode": "99",
-      "title": "Natsu vs. Gildarts",
       "files": [
         {
           "name": "HD-1",
@@ -2600,8 +2621,8 @@
       ]
     },
     {
+      "title": "Episode 100",
       "episode": "100",
-      "title": "Mest",
       "files": [
         {
           "name": "HD-1",
@@ -2626,8 +2647,8 @@
       ]
     },
     {
+      "title": "Episode 101",
       "episode": "101",
-      "title": "Black Wizard",
       "files": [
         {
           "name": "HD-1",
@@ -2652,8 +2673,8 @@
       ]
     },
     {
+      "title": "Episode 102",
       "episode": "102",
-      "title": "Iron Soul",
       "files": [
         {
           "name": "HD-1",
@@ -2678,8 +2699,8 @@
       ]
     },
     {
+      "title": "Episode 103",
       "episode": "103",
-      "title": "Makarov Charges",
       "files": [
         {
           "name": "HD-1",
@@ -2704,8 +2725,8 @@
       ]
     },
     {
+      "title": "Episode 104",
       "episode": "104",
-      "title": "Lost Magic",
       "files": [
         {
           "name": "HD-1",
@@ -2730,8 +2751,8 @@
       ]
     },
     {
+      "title": "Episode 105",
       "episode": "105",
-      "title": "Fire Dragon vs. Flame God",
       "files": [
         {
           "name": "HD-1",
@@ -2756,8 +2777,8 @@
       ]
     },
     {
+      "title": "Episode 106",
       "episode": "106",
-      "title": "Grand Magic World",
       "files": [
         {
           "name": "HD-1",
@@ -2782,8 +2803,8 @@
       ]
     },
     {
+      "title": "Episode 107",
       "episode": "107",
-      "title": "Arc of Embodiment",
       "files": [
         {
           "name": "HD-1",
@@ -2808,8 +2829,8 @@
       ]
     },
     {
+      "title": "Episode 108",
       "episode": "108",
-      "title": "Human Gate",
       "files": [
         {
           "name": "HD-1",
@@ -2834,8 +2855,8 @@
       ]
     },
     {
+      "title": "Episode 109",
       "episode": "109",
-      "title": "Lucy Fire",
       "files": [
         {
           "name": "HD-1",
@@ -2860,8 +2881,8 @@
       ]
     },
     {
+      "title": "Episode 110",
       "episode": "110",
-      "title": "Dead-End of Despair",
       "files": [
         {
           "name": "HD-1",
@@ -2886,8 +2907,8 @@
       ]
     },
     {
+      "title": "Episode 111",
       "episode": "111",
-      "title": "Tears of Love and Vitality",
       "files": [
         {
           "name": "HD-1",
@@ -2912,8 +2933,8 @@
       ]
     },
     {
+      "title": "Episode 112",
       "episode": "112",
-      "title": "The One Thing I Couldn't Say",
       "files": [
         {
           "name": "HD-1",
@@ -2938,8 +2959,8 @@
       ]
     },
     {
+      "title": "Episode 113",
       "episode": "113",
-      "title": "Tenrou Tree",
       "files": [
         {
           "name": "HD-1",
@@ -2964,8 +2985,8 @@
       ]
     },
     {
+      "title": "Episode 114",
       "episode": "114",
-      "title": "Erza vs. Azuma",
       "files": [
         {
           "name": "HD-1",
@@ -2990,8 +3011,8 @@
       ]
     },
     {
+      "title": "Episode 115",
       "episode": "115",
-      "title": "Freezing Fighting Spirit",
       "files": [
         {
           "name": "HD-1",
@@ -3016,8 +3037,8 @@
       ]
     },
     {
+      "title": "Episode 116",
       "episode": "116",
-      "title": "Power of Life",
       "files": [
         {
           "name": "HD-1",
@@ -3042,8 +3063,8 @@
       ]
     },
     {
+      "title": "Episode 117",
       "episode": "117",
-      "title": "Rolling Thunder",
       "files": [
         {
           "name": "HD-1",
@@ -3068,8 +3089,8 @@
       ]
     },
     {
+      "title": "Episode 118",
       "episode": "118",
-      "title": "The Man Without an Emblem",
       "files": [
         {
           "name": "HD-1",
@@ -3094,8 +3115,8 @@
       ]
     },
     {
+      "title": "Episode 119",
       "episode": "119",
-      "title": "Realm of the Abyss",
       "files": [
         {
           "name": "HD-1",
@@ -3120,8 +3141,8 @@
       ]
     },
     {
+      "title": "Episode 120",
       "episode": "120",
-      "title": "Daybreak on Tenrou Island",
       "files": [
         {
           "name": "HD-1",
@@ -3146,8 +3167,8 @@
       ]
     },
     {
+      "title": "Episode 121",
       "episode": "121",
-      "title": "The Right to Love",
       "files": [
         {
           "name": "HD-1",
@@ -3172,8 +3193,8 @@
       ]
     },
     {
+      "title": "Episode 122",
       "episode": "122",
-      "title": "Let's Hold Hands",
       "files": [
         {
           "name": "HD-1",
@@ -3198,8 +3219,8 @@
       ]
     },
     {
+      "title": "Episode 123",
       "episode": "123",
-      "title": "Fairy Tail, Year X791",
       "files": [
         {
           "name": "HD-1",
@@ -3224,8 +3245,8 @@
       ]
     },
     {
+      "title": "Episode 124",
       "episode": "124",
-      "title": "The Seven Year Gap",
       "files": [
         {
           "name": "HD-1",
@@ -3250,8 +3271,8 @@
       ]
     },
     {
+      "title": "Episode 125",
       "episode": "125",
-      "title": "The Magic Ball",
       "files": [
         {
           "name": "HD-1",
@@ -3276,8 +3297,8 @@
       ]
     },
     {
+      "title": "Episode 126",
       "episode": "126",
-      "title": "True Scoundrels – The Butt Jiggle Gang",
       "files": [
         {
           "name": "HD-1",
@@ -3302,8 +3323,8 @@
       ]
     },
     {
+      "title": "Episode 127",
       "episode": "127",
-      "title": "The Terror of Invisible Lucy!",
       "files": [
         {
           "name": "HD-1",
@@ -3328,8 +3349,8 @@
       ]
     },
     {
+      "title": "Episode 128",
       "episode": "128",
-      "title": "Father's Memento",
       "files": [
         {
           "name": "HD-1",
@@ -3354,8 +3375,8 @@
       ]
     },
     {
+      "title": "Episode 129",
       "episode": "129",
-      "title": "Turbulent Showdown! Natsu vs. Laxus",
       "files": [
         {
           "name": "HD-1",
@@ -3380,8 +3401,8 @@
       ]
     },
     {
+      "title": "Episode 130",
       "episode": "130",
-      "title": "Target: Lucy",
       "files": [
         {
           "name": "HD-1",
@@ -3406,8 +3427,8 @@
       ]
     },
     {
+      "title": "Episode 131",
       "episode": "131",
-      "title": "The Fury of Legion",
       "files": [
         {
           "name": "HD-1",
@@ -3432,8 +3453,8 @@
       ]
     },
     {
+      "title": "Episode 132",
       "episode": "132",
-      "title": "Key of the Starry Heavens",
       "files": [
         {
           "name": "HD-1",
@@ -3458,8 +3479,8 @@
       ]
     },
     {
+      "title": "Episode 133",
       "episode": "133",
-      "title": "Travel Companions",
       "files": [
         {
           "name": "HD-1",
@@ -3484,8 +3505,8 @@
       ]
     },
     {
+      "title": "Episode 134",
       "episode": "134",
-      "title": "Labyrinth Capriccio",
       "files": [
         {
           "name": "HD-1",
@@ -3510,8 +3531,8 @@
       ]
     },
     {
+      "title": "Episode 135",
       "episode": "135",
-      "title": "Footprints of the Myth",
       "files": [
         {
           "name": "HD-1",
@@ -3536,8 +3557,8 @@
       ]
     },
     {
+      "title": "Episode 136",
       "episode": "136",
-      "title": "True Scoundrels, Once Again",
       "files": [
         {
           "name": "HD-1",
@@ -3562,8 +3583,8 @@
       ]
     },
     {
+      "title": "Episode 137",
       "episode": "137",
-      "title": "Defying Calculation",
       "files": [
         {
           "name": "HD-1",
@@ -3588,8 +3609,8 @@
       ]
     },
     {
+      "title": "Episode 138",
       "episode": "138",
-      "title": "The Course of the Holy War",
       "files": [
         {
           "name": "HD-1",
@@ -3614,8 +3635,8 @@
       ]
     },
     {
+      "title": "Episode 139",
       "episode": "139",
-      "title": "Time Begins to Tick",
       "files": [
         {
           "name": "HD-1",
@@ -3640,8 +3661,8 @@
       ]
     },
     {
+      "title": "Episode 140",
       "episode": "140",
-      "title": "Enter the Neo-Oración Seis!",
       "files": [
         {
           "name": "HD-1",
@@ -3666,8 +3687,8 @@
       ]
     },
     {
+      "title": "Episode 141",
       "episode": "141",
-      "title": "Get the Infinity Clock!",
       "files": [
         {
           "name": "HD-1",
@@ -3692,8 +3713,8 @@
       ]
     },
     {
+      "title": "Episode 142",
       "episode": "142",
-      "title": "Dissonance of Battle",
       "files": [
         {
           "name": "HD-1",
@@ -3718,8 +3739,8 @@
       ]
     },
     {
+      "title": "Episode 143",
       "episode": "143",
-      "title": "Anti-Link",
       "files": [
         {
           "name": "HD-1",
@@ -3744,8 +3765,8 @@
       ]
     },
     {
+      "title": "Episode 144",
       "episode": "144",
-      "title": "Despair Unleashed",
       "files": [
         {
           "name": "HD-1",
@@ -3770,8 +3791,8 @@
       ]
     },
     {
+      "title": "Episode 145",
       "episode": "145",
-      "title": "Real Nightmare",
       "files": [
         {
           "name": "HD-1",
@@ -3796,8 +3817,8 @@
       ]
     },
     {
+      "title": "Episode 146",
       "episode": "146",
-      "title": "Time Spiral",
       "files": [
         {
           "name": "HD-1",
@@ -3822,8 +3843,8 @@
       ]
     },
     {
+      "title": "Episode 147",
       "episode": "147",
-      "title": "To the Infinity Castle!",
       "files": [
         {
           "name": "HD-1",
@@ -3848,8 +3869,8 @@
       ]
     },
     {
+      "title": "Episode 148",
       "episode": "148",
-      "title": "Angel Tears",
       "files": [
         {
           "name": "HD-1",
@@ -3874,8 +3895,8 @@
       ]
     },
     {
+      "title": "Episode 149",
       "episode": "149",
-      "title": "I Hear the Voice of My Friend",
       "files": [
         {
           "name": "HD-1",
@@ -3900,8 +3921,8 @@
       ]
     },
     {
+      "title": "Episode 150",
       "episode": "150",
-      "title": "Lucy and Michelle",
       "files": [
         {
           "name": "HD-1",
@@ -3926,8 +3947,8 @@
       ]
     },
     {
+      "title": "Episode 151",
       "episode": "151",
-      "title": "Sabertooth",
       "files": [
         {
           "name": "HD-1",
@@ -3952,8 +3973,8 @@
       ]
     },
     {
+      "title": "Episode 152",
       "episode": "152",
-      "title": "And So We Aim for the Top",
       "files": [
         {
           "name": "HD-1",
@@ -3978,8 +3999,8 @@
       ]
     },
     {
+      "title": "Episode 153",
       "episode": "153",
-      "title": "Song of the Stars",
       "files": [
         {
           "name": "HD-1",
@@ -4004,8 +4025,8 @@
       ]
     },
     {
+      "title": "Episode 154",
       "episode": "154",
-      "title": "For All the Time We Missed Each Other",
       "files": [
         {
           "name": "HD-1",
@@ -4030,8 +4051,8 @@
       ]
     },
     {
+      "title": "Episode 155",
       "episode": "155",
-      "title": "Crocus, the Flower-Blooming Capital",
       "files": [
         {
           "name": "HD-1",
@@ -4056,8 +4077,8 @@
       ]
     },
     {
+      "title": "Episode 156",
       "episode": "156",
-      "title": "Sky Labyrinth",
       "files": [
         {
           "name": "HD-1",
@@ -4082,8 +4103,8 @@
       ]
     },
     {
+      "title": "Episode 157",
       "episode": "157",
-      "title": "New Guild",
       "files": [
         {
           "name": "HD-1",
@@ -4108,8 +4129,8 @@
       ]
     },
     {
+      "title": "Episode 158",
       "episode": "158",
-      "title": "Night of Shooting Stars",
       "files": [
         {
           "name": "HD-1",
@@ -4134,8 +4155,8 @@
       ]
     },
     {
+      "title": "Episode 159",
       "episode": "159",
-      "title": "Lucy vs. Flare",
       "files": [
         {
           "name": "HD-1",
@@ -4160,8 +4181,8 @@
       ]
     },
     {
+      "title": "Episode 160",
       "episode": "160",
-      "title": "Portent",
       "files": [
         {
           "name": "HD-1",
@@ -4186,8 +4207,8 @@
       ]
     },
     {
+      "title": "Episode 161",
       "episode": "161",
-      "title": "Chariots",
       "files": [
         {
           "name": "HD-1",
@@ -4212,8 +4233,8 @@
       ]
     },
     {
+      "title": "Episode 162",
       "episode": "162",
-      "title": "Elfman vs. Bacchus",
       "files": [
         {
           "name": "HD-1",
@@ -4238,8 +4259,8 @@
       ]
     },
     {
+      "title": "Episode 163",
       "episode": "163",
-      "title": "Mirajane vs. Jenny",
       "files": [
         {
           "name": "HD-1",
@@ -4264,8 +4285,8 @@
       ]
     },
     {
+      "title": "Episode 164",
       "episode": "164",
-      "title": "Kagura vs. Yukino",
       "files": [
         {
           "name": "HD-1",
@@ -4290,8 +4311,8 @@
       ]
     },
     {
+      "title": "Episode 165",
       "episode": "165",
-      "title": "Hatred at Nightfall",
       "files": [
         {
           "name": "HD-1",
@@ -4316,8 +4337,8 @@
       ]
     },
     {
+      "title": "Episode 166",
       "episode": "166",
-      "title": "Pandemonium",
       "files": [
         {
           "name": "HD-1",
@@ -4342,8 +4363,8 @@
       ]
     },
     {
+      "title": "Episode 167",
       "episode": "167",
-      "title": "100 Against 1",
       "files": [
         {
           "name": "HD-1",
@@ -4368,8 +4389,8 @@
       ]
     },
     {
+      "title": "Episode 168",
       "episode": "168",
-      "title": "Laxus vs. Alexei",
       "files": [
         {
           "name": "HD-1",
@@ -4394,8 +4415,8 @@
       ]
     },
     {
+      "title": "Episode 169",
       "episode": "169",
-      "title": "Wendy vs. Shelia",
       "files": [
         {
           "name": "HD-1",
@@ -4420,8 +4441,8 @@
       ]
     },
     {
+      "title": "Episode 170",
       "episode": "170",
-      "title": "Small Fists",
       "files": [
         {
           "name": "HD-1",
@@ -4446,8 +4467,8 @@
       ]
     },
     {
+      "title": "Episode 171",
       "episode": "171",
-      "title": "Naval Battle",
       "files": [
         {
           "name": "HD-1",
@@ -4472,8 +4493,8 @@
       ]
     },
     {
+      "title": "Episode 172",
       "episode": "172",
-      "title": "A Parfum for You",
       "files": [
         {
           "name": "HD-1",
@@ -4498,8 +4519,8 @@
       ]
     },
     {
+      "title": "Episode 173",
       "episode": "173",
-      "title": "Battle of Dragon Slayers!",
       "files": [
         {
           "name": "HD-1",
@@ -4524,8 +4545,8 @@
       ]
     },
     {
+      "title": "Episode 174",
       "episode": "174",
-      "title": "Four Dragons",
       "files": [
         {
           "name": "HD-1",
@@ -4550,8 +4571,8 @@
       ]
     },
     {
+      "title": "Episode 175",
       "episode": "175",
-      "title": "Natsu vs. the Twin Dragons",
       "files": [
         {
           "name": "HD-1",
@@ -4577,8 +4598,7 @@
     }
   ],
   "streamingId": "6702",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2009-10-12",
-  "malId": "6702",
-  "_forceSyncTime": 1778770921561
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }
