@@ -13,7 +13,7 @@
   ],
   "rating": "",
   "type": "TV Series",
-  "status": "Ongoing",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "ZEXCS"
@@ -24,6 +24,11 @@
       "title": "[TV Series] Akane-banashi",
       "link": "/2026/04/196935.html",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196935-RnLWBsEvNp8M.jpg"
+    },
+    {
+      "title": "[TV Series] Akane-banashi 2nd Season",
+      "link": "/2027/01/213360.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213360-hGlrAPFeN4BL.jpg"
     }
   ],
   "episodes": [

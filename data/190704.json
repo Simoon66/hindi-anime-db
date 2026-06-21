@@ -16,7 +16,7 @@
   ],
   "rating": "",
   "type": "TV Series",
-  "status": "Ongoing",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "Studio KAI"
@@ -27,6 +27,11 @@
       "title": "[TV Series] Mistress Kanan is Devilishly Easy",
       "link": "/2026/04/190704.html",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190704-Ts1VvkrNdnCZ.jpg"
+    },
+    {
+      "title": "[TV Series] Kanan-sama wa Akumade Choroi 2nd Season",
+      "link": "/0000/00/213363.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213363-BKuA0JDOSjBH.jpg"
     }
   ],
   "episodes": [
