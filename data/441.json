@@ -1,0 +1,70 @@
+{
+  "title": "Revolutionary Girl Utena: The Adolescence of Utena",
+  "synopsis": "In a loose retelling of the Revolutionary Girl Utena TV series, Utena Tenjou arrives at Ohtori Academy, only to be immediately swept up in a series of duels for the hand of her classmate Anthy Himemiya and the power she supposedly holds. At the same time, Utena reunites with Touga Kiryuu, a friend from her childhood who seems to know the secrets behind the duels. Utena must discover those secrets for herself, before the power that rules Ohtori claims her and her friends, new and old. \\n\\n\n(Source: Anime News Network)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx441-JbPY7EiWIeaL.jpg",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
+  "episodesCount": "1",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Mystery",
+    "Psychological",
+    "Romance"
+  ],
+  "rating": "",
+  "type": "Movie",
+  "status": "Completed",
+  "country": "JP",
+  "studios": [
+    "J.C.STAFF"
+  ],
+  "producers": [],
+  "seasons": [
+    {
+      "title": "[Movie] Revolutionary Girl Utena: The Adolescence of Utena",
+      "link": "/1999/08/441.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx441-JbPY7EiWIeaL.jpg"
+    },
+    {
+      "title": "[TV Series] Revolutionary Girl Utena",
+      "link": "/1997/04/440.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b440-r4l3N5WGgUOZ.jpg"
+    }
+  ],
+  "episodes": [
+    {
+      "title": "Episode 1",
+      "episode": "1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/441/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/441/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/441/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/441/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ],
+  "streamingId": "441",
+  "releaseDate": "1999-08-14",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
+}
