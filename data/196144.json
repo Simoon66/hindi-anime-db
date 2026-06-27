@@ -15,7 +15,7 @@
   ],
   "rating": "",
   "type": "TV Series",
-  "status": "Ongoing",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "Studio KAI"
@@ -26,6 +26,11 @@
       "title": "[TV Series] SNOWBALL EARTH",
       "link": "/2026/04/196144.html",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196144-UqVOcMjThkqa.jpg"
+    },
+    {
+      "title": "[TV Series] Snowball Earth 2nd Season",
+      "link": "/0000/00/213579.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213579-oFSlp20lxqIV.png"
     }
   ],
   "episodes": [
