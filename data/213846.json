@@ -1,0 +1,64 @@
+{
+  "title": "Ore dake Level Up na Ken: Beyond the System",
+  "synopsis": "",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213846-M5s9a58Vng7Q.png",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
+  "episodesCount": "1",
+  "genres": [],
+  "rating": "",
+  "type": "Movie",
+  "status": "Upcoming",
+  "country": "JP",
+  "studios": [
+    "A-1 Pictures"
+  ],
+  "producers": [],
+  "seasons": [
+    {
+      "title": "[Movie] Ore dake Level Up na Ken: Beyond the System",
+      "link": "/0000/00/213846.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213846-M5s9a58Vng7Q.png"
+    },
+    {
+      "title": "[TV Series] Solo Leveling Season 2 -Arise from the Shadow-",
+      "link": "/2025/01/176496.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176496-9BDMjAZGEbq4.png"
+    }
+  ],
+  "episodes": [
+    {
+      "title": "Episode 1",
+      "episode": "1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/213846/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/213846/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/64546/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/64546/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ],
+  "streamingId": "213846",
+  "releaseDate": "-01-01",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
+}
