@@ -1,12 +1,12 @@
 {
   "title": "Mushoku Tensei: Jobless Reincarnation Cour 2",
-  "synopsis": "After the mysterious mana calamity, Rudeus Greyrat and his fierce student Eris Boreas Greyrat are teleported to the Demon Continent. There, they team up with their newfound companion Ruijerd Supardia—the former leader of the Superd's Warrior group—to form \"Dead End,\" a successful adventurer party. Making a name for themselves, the trio journeys across the continent to make their way back home to Fittoa.\n\n\n\nFollowing the advice he received from the faceless god Hitogami, Rudeus saves Kishirika Kishirisu, the Great Emperor of the Demon World, who rewards him by granting him a strange power. Now, as Rudeus masters the powerful ability that offers a number of new opportunities, it might prove to be more than what he bargained for when unexpected dangers threaten to hinder their travels.\n\n\n\n(Source: MAL Rewrite)",
+  "synopsis": "After the mysterious mana calamity, Rudeus Greyrat and his fierce student Eris Boreas Greyrat are teleported to the Demon Continent. There, they team up with their newfound companion Ruijerd Supardia—the former leader of the Superd's Warrior group—to form \"Dead End,\" a successful adventurer party. Making a name for themselves, the trio journeys across the continent to make their way back home to Fittoa.\n\\n\\n\nFollowing the advice he received from the faceless god Hitogami, Rudeus saves Kishirika Kishirisu, the Great Emperor of the Demon World, who rewards him by granting him a strange power. Now, as Rudeus masters the powerful ability that offers a number of new opportunities, it might prove to be more than what he bargained for when unexpected dangers threaten to hinder their travels.\n\\n\\n\n(Source: MAL Rewrite)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127720-ADJgIrUVMdU9.jpg",
-  "synonym": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
-  "native": "無職転生 ～異世界行ったら本気だす～ 第2クール",
-  "aired": "10/04/2021",
-  "premiered": "FALL 2021",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "12",
   "genres": [
     "Adventure",
@@ -14,19 +14,40 @@
     "Ecchi",
     "Fantasy"
   ],
-  "rating": "8.5",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "Studio Bind"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Mushoku Tensei: Jobless Reincarnation Cour 2",
+      "link": "/2021/10/127720.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127720-ADJgIrUVMdU9.jpg"
+    },
+    {
+      "title": "[TV Series] Mushoku Tensei: Jobless Reincarnation",
+      "link": "/2021/01/108465.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108465-1ANspF1EWyFx.jpg"
+    },
+    {
+      "title": "[Special] Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer",
+      "link": "/2022/03/141534.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141534-Tmnlz4mvYhaU.jpg"
+    },
+    {
+      "title": "[TV Series] Mushoku Tensei: Jobless Reincarnation Season 2",
+      "link": "/2023/07/146065.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146065-IjirxRK26O03.png"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "The Woman with the Demon Eyes",
       "files": [
         {
           "name": "HD-1",
@@ -51,8 +72,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Missed Connections",
       "files": [
         {
           "name": "HD-1",
@@ -77,8 +98,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "No Such Thing As a Free Lunch",
       "files": [
         {
           "name": "HD-1",
@@ -103,8 +124,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Slow Life in the Doldia Village",
       "files": [
         {
           "name": "HD-1",
@@ -129,8 +150,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Family Squabble",
       "files": [
         {
           "name": "HD-1",
@@ -155,8 +176,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Reunion",
       "files": [
         {
           "name": "HD-1",
@@ -181,8 +202,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Separate Journeys",
       "files": [
         {
           "name": "HD-1",
@@ -207,8 +228,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Route Selection",
       "files": [
         {
           "name": "HD-1",
@@ -233,8 +254,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "The Birth of My Little Sister, the Maid",
       "files": [
         {
           "name": "HD-1",
@@ -259,8 +280,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Turning Point 2",
       "files": [
         {
           "name": "HD-1",
@@ -285,8 +306,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Dreams and Reality",
       "files": [
         {
           "name": "HD-1",
@@ -311,8 +332,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Wake Up and Take a Step",
       "files": [
         {
           "name": "HD-1",
@@ -338,8 +359,7 @@
     }
   ],
   "streamingId": "127720",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2021-10-04",
-  "malId": "45576",
-  "_forceSyncTime": 1778771761081
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }
