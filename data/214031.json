@@ -1,0 +1,58 @@
+{
+  "title": "Mob Psycho 100 10th Anniversary Special Movie",
+  "synopsis": "A short animation for Mob Psycho 100 to commemorate the anime series’ tenth milestone that debut at the “Mob Psycho 100 10th Anniversary Reunion Event\" in Fukagawa Mirai Hall.",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214031-VjZ9YM1NsmJd.jpg",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
+  "episodesCount": "1",
+  "genres": [
+    "Comedy",
+    "Slice of Life",
+    "Supernatural"
+  ],
+  "rating": "",
+  "type": "Special",
+  "status": "Completed",
+  "country": "JP",
+  "studios": [
+    "bones film"
+  ],
+  "producers": [],
+  "seasons": [
+    {
+      "title": "[Special] Mob Psycho 100 10th Anniversary Special Movie",
+      "link": "/2026/07/214031.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214031-VjZ9YM1NsmJd.jpg"
+    },
+    {
+      "title": "[TV Series] Mob Psycho 100 III",
+      "link": "/2022/10/140439.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140439-bPKmhe1wNxc9.jpg"
+    }
+  ],
+  "episodes": [
+    {
+      "title": "Episode 1",
+      "episode": "1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/214031/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/214031/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ],
+  "streamingId": "214031",
+  "releaseDate": "2026-07-12",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
+}
