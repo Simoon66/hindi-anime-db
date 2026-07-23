@@ -1,12 +1,12 @@
 {
   "title": "Neon Genesis Evangelion: The End of Evangelion",
-  "synopsis": "NERV faces a brutal attack from SEELE, but with Asuka in a coma, and Shinji in a nervous breakdown, things soon turn into the surreal. This movie provides a concurrent ending to the final two episodes of the show Neon Genesis Evangelion.\n\n(Source: IMDb)",
+  "synopsis": "NERV faces a brutal attack from SEELE, but with Asuka in a coma, and Shinji in a nervous breakdown, things soon turn into the surreal. This movie provides a concurrent ending to the final two episodes of the show Neon Genesis Evangelion.\\n\n\\n\n(Source: IMDb)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx32-5JYsv0wc122I.jpg",
-  "synonym": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
-  "native": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に",
-  "aired": "7/19/1997",
-  "premiered": "SUMMER 1997",
-  "duration": "87m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "1",
   "genres": [
     "Action",
@@ -15,20 +15,41 @@
     "Psychological",
     "Sci-Fi"
   ],
-  "rating": "8.5",
-  "type": "MOVIE",
-  "status": "FINISHED",
+  "rating": "",
+  "type": "Movie",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Gainax",
+  "studios": [
+    "Gainax",
+    "Production I.G"
+  ],
   "producers": [],
-  "seasons": [],
-  "malId": "32",
-  "streamingId": "32",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "seasons": [
+    {
+      "title": "[Movie] Neon Genesis Evangelion: The End of Evangelion",
+      "link": "/1997/07/32.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx32-5JYsv0wc122I.jpg"
+    },
+    {
+      "title": "[TV Series] Neon Genesis Evangelion",
+      "link": "/1995/10/30.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx30-AI1zr74Dh4ye.jpg"
+    },
+    {
+      "title": "[Movie] Evangelion: 1.0 You Are (Not) Alone",
+      "link": "/2007/09/2759.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2759-S0ATamQtDwlW.jpg"
+    },
+    {
+      "title": "[Movie] Neon Genesis Evangelion: Death & Rebirth",
+      "link": "/1997/03/31.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx31-3zRThtzQH62E.png"
+    }
+  ],
   "episodes": [
     {
-      "episode": "1",
       "title": "Episode 1",
+      "episode": "1",
       "files": [
         {
           "name": "HD-1",
@@ -52,5 +73,9 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "32",
+  "releaseDate": "1997-07-19",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }
