@@ -8,7 +8,11 @@
   "premiered": "",
   "duration": "",
   "episodesCount": "0",
-  "genres": [],
+  "genres": [
+    "Adventure",
+    "Slice of Life",
+    "Sports"
+  ],
   "rating": "",
   "type": "TV Series",
   "status": "Ongoing",
