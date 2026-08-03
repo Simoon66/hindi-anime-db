@@ -1,0 +1,62 @@
+{
+  "title": "Boku no Hero Academia: I am a hero too",
+  "synopsis": "Following the broadcast of My Hero Academia Episode 170+1, the series' official website and accounts revealed that a new short anime adapting the \"I Am a Hero Too\" bonus chapter will tell the story of Eri as a high-schooler when it releases this summer.\\n\\n\n(Source: Crunchyroll)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211711-Oy6R5cmGHLCL.jpg",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
+  "episodesCount": "1",
+  "genres": [],
+  "rating": "",
+  "type": "Special",
+  "status": "Completed",
+  "country": "JP",
+  "studios": [],
+  "producers": [],
+  "seasons": [
+    {
+      "title": "[Special] Boku no Hero Academia: I am a hero too",
+      "link": "/2026/08/211711.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211711-Oy6R5cmGHLCL.jpg"
+    },
+    {
+      "title": "[Special] My Hero Academia More",
+      "link": "/2026/05/204356.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204356-RNYmxUVVz3Z2.png"
+    }
+  ],
+  "episodes": [
+    {
+      "title": "Episode 1",
+      "episode": "1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/211711/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/211711/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/64107/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/64107/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ],
+  "streamingId": "211711",
+  "releaseDate": "2026-08-03",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
+}
