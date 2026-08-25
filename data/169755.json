@@ -1,32 +1,47 @@
 {
   "title": "BLEACH: Thousand-Year Blood War - The Conflict",
-  "synopsis": "The third part of BLEACH: Sennen Kessen-hen. ",
+  "synopsis": "The third part of BLEACH: Sennen Kessen-hen.\n\\n\\n\nAfter an awe-inspiring battle with Ichibei Hyousube—leader of the Soul Society's Royal Guard—the powerful Yhwach moves into the final stage of his master plan. He aims to slay the Soul King, the being whose very existence maintains the status quo of three worlds: Hueco Mundo, the Soul Society, and the realm of humans that Ichigo Kurosaki and his closest friends hail from. Conquering his own bout with the remainder of the Royal Guard, Uryuu Ishida joins Yhwach in his efforts to create a new world in his image.\n\n\\n\\n\nWith a flood of resolution and newfound power, Ichigo rushes to stop Yhwach from accomplishing his ultimate goal and save the countless lives within the three existing realms. But Ichigo has a complicated lineage, one that leaves him susceptible to Yhwach's sinister influence.\n\n\\n\\n\nMeanwhile, in a final desperate gambit, Jirou Sakuranosuke Shunsui Kyouraku, the newly promoted head captain of the Soul Society's combat corps, enlists the help of an old enemy whose immense power may turn the tide of battle.\n\\n\\n\n\n(Source: MAL Rewrite)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169755-Rqb7MjnzdTc6.jpg",
-  "synonym": "BLEACH: Sennen Kessen-hen - Soukoku-tan",
-  "native": "BLEACH 千年血戦篇-相剋譚-",
-  "aired": "10/5/2024",
-  "premiered": "FALL 2024",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "14",
   "genres": [
     "Action",
     "Adventure",
     "Supernatural"
   ],
-  "rating": "8.6",
-  "type": "TV",
-  "status": "FINISHED",
+  "rating": "",
+  "type": "TV Series",
+  "status": "Completed",
   "country": "JP",
-  "studios": "PIERROT FILMS",
+  "studios": [
+    "PIERROT FILMS"
+  ],
   "producers": [],
-  "seasons": [],
-  "malId": "56784",
-  "streamingId": "169755",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "seasons": [
+    {
+      "title": "[TV Series] BLEACH: Thousand-Year Blood War - The Conflict",
+      "link": "/2024/10/169755.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169755-Rqb7MjnzdTc6.jpg"
+    },
+    {
+      "title": "[TV Series] BLEACH: Thousand-Year Blood War - The Separation",
+      "link": "/2023/07/159322.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159322-Sp1GflRhE6Po.jpg"
+    },
+    {
+      "title": "[TV Series] BLEACH: Thousand-Year Blood War - The Calamity",
+      "link": "/2026/07/185874.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185874-aU3e6tBT6wwA.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "A",
       "files": [
         {
           "name": "HD-1",
@@ -51,8 +66,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Kill the King",
       "files": [
         {
           "name": "HD-1",
@@ -77,8 +92,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "The Dark Arm",
       "files": [
         {
           "name": "HD-1",
@@ -103,8 +118,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "The Betrayer",
       "files": [
         {
           "name": "HD-1",
@@ -129,8 +144,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Against the Judgement",
       "files": [
         {
           "name": "HD-1",
@@ -155,8 +170,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "The Holy Newborn",
       "files": [
         {
           "name": "HD-1",
@@ -181,8 +196,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Gate of the Sun",
       "files": [
         {
           "name": "HD-1",
@@ -207,8 +222,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Baby, Hold Your Hand",
       "files": [
         {
           "name": "HD-1",
@@ -233,8 +248,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Don't Chase a Shadow",
       "files": [
         {
           "name": "HD-1",
@@ -259,8 +274,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Baby, Hold Your Hand 2 [Never Ending My Dream]",
       "files": [
         {
           "name": "HD-1",
@@ -285,8 +300,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Shadows Gone",
       "files": [
         {
           "name": "HD-1",
@@ -311,8 +326,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Friend",
       "files": [
         {
           "name": "HD-1",
@@ -337,8 +352,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "The Visible Answer",
       "files": [
         {
           "name": "HD-1",
@@ -363,8 +378,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "My Last Words",
       "files": [
         {
           "name": "HD-1",
@@ -388,5 +403,9 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "169755",
+  "releaseDate": "2024-10-05",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }
