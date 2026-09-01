@@ -1,0 +1,54 @@
+{
+  "title": "Pokémon: Wild Card",
+  "synopsis": "Pokémon: Wild Card tells the exciting story of a Pokémon TCG player and his partner Mimikyu. When the time comes to put their cards on the table, will they have what it takes to achieve their goals?\\n\\n\n(Source: The Pokémon Company)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx216167-rqCRXovzDMJO.png",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
+  "episodesCount": "1",
+  "genres": [],
+  "rating": "",
+  "type": "Movie",
+  "status": "Upcoming",
+  "country": "JP",
+  "studios": [
+    "CloverWorks"
+  ],
+  "producers": [],
+  "seasons": [
+    {
+      "title": "[Movie] Pokémon: Wild Card",
+      "link": "/2027/00/216167.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx216167-rqCRXovzDMJO.png"
+    },
+    {
+      "title": "[TV Series] Pokémon",
+      "link": "/1997/04/527.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b527-t6dBVJ5OVcXK.png"
+    }
+  ],
+  "episodes": [
+    {
+      "title": "Episode 1",
+      "episode": "1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/216167/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/216167/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ],
+  "streamingId": "216167",
+  "releaseDate": "2027-01-01",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
+}
