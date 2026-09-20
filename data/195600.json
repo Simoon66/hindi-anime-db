@@ -17,7 +17,7 @@
   ],
   "rating": "",
   "type": "TV Series",
-  "status": "Ongoing",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "bones film"
@@ -28,6 +28,11 @@
       "title": "[TV Series] Daemons of the Shadow Realm",
       "link": "/2026/04/195600.html",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg"
+    },
+    {
+      "title": "[TV Series] Yomi no Tsugai 2nd Season",
+      "link": "/0000/00/217013.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217013-Dtk7ezG3Blhj.jpg"
     }
   ],
   "episodes": [
