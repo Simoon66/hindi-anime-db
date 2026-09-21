@@ -10,11 +10,12 @@
   "episodesCount": "11",
   "genres": [
     "Drama",
+    "Fantasy",
     "Romance"
   ],
   "rating": "",
   "type": "TV Series",
-  "status": "Ongoing",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "Doga Kobo"
@@ -25,6 +26,11 @@
       "title": "[TV Series] Though I Am an Inept Villainess",
       "link": "/2026/07/188139.html",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188139-1qIJfWxym8FX.jpg"
+    },
+    {
+      "title": "[TV Series] Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den Part 2",
+      "link": "/2027/01/217070.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217070-Muh7Kjw4RQsi.jpg"
     }
   ],
   "episodes": [
