@@ -15,7 +15,7 @@
   ],
   "rating": "",
   "type": "TV Series",
-  "status": "Ongoing",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "Zero-G",
@@ -32,6 +32,11 @@
       "title": "[TV Series] Grand Blue Dreaming Season 2",
       "link": "/2025/07/182309.html",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182309-IfrR8sgHIczv.jpg"
+    },
+    {
+      "title": "[TV Series] Grand Blue Season 4",
+      "link": "/0000/00/217136.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217136-lBViwfZpOCLv.png"
     }
   ],
   "episodes": [
