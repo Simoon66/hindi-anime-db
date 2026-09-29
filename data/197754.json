@@ -14,7 +14,7 @@
   ],
   "rating": "",
   "type": "TV Series",
-  "status": "Ongoing",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "MADHOUSE"
@@ -25,6 +25,11 @@
       "title": "[TV Series] LIAR GAME",
       "link": "/2026/04/197754.html",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png"
+    },
+    {
+      "title": "[TV Series] LIAR GAME 2nd Season",
+      "link": "/0000/00/217460.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217460-gM4hkk1jV5ER.jpg"
     }
   ],
   "episodes": [
