@@ -1,32 +1,42 @@
 {
   "title": "Reincarnated as a Sword",
-  "synopsis": "Some isekai protagonists are reincarnated as powerful warriors or skilled wizards, but our protagonist was reborn in another life as a sentient sword! He’s taken up by Fran, a desperate girl fleeing evil-doers intent on selling her into slavery. With her new weapon’s help and guidance, she’s able to strike down her captors and secure her freedom. Together, this unconventional master-student duo embark on an epic journey to liberate those in need and exact justice on the cruel of heart.\n\n(Source: Sentai Filmworks)\n\nNote: Episode 1 was streamed in advance on September 28, 2022 on AbemaTV. The regular TV broadcast began on October 5, 2022.",
+  "synopsis": "Some isekai protagonists are reincarnated as powerful warriors or skilled wizards, but our protagonist was reborn in another life as a sentient sword! He’s taken up by Fran, a desperate girl fleeing evil-doers intent on selling her into slavery. With her new weapon’s help and guidance, she’s able to strike down her captors and secure her freedom. Together, this unconventional master-student duo embark on an epic journey to liberate those in need and exact justice on the cruel of heart.\\n\n\\n\n(Source: Sentai Filmworks)\\n\n\\n\nNote: Episode 1 was streamed in advance on September 28, 2022 on AbemaTV. The regular TV broadcast began on October 5, 2022.",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139587-rbZVcigCRtHY.jpg",
-  "synonym": "Tensei Shitara Ken Deshita",
-  "native": "転生したら剣でした",
-  "aired": "9/28/2022",
-  "premiered": "FALL 2022",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "12",
   "genres": [
     "Action",
     "Adventure",
     "Fantasy"
   ],
-  "rating": "7.4",
+  "rating": "",
   "type": "ONA",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "C2C",
+  "studios": [
+    "C2C"
+  ],
   "producers": [],
-  "seasons": [],
-  "malId": "49891",
-  "streamingId": "139587",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "seasons": [
+    {
+      "title": "[ONA] Reincarnated as a Sword",
+      "link": "/2022/09/139587.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139587-rbZVcigCRtHY.jpg"
+    },
+    {
+      "title": "[ONA] Reincarnated as a Sword Season 2",
+      "link": "/2026/10/159042.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159042-GGFwlDskc5vR.png"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "The Cat Girl Met A Sword",
       "files": [
         {
           "name": "HD-1",
@@ -51,8 +61,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "The Hellish Trial at the Adventurer's Guild",
       "files": [
         {
           "name": "HD-1",
@@ -77,8 +87,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "The Arcane Blacksmith is Suspicious",
       "files": [
         {
           "name": "HD-1",
@@ -103,8 +113,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "A Goblin Stampede Is an Emergency",
       "files": [
         {
           "name": "HD-1",
@@ -129,8 +139,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "A Perfect Dungeon Debut",
       "files": [
         {
           "name": "HD-1",
@@ -155,8 +165,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "The Greater Demon Was a Cheater",
       "files": [
         {
           "name": "HD-1",
@@ -181,8 +191,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "The Vice Captain of the Knights is Annoying",
       "files": [
         {
           "name": "HD-1",
@@ -207,8 +217,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "The Blue Cats Are Enemies",
       "files": [
         {
           "name": "HD-1",
@@ -233,8 +243,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "The A-Rank Adventurer Is a Monster",
       "files": [
         {
           "name": "HD-1",
@@ -259,8 +269,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "The Trap of the Trap Spiders",
       "files": [
         {
           "name": "HD-1",
@@ -285,8 +295,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Summoning the Demon Wolf",
       "files": [
         {
           "name": "HD-1",
@@ -311,8 +321,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Fran Is Looking Forward to a New Adventure",
       "files": [
         {
           "name": "HD-1",
@@ -336,5 +346,9 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "139587",
+  "releaseDate": "2022-09-28",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }
