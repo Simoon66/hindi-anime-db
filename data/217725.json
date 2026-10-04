@@ -1,0 +1,57 @@
+{
+  "title": "Fig Smoke",
+  "synopsis": "Music video for the song Ichijiku Kemuri by ZUTOMAYO.\\n\\n\n\nNote: The song featured in this video also serves as the opening theme in the anime Super no Ura de Yani Suu Futari.",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx217725-wQf1MojXkoCR.jpg",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
+  "episodesCount": "1",
+  "genres": [],
+  "rating": "",
+  "type": "MUSIC",
+  "status": "Completed",
+  "country": "JP",
+  "studios": [],
+  "producers": [],
+  "seasons": [
+    {
+      "title": "[MUSIC] Fig Smoke",
+      "link": "/2026/07/217725.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx217725-wQf1MojXkoCR.jpg"
+    }
+  ],
+  "episodes": [
+    {
+      "title": "Episode 1",
+      "episode": "1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/217725/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/217725/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/64564/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/64564/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ],
+  "streamingId": "217725",
+  "releaseDate": "2026-07-06",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
+}

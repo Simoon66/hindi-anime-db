@@ -15,7 +15,7 @@
   ],
   "rating": "",
   "type": "TV Series",
-  "status": "Ongoing",
+  "status": "Completed",
   "country": "JP",
   "studios": [
     "WIT STUDIO"
@@ -31,6 +31,11 @@
       "title": "[TV Series] Ascendance of a Bookworm Season 3",
       "link": "/2022/04/121176.html",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121176-qWobMmSf761W.jpg"
+    },
+    {
+      "title": "[TV Series] Honzuki no Gekokujou: Kizoku-in no Jishou Tosho Iin",
+      "link": "/0000/00/217712.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217712-dnqVxq7dslWJ.jpg"
     }
   ],
   "episodes": [
