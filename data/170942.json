@@ -1,32 +1,42 @@
 {
   "title": "Blue Box",
-  "synopsis": "Do these sports-crossed lovers have a chance?\n\nTaiki Inomata loves badminton, but he has a long way to go before he can reach nationals. When Taiki sees upperclassman Chinatsu Kano practicing her heart out on the girls’ basketball team, he falls for her hard. After an unexpected turn of events brings the two closer together, sports might not be the first thing on their minds anymore!(Source: TMS Anime)\nNote: The series streamed a week in advance on Netflix Japan starting with episode 2 released alongside episode 1.",
+  "synopsis": "Do these sports-crossed lovers have a chance?\n\\n\\n\nTaiki Inomata loves badminton, but he has a long way to go before he can reach nationals. When Taiki sees upperclassman Chinatsu Kano practicing her heart out on the girls’ basketball team, he falls for her hard. After an unexpected turn of events brings the two closer together, sports might not be the first thing on their minds anymore!\\n\\n(Source: TMS Anime)\\n\\n\nNote: The series streamed a week in advance on Netflix Japan starting with episode 2 released alongside episode 1.",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
-  "synonym": "Ao no Hako",
-  "native": "アオのハコ",
-  "aired": "10/3/2024",
-  "premiered": "FALL 2024",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "25",
   "genres": [
     "Romance",
     "Slice of Life",
     "Sports"
   ],
-  "rating": "8.1",
+  "rating": "",
   "type": "ONA",
-  "status": "FINISHED",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Telecom Animation Film",
+  "studios": [
+    "Telecom Animation Film"
+  ],
   "producers": [],
-  "seasons": [],
-  "malId": "57181",
-  "streamingId": "170942",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "seasons": [
+    {
+      "title": "[ONA] Blue Box",
+      "link": "/2024/10/170942.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg"
+    },
+    {
+      "title": "[TV Series] Blue Box Season 2",
+      "link": "/2026/10/189123.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189123-0secXELIhkIW.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Chinatsu Senpai",
       "files": [
         {
           "name": "HD-1",
@@ -51,8 +61,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "You Have to Go to Nationals",
       "files": [
         {
           "name": "HD-1",
@@ -77,8 +87,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Chii",
       "files": [
         {
           "name": "HD-1",
@@ -103,8 +113,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "If He Wins",
       "files": [
         {
           "name": "HD-1",
@@ -129,8 +139,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Aquarium",
       "files": [
         {
           "name": "HD-1",
@@ -155,8 +165,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Wish Me Luck",
       "files": [
         {
           "name": "HD-1",
@@ -181,8 +191,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Can I Have One?",
       "files": [
         {
           "name": "HD-1",
@@ -207,8 +217,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Score!",
       "files": [
         {
           "name": "HD-1",
@@ -233,8 +243,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "I'll Be Rooting for You",
       "files": [
         {
           "name": "HD-1",
@@ -259,8 +269,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "It's Not a Good Thing",
       "files": [
         {
           "name": "HD-1",
@@ -285,8 +295,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Uncool!",
       "files": [
         {
           "name": "HD-1",
@@ -311,8 +321,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Girls...",
       "files": [
         {
           "name": "HD-1",
@@ -337,8 +347,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "I Want a Back-and-Forth Rally",
       "files": [
         {
           "name": "HD-1",
@@ -363,8 +373,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "What's the Connection?",
       "files": [
         {
           "name": "HD-1",
@@ -389,8 +399,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "August 26",
       "files": [
         {
           "name": "HD-1",
@@ -415,8 +425,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "Unfair Woman",
       "files": [
         {
           "name": "HD-1",
@@ -441,8 +451,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "Of Course I Want to See It",
       "files": [
         {
           "name": "HD-1",
@@ -467,8 +477,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "I Know",
       "files": [
         {
           "name": "HD-1",
@@ -493,8 +503,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "I've Got Plans",
       "files": [
         {
           "name": "HD-1",
@@ -519,8 +529,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "As One of Her Closest Friends",
       "files": [
         {
           "name": "HD-1",
@@ -545,8 +555,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "A Chance to Blossom",
       "files": [
         {
           "name": "HD-1",
@@ -571,8 +581,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "Inota!",
       "files": [
         {
           "name": "HD-1",
@@ -597,8 +607,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "Spinning",
       "files": [
         {
           "name": "HD-1",
@@ -623,8 +633,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "A Roller Coaster",
       "files": [
         {
           "name": "HD-1",
@@ -649,8 +659,8 @@
       ]
     },
     {
+      "title": "Episode 25",
       "episode": "25",
-      "title": "Even So",
       "files": [
         {
           "name": "HD-1",
@@ -674,5 +684,9 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "170942",
+  "releaseDate": "2024-10-03",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }
