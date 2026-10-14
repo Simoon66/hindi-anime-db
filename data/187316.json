@@ -1,13 +1,13 @@
 {
   "title": "Gensou Suikoden",
-  "synopsis": "Two young boys... the hero, Riliu, and his best friend Jowy, were members of a youth brigade of their home nation, the Highland Kingdom - a powerful military nation located in the north-east of the Dunan region.\\n\\n\n\nThe two of them looked up at the same starry skies, slept in the same tent, and believed in the same future. Once the fighting was over, and the night ended, their daily lives were sure to return.\\n\\n\n\nContrary to their hopes, the two boys become swept up in the whirlpool of fate, guided by the flames of war.\\n\\n\n\nThe powerless boys reached for, and grasped immense power. As the 108 stars shine brightly in the murky horizon, the boys step forward, each with their own beliefs for an answer-less question.\\n\\n\n\n(Source: Official Website, translated)",
+  "synopsis": "Two young boys... the hero, Riliu, and his best friend Jowy, were members of a youth brigade of their home nation, the Highland Kingdom - a powerful military nation located in the north-east of the Dunan region.\\n\\n\n\nThe two of them looked up at the same starry skies, slept in the same tent, and believed in the same future. Once the fighting was over, and the night ended, their daily lives were sure to return.\\n\\n\n\nContrary to their hopes, the two boys become swept up in the whirlpool of fate, guided by the flames of war.\\n\\n\n\nThe powerless boys reached for, and grasped immense power. As the 108 stars shine brightly in the murky horizon, the boys step forward, each with their own beliefs for an answer-less question.\\n\\n\n\n(Source: Official Website, translated)\\n\\n\n\nNote: The first episode aired with a runtime of ~50 minutes as opposed to the standard 24 minute long episode.",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187316-jucYCojVTjSY.jpg",
   "synonym": "",
   "native": "",
   "aired": "",
   "premiered": "",
   "duration": "",
-  "episodesCount": "0",
+  "episodesCount": "23",
   "genres": [
     "Action",
     "Adventure",
@@ -28,7 +28,606 @@
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187316-jucYCojVTjSY.jpg"
     }
   ],
-  "episodes": [],
+  "episodes": [
+    {
+      "title": "Episode 1",
+      "episode": "1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/1/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "title": "Episode 2",
+      "episode": "2",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/2/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/2/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "title": "Episode 3",
+      "episode": "3",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/3/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/3/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "title": "Episode 4",
+      "episode": "4",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/4/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/4/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "title": "Episode 5",
+      "episode": "5",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/5/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/5/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "title": "Episode 6",
+      "episode": "6",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/6/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/6/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "title": "Episode 7",
+      "episode": "7",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/7/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/7/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "title": "Episode 8",
+      "episode": "8",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/8/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/8/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "title": "Episode 9",
+      "episode": "9",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/9/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/9/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/9/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "title": "Episode 10",
+      "episode": "10",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/10/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/10/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/10/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/10/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "title": "Episode 11",
+      "episode": "11",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/11/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/11/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/11/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/11/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "title": "Episode 12",
+      "episode": "12",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/12/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/12/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/12/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/12/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "title": "Episode 13",
+      "episode": "13",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/13/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/13/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/13/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/13/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "title": "Episode 14",
+      "episode": "14",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/14/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/14/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/14/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/14/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "title": "Episode 15",
+      "episode": "15",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/15/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/15/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/15/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/15/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "title": "Episode 16",
+      "episode": "16",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/16/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/16/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/16/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/16/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "title": "Episode 17",
+      "episode": "17",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/17/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/17/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/17/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/17/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "title": "Episode 18",
+      "episode": "18",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/18/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/18/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/18/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/18/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "title": "Episode 19",
+      "episode": "19",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/19/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/19/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/19/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/19/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "title": "Episode 20",
+      "episode": "20",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/20/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/20/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/20/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/20/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "title": "Episode 21",
+      "episode": "21",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/21/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/21/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/21/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/21/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "title": "Episode 22",
+      "episode": "22",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/22/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/22/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/22/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/22/dub",
+          "type": "dub"
+        }
+      ]
+    },
+    {
+      "title": "Episode 23",
+      "episode": "23",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/23/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/187316/23/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/23/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/61140/23/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ],
   "streamingId": "187316",
   "releaseDate": "2026-10-03",
   "malId": "",
