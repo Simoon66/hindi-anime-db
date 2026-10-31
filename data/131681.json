@@ -1,12 +1,12 @@
 {
   "title": "Attack on Titan Final Season Part 2",
-  "synopsis": "The war for Paradis zeroes in on Shiganshina just as Jaegerists have seized control. After taking a huge blow from a surprise attack led by Eren, Marley swiftly acts to return the favor. With Zeke’s true plan revealed and a military forced under new rule, this battle might be fought on two fronts. Does Eren intend on fulfilling his half-brother’s wishes or does he have a plan of his own?\n\n\n\n(Source: Funimation)",
+  "synopsis": "The war for Paradis zeroes in on Shiganshina just as Jaegerists have seized control. After taking a huge blow from a surprise attack led by Eren, Marley swiftly acts to return the favor. With Zeke’s true plan revealed and a military forced under new rule, this battle might be fought on two fronts. Does Eren intend on fulfilling his half-brother’s wishes or does he have a plan of his own?\\n\n\\n\n(Source: Funimation)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131681-5ooUqvqNtee1.jpg",
-  "synonym": "Shingeki no Kyojin: The Final Season Part 2",
-  "native": "進撃の巨人 The Final Season Part 2",
-  "aired": "01/10/2022",
-  "premiered": "WINTER 2022",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "12",
   "genres": [
     "Action",
@@ -15,19 +15,35 @@
     "Mystery",
     "Psychological"
   ],
-  "rating": "8.6",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "MAPPA"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Attack on Titan Final Season Part 2",
+      "link": "/2022/01/131681.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131681-5ooUqvqNtee1.jpg"
+    },
+    {
+      "title": "[TV Series] Attack on Titan Final Season",
+      "link": "/2020/12/110277.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110277-sKUNXAsWMNFw.jpg"
+    },
+    {
+      "title": "[Special] Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
+      "link": "/2023/03/146984.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146984-GXrLeT6vQqyP.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Judgment",
       "files": [
         {
           "name": "HD-1",
@@ -52,8 +68,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "Sneak Attack",
       "files": [
         {
           "name": "HD-1",
@@ -78,8 +94,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Two Brothers",
       "files": [
         {
           "name": "HD-1",
@@ -104,8 +120,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Memories of the Future",
       "files": [
         {
           "name": "HD-1",
@@ -130,8 +146,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "From You, 2,000 Years Ago",
       "files": [
         {
           "name": "HD-1",
@@ -156,8 +172,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Thaw",
       "files": [
         {
           "name": "HD-1",
@@ -182,8 +198,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Sunset",
       "files": [
         {
           "name": "HD-1",
@@ -208,8 +224,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Pride",
       "files": [
         {
           "name": "HD-1",
@@ -234,8 +250,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Night of the End",
       "files": [
         {
           "name": "HD-1",
@@ -260,8 +276,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Traitor",
       "files": [
         {
           "name": "HD-1",
@@ -286,8 +302,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Retrospective",
       "files": [
         {
           "name": "HD-1",
@@ -312,8 +328,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "The Dawn of Humanity",
       "files": [
         {
           "name": "HD-1",
@@ -339,8 +355,7 @@
     }
   ],
   "streamingId": "131681",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2022-01-10",
-  "malId": "48583",
-  "_forceSyncTime": 1778770577975
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }
