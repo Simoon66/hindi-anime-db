@@ -1,0 +1,72 @@
+{
+  "title": "Bocchi the Rock!: Hoshi no Ashiato",
+  "synopsis": "BEFORE KESSOKU BAND EVER EXISTED—\\n\nA STORY OF TWO SISTERS' DREAMS, BEGINNING WITH A FAREWELL.\\n\\n\n\nA new movie for Bocchi the Rock!\\n\\n\n\n(Source: Bocchi the Rock! Official Site)",
+  "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx219282-GGsicK5XZMBy.jpg",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
+  "episodesCount": "1",
+  "genres": [
+    "Music",
+    "Slice of Life"
+  ],
+  "rating": "",
+  "type": "Movie",
+  "status": "Upcoming",
+  "country": "JP",
+  "studios": [
+    "CloverWorks"
+  ],
+  "producers": [],
+  "seasons": [
+    {
+      "title": "[Movie] Bocchi the Rock!: Hoshi no Ashiato",
+      "link": "/2027/00/219282.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx219282-GGsicK5XZMBy.jpg"
+    },
+    {
+      "title": "[TV Series] BOCCHI THE ROCK!",
+      "link": "/2022/10/130003.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130003-HTDmeL4RGeJ4.png"
+    },
+    {
+      "title": "[Movie] BOCCHI THE ROCK! Recap Part 1",
+      "link": "/2024/06/165253.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165253-nAwyrMZm4jBA.jpg"
+    }
+  ],
+  "episodes": [
+    {
+      "title": "Episode 1",
+      "episode": "1",
+      "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/219282/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/219282/1/dub",
+          "type": "dub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/65302/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-2",
+          "url": "https://megaplay.buzz/stream/mal/65302/1/dub",
+          "type": "dub"
+        }
+      ]
+    }
+  ],
+  "streamingId": "219282",
+  "releaseDate": "2027-01-01",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
+}
