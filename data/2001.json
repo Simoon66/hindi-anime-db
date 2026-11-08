@@ -1,12 +1,12 @@
 {
   "title": "Gurren Lagann",
-  "synopsis": "In a far away future, mankind lives underground in huge caves, unknowing of a world above with a sky and stars.\n\n\nIn the small village of Jiha, Simon, a shy boy who works as a digger discovers a strange glowing object during excavation. The enterprising Kamina, a young man with a pair of rakish sunglasses and the passion of a firey sun, befriends Simon and forms a small band of brothers, the Gurren Brigade, to escape the village and break through the ceiling of the cave to reach the surface, which few believe exist.\n\n\nThe village elder won't hear of such foolishness and punishes the Brigade. However, when disaster strikes from the world above and the entire village is in jeopardy, it's up to Simon, Kamina, a girl with a big gun named Yoko, and the small yet sturdy robot, Lagann, to save the day.\n\n\nThe new friends journey to the world above and find that the surface is a harsh battlefield, and it's up to them to fight back against the rampaging Beastmen to turn the tide in the humans' favor! Pierce the heavens, Gurren Lagann!",
+  "synopsis": "In a far away future, mankind lives underground in huge caves, unknowing of a world above with a sky and stars.\\n\\n\nIn the small village of Jiha, Simon, a shy boy who works as a digger discovers a strange glowing object during excavation. The enterprising Kamina, a young man with a pair of rakish sunglasses and the passion of a firey sun, befriends Simon and forms a small band of brothers, the Gurren Brigade, to escape the village and break through the ceiling of the cave to reach the surface, which few believe exist.\\n\\n\nThe village elder won't hear of such foolishness and punishes the Brigade. However, when disaster strikes from the world above and the entire village is in jeopardy, it's up to Simon, Kamina, a girl with a big gun named Yoko, and the small yet sturdy robot, Lagann, to save the day.\\n\\n\nThe new friends journey to the world above and find that the surface is a harsh battlefield, and it's up to them to fight back against the rampaging Beastmen to turn the tide in the humans' favor! Pierce the heavens, Gurren Lagann!",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2001-XwRnjzGeFWRQ.png",
-  "synonym": "Tengen Toppa Gurren Lagann",
-  "native": "天元突破グレンラガン",
-  "aired": "04/01/2007",
-  "premiered": "SPRING 2007",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "27",
   "genres": [
     "Action",
@@ -16,20 +16,61 @@
     "Romance",
     "Sci-Fi"
   ],
-  "rating": "8.5",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
-    "Gainax"
+    "GAINAX"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Gurren Lagann",
+      "link": "/2007/04/2001.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2001-XwRnjzGeFWRQ.png"
+    },
+    {
+      "title": "[OVA] Tengen Toppa Gurren Lagann: Ore no Gurren wa Pikka-Pika!!",
+      "link": "/2007/10/10622.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10622.jpg"
+    },
+    {
+      "title": "[Movie] Gurren Lagann The Movie: Childhood's End",
+      "link": "/2008/09/4107.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4107-WaS60WNsKZuu.jpg"
+    },
+    {
+      "title": "[Movie] Gurren Lagann The Movie: The Lights in the Sky are Stars",
+      "link": "/2009/04/4565.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4565-FbFYEBTJSPyr.png"
+    },
+    {
+      "title": "[Special] Tengen Toppa Gurren Lagann: Parallel Works",
+      "link": "/2008/06/4705.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4705.jpg"
+    },
+    {
+      "title": "[Special] Tengen Toppa Gurren Lagann: Parallel Works 2",
+      "link": "/2010/05/8348.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8348.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "Bust Through the Heavens with Your Drill!",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/2001/1/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/2001/1/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/2001/1/sub",
@@ -43,9 +84,19 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "I Said I'm Gonna Pilot That Thing!!",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/2001/2/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/2001/2/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/2001/2/sub",
@@ -59,9 +110,19 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Who Do You Think You Are, Having Two Faces!?",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/2001/3/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/2001/3/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/2001/3/sub",
@@ -75,9 +136,19 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Having Lots of Faces Doesn't Make You Great!",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/2001/4/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/2001/4/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/2001/4/sub",
@@ -91,9 +162,19 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "I Don't Get It, Not One Bit!",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/2001/5/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/2001/5/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/2001/5/sub",
@@ -107,9 +188,19 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Sit in the Hot Tub 'Till You're Sick!!",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/2001/6/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/2001/6/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/2001/6/sub",
@@ -123,9 +214,19 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "You're Gonna Do It!!",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/2001/7/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/2001/7/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/2001/7/sub",
@@ -139,9 +240,19 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Later, Buddy",
       "files": [
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/2001/8/sub",
+          "type": "sub"
+        },
+        {
+          "name": "HD-1",
+          "url": "https://megaplay.buzz/stream/ani/2001/8/dub",
+          "type": "dub"
+        },
         {
           "name": "HD-2",
           "url": "https://megaplay.buzz/stream/mal/2001/8/sub",
@@ -155,8 +266,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "What, Exactly, Is a Human?",
       "files": [
         {
           "name": "HD-1",
@@ -181,8 +292,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Who Is This Bro?",
       "files": [
         {
           "name": "HD-1",
@@ -207,8 +318,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Simon, Hands Off",
       "files": [
         {
           "name": "HD-1",
@@ -233,8 +344,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Yoko, Will You Do Me a Favor?",
       "files": [
         {
           "name": "HD-1",
@@ -259,8 +370,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "Eat Up, Everyone!",
       "files": [
         {
           "name": "HD-1",
@@ -285,8 +396,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "Well Met, Everyone",
       "files": [
         {
           "name": "HD-1",
@@ -311,8 +422,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "I Will Head Towards Tomorrow",
       "files": [
         {
           "name": "HD-1",
@@ -337,8 +448,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "Compilation Episode",
       "files": [
         {
           "name": "HD-1",
@@ -363,8 +474,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "You Don't Know Anything!",
       "files": [
         {
           "name": "HD-1",
@@ -389,8 +500,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "Tell Me the Secrets of This World.",
       "files": [
         {
           "name": "HD-1",
@@ -415,8 +526,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "We Will Survive by Any Means Necessary",
       "files": [
         {
           "name": "HD-1",
@@ -441,8 +552,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "How Far Will God Test Us?",
       "files": [
         {
           "name": "HD-1",
@@ -467,8 +578,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "You Are Someone Who Ought to Survive",
       "files": [
         {
           "name": "HD-1",
@@ -493,8 +604,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "That is My Last Duty",
       "files": [
         {
           "name": "HD-1",
@@ -519,8 +630,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "Let's Go, This is the Final Battle",
       "files": [
         {
           "name": "HD-1",
@@ -545,8 +656,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "I'll Never Forget This Minute, This Second",
       "files": [
         {
           "name": "HD-1",
@@ -571,8 +682,8 @@
       ]
     },
     {
+      "title": "Episode 25",
       "episode": "25",
-      "title": "I Accept Your Last Wish!",
       "files": [
         {
           "name": "HD-1",
@@ -597,8 +708,8 @@
       ]
     },
     {
+      "title": "Episode 26",
       "episode": "26",
-      "title": "Let's Go, Buddy",
       "files": [
         {
           "name": "HD-1",
@@ -623,8 +734,8 @@
       ]
     },
     {
+      "title": "Episode 27",
       "episode": "27",
-      "title": "The Lights in the Sky Are Stars",
       "files": [
         {
           "name": "HD-1",
@@ -650,8 +761,7 @@
     }
   ],
   "streamingId": "2001",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2007-04-01",
-  "malId": "2001",
-  "_forceSyncTime": 1778770975047
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }

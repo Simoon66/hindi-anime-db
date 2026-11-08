@@ -1,12 +1,12 @@
 {
   "title": "Dragon Ball",
-  "synopsis": "Goku Son is a young boy who lives in the woods all alone—that is until a girl named Bulma runs into him in her search for a set of magical objects called the \"Dragon Balls.\" Since the artifacts are said to grant one wish to whoever collects all seven, Bulma hopes to gather them and wish for a perfect boyfriend. Goku happens to be in possession of a dragon ball, but unfortunately for Bulma, he refuses to part ways with it, so she makes him a deal: he can tag along on her journey if he lets her borrow the dragon ball's power. With that, the two set off on the journey of a lifetime.\n\nThey don't go on the journey alone. On the way, they meet the old Muten-Roshi and wannabe disciple Kuririn, with whom Goku trains to become a stronger martial artist for the upcoming World Martial Arts Tournament. However, it's not all fun and games; the ability to make any wish come true is a powerful one, and there are others who would do much worse than just wishing for a boyfriend. To stop those who would try to abuse the legendary power, they train to become stronger fighters, using their newfound strength to help the people around them along the way.\n\n(Source: MAL Rewrite)",
+  "synopsis": "Goku Son is a young boy who lives in the woods all alone—that is until a girl named Bulma runs into him in her search for a set of magical objects called the \"Dragon Balls.\" Since the artifacts are said to grant one wish to whoever collects all seven, Bulma hopes to gather them and wish for a perfect boyfriend. Goku happens to be in possession of a dragon ball, but unfortunately for Bulma, he refuses to part ways with it, so she makes him a deal: he can tag along on her journey if he lets her borrow the dragon ball's power. With that, the two set off on the journey of a lifetime.\\n\n\\n\nThey don't go on the journey alone. On the way, they meet the old Muten-Roshi and wannabe disciple Kuririn, with whom Goku trains to become a stronger martial artist for the upcoming World Martial Arts Tournament. However, it's not all fun and games; the ability to make any wish come true is a powerful one, and there are others who would do much worse than just wishing for a boyfriend. To stop those who would try to abuse the legendary power, they train to become stronger fighters, using their newfound strength to help the people around them along the way.\\n\n\\n\n(Source: MAL Rewrite)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx223-scE5uJfXqqj8.png",
-  "synonym": "Dragon Ball",
-  "native": "ドラゴンボール",
-  "aired": "2/26/1986",
-  "premiered": "WINTER 1986",
-  "duration": "25m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "153",
   "genres": [
     "Action",
@@ -16,20 +16,60 @@
     "Sci-Fi",
     "Supernatural"
   ],
-  "rating": "7.8",
-  "type": "TV",
-  "status": "FINISHED",
+  "rating": "",
+  "type": "TV Series",
+  "status": "Completed",
   "country": "JP",
-  "studios": "Toei Animation",
+  "studios": [
+    "Toei Animation"
+  ],
   "producers": [],
-  "seasons": [],
-  "malId": "223",
-  "streamingId": "223",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "seasons": [
+    {
+      "title": "[TV Series] Dragon Ball",
+      "link": "/1986/02/223.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx223-scE5uJfXqqj8.png"
+    },
+    {
+      "title": "[TV Series] Dragon Ball Z",
+      "link": "/1989/04/813.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx813-ZhnFNOeCU5dQ.png"
+    },
+    {
+      "title": "[TV Series] Dragon Ball Z Kai",
+      "link": "/2009/04/6033.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6033-TKDWyjZN3dXk.png"
+    },
+    {
+      "title": "[Movie] Dragon Ball: Curse of the Blood Rubies",
+      "link": "/1986/12/502.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/502-qMhEQOjbNK0w.jpg"
+    },
+    {
+      "title": "[Movie] Dragon Ball: Sleeping Princess in Devil's Castle",
+      "link": "/1987/07/891.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n891-OBrwN8w6ffyD.png"
+    },
+    {
+      "title": "[Movie] Dragon Ball: Mystical Adventure",
+      "link": "/1988/07/892.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx892-qSAVWaHQzBwE.jpg"
+    },
+    {
+      "title": "[Movie] Dragon Ball: The Path to Power",
+      "link": "/1996/03/893.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b893-bzc4Y5KYngZJ.jpg"
+    },
+    {
+      "title": "[Special] Dragon Ball Specials",
+      "link": "/1988/06/2520.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2520-eqphP91bPMGQ.png"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "The Secret of the Dragon Balls",
       "files": [
         {
           "name": "HD-1",
@@ -54,8 +94,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "The Emperor's Quest",
       "files": [
         {
           "name": "HD-1",
@@ -80,8 +120,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "The Nimbus Cloud of Roshi",
       "files": [
         {
           "name": "HD-1",
@@ -106,8 +146,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Oolong the Terrible",
       "files": [
         {
           "name": "HD-1",
@@ -132,8 +172,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Yamcha the Desert Bandit",
       "files": [
         {
           "name": "HD-1",
@@ -158,8 +198,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Keep an Eye on the Dragon Balls",
       "files": [
         {
           "name": "HD-1",
@@ -184,8 +224,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "The Ox King on Fire Mountain",
       "files": [
         {
           "name": "HD-1",
@@ -210,8 +250,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "The Kamehameha Wave",
       "files": [
         {
           "name": "HD-1",
@@ -236,8 +276,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Boss Rabbit's Magic Touch",
       "files": [
         {
           "name": "HD-1",
@@ -262,8 +302,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "The Dragon Balls are Stolen!",
       "files": [
         {
           "name": "HD-1",
@@ -288,8 +328,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "The Penalty is Pinball",
       "files": [
         {
           "name": "HD-1",
@@ -314,8 +354,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "A Wish to the Eternal Dragon",
       "files": [
         {
           "name": "HD-1",
@@ -340,8 +380,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "The Legend of Goku",
       "files": [
         {
           "name": "HD-1",
@@ -366,8 +406,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "Goku's Rival",
       "files": [
         {
           "name": "HD-1",
@@ -392,8 +432,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "Look Out for Launch",
       "files": [
         {
           "name": "HD-1",
@@ -418,8 +458,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "Find That Stone!",
       "files": [
         {
           "name": "HD-1",
@@ -444,8 +484,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "Milk Delivery",
       "files": [
         {
           "name": "HD-1",
@@ -470,8 +510,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "The Turtle Hermit Way",
       "files": [
         {
           "name": "HD-1",
@@ -496,8 +536,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "The Tournament Begins",
       "files": [
         {
           "name": "HD-1",
@@ -522,8 +562,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "Elimination Round",
       "files": [
         {
           "name": "HD-1",
@@ -548,8 +588,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "Smells Like Trouble",
       "files": [
         {
           "name": "HD-1",
@@ -574,8 +614,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "Quarterfinals Begin",
       "files": [
         {
           "name": "HD-1",
@@ -600,8 +640,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "Monster Beast Giran",
       "files": [
         {
           "name": "HD-1",
@@ -626,8 +666,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "Krillin's Frantic Attack!",
       "files": [
         {
           "name": "HD-1",
@@ -652,8 +692,8 @@
       ]
     },
     {
+      "title": "Episode 25",
       "episode": "25",
-      "title": "Danger From Above",
       "files": [
         {
           "name": "HD-1",
@@ -678,8 +718,8 @@
       ]
     },
     {
+      "title": "Episode 26",
       "episode": "26",
-      "title": "The Grand Finals",
       "files": [
         {
           "name": "HD-1",
@@ -704,8 +744,8 @@
       ]
     },
     {
+      "title": "Episode 27",
       "episode": "27",
-      "title": "Number One Under the Moon?",
       "files": [
         {
           "name": "HD-1",
@@ -730,8 +770,8 @@
       ]
     },
     {
+      "title": "Episode 28",
       "episode": "28",
-      "title": "The Final Blow",
       "files": [
         {
           "name": "HD-1",
@@ -756,8 +796,8 @@
       ]
     },
     {
+      "title": "Episode 29",
       "episode": "29",
-      "title": "The Roaming Lake",
       "files": [
         {
           "name": "HD-1",
@@ -782,8 +822,8 @@
       ]
     },
     {
+      "title": "Episode 30",
       "episode": "30",
-      "title": "Pilaf and the Mystery Force",
       "files": [
         {
           "name": "HD-1",
@@ -808,8 +848,8 @@
       ]
     },
     {
+      "title": "Episode 31",
       "episode": "31",
-      "title": "Wedding Plans?",
       "files": [
         {
           "name": "HD-1",
@@ -834,8 +874,8 @@
       ]
     },
     {
+      "title": "Episode 32",
       "episode": "32",
-      "title": "The Flying Fortress — Vanished!",
       "files": [
         {
           "name": "HD-1",
@@ -860,8 +900,8 @@
       ]
     },
     {
+      "title": "Episode 33",
       "episode": "33",
-      "title": "The Legend of a Dragon",
       "files": [
         {
           "name": "HD-1",
@@ -886,8 +926,8 @@
       ]
     },
     {
+      "title": "Episode 34",
       "episode": "34",
-      "title": "Cruel General Red",
       "files": [
         {
           "name": "HD-1",
@@ -912,8 +952,8 @@
       ]
     },
     {
+      "title": "Episode 35",
       "episode": "35",
-      "title": "Cold Reception",
       "files": [
         {
           "name": "HD-1",
@@ -938,8 +978,8 @@
       ]
     },
     {
+      "title": "Episode 36",
       "episode": "36",
-      "title": "Major Metallitron",
       "files": [
         {
           "name": "HD-1",
@@ -964,8 +1004,8 @@
       ]
     },
     {
+      "title": "Episode 37",
       "episode": "37",
-      "title": "Ninja Murasaki is Coming!",
       "files": [
         {
           "name": "HD-1",
@@ -990,8 +1030,8 @@
       ]
     },
     {
+      "title": "Episode 38",
       "episode": "38",
-      "title": "Five Murasakis",
       "files": [
         {
           "name": "HD-1",
@@ -1016,8 +1056,8 @@
       ]
     },
     {
+      "title": "Episode 39",
       "episode": "39",
-      "title": "Mysterious Android No. 8",
       "files": [
         {
           "name": "HD-1",
@@ -1042,8 +1082,8 @@
       ]
     },
     {
+      "title": "Episode 40",
       "episode": "40",
-      "title": "Horrifying Buyon",
       "files": [
         {
           "name": "HD-1",
@@ -1068,8 +1108,8 @@
       ]
     },
     {
+      "title": "Episode 41",
       "episode": "41",
-      "title": "The Fall of Muscle Tower",
       "files": [
         {
           "name": "HD-1",
@@ -1094,8 +1134,8 @@
       ]
     },
     {
+      "title": "Episode 42",
       "episode": "42",
-      "title": "The Secret of Dr. Flappe",
       "files": [
         {
           "name": "HD-1",
@@ -1120,8 +1160,8 @@
       ]
     },
     {
+      "title": "Episode 43",
       "episode": "43",
-      "title": "A Trip to the City",
       "files": [
         {
           "name": "HD-1",
@@ -1146,8 +1186,8 @@
       ]
     },
     {
+      "title": "Episode 44",
       "episode": "44",
-      "title": "Master Thief, Hasky",
       "files": [
         {
           "name": "HD-1",
@@ -1172,8 +1212,8 @@
       ]
     },
     {
+      "title": "Episode 45",
       "episode": "45",
-      "title": "Danger in the Air",
       "files": [
         {
           "name": "HD-1",
@@ -1198,8 +1238,8 @@
       ]
     },
     {
+      "title": "Episode 46",
       "episode": "46",
-      "title": "Bulma's Bad Day",
       "files": [
         {
           "name": "HD-1",
@@ -1224,8 +1264,8 @@
       ]
     },
     {
+      "title": "Episode 47",
       "episode": "47",
-      "title": "Kame House — Found!",
       "files": [
         {
           "name": "HD-1",
@@ -1250,8 +1290,8 @@
       ]
     },
     {
+      "title": "Episode 48",
       "episode": "48",
-      "title": "Deep Blue Sea",
       "files": [
         {
           "name": "HD-1",
@@ -1276,8 +1316,8 @@
       ]
     },
     {
+      "title": "Episode 49",
       "episode": "49",
-      "title": "Roshi Surprise",
       "files": [
         {
           "name": "HD-1",
@@ -1302,8 +1342,8 @@
       ]
     },
     {
+      "title": "Episode 50",
       "episode": "50",
-      "title": "The Trap is Sprung",
       "files": [
         {
           "name": "HD-1",
@@ -1328,8 +1368,8 @@
       ]
     },
     {
+      "title": "Episode 51",
       "episode": "51",
-      "title": "Beware of Robot",
       "files": [
         {
           "name": "HD-1",
@@ -1354,8 +1394,8 @@
       ]
     },
     {
+      "title": "Episode 52",
       "episode": "52",
-      "title": "The Pirate Treasure",
       "files": [
         {
           "name": "HD-1",
@@ -1380,8 +1420,8 @@
       ]
     },
     {
+      "title": "Episode 53",
       "episode": "53",
-      "title": "Blue, Black and Blue",
       "files": [
         {
           "name": "HD-1",
@@ -1406,8 +1446,8 @@
       ]
     },
     {
+      "title": "Episode 54",
       "episode": "54",
-      "title": "Escape From Pirate Cave",
       "files": [
         {
           "name": "HD-1",
@@ -1432,8 +1472,8 @@
       ]
     },
     {
+      "title": "Episode 55",
       "episode": "55",
-      "title": "Penguin Village",
       "files": [
         {
           "name": "HD-1",
@@ -1458,8 +1498,8 @@
       ]
     },
     {
+      "title": "Episode 56",
       "episode": "56",
-      "title": "Strange Visitor",
       "files": [
         {
           "name": "HD-1",
@@ -1484,8 +1524,8 @@
       ]
     },
     {
+      "title": "Episode 57",
       "episode": "57",
-      "title": "Arale vs. Blue",
       "files": [
         {
           "name": "HD-1",
@@ -1510,8 +1550,8 @@
       ]
     },
     {
+      "title": "Episode 58",
       "episode": "58",
-      "title": "The Land of Korin",
       "files": [
         {
           "name": "HD-1",
@@ -1536,8 +1576,8 @@
       ]
     },
     {
+      "title": "Episode 59",
       "episode": "59",
-      "title": "The Notorious Mercenary",
       "files": [
         {
           "name": "HD-1",
@@ -1562,8 +1602,8 @@
       ]
     },
     {
+      "title": "Episode 60",
       "episode": "60",
-      "title": "Tao Attacks!",
       "files": [
         {
           "name": "HD-1",
@@ -1588,8 +1628,8 @@
       ]
     },
     {
+      "title": "Episode 61",
       "episode": "61",
-      "title": "Korin Tower",
       "files": [
         {
           "name": "HD-1",
@@ -1614,8 +1654,8 @@
       ]
     },
     {
+      "title": "Episode 62",
       "episode": "62",
-      "title": "Sacred Water",
       "files": [
         {
           "name": "HD-1",
@@ -1640,8 +1680,8 @@
       ]
     },
     {
+      "title": "Episode 63",
       "episode": "63",
-      "title": "The Return of Goku",
       "files": [
         {
           "name": "HD-1",
@@ -1666,8 +1706,8 @@
       ]
     },
     {
+      "title": "Episode 64",
       "episode": "64",
-      "title": "The Last of Mercenary Tao",
       "files": [
         {
           "name": "HD-1",
@@ -1692,8 +1732,8 @@
       ]
     },
     {
+      "title": "Episode 65",
       "episode": "65",
-      "title": "Confront the Red Ribbon Army",
       "files": [
         {
           "name": "HD-1",
@@ -1718,8 +1758,8 @@
       ]
     },
     {
+      "title": "Episode 66",
       "episode": "66",
-      "title": "A Real Bind",
       "files": [
         {
           "name": "HD-1",
@@ -1744,8 +1784,8 @@
       ]
     },
     {
+      "title": "Episode 67",
       "episode": "67",
-      "title": "The End of Commander Red",
       "files": [
         {
           "name": "HD-1",
@@ -1770,8 +1810,8 @@
       ]
     },
     {
+      "title": "Episode 68",
       "episode": "68",
-      "title": "The Last Dragon Ball ",
       "files": [
         {
           "name": "HD-1",
@@ -1796,8 +1836,8 @@
       ]
     },
     {
+      "title": "Episode 69",
       "episode": "69",
-      "title": "Who is Fortuneteller Baba?",
       "files": [
         {
           "name": "HD-1",
@@ -1822,8 +1862,8 @@
       ]
     },
     {
+      "title": "Episode 70",
       "episode": "70",
-      "title": "We are the Five Warriors",
       "files": [
         {
           "name": "HD-1",
@@ -1848,8 +1888,8 @@
       ]
     },
     {
+      "title": "Episode 71",
       "episode": "71",
-      "title": "Deadly Battle",
       "files": [
         {
           "name": "HD-1",
@@ -1874,8 +1914,8 @@
       ]
     },
     {
+      "title": "Episode 72",
       "episode": "72",
-      "title": "Goku's Turn",
       "files": [
         {
           "name": "HD-1",
@@ -1900,8 +1940,8 @@
       ]
     },
     {
+      "title": "Episode 73",
       "episode": "73",
-      "title": "The Devilmite Beam",
       "files": [
         {
           "name": "HD-1",
@@ -1926,8 +1966,8 @@
       ]
     },
     {
+      "title": "Episode 74",
       "episode": "74",
-      "title": "The Mysterious Fifth Man ",
       "files": [
         {
           "name": "HD-1",
@@ -1952,8 +1992,8 @@
       ]
     },
     {
+      "title": "Episode 75",
       "episode": "75",
-      "title": "The Strong Ones",
       "files": [
         {
           "name": "HD-1",
@@ -1978,8 +2018,8 @@
       ]
     },
     {
+      "title": "Episode 76",
       "episode": "76",
-      "title": "True Colors of the Masked Man",
       "files": [
         {
           "name": "HD-1",
@@ -2004,8 +2044,8 @@
       ]
     },
     {
+      "title": "Episode 77",
       "episode": "77",
-      "title": "Pilaf's Tactics",
       "files": [
         {
           "name": "HD-1",
@@ -2030,8 +2070,8 @@
       ]
     },
     {
+      "title": "Episode 78",
       "episode": "78",
-      "title": "The Eternal Dragon Rises",
       "files": [
         {
           "name": "HD-1",
@@ -2056,8 +2096,8 @@
       ]
     },
     {
+      "title": "Episode 79",
       "episode": "79",
-      "title": "Terror and Plague",
       "files": [
         {
           "name": "HD-1",
@@ -2082,8 +2122,8 @@
       ]
     },
     {
+      "title": "Episode 80",
       "episode": "80",
-      "title": "Goku vs. Sky Dragon",
       "files": [
         {
           "name": "HD-1",
@@ -2108,8 +2148,8 @@
       ]
     },
     {
+      "title": "Episode 81",
       "episode": "81",
-      "title": "Goku Goes to Demon Land",
       "files": [
         {
           "name": "HD-1",
@@ -2134,8 +2174,8 @@
       ]
     },
     {
+      "title": "Episode 82",
       "episode": "82",
-      "title": "The Rampage of InoShikaCho",
       "files": [
         {
           "name": "HD-1",
@@ -2160,8 +2200,8 @@
       ]
     },
     {
+      "title": "Episode 83",
       "episode": "83",
-      "title": "Which Way to Papaya Island?",
       "files": [
         {
           "name": "HD-1",
@@ -2186,8 +2226,8 @@
       ]
     },
     {
+      "title": "Episode 84",
       "episode": "84",
-      "title": "Rivals and Arrivals",
       "files": [
         {
           "name": "HD-1",
@@ -2212,8 +2252,8 @@
       ]
     },
     {
+      "title": "Episode 85",
       "episode": "85",
-      "title": "Preliminary Peril",
       "files": [
         {
           "name": "HD-1",
@@ -2238,8 +2278,8 @@
       ]
     },
     {
+      "title": "Episode 86",
       "episode": "86",
-      "title": "Then There Were Eight",
       "files": [
         {
           "name": "HD-1",
@@ -2264,8 +2304,8 @@
       ]
     },
     {
+      "title": "Episode 87",
       "episode": "87",
-      "title": "Yamcha vs. Tien",
       "files": [
         {
           "name": "HD-1",
@@ -2290,8 +2330,8 @@
       ]
     },
     {
+      "title": "Episode 88",
       "episode": "88",
-      "title": "Yamcha's Big Break",
       "files": [
         {
           "name": "HD-1",
@@ -2316,8 +2356,8 @@
       ]
     },
     {
+      "title": "Episode 89",
       "episode": "89",
-      "title": "Full-Moon Vengeance",
       "files": [
         {
           "name": "HD-1",
@@ -2342,8 +2382,8 @@
       ]
     },
     {
+      "title": "Episode 90",
       "episode": "90",
-      "title": "The Dodon Wave",
       "files": [
         {
           "name": "HD-1",
@@ -2368,8 +2408,8 @@
       ]
     },
     {
+      "title": "Episode 91",
       "episode": "91",
-      "title": "Counting Controversy!!",
       "files": [
         {
           "name": "HD-1",
@@ -2394,8 +2434,8 @@
       ]
     },
     {
+      "title": "Episode 92",
       "episode": "92",
-      "title": "Goku Enters the Ring",
       "files": [
         {
           "name": "HD-1",
@@ -2420,8 +2460,8 @@
       ]
     },
     {
+      "title": "Episode 93",
       "episode": "93",
-      "title": "Tien Shinhan vs. Jackie Chun",
       "files": [
         {
           "name": "HD-1",
@@ -2446,8 +2486,8 @@
       ]
     },
     {
+      "title": "Episode 94",
       "episode": "94",
-      "title": "Stepping Down",
       "files": [
         {
           "name": "HD-1",
@@ -2472,8 +2512,8 @@
       ]
     },
     {
+      "title": "Episode 95",
       "episode": "95",
-      "title": "Goku vs. Krillin",
       "files": [
         {
           "name": "HD-1",
@@ -2498,8 +2538,8 @@
       ]
     },
     {
+      "title": "Episode 96",
       "episode": "96",
-      "title": "Tail's Tale",
       "files": [
         {
           "name": "HD-1",
@@ -2524,8 +2564,8 @@
       ]
     },
     {
+      "title": "Episode 97",
       "episode": "97",
-      "title": "Final Match: Goku vs. Tien",
       "files": [
         {
           "name": "HD-1",
@@ -2550,8 +2590,8 @@
       ]
     },
     {
+      "title": "Episode 98",
       "episode": "98",
-      "title": "Victory's Edge",
       "files": [
         {
           "name": "HD-1",
@@ -2576,8 +2616,8 @@
       ]
     },
     {
+      "title": "Episode 99",
       "episode": "99",
-      "title": "Tien's Insurrection",
       "files": [
         {
           "name": "HD-1",
@@ -2602,8 +2642,8 @@
       ]
     },
     {
+      "title": "Episode 100",
       "episode": "100",
-      "title": "The Spirit Cannon",
       "files": [
         {
           "name": "HD-1",
@@ -2628,8 +2668,8 @@
       ]
     },
     {
+      "title": "Episode 101",
       "episode": "101",
-      "title": "The Fallen",
       "files": [
         {
           "name": "HD-1",
@@ -2654,8 +2694,8 @@
       ]
     },
     {
+      "title": "Episode 102",
       "episode": "102",
-      "title": "Enter King Piccolo",
       "files": [
         {
           "name": "HD-1",
@@ -2680,8 +2720,8 @@
       ]
     },
     {
+      "title": "Episode 103",
       "episode": "103",
-      "title": "Tambourine Attacks!",
       "files": [
         {
           "name": "HD-1",
@@ -2706,8 +2746,8 @@
       ]
     },
     {
+      "title": "Episode 104",
       "episode": "104",
-      "title": "Mark of the Demon",
       "files": [
         {
           "name": "HD-1",
@@ -2732,8 +2772,8 @@
       ]
     },
     {
+      "title": "Episode 105",
       "episode": "105",
-      "title": "Here Comes Yajirobe",
       "files": [
         {
           "name": "HD-1",
@@ -2758,8 +2798,8 @@
       ]
     },
     {
+      "title": "Episode 106",
       "episode": "106",
-      "title": "Terrible Tambourine",
       "files": [
         {
           "name": "HD-1",
@@ -2784,8 +2824,8 @@
       ]
     },
     {
+      "title": "Episode 107",
       "episode": "107",
-      "title": "Tien's Atonement",
       "files": [
         {
           "name": "HD-1",
@@ -2810,8 +2850,8 @@
       ]
     },
     {
+      "title": "Episode 108",
       "episode": "108",
-      "title": "Goku's Revenge",
       "files": [
         {
           "name": "HD-1",
@@ -2836,8 +2876,8 @@
       ]
     },
     {
+      "title": "Episode 109",
       "episode": "109",
-      "title": "Goku vs. King Piccolo",
       "files": [
         {
           "name": "HD-1",
@@ -2862,8 +2902,8 @@
       ]
     },
     {
+      "title": "Episode 110",
       "episode": "110",
-      "title": "Piccolo Closes In",
       "files": [
         {
           "name": "HD-1",
@@ -2888,8 +2928,8 @@
       ]
     },
     {
+      "title": "Episode 111",
       "episode": "111",
-      "title": "Roshi's Gambit",
       "files": [
         {
           "name": "HD-1",
@@ -2914,8 +2954,8 @@
       ]
     },
     {
+      "title": "Episode 112",
       "episode": "112",
-      "title": "King Piccolo's Wish",
       "files": [
         {
           "name": "HD-1",
@@ -2940,8 +2980,8 @@
       ]
     },
     {
+      "title": "Episode 113",
       "episode": "113",
-      "title": "Siege on Chow Castle",
       "files": [
         {
           "name": "HD-1",
@@ -2966,8 +3006,8 @@
       ]
     },
     {
+      "title": "Episode 114",
       "episode": "114",
-      "title": "Conquest and Power",
       "files": [
         {
           "name": "HD-1",
@@ -2992,8 +3032,8 @@
       ]
     },
     {
+      "title": "Episode 115",
       "episode": "115",
-      "title": "Awaken Darkness",
       "files": [
         {
           "name": "HD-1",
@@ -3018,8 +3058,8 @@
       ]
     },
     {
+      "title": "Episode 116",
       "episode": "116",
-      "title": "A Taste of Destiny",
       "files": [
         {
           "name": "HD-1",
@@ -3044,8 +3084,8 @@
       ]
     },
     {
+      "title": "Episode 117",
       "episode": "117",
-      "title": "The Ultimate Sacrifice",
       "files": [
         {
           "name": "HD-1",
@@ -3070,8 +3110,8 @@
       ]
     },
     {
+      "title": "Episode 118",
       "episode": "118",
-      "title": "Prelude to Vengeance",
       "files": [
         {
           "name": "HD-1",
@@ -3096,8 +3136,8 @@
       ]
     },
     {
+      "title": "Episode 119",
       "episode": "119",
-      "title": "Battle Cry",
       "files": [
         {
           "name": "HD-1",
@@ -3122,8 +3162,8 @@
       ]
     },
     {
+      "title": "Episode 120",
       "episode": "120",
-      "title": "Goku Strikes Back",
       "files": [
         {
           "name": "HD-1",
@@ -3148,8 +3188,8 @@
       ]
     },
     {
+      "title": "Episode 121",
       "episode": "121",
-      "title": "The Biggest Crisis",
       "files": [
         {
           "name": "HD-1",
@@ -3174,8 +3214,8 @@
       ]
     },
     {
+      "title": "Episode 122",
       "episode": "122",
-      "title": "Final Showdown",
       "files": [
         {
           "name": "HD-1",
@@ -3200,8 +3240,8 @@
       ]
     },
     {
+      "title": "Episode 123",
       "episode": "123",
-      "title": "Lost and Found",
       "files": [
         {
           "name": "HD-1",
@@ -3226,8 +3266,8 @@
       ]
     },
     {
+      "title": "Episode 124",
       "episode": "124",
-      "title": "Temple Above the Clouds ",
       "files": [
         {
           "name": "HD-1",
@@ -3252,8 +3292,8 @@
       ]
     },
     {
+      "title": "Episode 125",
       "episode": "125",
-      "title": "Earth's Guardian Emerges",
       "files": [
         {
           "name": "HD-1",
@@ -3278,8 +3318,8 @@
       ]
     },
     {
+      "title": "Episode 126",
       "episode": "126",
-      "title": "Eternal Dragon Resurrected",
       "files": [
         {
           "name": "HD-1",
@@ -3304,8 +3344,8 @@
       ]
     },
     {
+      "title": "Episode 127",
       "episode": "127",
-      "title": "Quicker than Lightning",
       "files": [
         {
           "name": "HD-1",
@@ -3330,8 +3370,8 @@
       ]
     },
     {
+      "title": "Episode 128",
       "episode": "128",
-      "title": "Secret of the Woods",
       "files": [
         {
           "name": "HD-1",
@@ -3356,8 +3396,8 @@
       ]
     },
     {
+      "title": "Episode 129",
       "episode": "129",
-      "title": "The Time Room",
       "files": [
         {
           "name": "HD-1",
@@ -3382,8 +3422,8 @@
       ]
     },
     {
+      "title": "Episode 130",
       "episode": "130",
-      "title": "Goku's Doll",
       "files": [
         {
           "name": "HD-1",
@@ -3408,8 +3448,8 @@
       ]
     },
     {
+      "title": "Episode 131",
       "episode": "131",
-      "title": "Walking Their Own Ways",
       "files": [
         {
           "name": "HD-1",
@@ -3434,8 +3474,8 @@
       ]
     },
     {
+      "title": "Episode 132",
       "episode": "132",
-      "title": "Hotter than Lava",
       "files": [
         {
           "name": "HD-1",
@@ -3460,8 +3500,8 @@
       ]
     },
     {
+      "title": "Episode 133",
       "episode": "133",
-      "title": "Changes",
       "files": [
         {
           "name": "HD-1",
@@ -3486,8 +3526,8 @@
       ]
     },
     {
+      "title": "Episode 134",
       "episode": "134",
-      "title": "Preliminary Peril",
       "files": [
         {
           "name": "HD-1",
@@ -3512,8 +3552,8 @@
       ]
     },
     {
+      "title": "Episode 135",
       "episode": "135",
-      "title": "Battle of the Eight",
       "files": [
         {
           "name": "HD-1",
@@ -3538,8 +3578,8 @@
       ]
     },
     {
+      "title": "Episode 136",
       "episode": "136",
-      "title": "Tien Shinhan vs. Mercenary Tao",
       "files": [
         {
           "name": "HD-1",
@@ -3564,8 +3604,8 @@
       ]
     },
     {
+      "title": "Episode 137",
       "episode": "137",
-      "title": "Anonymous Proposal",
       "files": [
         {
           "name": "HD-1",
@@ -3590,8 +3630,8 @@
       ]
     },
     {
+      "title": "Episode 138",
       "episode": "138",
-      "title": "The Mysterious Hero",
       "files": [
         {
           "name": "HD-1",
@@ -3616,8 +3656,8 @@
       ]
     },
     {
+      "title": "Episode 139",
       "episode": "139",
-      "title": "Rematch",
       "files": [
         {
           "name": "HD-1",
@@ -3642,8 +3682,8 @@
       ]
     },
     {
+      "title": "Episode 140",
       "episode": "140",
-      "title": "Goku Gains Speed",
       "files": [
         {
           "name": "HD-1",
@@ -3668,8 +3708,8 @@
       ]
     },
     {
+      "title": "Episode 141",
       "episode": "141",
-      "title": "The Four Faces of Tien",
       "files": [
         {
           "name": "HD-1",
@@ -3694,8 +3734,8 @@
       ]
     },
     {
+      "title": "Episode 142",
       "episode": "142",
-      "title": "Kami vs. Piccolo",
       "files": [
         {
           "name": "HD-1",
@@ -3720,8 +3760,8 @@
       ]
     },
     {
+      "title": "Episode 143",
       "episode": "143",
-      "title": "Battle for the Future",
       "files": [
         {
           "name": "HD-1",
@@ -3746,8 +3786,8 @@
       ]
     },
     {
+      "title": "Episode 144",
       "episode": "144",
-      "title": "Super Kamehameha",
       "files": [
         {
           "name": "HD-1",
@@ -3772,8 +3812,8 @@
       ]
     },
     {
+      "title": "Episode 145",
       "episode": "145",
-      "title": "Junior No More",
       "files": [
         {
           "name": "HD-1",
@@ -3798,8 +3838,8 @@
       ]
     },
     {
+      "title": "Episode 146",
       "episode": "146",
-      "title": "Goku's Trap",
       "files": [
         {
           "name": "HD-1",
@@ -3824,8 +3864,8 @@
       ]
     },
     {
+      "title": "Episode 147",
       "episode": "147",
-      "title": "Goku Hangs On",
       "files": [
         {
           "name": "HD-1",
@@ -3850,8 +3890,8 @@
       ]
     },
     {
+      "title": "Episode 148",
       "episode": "148",
-      "title": "The Victor",
       "files": [
         {
           "name": "HD-1",
@@ -3876,8 +3916,8 @@
       ]
     },
     {
+      "title": "Episode 149",
       "episode": "149",
-      "title": "Dress in Flames",
       "files": [
         {
           "name": "HD-1",
@@ -3902,8 +3942,8 @@
       ]
     },
     {
+      "title": "Episode 150",
       "episode": "150",
-      "title": "The Fire-Eater",
       "files": [
         {
           "name": "HD-1",
@@ -3928,8 +3968,8 @@
       ]
     },
     {
+      "title": "Episode 151",
       "episode": "151",
-      "title": "Outrageous Octagon",
       "files": [
         {
           "name": "HD-1",
@@ -3954,8 +3994,8 @@
       ]
     },
     {
+      "title": "Episode 152",
       "episode": "152",
-      "title": "Mystery of the Dark World",
       "files": [
         {
           "name": "HD-1",
@@ -3980,8 +4020,8 @@
       ]
     },
     {
+      "title": "Episode 153",
       "episode": "153",
-      "title": "The End, the Beginning",
       "files": [
         {
           "name": "HD-1",
@@ -4005,5 +4045,9 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "223",
+  "releaseDate": "1986-02-26",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }
