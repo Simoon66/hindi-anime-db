@@ -1,12 +1,12 @@
 {
   "title": "Shangri-La Frontier",
-  "synopsis": " \"When was the last time I played a game that wasn't crap?\" This is a world in the near future where games that use display screens are classified as retro. Anything that can't keep up with state-of-the-art VR technology is called a \"crap game,\" and you see a large number of crap games coming out. Those who devote their lives to clearing these games are called \"crap-game hunters,\" and Rakuro Hizutome is one of them. The game he's chosen to tackle next is Shangri-La Frontier, a \"god-tier game\" that has a total of thirty million players. Online friends... An expansive world... Encounters with rivals... These are changing Rakuro and all the other players' fates! The best game adventure tale by the strongest \"crap game\" player begins now!\n\n(Source: Crunchyroll)",
+  "synopsis": "\"When was the last time I played a game that wasn't crap?\" This is a world in the near future where games that use display screens are classified as retro. Anything that can't keep up with state-of-the-art VR technology is called a \"crap game,\" and you see a large number of crap games coming out. Those who devote their lives to clearing these games are called \"crap-game hunters,\" and Rakuro Hizutome is one of them. The game he's chosen to tackle next is Shangri-La Frontier, a \"god-tier game\" that has a total of thirty million players. Online friends... An expansive world... Encounters with rivals... These are changing Rakuro and all the other players' fates! The best game adventure tale by the strongest \"crap game\" player begins now!\\n\n\\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151970-xtIx3VqEk02X.jpg",
-  "synonym": "Shangri-La Frontier",
-  "native": "シャングリラ・フロンティア",
-  "aired": "10/1/2023",
-  "premiered": "FALL 2023",
-  "duration": "26m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "25",
   "genres": [
     "Action",
@@ -15,20 +15,35 @@
     "Fantasy",
     "Sci-Fi"
   ],
-  "rating": "8.0",
-  "type": "TV",
-  "status": "FINISHED",
+  "rating": "",
+  "type": "TV Series",
+  "status": "Completed",
   "country": "JP",
-  "studios": "C2C",
+  "studios": [
+    "C2C"
+  ],
   "producers": [],
-  "seasons": [],
-  "malId": "52347",
-  "streamingId": "151970",
-  "hostUrl": "https://megaplay.buzz/stream/ani",
+  "seasons": [
+    {
+      "title": "[TV Series] Shangri-La Frontier",
+      "link": "/2023/10/151970.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151970-xtIx3VqEk02X.jpg"
+    },
+    {
+      "title": "[ONA] Shangri-La Frontier Mini Anime",
+      "link": "/2023/09/169750.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169750-x2ti7XEH5Ij5.jpg"
+    },
+    {
+      "title": "[TV Series] Shangri-La Frontier Season 2",
+      "link": "/2024/10/176508.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176508-eFad4szofm8d.png"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "What Do You Play Games For?",
       "files": [
         {
           "name": "HD-1",
@@ -53,8 +68,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "A Peculiar One",
       "files": [
         {
           "name": "HD-1",
@@ -79,8 +94,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Black Wolf Nightslayer",
       "files": [
         {
           "name": "HD-1",
@@ -105,8 +120,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "A Trash Game Realignment of Elevated Tastes",
       "files": [
         {
           "name": "HD-1",
@@ -131,8 +146,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Lo, Thou Art Assailed on All Sides",
       "files": [
         {
           "name": "HD-1",
@@ -157,8 +172,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "The Writing Tool Knight-Queen",
       "files": [
         {
           "name": "HD-1",
@@ -183,8 +198,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "Remnant of the Divinity: The Aberrant Loser",
       "files": [
         {
           "name": "HD-1",
@@ -209,8 +224,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "The 300-Limit Pandemonium",
       "files": [
         {
           "name": "HD-1",
@@ -235,8 +250,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "A Dazzling Sea of Trees",
       "files": [
         {
           "name": "HD-1",
@@ -261,8 +276,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Let's Go Tomb Raiding!!",
       "files": [
         {
           "name": "HD-1",
@@ -287,8 +302,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "The Glimmer of Truth",
       "files": [
         {
           "name": "HD-1",
@@ -313,8 +328,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "Regrets Always Lie in the Past",
       "files": [
         {
           "name": "HD-1",
@@ -339,8 +354,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "Only Resentments About the End of Life Remain",
       "files": [
         {
           "name": "HD-1",
@@ -365,8 +380,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "Squish",
       "files": [
         {
           "name": "HD-1",
@@ -391,8 +406,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "Putting Feelings Into a Moment, Part 1",
       "files": [
         {
           "name": "HD-1",
@@ -417,8 +432,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "Putting Feelings Into a Moment, Part 2",
       "files": [
         {
           "name": "HD-1",
@@ -443,8 +458,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "Putting Feelings Into a Moment, Part 3",
       "files": [
         {
           "name": "HD-1",
@@ -469,8 +484,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "Putting Feelings Into a Moment, Part 4",
       "files": [
         {
           "name": "HD-1",
@@ -495,8 +510,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "The World Progresses, the Heroes Are Revealed",
       "files": [
         {
           "name": "HD-1",
@@ -521,8 +536,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "Current Situations and Next Steps",
       "files": [
         {
           "name": "HD-1",
@@ -547,8 +562,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "Errands, Cultivation, and Game Progress",
       "files": [
         {
           "name": "HD-1",
@@ -573,8 +588,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "The Walking Air Purifier",
       "files": [
         {
           "name": "HD-1",
@@ -599,8 +614,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "Bird with Rabbits vs. Skeletal Choir",
       "files": [
         {
           "name": "HD-1",
@@ -625,8 +640,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "Rare Items, Worth More Than Life Itself",
       "files": [
         {
           "name": "HD-1",
@@ -651,8 +666,8 @@
       ]
     },
     {
+      "title": "Episode 25",
       "episode": "25",
-      "title": "Those Who Illuminate the World's Darkness",
       "files": [
         {
           "name": "HD-1",
@@ -676,5 +691,9 @@
         }
       ]
     }
-  ]
+  ],
+  "streamingId": "151970",
+  "releaseDate": "2023-10-01",
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }
