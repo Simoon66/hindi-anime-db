@@ -1,12 +1,12 @@
 {
   "title": "Dragon Ball Super",
-  "synopsis": "After 18 years, we have the newest Dragon Ball story from creator Akira Toriyama. With Majin Buu defeated, Goku has taken a completely new role as...a radish farmer?! With Earth at peace, our heroes have settled into normal lives. But they can’t get too comfortable. Far away, the powerful God of Destruction, Beerus, awakens to a prophecy revealing his demise at the hands of an even more formidable being. When his search for the Saiyan God brings him to Earth, can Goku and his friends take on their strongest foe yet?\n\n\n\n(Source: Crunchyroll)",
+  "synopsis": "After 18 years, we have the newest Dragon Ball story from creator Akira Toriyama. With Majin Buu defeated, Goku has taken a completely new role as...a radish farmer?! With Earth at peace, our heroes have settled into normal lives. But they can’t get too comfortable. Far away, the powerful God of Destruction, Beerus, awakens to a prophecy revealing his demise at the hands of an even more formidable being. When his search for the Saiyan God brings him to Earth, can Goku and his friends take on their strongest foe yet?\\n\n\\n\n(Source: Crunchyroll)",
   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21175-EH06qlfF8TnB.jpg",
-  "synonym": "Dragon Ball Super",
-  "native": "ドラゴンボール超",
-  "aired": "07/05/2015",
-  "premiered": "SUMMER 2015",
-  "duration": "24m",
+  "synonym": "",
+  "native": "",
+  "aired": "",
+  "premiered": "",
+  "duration": "",
   "episodesCount": "131",
   "genres": [
     "Action",
@@ -15,19 +15,70 @@
     "Fantasy",
     "Sci-Fi"
   ],
-  "rating": "7.3",
-  "type": "TV",
+  "rating": "",
+  "type": "TV Series",
   "status": "Completed",
   "country": "JP",
   "studios": [
     "Toei Animation"
   ],
   "producers": [],
-  "seasons": [],
+  "seasons": [
+    {
+      "title": "[TV Series] Dragon Ball Super",
+      "link": "/2015/07/21175.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21175-EH06qlfF8TnB.jpg"
+    },
+    {
+      "title": "[TV Series] Dragon Ball Z Kai: The Final Chapters",
+      "link": "/2014/04/20635.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20635-gUYy4KZfYRb0.jpg"
+    },
+    {
+      "title": "[TV Series] Dragon Ball Z",
+      "link": "/1989/04/813.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx813-ZhnFNOeCU5dQ.png"
+    },
+    {
+      "title": "[ONA] Super Dragon Ball Heroes",
+      "link": "/2018/07/102352.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b102352-iTBUsIV9x7KH.jpg"
+    },
+    {
+      "title": "[Movie] Dragon Ball Z: Resurrection 'F'",
+      "link": "/2015/04/20778.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20778-HYEes09iv8fJ.jpg"
+    },
+    {
+      "title": "[Movie] Dragon Ball Z: Battle of Gods",
+      "link": "/2013/03/14837.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14837.jpg"
+    },
+    {
+      "title": "[Movie] Dragon Ball Super: Broly",
+      "link": "/2018/12/101302.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101302-7L0lcwYeFQQM.jpg"
+    },
+    {
+      "title": "[Special] Dragon Ball Z: The Real 4-D at Super Tenkaichi Budokai",
+      "link": "/2017/06/177442.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b177442-pHt6vciVeFxR.jpg"
+    },
+    {
+      "title": "[TV Series] Dragon Ball DAIMA",
+      "link": "/2024/10/170083.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170083-GTwRrhTApcLR.png"
+    },
+    {
+      "title": "[TV Series] Dragon Ball Super: Beerus",
+      "link": "/2026/10/206814.html",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206814-PVVzRbf1IQpe.jpg"
+    }
+  ],
   "episodes": [
     {
+      "title": "Episode 1",
       "episode": "1",
-      "title": "The World Peace Prize. Who's Getting the 100 Million Zeni?!",
       "files": [
         {
           "name": "HD-1",
@@ -52,8 +103,8 @@
       ]
     },
     {
+      "title": "Episode 2",
       "episode": "2",
-      "title": "To the Promised Vacation! Vegeta Goes on a Family Trip?!",
       "files": [
         {
           "name": "HD-1",
@@ -78,8 +129,8 @@
       ]
     },
     {
+      "title": "Episode 3",
       "episode": "3",
-      "title": "Where Does the Dream Continue?! Find Super Saiyan God!",
       "files": [
         {
           "name": "HD-1",
@@ -104,8 +155,8 @@
       ]
     },
     {
+      "title": "Episode 4",
       "episode": "4",
-      "title": "Aim for the Dragon Balls! Pilaf Gang's Great Strategy!",
       "files": [
         {
           "name": "HD-1",
@@ -130,8 +181,8 @@
       ]
     },
     {
+      "title": "Episode 5",
       "episode": "5",
-      "title": "Decisive Battle on Kai's Planet! Goku vs. God of Destruction Beerus",
       "files": [
         {
           "name": "HD-1",
@@ -156,8 +207,8 @@
       ]
     },
     {
+      "title": "Episode 6",
       "episode": "6",
-      "title": "Don't Anger the God of Destruction! The Heart Pounding Birthday Party",
       "files": [
         {
           "name": "HD-1",
@@ -182,8 +233,8 @@
       ]
     },
     {
+      "title": "Episode 7",
       "episode": "7",
-      "title": "How Dare You Hit My Bulma! Vegeta's Furious Mutation?!",
       "files": [
         {
           "name": "HD-1",
@@ -208,8 +259,8 @@
       ]
     },
     {
+      "title": "Episode 8",
       "episode": "8",
-      "title": "Goku Steps Up! The Last Chance From Beerus-sama?!",
       "files": [
         {
           "name": "HD-1",
@@ -234,8 +285,8 @@
       ]
     },
     {
+      "title": "Episode 9",
       "episode": "9",
-      "title": "Sorry for the Wait, Beerus-sama: The Super Saiyan God is Finally Born!",
       "files": [
         {
           "name": "HD-1",
@@ -260,8 +311,8 @@
       ]
     },
     {
+      "title": "Episode 10",
       "episode": "10",
-      "title": "Show it Goku! The Power of the Super Saiyan God!!",
       "files": [
         {
           "name": "HD-1",
@@ -286,8 +337,8 @@
       ]
     },
     {
+      "title": "Episode 11",
       "episode": "11",
-      "title": "Let's Keep Going, Beerus-sama! The Battle of Gods Continues!",
       "files": [
         {
           "name": "HD-1",
@@ -312,8 +363,8 @@
       ]
     },
     {
+      "title": "Episode 12",
       "episode": "12",
-      "title": "The Universe Crumbles?! Clash! The God of Destruction vs. Super Saiyan God!",
       "files": [
         {
           "name": "HD-1",
@@ -338,8 +389,8 @@
       ]
     },
     {
+      "title": "Episode 13",
       "episode": "13",
-      "title": "Goku, Go Surpass Super Saiyan God!",
       "files": [
         {
           "name": "HD-1",
@@ -364,8 +415,8 @@
       ]
     },
     {
+      "title": "Episode 14",
       "episode": "14",
-      "title": "This Is the Last Bit of my Power! Conclusion to the Battle of Gods!",
       "files": [
         {
           "name": "HD-1",
@@ -390,8 +441,8 @@
       ]
     },
     {
+      "title": "Episode 15",
       "episode": "15",
-      "title": "Make a Miracle, Satan the Hero! A Challenge from Outer Space",
       "files": [
         {
           "name": "HD-1",
@@ -416,8 +467,8 @@
       ]
     },
     {
+      "title": "Episode 16",
       "episode": "16",
-      "title": "Vegeta Becomes a Pupil?! Take Down Whis!",
       "files": [
         {
           "name": "HD-1",
@@ -442,8 +493,8 @@
       ]
     },
     {
+      "title": "Episode 17",
       "episode": "17",
-      "title": "Pan is Born! And Goku Goes Off on a Training Journey!?",
       "files": [
         {
           "name": "HD-1",
@@ -468,8 +519,8 @@
       ]
     },
     {
+      "title": "Episode 18",
       "episode": "18",
-      "title": "I've Come Too! Training Begins on Beerus' Planet!",
       "files": [
         {
           "name": "HD-1",
@@ -494,8 +545,8 @@
       ]
     },
     {
+      "title": "Episode 19",
       "episode": "19",
-      "title": "Despair Once More! Revival of the Evil Emperor, Freeza!",
       "files": [
         {
           "name": "HD-1",
@@ -520,8 +571,8 @@
       ]
     },
     {
+      "title": "Episode 20",
       "episode": "20",
-      "title": "A Warning From Jaco! Freeza and 1,000 Soldiers are Fast Approaching!",
       "files": [
         {
           "name": "HD-1",
@@ -546,8 +597,8 @@
       ]
     },
     {
+      "title": "Episode 21",
       "episode": "21",
-      "title": "The Revenge Begins! The Vicious Freeza Army Attack Gohan!",
       "files": [
         {
           "name": "HD-1",
@@ -572,8 +623,8 @@
       ]
     },
     {
+      "title": "Episode 22",
       "episode": "22",
-      "title": "Change! An Impossible Revival! The Name's Ginyu!!",
       "files": [
         {
           "name": "HD-1",
@@ -598,8 +649,8 @@
       ]
     },
     {
+      "title": "Episode 23",
       "episode": "23",
-      "title": "The Earth and Gohan in Dire Peril! Come Quick, Son Goku!",
       "files": [
         {
           "name": "HD-1",
@@ -624,8 +675,8 @@
       ]
     },
     {
+      "title": "Episode 24",
       "episode": "24",
-      "title": "Clash! Freeza vs Son Goku: This Is the Result of My Training!",
       "files": [
         {
           "name": "HD-1",
@@ -650,8 +701,8 @@
       ]
     },
     {
+      "title": "Episode 25",
       "episode": "25",
-      "title": "Battle to the Limits! The Vengeful Golden Freeza",
       "files": [
         {
           "name": "HD-1",
@@ -676,8 +727,8 @@
       ]
     },
     {
+      "title": "Episode 26",
       "episode": "26",
-      "title": "A Chance of Victory in a Pinch! It is Time for a Counterattack Son Goku",
       "files": [
         {
           "name": "HD-1",
@@ -702,8 +753,8 @@
       ]
     },
     {
+      "title": "Episode 27",
       "episode": "27",
-      "title": "Earth Explodes?! The Decisive Kamehameha Wave",
       "files": [
         {
           "name": "HD-1",
@@ -728,8 +779,8 @@
       ]
     },
     {
+      "title": "Episode 28",
       "episode": "28",
-      "title": "The 6th Universe's God of Destruction: His Name's Champa",
       "files": [
         {
           "name": "HD-1",
@@ -754,8 +805,8 @@
       ]
     },
     {
+      "title": "Episode 29",
       "episode": "29",
-      "title": "It Is Settled: We Are Holding a Martial Arts Match! The Team Captain Is Even Stronger Than Goku",
       "files": [
         {
           "name": "HD-1",
@@ -780,8 +831,8 @@
       ]
     },
     {
+      "title": "Episode 30",
       "episode": "30",
-      "title": "Training for the \"Martial Arts Tournament\": Who Are the Two Remaining Members!?",
       "files": [
         {
           "name": "HD-1",
@@ -806,8 +857,8 @@
       ]
     },
     {
+      "title": "Episode 31",
       "episode": "31",
-      "title": "To Zuno-sama! Ask the Whereabouts of the Super Dragon Balls!",
       "files": [
         {
           "name": "HD-1",
@@ -832,8 +883,8 @@
       ]
     },
     {
+      "title": "Episode 32",
       "episode": "32",
-      "title": "The Match Begins! Everyone, Head to the Nameless Planet!",
       "files": [
         {
           "name": "HD-1",
@@ -858,8 +909,8 @@
       ]
     },
     {
+      "title": "Episode 33",
       "episode": "33",
-      "title": "Be Surprised, Universe 6! This Is Super Saiyan: Son Goku!",
       "files": [
         {
           "name": "HD-1",
@@ -884,8 +935,8 @@
       ]
     },
     {
+      "title": "Episode 34",
       "episode": "34",
-      "title": "Piccolo vs Frost! Bet Everything on the Makankosappo!",
       "files": [
         {
           "name": "HD-1",
@@ -910,8 +961,8 @@
       ]
     },
     {
+      "title": "Episode 35",
       "episode": "35",
-      "title": "Change Your Fury Into Power! Vegeta's All-Out Battle",
       "files": [
         {
           "name": "HD-1",
@@ -936,8 +987,8 @@
       ]
     },
     {
+      "title": "Episode 36",
       "episode": "36",
-      "title": "An Unexpected Struggle! Vegeta's Explosion of Anger",
       "files": [
         {
           "name": "HD-1",
@@ -962,8 +1013,8 @@
       ]
     },
     {
+      "title": "Episode 37",
       "episode": "37",
-      "title": "Don't Forget Your Saiyan Pride! Vegeta vs the Saiyan from Universe 6",
       "files": [
         {
           "name": "HD-1",
@@ -988,8 +1039,8 @@
       ]
     },
     {
+      "title": "Episode 38",
       "episode": "38",
-      "title": "The Ultimate Warrior of Universe 6! Assassin Hit Appears!!",
       "files": [
         {
           "name": "HD-1",
@@ -1014,8 +1065,8 @@
       ]
     },
     {
+      "title": "Episode 39",
       "episode": "39",
-      "title": "The Advanced \"Time-Skip\" Fights Back?! Will It Come Forth? Goku's New Technique!",
       "files": [
         {
           "name": "HD-1",
@@ -1040,8 +1091,8 @@
       ]
     },
     {
+      "title": "Episode 40",
       "episode": "40",
-      "title": "At Last, It Comes to an End! Is the Winner Beerus? Or is it Champa?",
       "files": [
         {
           "name": "HD-1",
@@ -1066,8 +1117,8 @@
       ]
     },
     {
+      "title": "Episode 41",
       "episode": "41",
-      "title": "Come, God of Dragons - And Pretty Please Grant My Wish!",
       "files": [
         {
           "name": "HD-1",
@@ -1092,8 +1143,8 @@
       ]
     },
     {
+      "title": "Episode 42",
       "episode": "42",
-      "title": "Trouble at the Victory Celebration! Showdown at Last?! Monaka vs. Son Goku",
       "files": [
         {
           "name": "HD-1",
@@ -1118,8 +1169,8 @@
       ]
     },
     {
+      "title": "Episode 43",
       "episode": "43",
-      "title": "Goku's \"Ki\" is Out of Control?! Looking After Pan is A Lot of Trouble",
       "files": [
         {
           "name": "HD-1",
@@ -1144,8 +1195,8 @@
       ]
     },
     {
+      "title": "Episode 44",
       "episode": "44",
-      "title": "Seal of Planet Potofu - Secret of the Superhuman Water is Unleashed",
       "files": [
         {
           "name": "HD-1",
@@ -1170,8 +1221,8 @@
       ]
     },
     {
+      "title": "Episode 45",
       "episode": "45",
-      "title": "Vegeta Disappears?! The Threat of Duplicated Vegeta!",
       "files": [
         {
           "name": "HD-1",
@@ -1196,8 +1247,8 @@
       ]
     },
     {
+      "title": "Episode 46",
       "episode": "46",
-      "title": "Goku vs. Duplicated Vegeta! Who's Gonna Win?!",
       "files": [
         {
           "name": "HD-1",
@@ -1222,8 +1273,8 @@
       ]
     },
     {
+      "title": "Episode 47",
       "episode": "47",
-      "title": "An SOS from the Future! A Dark New Enemy Emerges!!",
       "files": [
         {
           "name": "HD-1",
@@ -1248,8 +1299,8 @@
       ]
     },
     {
+      "title": "Episode 48",
       "episode": "48",
-      "title": "Hope!! Once More Awaken in the Present, Trunks",
       "files": [
         {
           "name": "HD-1",
@@ -1274,8 +1325,8 @@
       ]
     },
     {
+      "title": "Episode 49",
       "episode": "49",
-      "title": "A Message from the Future - Goku Black Strikes!",
       "files": [
         {
           "name": "HD-1",
@@ -1300,8 +1351,8 @@
       ]
     },
     {
+      "title": "Episode 50",
       "episode": "50",
-      "title": "Goku Vs Black! The Closed Path to the Future",
       "files": [
         {
           "name": "HD-1",
@@ -1326,8 +1377,8 @@
       ]
     },
     {
+      "title": "Episode 51",
       "episode": "51",
-      "title": "Feelings That Travel Beyond Time - Trunks and Mai",
       "files": [
         {
           "name": "HD-1",
@@ -1352,8 +1403,8 @@
       ]
     },
     {
+      "title": "Episode 52",
       "episode": "52",
-      "title": "Teacher and Student Reunited - Son Gohan and \"Future\" Trunks",
       "files": [
         {
           "name": "HD-1",
@@ -1378,8 +1429,8 @@
       ]
     },
     {
+      "title": "Episode 53",
       "episode": "53",
-      "title": "Uncover Black's Identity! To the Sacred World of the Kais!",
       "files": [
         {
           "name": "HD-1",
@@ -1404,8 +1455,8 @@
       ]
     },
     {
+      "title": "Episode 54",
       "episode": "54",
-      "title": "The One Who Inherits the Saiyan Blood - Trunk's Resolve",
       "files": [
         {
           "name": "HD-1",
@@ -1430,8 +1481,8 @@
       ]
     },
     {
+      "title": "Episode 55",
       "episode": "55",
-      "title": "I Want to See Son Goku - Zen‐Oh Sama's Summoning!",
       "files": [
         {
           "name": "HD-1",
@@ -1456,8 +1507,8 @@
       ]
     },
     {
+      "title": "Episode 56",
       "episode": "56",
-      "title": "Rematch With Goku Black! Super Saiyan Rosé Appears",
       "files": [
         {
           "name": "HD-1",
@@ -1482,8 +1533,8 @@
       ]
     },
     {
+      "title": "Episode 57",
       "episode": "57",
-      "title": "The God With the Immortal Body - Zamasu Descends",
       "files": [
         {
           "name": "HD-1",
@@ -1508,8 +1559,8 @@
       ]
     },
     {
+      "title": "Episode 58",
       "episode": "58",
-      "title": "Zamasu and Black - The Mystery of the Two Deepens",
       "files": [
         {
           "name": "HD-1",
@@ -1534,8 +1585,8 @@
       ]
     },
     {
+      "title": "Episode 59",
       "episode": "59",
-      "title": "Protect Supreme Kai Gowasu - Destroy Zamasu!",
       "files": [
         {
           "name": "HD-1",
@@ -1560,8 +1611,8 @@
       ]
     },
     {
+      "title": "Episode 60",
       "episode": "60",
-      "title": "Back to the Future - Goku Black's Identity Is Revealed!!",
       "files": [
         {
           "name": "HD-1",
@@ -1586,8 +1637,8 @@
       ]
     },
     {
+      "title": "Episode 61",
       "episode": "61",
-      "title": "Zamasu's Ambition - The Awful \"Zero Mortal Plan\" Is Revealed",
       "files": [
         {
           "name": "HD-1",
@@ -1612,8 +1663,8 @@
       ]
     },
     {
+      "title": "Episode 62",
       "episode": "62",
-      "title": "I'll Protect the World! Trunks' Furious Super Power Explodes!!",
       "files": [
         {
           "name": "HD-1",
@@ -1638,8 +1689,8 @@
       ]
     },
     {
+      "title": "Episode 63",
       "episode": "63",
-      "title": "Don't Disrespect Saiyan Cells! Vegeta's Heroic Battle Begins!!",
       "files": [
         {
           "name": "HD-1",
@@ -1664,8 +1715,8 @@
       ]
     },
     {
+      "title": "Episode 64",
       "episode": "64",
-      "title": "Revere Him! Praise Him! Fusion Zamasu's Explosive Birth!!",
       "files": [
         {
           "name": "HD-1",
@@ -1690,8 +1741,8 @@
       ]
     },
     {
+      "title": "Episode 65",
       "episode": "65",
-      "title": "Is This the Final Judgement?! The Ultimate Power of the Absolute God",
       "files": [
         {
           "name": "HD-1",
@@ -1716,8 +1767,8 @@
       ]
     },
     {
+      "title": "Episode 66",
       "episode": "66",
-      "title": "The Climactic Battle! The Miraculous Power of a Relentless Warrior!",
       "files": [
         {
           "name": "HD-1",
@@ -1742,8 +1793,8 @@
       ]
     },
     {
+      "title": "Episode 67",
       "episode": "67",
-      "title": "With New Hope!! In Our Hearts - Farewell, Trunks",
       "files": [
         {
           "name": "HD-1",
@@ -1768,8 +1819,8 @@
       ]
     },
     {
+      "title": "Episode 68",
       "episode": "68",
-      "title": "Come Forth, Shenron! Whose Wish Will Be Granted?!",
       "files": [
         {
           "name": "HD-1",
@@ -1794,8 +1845,8 @@
       ]
     },
     {
+      "title": "Episode 69",
       "episode": "69",
-      "title": "Goku vs Arale! A Ridiculous Battle Will End The Earth?!",
       "files": [
         {
           "name": "HD-1",
@@ -1820,8 +1871,8 @@
       ]
     },
     {
+      "title": "Episode 70",
       "episode": "70",
-      "title": "Champa's Challenge! This Time We Fight With Baseball!",
       "files": [
         {
           "name": "HD-1",
@@ -1846,8 +1897,8 @@
       ]
     },
     {
+      "title": "Episode 71",
       "episode": "71",
-      "title": "The Death of Goku! The Guaranteed Assassination Mission",
       "files": [
         {
           "name": "HD-1",
@@ -1872,8 +1923,8 @@
       ]
     },
     {
+      "title": "Episode 72",
       "episode": "72",
-      "title": "Will There Be A Counterattack?! The Invisible Killing Strike!!",
       "files": [
         {
           "name": "HD-1",
@@ -1898,8 +1949,8 @@
       ]
     },
     {
+      "title": "Episode 73",
       "episode": "73",
-      "title": "Gohan's Misfortune! An Unexpected Great Saiyaman Movie?!",
       "files": [
         {
           "name": "HD-1",
@@ -1924,8 +1975,8 @@
       ]
     },
     {
+      "title": "Episode 74",
       "episode": "74",
-      "title": "For the Ones He Loves! The Unbeatable Great Saiyaman!!",
       "files": [
         {
           "name": "HD-1",
@@ -1950,8 +2001,8 @@
       ]
     },
     {
+      "title": "Episode 75",
       "episode": "75",
-      "title": "Goku and Krillin Back to the Old Training Grounds",
       "files": [
         {
           "name": "HD-1",
@@ -1976,8 +2027,8 @@
       ]
     },
     {
+      "title": "Episode 76",
       "episode": "76",
-      "title": "Defeat These Terrifying Enemies! Krillin's Fighting Spirit Returns!",
       "files": [
         {
           "name": "HD-1",
@@ -2002,8 +2053,8 @@
       ]
     },
     {
+      "title": "Episode 77",
       "episode": "77",
-      "title": "Let's Do It, Zen-Oh Sama! The All-Universe Martial Arts Tournament!!",
       "files": [
         {
           "name": "HD-1",
@@ -2028,8 +2079,8 @@
       ]
     },
     {
+      "title": "Episode 78",
       "episode": "78",
-      "title": "The Gods of Every Universe In Shock?! Losers Erased In The Tournament Of Power",
       "files": [
         {
           "name": "HD-1",
@@ -2054,8 +2105,8 @@
       ]
     },
     {
+      "title": "Episode 79",
       "episode": "79",
-      "title": "Universe 9's Basil The Kicker VS Universe 7's Majin Buu!!",
       "files": [
         {
           "name": "HD-1",
@@ -2080,8 +2131,8 @@
       ]
     },
     {
+      "title": "Episode 80",
       "episode": "80",
-      "title": "Awaken Your Sleeping Battle Spirit! Son Gohan's Fight!!",
       "files": [
         {
           "name": "HD-1",
@@ -2106,8 +2157,8 @@
       ]
     },
     {
+      "title": "Episode 81",
       "episode": "81",
-      "title": "Bergamo The Crusher VS Son Goku! Which One Wields The Limitless Power?!",
       "files": [
         {
           "name": "HD-1",
@@ -2132,8 +2183,8 @@
       ]
     },
     {
+      "title": "Episode 82",
       "episode": "82",
-      "title": "Never Forgive Son Goku! Toppo The Warrior Of Justice Intrudes!!",
       "files": [
         {
           "name": "HD-1",
@@ -2158,8 +2209,8 @@
       ]
     },
     {
+      "title": "Episode 83",
       "episode": "83",
-      "title": "Form the Universe 7 Representing Team! Who are the Strongest Ten?!",
       "files": [
         {
           "name": "HD-1",
@@ -2184,8 +2235,8 @@
       ]
     },
     {
+      "title": "Episode 84",
       "episode": "84",
-      "title": "Son Goku The Recruiter Invites Krillin And No. 18",
       "files": [
         {
           "name": "HD-1",
@@ -2210,8 +2261,8 @@
       ]
     },
     {
+      "title": "Episode 85",
       "episode": "85",
-      "title": "The Universes Begin To Make Their Moves Their Individual Motives",
       "files": [
         {
           "name": "HD-1",
@@ -2236,8 +2287,8 @@
       ]
     },
     {
+      "title": "Episode 86",
       "episode": "86",
-      "title": "Fists Cross For The First Time! Android #17 Vs Son Goku!!",
       "files": [
         {
           "name": "HD-1",
@@ -2262,8 +2313,8 @@
       ]
     },
     {
+      "title": "Episode 87",
       "episode": "87",
-      "title": "Hunt The Poachers! Goku And No. 17's United Front!!",
       "files": [
         {
           "name": "HD-1",
@@ -2288,8 +2339,8 @@
       ]
     },
     {
+      "title": "Episode 88",
       "episode": "88",
-      "title": "Gohan And Piccolo Teacher And Pupil Clash In Max Training!",
       "files": [
         {
           "name": "HD-1",
@@ -2314,8 +2365,8 @@
       ]
     },
     {
+      "title": "Episode 89",
       "episode": "89",
-      "title": "An Unknown Beauty Appears! The Tenshin-Style Dojo's Mystery!?",
       "files": [
         {
           "name": "HD-1",
@@ -2340,8 +2391,8 @@
       ]
     },
     {
+      "title": "Episode 90",
       "episode": "90",
-      "title": "See The Wall That Must Be Passed! Goku vs Gohan",
       "files": [
         {
           "name": "HD-1",
@@ -2366,8 +2417,8 @@
       ]
     },
     {
+      "title": "Episode 91",
       "episode": "91",
-      "title": "Which Universe Will Survive?! The Strongest Warriors Are Gathering!!",
       "files": [
         {
           "name": "HD-1",
@@ -2392,8 +2443,8 @@
       ]
     },
     {
+      "title": "Episode 92",
       "episode": "92",
-      "title": "Emergency Development! The Incomplete Ten Members!!",
       "files": [
         {
           "name": "HD-1",
@@ -2418,8 +2469,8 @@
       ]
     },
     {
+      "title": "Episode 93",
       "episode": "93",
-      "title": "You're The Tenth Warrior! Goku Goes To See Freeza!!",
       "files": [
         {
           "name": "HD-1",
@@ -2444,8 +2495,8 @@
       ]
     },
     {
+      "title": "Episode 94",
       "episode": "94",
-      "title": "The Emperor of Evil Returns! A Reception of Mysterious Assassins?!",
       "files": [
         {
           "name": "HD-1",
@@ -2470,8 +2521,8 @@
       ]
     },
     {
+      "title": "Episode 95",
       "episode": "95",
-      "title": "The Worst! The Most evil! Freeza's Rampage!!",
       "files": [
         {
           "name": "HD-1",
@@ -2496,8 +2547,8 @@
       ]
     },
     {
+      "title": "Episode 96",
       "episode": "96",
-      "title": "The Time Is Here! To The World Of Void For The Fate Of The Universe!!",
       "files": [
         {
           "name": "HD-1",
@@ -2522,8 +2573,8 @@
       ]
     },
     {
+      "title": "Episode 97",
       "episode": "97",
-      "title": "Survive! The \"Tournament of Power\" Begins at Last!!",
       "files": [
         {
           "name": "HD-1",
@@ -2548,8 +2599,8 @@
       ]
     },
     {
+      "title": "Episode 98",
       "episode": "98",
-      "title": "Oh, Uncertainty! A Universe Despairs!!",
       "files": [
         {
           "name": "HD-1",
@@ -2574,8 +2625,8 @@
       ]
     },
     {
+      "title": "Episode 99",
       "episode": "99",
-      "title": "Show Them! Krillin's True Power!!",
       "files": [
         {
           "name": "HD-1",
@@ -2600,8 +2651,8 @@
       ]
     },
     {
+      "title": "Episode 100",
       "episode": "100",
-      "title": "Out Of Control! The Savage Berserker Awakens!!",
       "files": [
         {
           "name": "HD-1",
@@ -2626,8 +2677,8 @@
       ]
     },
     {
+      "title": "Episode 101",
       "episode": "101",
-      "title": "The Impending Warriors of Justice! The Pride Troopers!!",
       "files": [
         {
           "name": "HD-1",
@@ -2652,8 +2703,8 @@
       ]
     },
     {
+      "title": "Episode 102",
       "episode": "102",
-      "title": "The Power of Love Explodes?! Universe 2's Little Witch Warriors!!",
       "files": [
         {
           "name": "HD-1",
@@ -2678,8 +2729,8 @@
       ]
     },
     {
+      "title": "Episode 103",
       "episode": "103",
-      "title": "Gohan, Show No Mercy! Showdown With Universe 10!!",
       "files": [
         {
           "name": "HD-1",
@@ -2704,8 +2755,8 @@
       ]
     },
     {
+      "title": "Episode 104",
       "episode": "104",
-      "title": "The Ultimate High Speed Battle Begins! Goku and Hit Join Forces!!",
       "files": [
         {
           "name": "HD-1",
@@ -2730,8 +2781,8 @@
       ]
     },
     {
+      "title": "Episode 105",
       "episode": "105",
-      "title": "A Desperate Battle! Master Roshi's Sacrifice!!",
       "files": [
         {
           "name": "HD-1",
@@ -2756,8 +2807,8 @@
       ]
     },
     {
+      "title": "Episode 106",
       "episode": "106",
-      "title": "Find Him! Death Match With An Invisible Attacker!!",
       "files": [
         {
           "name": "HD-1",
@@ -2782,8 +2833,8 @@
       ]
     },
     {
+      "title": "Episode 107",
       "episode": "107",
-      "title": "Revenge \"F\" The Cunning Trap?!",
       "files": [
         {
           "name": "HD-1",
@@ -2808,8 +2859,8 @@
       ]
     },
     {
+      "title": "Episode 108",
       "episode": "108",
-      "title": "Freeza and Frost! Conjoined Malice?!",
       "files": [
         {
           "name": "HD-1",
@@ -2834,8 +2885,8 @@
       ]
     },
     {
+      "title": "Episode 109",
       "episode": "109",
-      "title": "The Ultimate Enemy Approaches Goku! Now, Let Loose! The Killer Spirit Bomb",
       "files": [
         {
           "name": "HD-1",
@@ -2860,8 +2911,8 @@
       ]
     },
     {
+      "title": "Episode 110",
       "episode": "110",
-      "title": "Son Goku Wakes! New Level of the Awakened!!",
       "files": [
         {
           "name": "HD-1",
@@ -2886,8 +2937,8 @@
       ]
     },
     {
+      "title": "Episode 111",
       "episode": "111",
-      "title": "The Surreal Supreme Battle! Hit vs Jiren!!",
       "files": [
         {
           "name": "HD-1",
@@ -2912,8 +2963,8 @@
       ]
     },
     {
+      "title": "Episode 112",
       "episode": "112",
-      "title": "A Saiyan's Vow! Vegeta's Resolution!!",
       "files": [
         {
           "name": "HD-1",
@@ -2938,8 +2989,8 @@
       ]
     },
     {
+      "title": "Episode 113",
       "episode": "113",
-      "title": "With Great Joy! The Repeat Battle-Crazy Saiyan Fight!!",
       "files": [
         {
           "name": "HD-1",
@@ -2964,8 +3015,8 @@
       ]
     },
     {
+      "title": "Episode 114",
       "episode": "114",
-      "title": "Intimidating Passion! The Birth of a New Super Warrior!!",
       "files": [
         {
           "name": "HD-1",
@@ -2990,8 +3041,8 @@
       ]
     },
     {
+      "title": "Episode 115",
       "episode": "115",
-      "title": "Goku VS Kefla! Super Saiyan Blue Defeated?!",
       "files": [
         {
           "name": "HD-1",
@@ -3016,8 +3067,8 @@
       ]
     },
     {
+      "title": "Episode 116",
       "episode": "116",
-      "title": "The Sign of a Comeback! Ultra Instinct's Huge Explosion!!",
       "files": [
         {
           "name": "HD-1",
@@ -3042,8 +3093,8 @@
       ]
     },
     {
+      "title": "Episode 117",
       "episode": "117",
-      "title": "Showdown of Love! Androids VS Universe 2!!",
       "files": [
         {
           "name": "HD-1",
@@ -3068,8 +3119,8 @@
       ]
     },
     {
+      "title": "Episode 118",
       "episode": "118",
-      "title": "Accelerated Tragedy - Vanishing Universes",
       "files": [
         {
           "name": "HD-1",
@@ -3094,8 +3145,8 @@
       ]
     },
     {
+      "title": "Episode 119",
       "episode": "119",
-      "title": "Unavoidable?! The Ferocity of a Stealth Attack!",
       "files": [
         {
           "name": "HD-1",
@@ -3120,8 +3171,8 @@
       ]
     },
     {
+      "title": "Episode 120",
       "episode": "120",
-      "title": "The Perfect Survival Tactic! Universe 3's Menacing Assassin!!",
       "files": [
         {
           "name": "HD-1",
@@ -3146,8 +3197,8 @@
       ]
     },
     {
+      "title": "Episode 121",
       "episode": "121",
-      "title": "All-Out War! The Ultimate Quadruple Merge vs Universe 7's Full-Scale Attack!!",
       "files": [
         {
           "name": "HD-1",
@@ -3172,8 +3223,8 @@
       ]
     },
     {
+      "title": "Episode 122",
       "episode": "122",
-      "title": "With His Pride on the Line! Vegeta's Challenge to Be the Strongest!!",
       "files": [
         {
           "name": "HD-1",
@@ -3198,8 +3249,8 @@
       ]
     },
     {
+      "title": "Episode 123",
       "episode": "123",
-      "title": "Body and Soul, Full Power Release! Goku and Vegeta!!",
       "files": [
         {
           "name": "HD-1",
@@ -3224,8 +3275,8 @@
       ]
     },
     {
+      "title": "Episode 124",
       "episode": "124",
-      "title": "The Fiercely Overwhelming Assault! Gohan's Last Stand!!",
       "files": [
         {
           "name": "HD-1",
@@ -3250,8 +3301,8 @@
       ]
     },
     {
+      "title": "Episode 125",
       "episode": "125",
-      "title": "With Imposing Presence! God of Destruction Toppo Descends!!",
       "files": [
         {
           "name": "HD-1",
@@ -3276,8 +3327,8 @@
       ]
     },
     {
+      "title": "Episode 126",
       "episode": "126",
-      "title": "Surpass Even A God! Vegeta's Desperate Blow!!",
       "files": [
         {
           "name": "HD-1",
@@ -3302,8 +3353,8 @@
       ]
     },
     {
+      "title": "Episode 127",
       "episode": "127",
-      "title": "The Approaching Wall! The Final Barrier Of Hope!!",
       "files": [
         {
           "name": "HD-1",
@@ -3328,8 +3379,8 @@
       ]
     },
     {
+      "title": "Episode 128",
       "episode": "128",
-      "title": "Noble Pride To The End! Vegeta Falls!!",
       "files": [
         {
           "name": "HD-1",
@@ -3354,8 +3405,8 @@
       ]
     },
     {
+      "title": "Episode 129",
       "episode": "129",
-      "title": "Limits Super Surpassed! Ultra Instinct Mastered!!",
       "files": [
         {
           "name": "HD-1",
@@ -3380,8 +3431,8 @@
       ]
     },
     {
+      "title": "Episode 130",
       "episode": "130",
-      "title": "The Greatest Showdown of all Time! The Ultimate Survival Battle!!",
       "files": [
         {
           "name": "HD-1",
@@ -3406,8 +3457,8 @@
       ]
     },
     {
+      "title": "Episode 131",
       "episode": "131",
-      "title": "The Miraculous Conclusion! Farewell, Goku! Until We Meet Again!!",
       "files": [
         {
           "name": "HD-1",
@@ -3433,8 +3484,7 @@
     }
   ],
   "streamingId": "21175",
-  "hostUrl": "https://hindianimedb.simoonabdulla.workers.dev/",
   "releaseDate": "2015-07-05",
-  "malId": "30694",
-  "_forceSyncTime": 1778768578088
+  "malId": "",
+  "hostUrl": "https://megaplay.buzz/stream/ani"
 }
